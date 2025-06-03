@@ -4,11 +4,11 @@
         <Container name="Backpacks">
             <Key ID="STR_ls_characters_hawkbat">
                 <English>Steerable 'Hawkbat' Parachute</English>
-                <French>Parachute 'Hawkbat'</French>
+                <French>Parachute dirigeable 'Hawkbat'</French>
             </Key>
             <Key ID="STR_ls_characters_hawkbat_reserve">
                 <English>Steerable 'Hawkbat' Reserve Parachute</English>
-                <French>Parachute de réserve 'Hawkbat'</French>
+                <French>Parachute de réserve dirigeable 'Hawkbat'</French>
             </Key>
         </Container>
         <Container name="Equipment">
