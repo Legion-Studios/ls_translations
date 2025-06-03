@@ -11,6 +11,7 @@
         </Key>
         <Key ID="STR_ls_activecamo_coefficient">
             <English>Camoflauge Coefficient</English>
+        </Key>
     </Package>
     <Package name="characters">
         <Container name="Backpacks">
