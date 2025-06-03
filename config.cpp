@@ -3,7 +3,10 @@
 class CfgPatches {
     class ADDON {
         author = AUTHOR;
-        authors[] = {"You"};
+        authors[] = {
+            "Cannon",
+            "Bragg"
+        };
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
