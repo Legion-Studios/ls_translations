@@ -9,5 +9,80 @@
             <English>Deactivate Active Camo</English>
             <French>Désactiver le camouflage actif</French>
         </Key>
+        <Key ID="STR_ls_activecamo_coefficient">
+            <English>Camoflauge Coefficient</English>
+    </Package>
+    <Package name="characters">
+        <Container name="Backpacks">
+            <Key ID="STR_ls_characters_hawkbat">
+                <English>Steerable 'Hawkbat' Parachute</English>
+            </Key>
+            <Key ID="STR_ls_characters_hawkbat_reserve">
+                <English>Steerable 'Hawkbat' Reserve Parachute</English>
+            </Key>
+        </Container>
+        <Container name="Equipment">
+            <Key ID="STR_ls_characters_hood">
+                <English>Hood</English>
+            </Key>
+            <Key ID="STR_ls_characters_scarf">
+                <English>Scarf</English>
+            </Key>
+            <Key ID="STR_ls_characters_scarf_blue">
+                <English>Scarf (Blue)</English>
+            </Key>
+            <Key ID="STR_ls_characters_scarf_green">
+                <English>Scarf (Green)</English>
+            </Key>
+            <Key ID="STR_ls_characters_scarf_orange">
+                <English>Scarf (Orange)</English>
+            </Key>
+            <Key ID="STR_ls_characters_scarf_red">
+                <English>Scarf (Red)</English>
+            </Key>
+            <Key ID="STR_ls_characters_scarf_stewart">
+                <English>Scarf (Stewart)</English>
+            </Key>
+            <Key ID="STR_ls_characters_scarf_white">
+                <English>Scarf (White)</English>
+            </Key>
+        </Container>
+        <Container name="helmets">
+            <Key ID="STR_ls_characters_gunslinger">
+                <English>Gunslinger Hat</English>
+            </Key>
+        </Container>
+        <Container name="Vests">
+            <Key ID="STR_ls_characters_poncho">
+                <English>Poncho</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_partnerBlack">
+                <English>Poncho (Partner, Black)</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_partnerWhite">
+                <English>Poncho (Partner, White)</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_peaceBlue">
+                <English>Poncho (Peace, Blue)</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_peaceGreen">
+                <English>Poncho (Peace, Green)</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_peaceRed">
+                <English>Poncho (Peace, Red)</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_sidestripeBlue">
+                <English>Poncho (Sidestripe, Blue)</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_sidestripeBrown">
+                <English>Poncho (Sidestripe, Brown)</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_sidestripeRed">
+                <English>Poncho (Sidestripe, Red)</English>
+            </Key>
+            <Key ID="STR_ls_characters_poncho_sidestripeWhite">
+                <English>Poncho (Sidestripe, White)</English>
+            </Key>
+        </Container>
     </Package>
 </Project>
