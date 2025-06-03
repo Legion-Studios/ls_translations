@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project name="Legion Studios">
-    <Package name="activeCamo">
-        <Key ID="STR_ls_activecamo_activate">
-            <English>Activate Active Camo</English>
-            <French>Activer le camouflage actif</French>
-        </Key>
-        <Key ID="STR_ls_activecamo_deactivate">
-            <English>Deactivate Active Camo</English>
-            <French>Désactiver le camouflage actif</French>
-        </Key>
-        <Key ID="STR_ls_activecamo_coefficient">
-            <English>Camoflauge Coefficient</English>
-        </Key>
-    </Package>
     <Package name="characters">
         <Container name="Backpacks">
             <Key ID="STR_ls_characters_hawkbat">
