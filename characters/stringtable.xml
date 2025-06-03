@@ -1,88 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project name="Legion Studios">
-    <Package name="activeCamo">
-        <Key ID="STR_ls_activecamo_activate">
-            <English>Activate Active Camo</English>
-            <French>Activer le camouflage actif</French>
-        </Key>
-        <Key ID="STR_ls_activecamo_deactivate">
-            <English>Deactivate Active Camo</English>
-            <French>Désactiver le camouflage actif</French>
-        </Key>
-        <Key ID="STR_ls_activecamo_coefficient">
-            <English>Camoflauge Coefficient</English>
-        </Key>
-    </Package>
     <Package name="characters">
         <Container name="Backpacks">
             <Key ID="STR_ls_characters_hawkbat">
                 <English>Steerable 'Hawkbat' Parachute</English>
+                <French>Parachute dirigeable 'Hawkbat'</French>
             </Key>
             <Key ID="STR_ls_characters_hawkbat_reserve">
                 <English>Steerable 'Hawkbat' Reserve Parachute</English>
+                <French>Parachute de réserve dirigeable 'Hawkbat'</French>
             </Key>
         </Container>
         <Container name="Equipment">
             <Key ID="STR_ls_characters_hood">
                 <English>Hood</English>
+                <French>Capuche</French>
             </Key>
             <Key ID="STR_ls_characters_scarf">
                 <English>Scarf</English>
+                <French>Écharpe</French>
             </Key>
             <Key ID="STR_ls_characters_scarf_blue">
                 <English>Scarf (Blue)</English>
+                <French>Écharpe (Bleue)</French>
             </Key>
             <Key ID="STR_ls_characters_scarf_green">
                 <English>Scarf (Green)</English>
+                <French>Écharpe (Verte)</French>
             </Key>
             <Key ID="STR_ls_characters_scarf_orange">
                 <English>Scarf (Orange)</English>
+                <French>Écharpe (Orange)</French>
             </Key>
             <Key ID="STR_ls_characters_scarf_red">
                 <English>Scarf (Red)</English>
+                <French>Écharpe (Rouge)</French>
             </Key>
             <Key ID="STR_ls_characters_scarf_stewart">
                 <English>Scarf (Stewart)</English>
+                <French>Écharpe (Stewart)</French>
             </Key>
             <Key ID="STR_ls_characters_scarf_white">
                 <English>Scarf (White)</English>
+                <French>Écharpe (Blanche)</French>
             </Key>
         </Container>
         <Container name="helmets">
             <Key ID="STR_ls_characters_gunslinger">
                 <English>Gunslinger Hat</English>
+                <French>Chapeau de tireur d'élite</French>
             </Key>
         </Container>
         <Container name="Vests">
             <Key ID="STR_ls_characters_poncho">
                 <English>Poncho</English>
+                <French>Poncho</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_partnerBlack">
                 <English>Poncho (Partner, Black)</English>
+                <French>Poncho (Partenaire, Noir)</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_partnerWhite">
                 <English>Poncho (Partner, White)</English>
+                <French>Poncho (Partenaire, Blanc)</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_peaceBlue">
                 <English>Poncho (Peace, Blue)</English>
+                <French>Poncho (Paix, Bleu)</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_peaceGreen">
                 <English>Poncho (Peace, Green)</English>
+                <French>Poncho (Paix, Vert)</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_peaceRed">
                 <English>Poncho (Peace, Red)</English>
+                <French>Poncho (Paix, Rouge)</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_sidestripeBlue">
                 <English>Poncho (Sidestripe, Blue)</English>
+                <French>Poncho (Rayure, Bleue)</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_sidestripeBrown">
                 <English>Poncho (Sidestripe, Brown)</English>
+                <French>Poncho (Rayure, Marron)</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_sidestripeRed">
                 <English>Poncho (Sidestripe, Red)</English>
+                <French>Poncho (Rayure, Rouge)</French>
             </Key>
             <Key ID="STR_ls_characters_poncho_sidestripeWhite">
                 <English>Poncho (Sidestripe, White)</English>
+                <French>Poncho (Rayure, Blanche)</French>
             </Key>
         </Container>
     </Package>
