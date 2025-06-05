@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_clone">
+        <Container name="Backpacks">
+            <Key ID="STR_ls_characters_clone_arc_backpack">
+                <English>Clone ARC Backpack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_beltbag">
+                <English>Clone Belt Bag</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_CDV">
+                <English>Clone CDV Jumppack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_JT12">
+                <English>JT-12 Jumppack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_MiniLR">
+                <English>Mini Long Range Backpack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_MiniLR_attachment">
+                <English>Mini Long Range Attachment</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_backpack">
+                <English>Clone Backpack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_radio_backpack">
+                <English>Clone Radio Backpack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_rocket_backpack">
+                <English>Clone Rocket Backpack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_medic_backpack">
+                <English>Clone Medic Backpack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_ammo_backpack">
+                <English>Clone Ammobearer Backpack</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_heavy_backpack">
+                <English>Clone Heavy Backpack</English>
+            </Key>
+        </Container>
+        <Container name="Equipment">
+            <Key ID="STR_ls_characters_clone_electrobinoculars">
+                <English>Clone Trooper Electrobinoculars</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_commander_electrobinoculars">
+                <English>Clone Commander Electrobinoculars</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_electrobinoculars_night">
+                <English>Clone Commander Electrobinoculars (Night)</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p1_headlamp">
+                <English>Clone Phase 1 Headlamp</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p2_headlamp">
+                <English>Clone Phase 2 Headlamp</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p1_helmet_interior">
+                <English>Clone Phase 1 Helmet Interior</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p2_helmet_interior">
+                <English>Clone Phase 2 Helmet Interior</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_katarn_helmet_interior">
+                <English>Clone Commando Katarn I Helmet Interior</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_commander_visor">
+                <English>Clone Commander Visor</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p3_pilot_visor">
+                <English>Clone Phase 3 Pilot Visor</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p3_pilot_vwing">
+                <English>Republic Phase 3 Pilot (Vwing) [NV/TI]</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p3_pilot_imperial">
+                <English>Clone Phase 3 Pilot Visor (Tactical)</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_visor">
+                <English>Clone Visor</English>
+            </Key>
+        </Container>
+        <Container name="helmets">
+            <Key ID="STR_ls_characters_clone_airborne_helmet">
+                <English>Clone Airborne Helmet</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_arc_helmet">
+                <English>Clone ARC Helmet</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_arf_helmet">
+                <English>Clone ARF Helmet</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_helmet">
+                <English>Clone Phase 2 Helmet</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
+                <English>Clone Pilot Phase 2 Helmet</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase3_pilot_helmet">
+                <English>Clone Pilot Phase 3 Helmet</English>
+            </Key>
+        </Container>
+        <Container name="Uniforms">
+            <Key ID="STR_ls_characters_clone_jedi_commander">
+                <English>Jedi Commander Armor</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_uniform">
+                <English>Clone Phase 2 Armor</English>
+            </Key>
+        </Container>
+        <Container name="Vests">
+            <Key ID="STR_ls_characters_clone_arc_vest">
+                <English>Clone ARC Trooper Vest</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_gunner_vest">
+                <English>Clone Gunner Vest</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_officer_vest">
+                <English>Clone Officer Vest</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_recon_vest">
+                <English>Clone Recon Vest</English>
+            </Key>
+        </Container>
+        <Container name="Units">
+            <Key ID="STR_ls_characters_clone_phase2_rifleman">
+                <English>Rifleman (Phase 2)</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_marksman">
+                <English>Marksman (Phase 2)</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_sniper">
+                <English>Sniper (Phase 2)</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_grenadier">
+                <English>Grenadier (Phase 2)</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_medic">
+                <English>Medic (Phase 2)</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_arf">
+                <English>ARF (Phase 2)</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_marine">
+                <English>Marine</English>
+            </Key>
+        </Container>
+    </Package>
+</Project>
