@@ -4,14 +4,17 @@
         <Key ID="STR_ls_activecamo_activate">
             <English>Activate Active Camo</English>
             <French>Activer le camouflage actif</French>
+            <Polish>Aktywuj kamuflaż optyczny</Polish>
         </Key>
         <Key ID="STR_ls_activecamo_deactivate">
             <English>Deactivate Active Camo</English>
             <French>Désactiver le camouflage actif</French>
+            <Polish>Dezaktywuj kamuflaż optyczny</Polish>
         </Key>
         <Key ID="STR_ls_activecamo_coefficient">
             <English>Camouflage Coefficient</English>
             <French>Coefficient de camouflage</French>
+            <Polish>Wspólczynnik kamuflażu</Polish>
         </Key>
     </Package>
 </Project>
