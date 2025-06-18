@@ -5,11 +5,13 @@
             <Key ID="STR_ls_characters_hawkbat">
                 <English>Steerable 'Hawkbat' Parachute</English>
                 <French>Parachute dirigeable 'Hawkbat'</French>
+                <Russian>Управляемый парашют 'Hawkbat'</Russian>
                 <Polish>Sterowalny spadochron 'Hawkbat'</Polish>
             </Key>
             <Key ID="STR_ls_characters_hawkbat_reserve">
                 <English>Steerable 'Hawkbat' Reserve Parachute</English>
                 <French>Parachute de réserve dirigeable 'Hawkbat'</French>
+                <Russian>Управляемый запасной парашют 'Hawkbat'</Russian>
                 <Polish>Sterowalny spadochron rezerwowy 'Hawkbat'</Polish>
             </Key>
         </Container>
@@ -17,41 +19,49 @@
             <Key ID="STR_ls_characters_hood">
                 <English>Hood</English>
                 <French>Capuche</French>
+                <Russian>Капюшон</Russian>
                 <Polish>Kaptur</Polish>
             </Key>
             <Key ID="STR_ls_characters_scarf">
                 <English>Scarf</English>
                 <French>Écharpe</French>
+                <Russian>Шарф</Russian>
                 <Polish>Szal</Polish>
             </Key>
             <Key ID="STR_ls_characters_scarf_blue">
                 <English>Scarf (Blue)</English>
                 <French>Écharpe (Bleue)</French>
+                <Russian>Шарф (Синий)</Russian>
                 <Polish>Szal (Niebieski)</Polish>
             </Key>
             <Key ID="STR_ls_characters_scarf_green">
                 <English>Scarf (Green)</English>
                 <French>Écharpe (Verte)</French>
+                <Russian>Шарф (Зеленый)</Russian>
                 <Polish>Szal (Zielony)</Polish>
             </Key>
             <Key ID="STR_ls_characters_scarf_orange">
                 <English>Scarf (Orange)</English>
                 <French>Écharpe (Orange)</French>
+                <Russian>Шарф (Оранжевый)</Russian>
                 <Polish>Szal (Pomarańczowy)</Polish>
             </Key>
             <Key ID="STR_ls_characters_scarf_red">
                 <English>Scarf (Red)</English>
                 <French>Écharpe (Rouge)</French>
+                <Russian>Шарф (Красный)</Russian>
                 <Polish>Szal (Czerwony)</Polish>
             </Key>
             <Key ID="STR_ls_characters_scarf_stewart">
                 <English>Scarf (Stewart)</English>
                 <French>Écharpe (Stewart)</French>
+                <Russian>Шарф (Tartan)</Russian>
                 <Polish>Szal (Kratka)</Polish>
             </Key>
             <Key ID="STR_ls_characters_scarf_white">
                 <English>Scarf (White)</English>
                 <French>Écharpe (Blanche)</French>
+                <Russian>Шарф (Белый)</Russian>
                 <Polish>Szal (Biały)</Polish>
             </Key>
         </Container>
@@ -59,6 +69,7 @@
             <Key ID="STR_ls_characters_gunslinger">
                 <English>Gunslinger Hat</English>
                 <French>Chapeau de tireur d'élite</French>
+                <Russian>Шляпа стрелка</Russian>
                 <Polish>Kapelusz łowcy nagród</Polish>
             </Key>
         </Container>
@@ -66,51 +77,61 @@
             <Key ID="STR_ls_characters_poncho">
                 <English>Poncho</English>
                 <French>Poncho</French>
+                <Russian>Пончо</Russian>
                 <Polish>Ponczo</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_partnerBlack">
                 <English>Poncho (Partner, Black)</English>
                 <French>Poncho (Partenaire, Noir)</French>
+                <Russian>Пончо (Партнер, Черный)</Russian>
                 <Polish>Ponczo (Drużynowy, Czarny)</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_partnerWhite">
                 <English>Poncho (Partner, White)</English>
                 <French>Poncho (Partenaire, Blanc)</French>
+                <Russian>Пончо (Партнер, Белый)</Russian>
                 <Polish>Ponczo (Drużynowy, Biały)</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_peaceBlue">
                 <English>Poncho (Peace, Blue)</English>
                 <French>Poncho (Paix, Bleu)</French>
+                <Russian>Пончо (Мир, Синий)</Russian>
                 <Polish>Ponczo (Pokój, Niebieski)</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_peaceGreen">
                 <English>Poncho (Peace, Green)</English>
                 <French>Poncho (Paix, Vert)</French>
+                <Russian>Пончо (Мир, Зеленый)</Russian>
                 <Polish>Ponczo (Pokój, Zielony)</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_peaceRed">
                 <English>Poncho (Peace, Red)</English>
                 <French>Poncho (Paix, Rouge)</French>
+                <Russian>Пончо (Мир, Красный)</Russian>
                 <Polish>Ponczo (Pokój, Czerwony)</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_sidestripeBlue">
                 <English>Poncho (Sidestripe, Blue)</English>
                 <French>Poncho (Rayure, Bleue)</French>
+                <Russian>Пончо (Параллель, Синий)</Russian>
                 <Polish>Ponczo (Paski, Niebieski)</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_sidestripeBrown">
                 <English>Poncho (Sidestripe, Brown)</English>
                 <French>Poncho (Rayure, Marron)</French>
+                <Russian>Пончо (Параллель, Коричневый)</Russian>
                 <Polish>Ponczo (Paski, Brązowy)</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_sidestripeRed">
                 <English>Poncho (Sidestripe, Red)</English>
                 <French>Poncho (Rayure, Rouge)</French>
+                <Russian>Пончо (Параллель, Красный)</Russian>
                 <Polish>Ponczo (Paski, Czerwony)</Polish>
             </Key>
             <Key ID="STR_ls_characters_poncho_sidestripeWhite">
                 <English>Poncho (Sidestripe, White)</English>
                 <French>Poncho (Rayure, Blanche)</French>
+                <Russian>Пончо (Параллель, Белый)</Russian>
                 <Polish>Ponczo (Paski, Biały)</Polish>
             </Key>
         </Container>
