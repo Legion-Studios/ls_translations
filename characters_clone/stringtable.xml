@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_clone">
+        <Container name="Backpacks">
+            <Key ID="STR_ls_characters_clone_arc_backpack">
+                <English>Clone ARC Backpack</English>
+                <Polish>Plecak klona ARC</Polish>
+                <French>Sac à dos Clone ARC</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_beltbag">
+                <English>Clone Belt Bag</English>
+                <Polish>Torba Paskowa Klona</Polish>
+                <French>Sac au Ceinturon Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_CDV">
+                <English>Clone CDV Jumppack</English>
+                <Polish>Plecak Skokowy KLona CDV</Polish>
+                <French>Jumppack CDV</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_JT12">
+                <English>JT-12 Jumppack</English>
+                <Polish>Plecak Skokowy JT-12</Polish>
+                <French>Jumppack JT-12</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_MiniLR">
+                <English>Mini Long Range Backpack</English>
+                <Polish>Mały Plecak Dalekiego Zasięgu</Polish>
+                <French>Mini Radio Longue Portée</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_MiniLR_attachment">
+                <English>Mini Long Range Attachment</English>
+                <Polish>Mały Dodatek Dalekiego Zasięgu</Polish>
+                <French>Mini Accessoire Longue Portée</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_backpack">
+                <English>Clone Backpack</English>
+                <Polish>Plecak Klona</Polish>
+                <French>Sac à dos Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_radio_backpack">
+                <English>Clone Radio Backpack</English>
+                <Polish>Plecak Klona z Radiostacją</Polish>
+                <French>Sac à dos Radio Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_rocket_backpack">
+                <English>Clone Rocket Backpack</English>
+                <Polish>Plecak Klona z Rakietami</Polish>
+                <French>Sac à dos Roquettes Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_medic_backpack">
+                <English>Clone Medic Backpack</English>
+                <Polish>Medyczny Plecak Klona</Polish>
+                <French>Sac à dos Médical Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_ammo_backpack">
+                <English>Clone Ammobearer Backpack</English>
+                <Polish>Plecak Klona Nosiciela Amunicji</Polish>
+                <French>Sac à dos Munitions Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_heavy_backpack">
+                <English>Clone Heavy Backpack</English>
+                <Polish>Ciężki Plecak Klona</Polish>
+                <French>Sac à dos Lourd Clone</French>
+            </Key>
+        </Container>
+        <Container name="Equipment">
+            <Key ID="STR_ls_characters_clone_electrobinoculars">
+                <English>Clone Trooper Electrobinoculars</English>
+                <Polish>Elektrolornetka Klona</Polish>
+                <French>Jumelles Électroniques Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_commander_electrobinoculars">
+                <English>Clone Commander Electrobinoculars</English>
+                <Polish>Elektrolornetka Klona Komandora</Polish>
+                <French>Jumelles Électroniques Commandant Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_electrobinoculars_night">
+                <English>Clone Commander Electrobinoculars (Night)</English>
+                <Polish>Elektrolornetka Klona Komandora (Noc)</Polish>
+                <French>Jumelles Électroniques Commandant Clone (Nuit)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p1_headlamp">
+                <English>Clone Phase 1 Headlamp</English>
+                <Polish>Latarka Hełmowa Fazy 1</Polish>
+                <French>Lampe Frontale Clone Phase 1</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p2_headlamp">
+                <English>Clone Phase 2 Headlamp</English>
+                <Polish>Latarka Hełmowa Fazy 2</Polish>
+                <French>Lampe Frontale Clone Phase 2</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p1_helmet_interior">
+                <English>Clone Phase 1 Helmet Interior</English>
+                <Polish>Wnętrze Hełmu Klona Fazy 1</Polish>
+                <French>Intérieur de Casque Clone Phase 1</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p2_helmet_interior">
+                <English>Clone Phase 2 Helmet Interior</English>
+                <Polish>Wnętrze Hełmu Klona Fazy 2</Polish>
+                <French>Intérieur de Casque Clone Phase 2</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_katarn_helmet_interior">
+                <English>Clone Commando Katarn I Helmet Interior</English>
+                <Polish>Wnętrze Hełmu Klona Komandosa Katarn 1</Polish>
+                <French>Intérieur de Casque Clone Commando Katarn I</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_commander_visor">
+                <English>Clone Commander Visor</English>
+                <Polish>Wizjer Klona Komandora</Polish>
+                <French>Visière de Commandant Clone</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p3_pilot_visor">
+                <English>Clone Phase 3 Pilot Visor</English>
+                <Polish>Wizjer Klona Pilota Fazy 3</Polish>
+                <French>Visière de Pilote Clone Phase 3</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p3_pilot_vwing">
+                <English>Republic Phase 3 Pilot (Vwing) [NV/TI]</English>
+                <Polish>Klon Pilot Republiki Fazy 3 (Vwing) [NV/TI]</Polish>
+                <French>République Pilote Phase 3 (Vwing) [NV/TI]</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_p3_pilot_imperial">
+                <English>Clone Phase 3 Pilot Visor (Tactical)</English>
+                <Polish>Wizjer Klona Pilota Fazy 3 (Taktyczny)</Polish>
+                <French>Visière de Pilote Clone Phase 3 (Tactique)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_visor">
+                <English>Clone Visor</English>
+                <Polish>Wizjer Klona</Polish>
+                <French>Visière Clone</French>
+            </Key>
+        </Container>
+        <Container name="helmets">
+            <Key ID="STR_ls_characters_clone_airborne_helmet">
+                <English>Clone Airborne Helmet</English>
+                <Polish>Hełm Klona Spadochroniarza</Polish>
+                <French>Casque Clone Aéroporté (Airborne)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_arc_helmet">
+                <English>Clone ARC Helmet</English>
+                <Polish>Hełm Klona ARC</Polish>
+                <French>Casque Clone ARC</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_arf_helmet">
+                <English>Clone ARF Helmet</English>
+                <Polish>Hełm Klona ARF</Polish>
+                <French>Casque Clone ARF</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_helmet">
+                <English>Clone Phase 2 Helmet</English>
+                <Polish>Hełm Klona Fazy 2</Polish>
+                <French>Casque Clone Phase 2</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
+                <English>Clone Pilot Phase 2 Helmet</English>
+                <Polish>Hełm Klona Pilota Fazy 2</Polish>
+                <French>Casque Clone Pilote Phase 2</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase3_pilot_helmet">
+                <English>Clone Pilot Phase 3 Helmet</English>
+                <Polish>Hełm Klona Pilota Fazy 3</Polish>
+                <French>Casque Clone Pilote Phase 3</French>
+            </Key>
+        </Container>
+        <Container name="Uniforms">
+            <Key ID="STR_ls_characters_clone_jedi_commander">
+                <English>Jedi Commander Armor</English>
+                <Polish>Zbroja Komandora Jedi</Polish>
+                <French>Armure de Commandant Jedi</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_uniform">
+                <English>Clone Phase 2 Armor</English>
+                <Polish>Zbroja Klona Fazy 2</Polish>
+                <French>Armure Clone Phase 2</French>
+            </Key>
+        </Container>
+        <Container name="Vests">
+            <Key ID="STR_ls_characters_clone_arc_vest">
+                <English>Clone ARC Trooper Vest</English>
+                <Polish>Kamizelka Klona ARC</Polish>
+                <French>Gilet de Clone ARC</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_gunner_vest">
+                <English>Clone Gunner Vest</English>
+                <Polish>Kamizelka Klona Artylerzysty</Polish>
+                <French>Gilet de Clone Tireur (Gunner)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_officer_vest">
+                <English>Clone Officer Vest</English>
+                <Polish>Kamizelka Klona Officera</Polish>
+                <French>Gilet de Clone Officier</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_recon_vest">
+                <English>Clone Recon Vest</English>
+                <Polish>Kamizelka Klona Zwiadowcy</Polish>
+                <French>Gilet de Clone Recon</French>
+            </Key>
+        </Container>
+        <Container name="Units">
+            <Key ID="STR_ls_characters_clone_phase2_rifleman">
+                <English>Rifleman (Phase 2)</English>
+                <Polish>Strzelec (Faza 2)</Polish>
+                <French>Fusilier (Phase 2)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_marksman">
+                <English>Marksman (Phase 2)</English>
+                <Polish>Strzelec Wyborowy (Faza 2)</Polish>
+                <French>Sniper (Phase 2)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_sniper">
+                <English>Sniper (Phase 2)</English>
+                <Polish>Snajper (Faza 2)</Polish>
+                <French>Tireur d'Élite (Phase 2)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_grenadier">
+                <English>Grenadier (Phase 2)</English>
+                <Polish>Grenadier (Faza 2)</Polish>
+                <French>Grenadier (Phase 2)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_phase2_medic">
+                <English>Medic (Phase 2)</English>
+                <Polish>Medyk (Faza 2)</Polish>
+                <French>Médecin (Phase 2)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_arf">
+                <English>ARF (Phase 2)</English>
+                <Polish>ARF (Faza 2)</Polish>
+                <French>ARF (Phase 2)</French>
+            </Key>
+            <Key ID="STR_ls_characters_clone_marine">
+                <English>Marine</English>
+                <Polish>Galaktyczna Piechota Morska</Polish>
+                <French>Marine</French>
+            </Key>
+        </Container>
+    </Package>
+</Project>
