@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="activeCamo">
         <Key ID="STR_ls_activecamo_activate">
             <English>Activate Active Camo</English>
             <French>Activer le camouflage actif</French>
-            <Russian>Активировать 'Активный камуфляж'</Russian>
             <Polish>Aktywuj kamuflaż optyczny</Polish>
-        </Key>
-        <Key ID="STR_ls_activecamo_deactivate">
-            <English>Deactivate Active Camo</English>
-            <French>Désactiver le camouflage actif</French>
-            <Russian>Деактивировать 'Активный камуфляж'</Russian>
-            <Polish>Dezaktywuj kamuflaż optyczny</Polish>
+            <Russian>Активировать 'Активный камуфляж'</Russian>
         </Key>
         <Key ID="STR_ls_activecamo_coefficient">
             <English>Camouflage Coefficient</English>
             <French>Coefficient de camouflage</French>
-            <Russian>Коэффициент камуфляжности</Russian>
             <Polish>Wspólczynnik kamuflażu</Polish>
+            <Russian>Коэффициент камуфляжности</Russian>
+        </Key>
+        <Key ID="STR_ls_activecamo_deactivate">
+            <English>Deactivate Active Camo</English>
+            <French>Désactiver le camouflage actif</French>
+            <Polish>Dezaktywuj kamuflaż optyczny</Polish>
+            <Russian>Деактивировать 'Активный камуфляж'</Russian>
         </Key>
     </Package>
 </Project>
