@@ -5,17 +5,17 @@ class CfgPatches {
         author = AUTHOR;
         authors[] = {
             "Cannon",
-            "Bragg"
+            "Bragg",
+            "Vdoh",
+            "Ks00908"
         };
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
             "ls_main"
         };
-        units[] = { UNITS_LIST };
-        weapons[] = { WEAPONS_LIST };
+        units[] = { };
+        weapons[] = { };
         VERSION_CONFIG;
     };
 };
-
-#include "CfgEventHandlers.hpp"
