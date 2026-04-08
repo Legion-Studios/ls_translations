@@ -45,7 +45,7 @@
             </Key>
             <Key ID="STR_ls_characters_clone_beltbag">
                 <English>Clone Belt Bag</English>
-                <French>Sac banane Clone</French>
+                <French>Pochette Clone</French>
                 <Polish>Torba Paskowa Klona</Polish>
                 <Russian>Поясная сумка (ВАР)</Russian>
             </Key>
@@ -201,7 +201,7 @@
             </Key>
             <Key ID="STR_ls_characters_clone_phase2_marksman">
                 <English>Marksman (Phase 2)</English>
-                <French>Buteur (Phase 2)</French>
+                <French>Sniper (Phase 2)</French>
                 <Polish>Strzelec Wyborowy (Faza 2)</Polish>
                 <Russian>Меткий стрелок (Фаза 2)</Russian>
             </Key>
