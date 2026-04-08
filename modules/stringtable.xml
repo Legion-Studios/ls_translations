@@ -167,14 +167,17 @@
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
             <Polish>Gaussowski</Polish>
+            <French>Gaussien</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_name">
             <English>Distribution</English>
             <Polish>Rozmieszczenie</Polish>
+            <French>Distribution</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_randomArea">
             <English>Random Area</English>
             <Polish>Losowy Obszar</Polish>
+            <French>Zone Aléatoire</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_tooltip">
             <English>Set what distribution formula to use</English>
