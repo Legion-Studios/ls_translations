@@ -78,6 +78,7 @@ def check_stringtable(filepath):
                 print("  ERROR: Key '{}' had no ID attribute.".format(key_id))
                 errors += 1
             elif key_id.find(key_prefix) != 0:
+                # Temporary workaround until Battlefields is updated
                 if key_id.find("STR_lsb_") == 0:
                     continue
                 print("  ERROR: Key '{}' does not have a valid ID attribute, should be in format {}{{name}}.".format(

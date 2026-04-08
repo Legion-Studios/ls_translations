@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
-    <Package name="Dispenser">
+    <Package name="dispenser">
         <Key ID="STR_ls_dispenser_B1_displayName">
             <English>Droid Dispenser (B1)</English>
             <Polish>Zasobnik Droidów (B1)</Polish>
