@@ -3,66 +3,85 @@
     <Package name="Modules">
         <Key ID="STR_ls_modules_activeCamo_cannotActivate">
             <English>Object cannot activate active camo</English>
+            <French>L'objet ne peut pas activer le camouflage actif</French>
         </Key>
         <Key ID="STR_ls_modules_activeCamo_cannotDeactivate">
             <English>Object cannot deactivate active camo</English>
+            <French>L'objet ne peut pas déactiver le camouflage actif</French>
         </Key>
         <Key ID="STR_ls_modules_addedReinsertAction">
             <English>Added reinsert action to object</English>
+            <French>Ajout d'une action de réinsertion à l'objet</French>
         </Key>
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
+            <French>%1 groupes vides ont été supprimés</French>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_label">
             <English>Custom Group</English>
+            <French>Groupe Personnalisé</French>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_tooltip">
             <English>Overwrites dispenser group if defined, takes array of unit class names.\nUse commas to separate classes, do not include spaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</English>
+            <French>Si défini, remplace groupe de distributeurs, accepte un tableu de noms de classes d'unités.\nUtilisez des virgules pour séparer les éléments, ne pas inclur espaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</French>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_label">
             <English>Group</English>
+            <French>Groupe</French>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
             <English>Select what group will be spawned by the droid dispenser when it activates</English>
+            <French>Sélectinonez quel groupe sera créé par le distributeur de droïdes lors son activation</French> 
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_noGroup">
             <English>No group selected!</English>
+            <French>Groupe non sélectionné</French>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
+            <French>Serrure de Porte</French>
         </Key>
         <Key ID="STR_ls_modules_lockState_tooltip">
             <English>Door locked state to search for</English>
+            <French>État de la porte verrouillée pour la recherche</French>
         </Key>
         <Key ID="STR_ls_modules_moduleAddReinsertAction">
             <English>Add Reinsert Action</English>
+            <French>Ajouter une action de réinsertion</French>
         </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal">
             <English>Area Heal</English>
+            <French>Soignez la zone</French>
         </Key>
         <Key ID="STR_ls_modules_moduleDeleteGroups">
             <English>Delete Empty Groups</English>
+            <French>Supprimer les groupes vides</French>
         </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo">
             <English>Toggle Active Camo</English>
+            <French>Basculé Camouflage Actif</French>
         </Key>
         <Key ID="STR_ls_modules_noClosedDoorFound">
             <English>No closed door found!</English>
+            <French>Aucune porte fermée trouvée</French>
         </Key>
         <Key ID="STR_ls_modules_noDoorFound">
             <English>No door found!</English>
+            <French>Aucune porte trouvée</French>
         </Key>
         <Key ID="STR_ls_modules_noOpenFound">
             <English>No door found!</English>
+            <French>Aucune porte ouverte trouvée</French>
         </Key>
         <Key ID="STR_ls_modules_noPlayer">
             <English>Unit must not be a player</English>
+            <French>La personne ne doit pas être une joueur</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1556-L1572 -->
         <Key ID="STR_ls_modules_nothingSelected">
             <English>Place on a unit</English>
             <Czech>Umístni na jednotku</Czech>
-            <French>Placer sur une unité.</French>
+            <French>Placer sur une personne</French>
             <Spanish>Nada bajo el ratón</Spanish>
             <Italian>Piazza su una unità</Italian>
             <Polish>Nie ma nic pod kursorem</Polish>
@@ -80,7 +99,7 @@
         <Key ID="STR_ls_modules_onlyAlive">
             <English>Unit must be alive</English>
             <Czech>Použitelné jen na živé jednotky</Czech>
-            <French>L'unité doit être vivante.</French>
+            <French>La personne doit être vivante.</French>
             <Spanish>Utilizar solo en unidades vivas</Spanish>
             <Italian>Si può fare solo su unità vive</Italian>
             <Polish>Używaj tylko na żywych jednostkach</Polish>
@@ -98,7 +117,7 @@
         <Key ID="STR_ls_modules_onlyInfantry">
             <English>Unit must be infantry</English>
             <Czech>Použitelné jen na pěsích jednotkách</Czech>
-            <French>L'unité doit être un fantassin.</French>
+            <French>La personne doit être un fantassin.</French>
             <Spanish>Utilizar solo en infanteria desmontada</Spanish>
             <Italian>Si può usare solo su fanteria a piedi</Italian>
             <Polish>Używaj tylko na piechocie poza wszelkimi pojazdami</Polish>
@@ -113,12 +132,15 @@
         </Key>
         <Key ID="STR_ls_modules_radius_tooltip">
             <English>Search radius in meters</English>
+            <French>Rayon de recherche en mètres</French>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
+            <French>Limite de génération</French>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_tooltip">
             <English>Stops after spawning X units.\n-1 = unlimited</English>
+            <French>Arrête de créer après X personnes.\n-1 = illimité</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
@@ -128,57 +150,75 @@
         </Key>
         <Key ID="STR_lsb_common_distribution_randomArea">
             <English>Random Area</English>
+            <French>Zone aléatoire</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_tooltip">
             <English>Set what distribution formula to use</English>
+            <French>Sélectionner la formule de distribution</French>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_asteroids">
             <English>Asteroids</English>
+            <French>Astéroïdes</French>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_asteroidsSmall">
             <English>Small Asteroids</English>
+            <French>Petits Astéroïdes</French>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_name">
             <English>Debris Preset</English>
+            <French>Préréglage des débris</French>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_shipDebris">
             <English>Ship Debris</English>
+            <French>Bateau débris</French>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_tooltip">
             <English>Set what group of objects to use</English>
+            <French>Sélectionner quel groupe de objets à utiliser</French>
         </Key>
         <Key ID="STR_lsb_modules_AttributeCount_name">
             <English>Count</English>
+            <French>Total</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeCount_tooltip">
             <English>The number of debris objects to spawn</English>
+            <French>Le nombre de objets de débris à créer</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_name">
             <English>Debris Data</English>
+            <French>Données sur les débris</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_tooltip">
             <English>Do not edit directly!\nContains position and rotation data</English>
+            <French>Ne pas toucher!\nContinent des informations pour position et rotation</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_name">
             <English>Drift Direction</English>
+            <French>Direction de flotteur</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_tooltip">
             <English>Specifies the direction for the objects to drift in</English>
+            <French>La direction dans laquelle flottent les objets</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDrifting_name">
             <English>Drifting</English>
+            <French>Flottant</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDrifting_tooltip">
             <English>If enabled, spawned objects will slowly drift in a specified direction</English>
+            <French>Si activé, les objets créés seront flotteront lentement en une direction spécifée</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeParamsOld_name">
             <English>Space Debris Parameters</English>
+            <French>Paramètres des Débris Spatiaux</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_description">
             <English>Spawns a number of space debris objects floating in a random area around the module. The objects are created locally on each player's machine.</English>
+            <French>Créer un nombre de débris spatiaux flottants dans un zone aléatoire autour le module. Les objets sont créés sur chaque machine de joueur.</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_name">
             <English>Space Debris</English>
+            <French>Débris Spatieux</French>
         </Key>
     </Package>
 </Project>
