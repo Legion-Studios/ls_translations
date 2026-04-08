@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+"""
+Author: KoffeinFlummi, DartRuffian
+Modified from: https://github.com/acemod/ACE3/blob/master/tools/deploy.py
+
+Updates a GitHub issue to track translation progress
+"""
+
 import os
 import sys
 import traceback

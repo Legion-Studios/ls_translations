@@ -2,8 +2,8 @@
 """
 Author: KoffeinFlummi, DartRuffian
 Modified from: https://github.com/acemod/ACE3/blob/master/tools/stringtablediag.py
-Checks for missing translations and tracks translation progress in a GitHub issue.
 
+Checks for missing translations and tracks translation progress in a GitHub issue.
 Use --markdown to only return markdown formatted data
 """
 

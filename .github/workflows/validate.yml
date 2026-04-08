@@ -1,0 +1,24 @@
+name: Validate
+
+concurrency:
+  group: validate-${{ github.ref }}
+  cancel-in-progress: true
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  check:
+    if: |
+      contains(github.event.pull_request.labels.*.name, 'disable-workflows') == false
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout the source code
+      uses: actions/checkout@v4
+    - name: Validate Stringtables
+      run: python tools/validate_stringtables.py
