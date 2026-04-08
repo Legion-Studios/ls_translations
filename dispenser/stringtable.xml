@@ -3,33 +3,43 @@
     <Package name="Dispenser">
         <Key ID="STR_ls_dispenser_B1_displayName">
             <English>Droid Dispenser (B1)</English>
+            <French>Distributeur de Droïdes (B1)</French>
         </Key>
         <Key ID="STR_ls_dispenser_B2_displayName">
             <English>Droid Dispenser (B2)</English>
+            <French>Distributeur de Droïdes (B2)</French>
         </Key>
         <Key ID="STR_ls_dispenser_BX_displayName">
             <English>Droid Dispenser (BX)</English>
+            <French>Distributeur de Droïdes (BX)</French>
         </Key>
         <Key ID="STR_ls_dispenser_activate">
             <English>Activate Dispenser</English>
+            <French>Activer le Distributeur</French>
         </Key>
         <Key ID="STR_ls_dispenser_deactivate">
             <English>Deactivate Dispenser</English>
+            <French>Désactiver le Distributeur</French>
         </Key>
         <Key ID="STR_ls_dispenser_description">
             <English>A roughly cylindrical container, that could transport, dispense and possibly construct battle droids, used by the Trade Federation and later more predominantly by the Confederacy of Independent Systems during the Clone Wars to continually dispense a supply of battle droids.</English>
+            <French>Un conteneur approximativement cylindre pouvant transporter, distribuer et potentiellement construire droïdes de combat, utilisé par la Trade Federation et plus tard plus souvent par le Confederacy of Independent Systems pendant le guerre des clones pour assuraient un approvisionnement continu en droïdes de combat.</French>
         </Key>
         <Key ID="STR_ls_dispenser_displayName">
             <English>Droid Dispenser</English>
+            <French>Distributeur de Droïdes</French>
         </Key>
         <Key ID="STR_ls_dispenser_openHatch1">
             <English>Open Hatch 1</English>
+            <French>Ouvrir Trappe 1</French>
         </Key>
         <Key ID="STR_ls_dispenser_openHatch2">
             <English>Open Hatch 2</English>
+            <French>Ouvrir Trappe 2</French>
         </Key>
         <Key ID="STR_ls_dispenser_openHatch3">
             <English>Open Hatch 3</English>
+            <French>Ouvrir Trappe 3</French>
         </Key>
     </Package>
 </Project>
