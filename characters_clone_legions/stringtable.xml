@@ -3,156 +3,207 @@
     <Package name="characters_clone_legions">
         <Key ID="STR_ls_characters_clone_legions_clone_104th">
             <English>104th Wolfpack Battalion</English>
+            <Polish>104-ty Batalion "Wolfpack"</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_13th">
             <English>13th Iron Battalion</English>
+            <Polish>13-ty Batalion "Iron"</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_187th">
             <English>187th Legion</English>
+            <Polish>187-my Legion</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_212th">
             <English>212th Attack Batallion</English>
+            <Polish>212-ty Batalion Szturmowy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_21st">
             <English>21st Nova Corps</English>
+            <Polish>21-szy Korpus</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_327th">
             <English>327th Sky Corps</English>
+            <Polish>327-my Korpus Gwiezdny</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_332nd">
             <English>332nd Legion</English>
+            <Polish>332-gi Legion</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_34th">
             <English>34th Clone Assassins</English>
+            <Polish>34-ci Zamachowcy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_38th">
             <English>38th Armored Division</English>
+            <Polish>38-ma Dywizja Pancerna</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_41st">
             <English>41st Elite Corps</English>
+            <Polish>41-szy Korpus Elitarny</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_41stRb">
             <English>41st Ranger Battalion</English>
+            <Polish>41-szy Batalion Desantowy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_41stgc">
             <English>41st Green Company</English>
+            <Polish>41-sza Kompania "Zielona"</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_442nd">
             <English>442nd Siege Battalion</English>
+            <Polish>442-gi Batalion Oblężniczy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_501st">
             <English>501st Legion</English>
+            <Polish>501-sza Legion</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_5th">
             <English>5th Security Fleet</English>
+            <Polish>5-ta Grupa Ochrony Floty</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_612th">
             <English>612th Attack Battalion</English>
+            <Polish>612-ty Batalion Szturmowy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_74th">
             <English>74th Legion</English>
+            <Polish>74-ta Legion</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_91st">
             <English>91st Recon Corps</English>
+            <Polish>91-szy Korpus Zwiadowczy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_9th">
             <English>9th Assault Corps</English>
+            <Polish>9-ty Korpus Szturmowy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_AT">
             <English>Clone Trooper (AT)</English>
+            <Polish>Żołnierz Klon (Przeciw-Pancerny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_DC15S">
             <English>Clone Trooper (DC-15S)</English>
+            <Polish>Żołnierz Klon (DC-15S)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_aiwhaSquad">
             <English>Aiwha Squad</English>
+            <Polish>Oddział Aiwha</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_arcPilot">
             <English>Clone Pilot (ARC-170)</English>
+            <Polish>Klon Pilot (ARC-170)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_bravoSquad">
             <English>Bravo Squad</English>
+            <Polish>Oddział Bravo</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_breacher">
             <English>Clone Trooper (Breacher)</English>
+            <Polish>Żołnierz Klon (Wyważający)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_captain">
             <English>Clone Captain</English>
+            <Polish>Klon Kapitan</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_commander">
             <English>Clone Commander</English>
+            <Polish>Klon Komandor</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_coruscantGuard">
             <English>Coruscant Guard</English>
+            <Polish>Gwardia Coruscant</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_deltaSquad">
             <English>Delta Squad</English>
+            <Polish>Oddział Delta</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_demo">
             <English>Clone Demolitions Expert</English>
+            <Polish>Żołnierz Klon (Saper)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_du">
             <English>Doom's Unit</English>
+            <Polish>Jednostka "Doom"</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_heavyAA">
             <English>Clone Trooper (Missile AA)</English>
+            <Polish>Żołnierz Klon (Przeciw-Lotniczy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_heavyAT">
             <English>Clone Trooper (Missile AT)</English>
+            <Polish>Żołnierz Klon (Ciężki Przeciw-Pancerny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_hornCompany">
             <English>Horn Company</English>
+            <Polish>Kompania "Horn"</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_kCompany">
             <English>327th K Company</English>
+            <Polish>327-ma Kompania K</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_lieutenant">
             <English>Clone Lieutenant</English>
+            <Polish>Klon Porucznik</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_medic">
             <English>Clone Medic</English>
+            <Polish>Klon Medyk</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_misc">
             <English>Miscellaneous</English>
+            <Polish>Różne</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_mpSkins">
             <English>Multiplayer Skins</English>
+            <Polish>Skórki trybu Wieloosobowego</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_officer">
             <English>Clone Officer</English>
+            <Polish>Klon Oficer</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_omegaSquad">
             <English>Omega Squad</English>
+            <Polish>Oddział Omega</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_pilot">
             <English>Clone Pilot</English>
+            <Polish>Klon Pilot</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_rancor">
             <English>RANCOR Battalion</English>
+            <Polish>Batalion "RANCOR"</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_rto">
             <English>Clone Trooper (RTO)</English>
+            <Polish>Żołnierz Klon (Radiotelefon)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_scout">
             <English>Clone Scout Trooper</English>
+            <Polish>Żołnierz Klon (Zwiadowca)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_sergeant">
             <English>Clone Sergeant</English>
+            <Polish>Klon Sierżant</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_sniper">
             <English>Clone Sniper</English>
+            <Polish>Klon Snajper</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_supportGunner">
             <English>Clone Support Gunner</English>
+            <Polish>Klon Wsparcia Ogniowego</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_vwingPilot">
             <English>Clone Pilot (V-Wing)</English>
+            <Polish>Klon Pilot (V-Wing)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_yayaxSquad">
             <English>Yayax Squad</English>
+            <Polish>Oddział "Yayax"</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_garLegions">
             <English>Grand Army of the Republic Legions</English>
+            <Polish>Legiony Wielkiej Armii Republiki</Polish>
         </Key>
     </Package>
 </Project>

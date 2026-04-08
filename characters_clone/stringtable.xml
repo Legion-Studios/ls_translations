@@ -51,12 +51,15 @@
             </Key>
             <Key ID="STR_ls_characters_clone_cloneTrooper">
                 <English>Clone Trooper</English>
+                <Polish>Żołnierz Klon</Polish>
             </Key>
             <Key ID="STR_ls_characters_clone_cloneTroopers_phase1">
                 <English>Clone Troopers (Phase 1)</English>
+                <Polish>Żołnierz Klon (Faza 1)</Polish>
             </Key>
             <Key ID="STR_ls_characters_clone_cloneTroopers_phase2">
                 <English>Clone Troopers (Phase 2)</English>
+                <Polish>Żołnierz Klon (Faza 2)</Polish>
             </Key>
             <Key ID="STR_ls_characters_clone_heavy_backpack">
                 <English>Clone Heavy Backpack</English>
