@@ -2,16 +2,19 @@
 <Project name="Legion Studios">
     <Package name="weapons_dcseries">
         <Key ID="STR_ls_weapons_dcseries_flashlight_displayName">
-            <English>DC-FL</English>
+            <English>DC-FL Flashlight</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_gyroscope_descriptionShort">
             <English>Improves weapon stability using an internal gyroscope</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_gyroscope_displayName">
-            <English>DC-GS</English>
+            <English>DC-GS Gyroscope</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_laserpointer_displayName">
-            <English>DC-LP</English>
+            <English>DC-LP Laser Pointer</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_redDot_displayName">
+            <English>DC-RD Red Dot Scope</English>
         </Key>
     </Package>
 </Project>
