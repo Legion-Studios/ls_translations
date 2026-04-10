@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="weapons_dcseries">
+        <Key ID="STR_ls_weapons_accelerator_descriptionShort">
+            <English>Increases the velocity of fired rounds</English>
+        </Key>
         <Key ID="STR_ls_weapons_visibleLaser">
             <English>Visible Laser</English>
         </Key>

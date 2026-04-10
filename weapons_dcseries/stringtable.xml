@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="weapons_dcseries">
+        <Key ID="STR_ls_weapons_dcseries_dc15a_displayName">
+            <English>DC-15A</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15leMuzzle_displayName">
+            <English>DC-15LE Plasma Accelerator</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15leScope_displayName">
+            <English>DC-15LE Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15le_displayName">
+            <English>DC-15LE</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15s_displayName">
+            <English>DC-15S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15xScope_displayName">
+            <English>DC-15X Scope</English>
+        </Key>
         <Key ID="STR_ls_weapons_dcseries_flashlight_displayName">
             <English>DC-FL Flashlight</English>
         </Key>
@@ -10,11 +28,17 @@
         <Key ID="STR_ls_weapons_dcseries_gyroscope_displayName">
             <English>DC-GS Gyroscope</English>
         </Key>
-        <Key ID="STR_ls_weapons_dcseries_laserpointer_displayName">
+        <Key ID="STR_ls_weapons_dcseries_laserFlash_displayName">
+            <English>DC-FL/LP</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_laserPointer_displayName">
             <English>DC-LP Laser Pointer</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_redDot_displayName">
             <English>DC-RD Red Dot Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_reflex_displayName">
+            <English>DC-RF Reflex Scope</English>
         </Key>
     </Package>
 </Project>
