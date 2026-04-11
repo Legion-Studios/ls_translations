@@ -4,10 +4,12 @@
         <Key ID="STR_ls_common_cis">
             <English>Confederacy of Independent Systems</English>
             <Polish>Konfederacja Niezależnych Systemów</Polish>
+            <French>Confédération des Systèmes Indépendants</French>
         </Key>
         <Key ID="STR_ls_common_csf">
             <English>Coruscant Security Force</English>
             <Polish>Siły Bezpieczeństwa Coruscant</Polish>
+            <French>Forces de Sécurité de Coruscant</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
@@ -48,38 +50,47 @@
         <Key ID="STR_ls_common_galacticEmpire">
             <English>Galactic Empire</English>
             <Polish>Imperium Galaktyczne</Polish>
+            <French>Empire Galactique</French>
         </Key>
         <Key ID="STR_ls_common_gar">
             <English>Grand Army of the Republic</English>
             <Polish>Wielka Armia Republiki</Polish>
+            <French>Grande Armée de la République</French>
         </Key>
         <Key ID="STR_ls_common_invalidValue">
             <English>Invalid value</English>
             <Polish>Nieprawidłowa Wartość</Polish>
+            <French>Valeur Invalide</French>
         </Key>
         <Key ID="STR_ls_common_jabiim">
             <English>Jabiim</English>
             <Polish>Jabiim</Polish>
+            <French>Jabiim</French>
         </Key>
         <Key ID="STR_ls_common_jediOrder">
             <English>Jedi Order</English>
             <Polish>Zakon Jedi</Polish>
+            <French>Ordre des Jedis</French>
         </Key>
         <Key ID="STR_ls_common_mandalorians">
             <English>Mandalorians</English>
             <Polish>Mandalorianie</Polish>
+            <French>Mandaloriens</French>
         </Key>
         <Key ID="STR_ls_common_memefor">
             <English>Memefor</English>
             <Polish>Memefor</Polish>
+            <French>Memefor</French>
         </Key>
         <Key ID="STR_ls_common_mercenaries">
             <English>Mercenaries</English>
             <Polish>Najemnicy</Polish>
+            <French>Mercenaires</French>
         </Key>
         <Key ID="STR_ls_common_newRepublic">
             <English>New Republic</English>
             <Polish>Nowa Republika</Polish>
+            <French>Nouvelle République</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_no">
@@ -103,22 +114,27 @@
         <Key ID="STR_ls_common_orsf">
             <English>Outland Regions Security Forces</English>
             <Polish>Siły Obrone Regionów Zewnętrznych</Polish>
+            <French>Forces de Sécurité des Régions Exterieurs</French>
         </Key>
         <Key ID="STR_ls_common_pirates">
             <English>Pirates</English>
             <Polish>Piraci</Polish>
+            <French>Pirates</French>
         </Key>
         <Key ID="STR_ls_common_rebelAlliance">
             <English>Rebel Alliance</English>
             <Polish>Rebelianci</Polish>
+            <French>Alliance Rebelle</French>
         </Key>
         <Key ID="STR_ls_common_recievedTreatment">
             <English>You have been fully healed</English>
             <Polish>Zostałeś w pełni wyleczony</Polish>
+            <French>Vous avez été complètement soigné</French>
         </Key>
         <Key ID="STR_ls_common_recievingTreatment">
             <English>Recieving treatment...</English>
             <Polish>Otrzymywanie opieki zdrowotnej...</Polish>
+            <French>Reception du traitement...</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_yes">

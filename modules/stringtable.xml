@@ -9,7 +9,7 @@
         <Key ID="STR_ls_modules_activeCamo_cannotDeactivate">
             <English>Object cannot deactivate active camo</English>
             <Polish>Obiekt nie może dezaktywować kamuflażu optycznego</Polish>
-            <French>L'objet ne peut pas déactiver le camouflage actif</French>
+            <French>L'objet ne peut pas désactiver le camouflage actif</French>
         </Key>
         <Key ID="STR_ls_modules_addedReinsertAction">
             <English>Added reinsert action to object</English>
@@ -19,7 +19,7 @@
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
             <Polish>Usunięto %1 pustych grup lokalnych</Polish>
-            <French>%1 groupes vides ont été supprimés</French>
+            <French>Suppression de %1 groupes locaux vides</French>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_label">
             <English>Custom Group</English>
@@ -29,7 +29,7 @@
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_tooltip">
             <English>Overwrites dispenser group if defined, takes array of unit class names.\nUse commas to separate classes, do not include spaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</English>
             <Polish>Nadpisuje grupę rozmieszczaną przez zasobnik, przyjmuje wartość typu array zawierającą klasy jednostek.\nUżyj przecinków aby separować klasy, nie wykorzystuj spacji.\nNp. ['ls_droid_b1','ls_droid_b2']</Polish>
-            <French>Si défini, remplace groupe de distributeurs, accepte un tableu de noms de classes d'unités.\nUtilisez des virgules pour séparer les éléments, ne pas inclur espaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</French>
+            <French>Si défini, remplace groupe de distributeurs, accepte une table de noms de classes d'unités.\nUtilisez des virgules pour séparer les éléments, ne pas inclure d'espaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</French>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_label">
             <English>Group</English>
@@ -94,13 +94,13 @@
         <Key ID="STR_ls_modules_noPlayer">
             <English>Unit must not be a player</English>
             <Polish>Jednostka nie może być graczem</Polish>
-            <French>La personne ne doit pas être une joueur</French>
+            <French>L'unité ne doit pas être un joueur</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1556-L1572 -->
         <Key ID="STR_ls_modules_nothingSelected">
             <English>Place on a unit</English>
             <Czech>Umístni na jednotku</Czech>
-            <French>Placer sur une personne</French>
+            <French>Placer sur une unité</French>
             <Spanish>Nada bajo el ratón</Spanish>
             <Italian>Piazza su una unità</Italian>
             <Polish>Użyj na jednostce</Polish>
@@ -118,7 +118,7 @@
         <Key ID="STR_ls_modules_onlyAlive">
             <English>Unit must be alive</English>
             <Czech>Použitelné jen na živé jednotky</Czech>
-            <French>La personne doit être vivante.</French>
+            <French>L'unité doit être vivante.</French>
             <Spanish>Utilizar solo en unidades vivas</Spanish>
             <Italian>Si può fare solo su unità vive</Italian>
             <Polish>Jednostka musi być żywa</Polish>
@@ -136,7 +136,7 @@
         <Key ID="STR_ls_modules_onlyInfantry">
             <English>Unit must be infantry</English>
             <Czech>Použitelné jen na pěsích jednotkách</Czech>
-            <French>La personne doit être un fantassin.</French>
+            <French>L'unité doit être un fantassin.</French>
             <Spanish>Utilizar solo en infanteria desmontada</Spanish>
             <Italian>Si può usare solo su fanteria a piedi</Italian>
             <Polish>Jednostka musi być piechotą</Polish>
@@ -157,24 +157,27 @@
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
             <Polish>Limit Jednostek</Polish>
-            <French>Limite de génération</French>
+            <French>Limite de d'apparition</French>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_tooltip">
             <English>Stops after spawning X units.\n-1 = unlimited</English>
             <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
-            <French>Arrête de créer après X personnes.\n-1 = illimité</French>
+            <French>Arrête de créer après X unités.\n-1 = illimité</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
             <Polish>Gaussowski</Polish>
+            <French>Gaussien</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_name">
             <English>Distribution</English>
             <Polish>Rozmieszczenie</Polish>
+            <French>Distribution</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_randomArea">
             <English>Random Area</English>
             <Polish>Losowy Obszar</Polish>
+            <French>Zone Aléatoire</French>
         </Key>
         <Key ID="STR_lsb_common_distribution_tooltip">
             <English>Set what distribution formula to use</English>
@@ -199,7 +202,7 @@
         <Key ID="STR_lsb_common_spaceDebrisPreset_shipDebris">
             <English>Ship Debris</English>
             <Polish>Szczątki Statków</Polish>
-            <French>Bateau débris</French>
+            <French>Débris de Vaisseau</French>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_tooltip">
             <English>Set what group of objects to use</English>
@@ -229,7 +232,7 @@
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_name">
             <English>Drift Direction</English>
             <Polish>Kierunek Dryftu</Polish>
-            <French>Direction du dérive</French>
+            <French>Direction de dérive</French>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_tooltip">
             <English>Specifies the direction for the objects to drift in</English>

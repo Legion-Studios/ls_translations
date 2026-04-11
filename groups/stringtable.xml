@@ -4,6 +4,7 @@
         <Key ID="STR_ls_groups_supportGunnerTeam">
             <English>Support Gunner Team</English>
             <Polish>Zespół Strzelców Wsparcia</Polish>
+            <French>Équipe de Tireurs de Soutien</French>
         </Key>
     </Package>
 </Project>
