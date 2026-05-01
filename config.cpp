@@ -5,6 +5,7 @@ class CfgPatches {
         author = AUTHOR;
         authors[] = {
             "Cannon",
+            "DartRuffian",
             "Bragg",
             "Vdoh",
             "Ks00908"
@@ -14,8 +15,8 @@ class CfgPatches {
         requiredAddons[] = {
             "ls_main"
         };
-        units[] = { };
-        weapons[] = { };
+        units[] = {};
+        weapons[] = {};
         VERSION_CONFIG;
     };
 };
