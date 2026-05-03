@@ -3,98 +3,98 @@
     <Package name="modules">
         <Key ID="STR_ls_modules_activeCamo_cannotActivate">
             <English>Object cannot activate active camo</English>
-            <Polish>Obiekt nie może aktywować kamuflażu optyczego</Polish>
             <French>L'objet ne peut pas activer le camouflage actif</French>
+            <Polish>Obiekt nie może aktywować kamuflażu optyczego</Polish>
         </Key>
         <Key ID="STR_ls_modules_activeCamo_cannotDeactivate">
             <English>Object cannot deactivate active camo</English>
-            <Polish>Obiekt nie może dezaktywować kamuflażu optycznego</Polish>
             <French>L'objet ne peut pas désactiver le camouflage actif</French>
+            <Polish>Obiekt nie może dezaktywować kamuflażu optycznego</Polish>
         </Key>
         <Key ID="STR_ls_modules_addedReinsertAction">
             <English>Added reinsert action to object</English>
-            <Polish>Dodano akcje ponownego rozmieszczenia do obieku</Polish>
             <French>Ajout d'une action de réinsertion à l'objet</French>
+            <Polish>Dodano akcje ponownego rozmieszczenia do obieku</Polish>
         </Key>
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
-            <Polish>Usunięto %1 pustych grup lokalnych</Polish>
             <French>Suppression de %1 groupes locaux vides</French>
+            <Polish>Usunięto %1 pustych grup lokalnych</Polish>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_label">
             <English>Custom Group</English>
-            <Polish>Własna Grupa</Polish>
             <French>Groupe Personnalisé</French>
+            <Polish>Własna Grupa</Polish>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_tooltip">
             <English>Overwrites dispenser group if defined, takes array of unit class names.\nUse commas to separate classes, do not include spaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</English>
-            <Polish>Nadpisuje grupę rozmieszczaną przez zasobnik, przyjmuje wartość typu array zawierającą klasy jednostek.\nUżyj przecinków aby separować klasy, nie wykorzystuj spacji.\nNp. ['ls_droid_b1','ls_droid_b2']</Polish>
             <French>Si défini, remplace groupe de distributeurs, accepte une table de noms de classes d'unités.\nUtilisez des virgules pour séparer les éléments, ne pas inclure d'espaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</French>
+            <Polish>Nadpisuje grupę rozmieszczaną przez zasobnik, przyjmuje wartość typu array zawierającą klasy jednostek.\nUżyj przecinków aby separować klasy, nie wykorzystuj spacji.\nNp. ['ls_droid_b1','ls_droid_b2']</Polish>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_label">
             <English>Group</English>
-            <Polish>Grupa</Polish>
             <French>Groupe</French>
+            <Polish>Grupa</Polish>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
             <English>Select what group will be spawned by the droid dispenser when it activates</English>
+            <French>Sélectinonez quel groupe sera créé par le distributeur de droïdes lors son activation</French>
             <Polish>Wybierz jaka grupa zostanie utworzona przez zasobnik droidów w momencie jego uruchomienia</Polish>
-            <French>Sélectinonez quel groupe sera créé par le distributeur de droïdes lors son activation</French> 
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_noGroup">
             <English>No group selected!</English>
-            <Polish>Nie wybrano grupy!</Polish>
             <French>Groupe non sélectionné</French>
+            <Polish>Nie wybrano grupy!</Polish>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
-            <Polish>Status blokady drzwi</Polish>
             <French>Serrure de Porte</French>
+            <Polish>Status blokady drzwi</Polish>
         </Key>
         <Key ID="STR_ls_modules_lockState_tooltip">
             <English>Door locked state to search for</English>
-            <Polish>Jakiego statusu blokady drzwi szukać</Polish>
             <French>État de la porte verrouillée pour la recherche</French>
+            <Polish>Jakiego statusu blokady drzwi szukać</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleAddReinsertAction">
             <English>Add Reinsert Action</English>
-            <Polish>Dodaj akcję ponownego rozmieszczenia</Polish>
             <French>Ajouter une action de réinsertion</French>
+            <Polish>Dodaj akcję ponownego rozmieszczenia</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal">
             <English>Area Heal</English>
-            <Polish>Leczenie w obszarze</Polish>
             <French>Soignez la zone</French>
+            <Polish>Leczenie w obszarze</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleDeleteGroups">
             <English>Delete Empty Groups</English>
-            <Polish>Usuń Puste Grupy</Polish>
             <French>Supprimer les groupes vides</French>
+            <Polish>Usuń Puste Grupy</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo">
             <English>Toggle Active Camo</English>
-            <Polish>Zmień Stan kamuflażu Optycznego</Polish>
             <French>Basculé Camouflage Actif</French>
+            <Polish>Zmień Stan kamuflażu Optycznego</Polish>
         </Key>
         <Key ID="STR_ls_modules_noClosedDoorFound">
             <English>No closed door found!</English>
-            <Polish>Nie znaleziono zamkniętych drzwi!</Polish>
             <French>Aucune porte fermée trouvée</French>
+            <Polish>Nie znaleziono zamkniętych drzwi!</Polish>
         </Key>
         <Key ID="STR_ls_modules_noDoorFound">
             <English>No door found!</English>
-            <Polish>Nie znaleziono drzwi!</Polish>
             <French>Aucune porte trouvée</French>
+            <Polish>Nie znaleziono drzwi!</Polish>
         </Key>
         <Key ID="STR_ls_modules_noOpenFound">
             <English>No door found!</English>
-            <Polish>Nie znaleziono drzwi!</Polish>
             <French>Aucune porte ouverte trouvée</French>
+            <Polish>Nie znaleziono drzwi!</Polish>
         </Key>
         <Key ID="STR_ls_modules_noPlayer">
             <English>Unit must not be a player</English>
-            <Polish>Jednostka nie może być graczem</Polish>
             <French>L'unité ne doit pas être un joueur</French>
+            <Polish>Jednostka nie może być graczem</Polish>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1556-L1572 -->
         <Key ID="STR_ls_modules_nothingSelected">
@@ -151,118 +151,118 @@
         </Key>
         <Key ID="STR_ls_modules_radius_tooltip">
             <English>Search radius in meters</English>
-            <Polish>Średnica obszaru poszukiwania w metrach</Polish>
             <French>Rayon de recherche en mètres</French>
+            <Polish>Średnica obszaru poszukiwania w metrach</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
-            <Polish>Limit Jednostek</Polish>
             <French>Limite de d'apparition</French>
+            <Polish>Limit Jednostek</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_tooltip">
             <English>Stops after spawning X units.\n-1 = unlimited</English>
-            <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
             <French>Arrête de créer après X unités.\n-1 = illimité</French>
+            <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
-            <Polish>Gaussowski</Polish>
             <French>Gaussien</French>
+            <Polish>Gaussowski</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_name">
             <English>Distribution</English>
-            <Polish>Rozmieszczenie</Polish>
             <French>Distribution</French>
+            <Polish>Rozmieszczenie</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_randomArea">
             <English>Random Area</English>
-            <Polish>Losowy Obszar</Polish>
             <French>Zone Aléatoire</French>
+            <Polish>Losowy Obszar</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_tooltip">
             <English>Set what distribution formula to use</English>
-            <Polish>Wybierz rodzaj formuły rozmieszczenia</Polish>
             <French>Sélectionner la formule de distribution</French>
+            <Polish>Wybierz rodzaj formuły rozmieszczenia</Polish>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_asteroids">
             <English>Asteroids</English>
-            <Polish>Asteroidy</Polish>
             <French>Astéroïdes</French>
+            <Polish>Asteroidy</Polish>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_asteroidsSmall">
             <English>Small Asteroids</English>
-            <Polish>Małe Asteroidy</Polish>
             <French>Petits Astéroïdes</French>
+            <Polish>Małe Asteroidy</Polish>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_name">
             <English>Debris Preset</English>
-            <Polish>Zestaw Szczątków</Polish>
             <French>Préréglage de Débris</French>
+            <Polish>Zestaw Szczątków</Polish>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_shipDebris">
             <English>Ship Debris</English>
-            <Polish>Szczątki Statków</Polish>
             <French>Débris de Vaisseau</French>
+            <Polish>Szczątki Statków</Polish>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_tooltip">
             <English>Set what group of objects to use</English>
-            <Polish>Wybierz grupę obiektów do użycia</Polish>
             <French>Sélectionner le groupe d'objets à utiliser</French>
+            <Polish>Wybierz grupę obiektów do użycia</Polish>
         </Key>
         <Key ID="STR_lsb_modules_AttributeCount_name">
             <English>Count</English>
-            <Polish>Liczba</Polish>
             <French>Total</French>
+            <Polish>Liczba</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeCount_tooltip">
             <English>The number of debris objects to spawn</English>
-            <Polish>Ilość szczątków do rozmieszczenia</Polish>
             <French>Le nombre de objets de débris à créer</French>
+            <Polish>Ilość szczątków do rozmieszczenia</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_name">
             <English>Debris Data</English>
-            <Polish>Informacje O Odłamkach</Polish>
             <French>Données sur les débris</French>
+            <Polish>Informacje O Odłamkach</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_tooltip">
             <English>Do not edit directly!\nContains position and rotation data</English>
-            <Polish>Nie edytuj bezpośrednio!\nZawiera informacje o pozycji i obrocie odłamków</Polish>
             <French>Ne pas modifier directement !\nContient les données de position et de rotation</French>
+            <Polish>Nie edytuj bezpośrednio!\nZawiera informacje o pozycji i obrocie odłamków</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_name">
             <English>Drift Direction</English>
-            <Polish>Kierunek Dryftu</Polish>
             <French>Direction de dérive</French>
+            <Polish>Kierunek Dryftu</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_tooltip">
             <English>Specifies the direction for the objects to drift in</English>
-            <Polish>Określa kierunek w którym dryftują objekty</Polish>
             <French>Spécifie la direction dans laquelle les objets dérivent</French>
+            <Polish>Określa kierunek w którym dryftują objekty</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDrifting_name">
             <English>Drifting</English>
-            <Polish>Dryft</Polish>
             <French>Dérive</French>
+            <Polish>Dryft</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDrifting_tooltip">
             <English>If enabled, spawned objects will slowly drift in a specified direction</English>
-            <Polish>Jeśli włączono to rozmieszczone objekty będą powoli przemieszczały się w określonym kierunku</Polish>
             <French>Si activé, les objets créés dériveront lentement dans une direction spécifiée</French>
+            <Polish>Jeśli włączono to rozmieszczone objekty będą powoli przemieszczały się w określonym kierunku</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeParamsOld_name">
             <English>Space Debris Parameters</English>
-            <Polish>Parametry Szczątków</Polish>
             <French>Paramètres de Débris Spatiaux</French>
+            <Polish>Parametry Szczątków</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_description">
             <English>Spawns a number of space debris objects floating in a random area around the module. The objects are created locally on each player's machine.</English>
-            <Polish>Rozmieszcza określoną liczbę Szczątków wiszących w losowych pozycjach dookoła modułu. Obiekty są lokalne na maszynach graczy.</Polish>
             <French>Créer un nombre de débris spatiaux flottants dans un zone aléatoire autour le module. Les objets sont créés sur chaque machine de joueur.</French>
+            <Polish>Rozmieszcza określoną liczbę Szczątków wiszących w losowych pozycjach dookoła modułu. Obiekty są lokalne na maszynach graczy.</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_name">
             <English>Space Debris</English>
-            <Polish>Szczątki Kosmiczne</Polish>
             <French>Débris Spatiaux</French>
+            <Polish>Szczątki Kosmiczne</Polish>
         </Key>
     </Package>
 </Project>
