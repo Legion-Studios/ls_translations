@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_droid">
+        <Key ID="STR_ls_characters_droid_b1">
+            <English>B1 Battle Droid</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_droideka">
+            <English>Droideka</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_droideka_junkyard">
+            <English>Droideka (Junkyard)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_droideka_junkyard_noShield">
+            <English>Droideka (Junkyard, No Shield)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_droideka_noShield">
+            <English>Droideka (No shield)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_droideka_uniform">
+            <English>Droideka Armored Plating</English>
+        </Key>
+    </Package>
+</Project>
