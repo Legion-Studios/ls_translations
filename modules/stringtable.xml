@@ -66,6 +66,9 @@
             <French>Soignez la zone</French>
             <Polish>Leczenie w obszarze</Polish>
         </Key>
+        <Key ID="STR_ls_modules_moduleBreachDoor">
+            <English>Breach Door</English>
+        </Key>
         <Key ID="STR_ls_modules_moduleDeleteGroups">
             <English>Delete Empty Groups</English>
             <French>Supprimer les groupes vides</French>
