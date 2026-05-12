@@ -4,6 +4,48 @@
         <Key ID="STR_ls_characters_droid_b1">
             <English>B1 Battle Droid</English>
         </Key>
+        <Key ID="STR_ls_characters_droid_b2">
+            <English>B2 Battle Droid</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b2_junkyard">
+            <English>B2 Battle Droid (Junkyard)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b2_hologram">
+            <English>B2 Battle Droid (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b2_simulation">
+            <English>B2 Battle Droid (Simulation)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_commander_geonosis_helmet">
+            <English>B1 Commander Droid Head (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_commander_helmet">
+            <English>B1 Commander Droid Head</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_crew_helmet">
+            <English>OOM-Series Crew Droid Head</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_geonosis_helmet">
+            <English>B1 Battle Droid Head (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_helmet">
+            <English>B1 Battle Droid Head</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_hologram_helmet">
+            <English>B1 Battle Droid Head (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_saboteur_helmet">
+            <English>B1 Battle Droid Head (Saboteur)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_security_helmet">
+            <English>OOM-Series Security Droid Head</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_simulation_helmet">
+            <English>B1 Battle Droid Head (Simulation)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_training_helmet">
+            <English>B1 Battle Droid Head (Training)</English>
+        </Key>
         <Key ID="STR_ls_characters_droid_droideka">
             <English>Droideka</English>
         </Key>
