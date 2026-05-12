@@ -252,6 +252,9 @@
                 <Polish>Kamizelka Klona ARC</Polish>
                 <Russian>Жилет ARC-клона (ВАР)</Russian>
             </Key>
+            <Key ID="STR_ls_characters_clone_basic_vest">
+                <English>Clone Trooper Vest</English>
+            </Key>
             <Key ID="STR_ls_characters_clone_gunner_vest">
                 <English>Clone Gunner Vest</English>
                 <French>Gilet de Clone Tireur (Gunner)</French>
