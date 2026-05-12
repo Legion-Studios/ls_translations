@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_csf">
+        <Key ID="STR_ls_characters_csf_senateCommando">
+            <English>Senate Commando</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_captain">
+            <English>Senate Commando Captain</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_captain_helmet">
+            <English>Senate Commando Captain Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_captain_uniform">
+            <English>Senate Commando Captain Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_guardsman_helmet">
+            <English>Senate Commando Guardsman Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_guardsman_uniform">
+            <English>Senate Commando Guardsman Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_helmet">
+            <English>Senate Commando Trooper Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_hologram">
+            <English>Senate Commando (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_hologram_helmet">
+            <English>Senate Commando Helmet (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_hologram_uniform">
+            <English>Senate Commando Armor (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_lieutenant">
+            <English>Senate Commando Lieutenant</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_lieutenant_helmet">
+            <English>Senate Commando Lieutenant Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_lieutenant_uniform">
+            <English>Senate Commando Lieutenant Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommando_uniform">
+            <English>Senate Commando Trooper Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_csf_senateCommandos">
+            <English>Senate Commandos</English>
+        </Key>
+    </Package>
+</Project>
