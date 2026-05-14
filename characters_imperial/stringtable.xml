@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_imperial">
+        <Key ID="STR_ls_characters_imperial_armored_army_rolled_black_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_armored_army_rolled_isb_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_armored_army_rolled_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army">
+            <English>Imperial Army</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_black_uniform">
+            <English>Imperial Army Fatigues (Armored, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_isb_uniform">
+            <English>Imperial Army Fatigues (Armored, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_mudtrooper_uniform">
+            <English>Imperial Army Fatigues (Armored, Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_rolled_black_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_rolled_isb_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_rolled_mudtrooper_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled, Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_rolled_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_uniform">
+            <English>Imperial Army Fatigues (Armored)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_black_helmet">
+            <English>Imperial Army Helmet (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_black_holster_vest">
+            <English>Imperial Army Vest (Black, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_black_tacbelt">
+            <English>Imperial Tacbelt (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_black_uniform">
+            <English>Imperial Army Fatigues (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_black_uniform">
+            <English>Imperial Army Fatigues (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_black_vest">
+            <English>Imperial Army Vest (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_damaged_vest">
+            <English>Imperial Army Vest (Damaged)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gd_black_helmet">
+            <English>Imperial Army Helmet (Goggles Down, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gd_helmet">
+            <English>Imperial Army Helmet (Goggles Down)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gd_isb_helmet">
+            <English>Imperial Army Helmet (Goggles Down, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gd_mudtrooper_helmet">
+            <English>Imperial Army Helmet (Goggles Down, Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gdr_black_helmet">
+            <English>Imperial Army Helmet (Goggles Down, Rebreather, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gdr_helmet">
+            <English>Imperial Army Helmet (Goggles Down, Rebreather)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gdr_isb_helmet">
+            <English>Imperial Army Helmet (Goggles Down, Rebreather, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gdr_mudtrooper_helmet">
+            <English>Imperial Army Helmet (Goggles Down, Rebreather, Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gu_black_helmet">
+            <English>Imperial Army Helmet (Goggles Up, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gu_helmet">
+            <English>Imperial Army Helmet (Goggles Up)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gu_isb_helmet">
+            <English>Imperial Army Helmet (Goggles Up, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gu_mudtrooper_helmet">
+            <English>Imperial Army Helmet (Goggles Up, Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gur_black_helmet">
+            <English>Imperial Army Helmet (Goggles Up, Rebreather, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gur_helmet">
+            <English>Imperial Army Helmet (Goggles Up, Rebreather)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gur_isb_helmet">
+            <English>Imperial Army Helmet (Goggles Up, Rebreather, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_gur_mudtrooper_helmet">
+            <English>Imperial Army Helmet (Goggles Up, Rebreather, Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_helmet">
+            <English>Imperial Army Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_holster_vest">
+            <English>Imperial Army Vest (Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_isb_helmet">
+            <English>Imperial Army Helmet (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_isb_holster_vest">
+            <English>Imperial Army Vest (ISB, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_isb_tacbelt">
+            <English>Imperial Tacbelt (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_isb_uniform">
+            <English>Imperial Army Fatigues (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_isb_vest">
+            <English>Imperial Army Vest (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_black_vest">
+            <English>Imperial Army Light Vest (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_black_vest">
+            <English>Imperial Army Light Vest (Black, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_isb_vest">
+            <English>Imperial Army Light Vest (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_isb_vest">
+            <English>Imperial Army Light Vest (ISB, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_vest">
+            <English>Imperial Army Light Vest (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_vest">
+            <English>Imperial Army Light Vest (Mudtrooper, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_vest">
+            <English>Imperial Army Light Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_vest">
+            <English>Imperial Army Light Vest (Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medic_black_holster_vest">
+            <English>Imperial Army Medic Vest (Black, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medic_black_vest">
+            <English>Imperial Army Medic Vest (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medic_damaged_vest">
+            <English>Imperial Army Medic Vest (Damaged)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medic_holster_vest">
+            <English>Imperial Army Medic Vest (Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medic_mudtrooper_holster_vest">
+            <English>Imperial Army Medic Vest (Mudtrooper, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medic_mudtrooper_vest">
+            <English>Imperial Army Medic Vest (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medic_vest">
+            <English>Imperial Army Medic Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medium_black_holster_vest">
+            <English>Imperial Army Medium Vest (Black, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medium_black_vest">
+            <English>Imperial Army Medium Vest (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medium_holster_vest">
+            <English>Imperial Army Medium Vest (Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medium_isb_holster_vest">
+            <English>Imperial Army Medium Vest (ISB, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medium_isb_vest">
+            <English>Imperial Army Medium Vest (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medium_mudtrooper_holster_vest">
+            <English>Imperial Army Medium Vest (Mudtrooper, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medium_mudtrooper_vest">
+            <English>Imperial Army Medium Vest (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_medium_vest">
+            <English>Imperial Army Medium Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_mudtrooper_helmet">
+            <English>Imperial Army Helmet (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_mudtrooper_holster_vest">
+            <English>Imperial Army Vest (Mudtrooper, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_mudtrooper_tacbelt">
+            <English>Imperial Tacbelt (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_mudtrooper_uniform">
+            <English>Imperial Army Fatigues (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_mudtrooper_uniform">
+            <English>Imperial Army Fatigues (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_mudtrooper_vest">
+            <English>Imperial Army Vest (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_mudtroopers">
+            <English>Mudtroopers</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_black_holster_vest">
+            <English>Imperial Army Officer Vest (Black, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_black_vest">
+            <English>Imperial Army Officer Vest (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_damaged_vest">
+            <English>Imperial Army Officer Vest (Damaged)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_holster_vest">
+            <English>Imperial Army Officer Vest (Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_isb_holster_vest">
+            <English>Imperial Army Officer Vest (ISB, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_isb_vest">
+            <English>Imperial Army Officer Vest (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_mudtrooper_holster_vest">
+            <English>Imperial Army Officer Vest (Mudtrooper, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_mudtrooper_vest">
+            <English>Imperial Army Officer Vest (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_officer_vest">
+            <English>Imperial Army Officer Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_rio">
+            <English>Riot Control</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_rolled_black_uniform">
+            <English>Imperial Army Fatigues (Rolled, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_rolled_isb_uniform">
+            <English>Imperial Army Fatigues (Rolled, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_rolled_mudtrooper_uniform">
+            <English>Imperial Army Fatigues (Rolled, Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_rolled_uniform">
+            <English>Imperial Army Fatigues (Rolled)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_tacbelt">
+            <English>Imperial Tacbelt</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_uniform">
+            <English>Imperial Army Fatigues</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_uniform">
+            <English>Imperial Army Fatigues</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_vest">
+            <English>Imperial Army Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_earPiece">
+            <English>Imperial Ear Piece</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_isb">
+            <English>ISB</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_kepi_black_helmet">
+            <English>Imperial Kepi (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_kepi_goggles_black_helmet">
+            <English>Imperial Kepi (Goggles, Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_kepi_goggles_helmet">
+            <English>Imperial Kepi (Goggles)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_kepi_goggles_isb_helmet">
+            <English>Imperial Kepi (Goggles, ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_kepi_goggles_mudtrooper_helmet">
+            <English>Imperial Kepi (Goggles, Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_kepi_helmet">
+            <English>Imperial Kepi</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_kepi_isb_helmet">
+            <English>Imperial Kepi (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_kepi_mudtrooper_helmet">
+            <English>Imperial Kepi (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_rebreather">
+            <English>Imperial Rebreather</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_rebreather_black">
+            <English>Imperial Rebreather (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_rebreather_isb">
+            <English>Imperial Rebreather (ISB)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_rebreather_mudtrooper">
+            <English>Imperial Rebreather (Mudtrooper)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_satchel">
+            <English>Imperial Satchel</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_satchelOthers">
+            <English>Imperial Satchel (Others)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_shoulderPouch">
+            <English>Imperial Shoulder Pouch</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_captain">
+            <English>Stormtrooper Pauldron (Captain)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_corporal">
+            <English>Stormtrooper Pauldron (Corporal)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_lieutenant">
+            <English>Stormtrooper Pauldron (Lieutenant)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_sergeant">
+            <English>Stormtrooper Pauldron (Sergeant)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_tactical_isb_vest">
+            <English>Imperial Tactical Vest (ISB, Holster)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_tactical_isb_vest">
+            <English>Imperial Tactical Officer Vest (ISB, Holster)</English>
+        </Key>
+    </Package>
+</Project>
