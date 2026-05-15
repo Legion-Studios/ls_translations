@@ -127,29 +127,29 @@
         <Key ID="STR_ls_characters_imperial_army_isb_vest">
             <English>Imperial Army Vest (ISB)</English>
         </Key>
-        <Key ID="STR_ls_characters_imperial_army_light_black_vest">
-            <English>Imperial Army Light Vest (Black)</English>
-        </Key>
         <Key ID="STR_ls_characters_imperial_army_light_black_holster_vest">
             <English>Imperial Army Light Vest (Black, Holster)</English>
         </Key>
-        <Key ID="STR_ls_characters_imperial_army_light_isb_vest">
-            <English>Imperial Army Light Vest (ISB)</English>
+        <Key ID="STR_ls_characters_imperial_army_light_black_vest">
+            <English>Imperial Army Light Vest (Black)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_holster_vest">
+            <English>Imperial Army Light Vest (Holster)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_isb_holster_vest">
             <English>Imperial Army Light Vest (ISB, Holster)</English>
         </Key>
-        <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_vest">
-            <English>Imperial Army Light Vest (Mudtrooper)</English>
+        <Key ID="STR_ls_characters_imperial_army_light_isb_vest">
+            <English>Imperial Army Light Vest (ISB)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_holster_vest">
             <English>Imperial Army Light Vest (Mudtrooper, Holster)</English>
         </Key>
+        <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_vest">
+            <English>Imperial Army Light Vest (Mudtrooper)</English>
+        </Key>
         <Key ID="STR_ls_characters_imperial_army_light_vest">
             <English>Imperial Army Light Vest</English>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_light_holster_vest">
-            <English>Imperial Army Light Vest (Holster)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_black_holster_vest">
             <English>Imperial Army Medic Vest (Black, Holster)</English>
