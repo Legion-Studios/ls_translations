@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_mandalorian">
+        <Key ID="STR_ls_characters_mandalorian_armorer_helmet">
+            <English>Mandalorian Armorer Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_backpack">
+            <English>Mandalorian Backpack</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_clanEldar">
+            <English>Clan Eldar</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_clanOrdo">
+            <English>Clan Ordo</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_clanSaxon">
+            <English>Clan Saxon</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_clanVizsla">
+            <English>Clan Vizsla</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_daypack">
+            <English>Mandalorian Daypack</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_deathwatch">
+            <English>Deathwatch</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_deathwatch_captain_helmet">
+            <English>Deathwatch Captain Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_deathwatch_captain_vest">
+            <English>Deathwatch Captain Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_deathwatch_grunt_helmet">
+            <English>Deathwatch Grunt Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_deathwatch_grunt_vest">
+            <English>Deathwatch Grunt Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_deathwatch_nightowl_helmet">
+            <English>Deathwatch Nightowl Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_deathwatch_sergeant_helmet">
+            <English>Deathwatch Sergeant Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_deathwatch_sergeant_vest">
+            <English>Deathwatch Sergeant Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_demo_backpack">
+            <English>Mandalorian Demopack</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_dinDjarin_beskar_helmet">
+            <English>Din Djarin's Helmet (Beskar)</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_dinDjarin_helmet">
+            <English>Din Djarin's Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_eldar_grunt_helmet">
+            <English>Clan Eldar Grunt Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_eldar_grunt_vest">
+            <English>Clan Eldar Grunt Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_eldar_sergeant_helmet">
+            <English>Clan Eldar Sergeant Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_eldar_sergeant_vest">
+            <English>Clan Eldar Sergeant Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_elite_helmet">
+            <English>Mandalorian Elite Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_executioner_helmet">
+            <English>Mandalorian Executioner Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_heavy_backpack">
+            <English>Mandalorian Heavy Backpack</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_journeyman_jetpack">
+            <English>Journeyman's Jetpack</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_medic_daypack">
+            <English>Mandalorian Medic Daypack</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_nightowl_helmet">
+            <English>Mandalorian Nightowl Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_ordo_grunt_helmet">
+            <English>Clan Ordo Grunt Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_ordo_grunt_vest">
+            <English>Clan Ordo Grunt Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_ordo_sergeant_helmet">
+            <English>Clan Ordo Sergeant Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_ordo_sergeant_vest">
+            <English>Clan Ordo Sergeant Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_pouches_feminine">
+            <English>Mandalorian Pouches (Feminine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_pouches_masculine">
+            <English>Mandalorian Pouches (Masculine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_protector_masculine_slim_vest">
+            <English>Mandalorian Protector Armor (Masculine, Slim)</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_protector_masculine_uniform">
+            <English>Mandalorian Protector Armor (Masculine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_protector_masculine_vest">
+            <English>Mandalorian Protector Vest (Masculine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_radio_daypack">
+            <English>Mandalorian Radio Daypack</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_rangefinder">
+            <English>Mandalorian Rangefinder</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_saxon_grunt_helmet">
+            <English>Clan Saxon Grunt Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_saxon_grunt_vest">
+            <English>Clan Saxon Grunt Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_saxon_sergeant_helmet">
+            <English>Clan Saxon Sergeant Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_saxon_sergeant_vest">
+            <English>Clan Saxon Sergeant Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_stalker_helmet">
+            <English>Mandalorian Stalker Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_superCommando_captain_helmet">
+            <English>Super Commando Captain Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_superCommando_grunt_helmet">
+            <English>Super Commando Grunt Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_superCommando_grunt_uniform">
+            <English>Super Commando Grunt Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_superCommando_grunt_vest">
+            <English>Super Commando Grunt Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_superCommando_sergeant_helmet">
+            <English>Super Commando Sergeant Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_superCommando_sergeant_uniform">
+            <English>Super Commando Sergeant Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_superCommando_sergeant_vest">
+            <English>Super Commando Sergeant Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_superCommandos">
+            <English>Super Commandos</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_traditional">
+            <English>Traditional Warriors</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_traditional_feminine_uniform">
+            <English>Mandalorian Traditional Armor (Feminine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_traditional_helmet">
+            <English>Mandalorian Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_traditional_helmet">
+            <English>Mandalorian Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_undersuit_masculine">
+            <English>Mandalorian Undersuit (Masculine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_vest">
+            <English>Mandalorian Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_vizsla_captain_helmet">
+            <English>Clan Vizsla Captain Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_vizsla_captain_vest">
+            <English>Clan Vizsla Captain Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_vizsla_grunt_helmet">
+            <English>Clan Vizsla Grunt Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_vizsla_grunt_vest">
+            <English>Clan Vizsla Grunt Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_vizsla_sergeant_helmet">
+            <English>Clan Vizsla Sergeant Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_mandalorian_vizsla_sergeant_vest">
+            <English>Clan Vizsla Sergeant Armor</English>
+        </Key>
+    </Package>
+</Project>
