@@ -261,6 +261,11 @@
             <Polish>Plecak Klona z Rakietami</Polish>
             <Russian>Рюкзак ракетчика (ВАР)</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_scout">
+            <English>Clone Scout Trooper</English>
+            <French>Clone Soldat (Scout)</French>
+            <Polish>Żołnierz Klon (Zwiadowca)</Polish>
+        </Key>
         <Key ID="STR_ls_characters_clone_scout_helmet">
             <English>Clone Scout Helmet</English>
         </Key>
@@ -272,11 +277,6 @@
         </Key>
         <Key ID="STR_ls_characters_clone_scout_vest">
             <English>Clone Scout Pouches</English>
-        </Key>
-        <Key ID="STR_ls_characters_clone_scout">
-            <English>Clone Scout Trooper</English>
-            <French>Clone Soldat (Scout)</French>
-            <Polish>Żołnierz Klon (Zwiadowca)</Polish>
         </Key>
     </Package>
 </Project>
