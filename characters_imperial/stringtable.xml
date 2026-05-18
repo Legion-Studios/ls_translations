@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="characters_imperial">
-        <Key ID="STR_ls_characters_imperial_armored_army_rolled_black_uniform">
-            <English>Imperial Army Fatigues (Armored, Rolled, Black)</English>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_armored_army_rolled_isb_uniform">
-            <English>Imperial Army Fatigues (Armored, Rolled, ISB)</English>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_armored_army_rolled_uniform">
-            <English>Imperial Army Fatigues (Armored, Rolled)</English>
-        </Key>
         <Key ID="STR_ls_characters_imperial_army">
             <English>Imperial Army</English>
         </Key>
@@ -117,9 +108,6 @@
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_tacbelt">
             <English>Imperial Tacbelt (ISB)</English>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_isb_uniform">
-            <English>Imperial Army Fatigues (ISB)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_vest">
             <English>Imperial Army Vest (ISB)</English>
@@ -238,14 +226,11 @@
         <Key ID="STR_ls_characters_imperial_army_officer_vest">
             <English>Imperial Army Officer Vest</English>
         </Key>
-        <Key ID="STR_ls_characters_imperial_army_rio">
+        <Key ID="STR_ls_characters_imperial_army_riot">
             <English>Riot Control</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_black_uniform">
             <English>Imperial Army Fatigues (Rolled, Black)</English>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_rolled_isb_uniform">
-            <English>Imperial Army Fatigues (Rolled, ISB)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Rolled, Mudtrooper)</English>

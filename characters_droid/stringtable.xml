@@ -184,11 +184,5 @@
         <Key ID="STR_ls_characters_droid_droideka_uniform">
             <English>Droideka Armored Plating</English>
         </Key>
-        <Key ID="STR_ls_characters_droid_tseries">
-            <English>T-Series Droid</English>
-        </Key>
-        <Key ID="STR_ls_characters_droid_tseries_uniform">
-            <English>T-Series Droid Chassis</English>
-        </Key>
     </Package>
 </Project>

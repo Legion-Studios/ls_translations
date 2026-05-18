@@ -196,11 +196,6 @@
             <French>Costumes Multijoueur</French>
             <Polish>Skórki trybu Wieloosobowego</Polish>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_officer">
-            <English>Clone Officer</English>
-            <French>Clone Officier</French>
-            <Polish>Klon Oficer</Polish>
-        </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_omegaSquad">
             <English>Omega Squad</English>
             <French>Escouade Omega</French>
@@ -220,11 +215,6 @@
             <English>Clone Trooper (RTO)</English>
             <French>Clone Soldat (RTO)</French>
             <Polish>Żołnierz Klon (Radiotelefon)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_scout">
-            <English>Clone Scout Trooper</English>
-            <French>Clone Soldat (Scout)</French>
-            <Polish>Żołnierz Klon (Zwiadowca)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_sergeant">
             <English>Clone Sergeant</English>

@@ -57,12 +57,6 @@
             <Polish>Kamizelka Klona ARC</Polish>
             <Russian>Жилет ARC-клона (ВАР)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_arf">
-            <English>ARF (Phase 2)</English>
-            <French>ARF (Phase 2)</French>
-            <Polish>ARF (Faza 2)</Polish>
-            <Russian>ARF (Фаза 2)</Russian>
-        </Key>
         <Key ID="STR_ls_characters_clone_arf_helmet">
             <English>Clone ARF Helmet</English>
             <French>Casque Clone ARF</French>
@@ -150,12 +144,6 @@
         <Key ID="STR_ls_characters_clone_lieutenant_vest">
             <English>Clone Lieutenant Vest</English>
         </Key>
-        <Key ID="STR_ls_characters_clone_marine">
-            <English>Marine</English>
-            <French>Marine</French>
-            <Polish>Galaktyczna Piechota Morska</Polish>
-            <Russian>Пехотинец (Фаза 2)</Russian>
-        </Key>
         <Key ID="STR_ls_characters_clone_medic_backpack">
             <English>Clone Medic Backpack</English>
             <French>Sac à dos Médical Clone</French>
@@ -207,29 +195,11 @@
         <Key ID="STR_ls_characters_clone_phase2_commander_visor_white">
             <English>Clone Phase 2 Commander Visor (White)</English>
         </Key>
-        <Key ID="STR_ls_characters_clone_phase2_grenadier">
-            <English>Grenadier (Phase 2)</English>
-            <French>Grenadier (Phase 2)</French>
-            <Polish>Grenadier (Faza 2)</Polish>
-            <Russian>Гренадер (Фаза 2)</Russian>
-        </Key>
         <Key ID="STR_ls_characters_clone_phase2_helmet">
             <English>Clone Phase 2 Helmet</English>
             <French>Casque Clone Phase 2</French>
             <Polish>Hełm Klona Fazy 2</Polish>
             <Russian>Шлем клона (2-й фазы)</Russian>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_marksman">
-            <English>Marksman (Phase 2)</English>
-            <French>Sniper (Phase 2)</French>
-            <Polish>Strzelec Wyborowy (Faza 2)</Polish>
-            <Russian>Меткий стрелок (Фаза 2)</Russian>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_medic">
-            <English>Medic (Phase 2)</English>
-            <French>Médecin (Phase 2)</French>
-            <Polish>Medyk (Faza 2)</Polish>
-            <Russian>Медик (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
             <English>Clone Pilot Phase 2 Helmet</English>
@@ -239,18 +209,6 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_rangefinder">
             <English>Clone Phase 2 Rangefinder</English>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_rifleman">
-            <English>Rifleman (Phase 2)</English>
-            <French>Fusilier (Phase 2)</French>
-            <Polish>Strzelec (Faza 2)</Polish>
-            <Russian>Стрелок (Фаза 2)</Russian>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_sniper">
-            <English>Sniper (Phase 2)</English>
-            <French>Tireur d'Élite (Phase 2)</French>
-            <Polish>Snajper (Faza 2)</Polish>
-            <Russian>Снайпер (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_uniform">
             <English>Clone Phase 2 Armor</English>
@@ -314,6 +272,11 @@
         </Key>
         <Key ID="STR_ls_characters_clone_scout_vest">
             <English>Clone Scout Pouches</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_scout">
+            <English>Clone Scout Trooper</English>
+            <French>Clone Soldat (Scout)</French>
+            <Polish>Żołnierz Klon (Zwiadowca)</Polish>
         </Key>
     </Package>
 </Project>
