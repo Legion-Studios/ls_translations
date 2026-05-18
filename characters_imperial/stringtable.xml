@@ -49,9 +49,6 @@
         <Key ID="STR_ls_characters_imperial_army_black_uniform">
             <English>Imperial Army Fatigues (Black)</English>
         </Key>
-        <Key ID="STR_ls_characters_imperial_army_black_uniform">
-            <English>Imperial Army Fatigues (Black)</English>
-        </Key>
         <Key ID="STR_ls_characters_imperial_army_black_vest">
             <English>Imperial Army Vest (Black)</English>
         </Key>
@@ -208,9 +205,6 @@
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Mudtrooper)</English>
         </Key>
-        <Key ID="STR_ls_characters_imperial_army_mudtrooper_uniform">
-            <English>Imperial Army Fatigues (Mudtrooper)</English>
-        </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_vest">
             <English>Imperial Army Vest (Mudtrooper)</English>
         </Key>
@@ -261,9 +255,6 @@
         </Key>
         <Key ID="STR_ls_characters_imperial_army_tacbelt">
             <English>Imperial Tacbelt</English>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_uniform">
-            <English>Imperial Army Fatigues</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_uniform">
             <English>Imperial Army Fatigues</English>
@@ -337,7 +328,7 @@
         <Key ID="STR_ls_characters_imperial_tactical_isb_vest">
             <English>Imperial Tactical Vest (ISB, Holster)</English>
         </Key>
-        <Key ID="STR_ls_characters_imperial_tactical_isb_vest">
+        <Key ID="STR_ls_characters_imperial_tactical_officer_isb_vest">
             <English>Imperial Tactical Officer Vest (ISB, Holster)</English>
         </Key>
     </Package>

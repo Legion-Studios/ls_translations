@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_new_republic">
+        <Key ID="STR_ls_characters_new_republic_chestRig_pouches_vest">
+            <English>Chest Rig (Pouches, New Republic)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_chestRig_vest">
+            <English>Chest Rig (New Republic)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_coif">
+            <English>Coif (New Republic)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_cqcm_helmet">
+            <English>Close Quarters Combat Helmet (New Republic)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_cqcm_mask_helmet">
+            <English>Close Quarters Combat Helmet (New Republic)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_cqcm_mask_visor_helmet">
+            <English>Close Quarters Combat Helmet (Visor, New Republic)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_cqcm_visor_helmet">
+            <English>Close Quarters Combat Helmet (Visor, New Republic)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_naval_alt1_uniform">
+            <English>New Republic Naval Uniform (Alt 1)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_naval_alt2_uniform">
+            <English>New Republic Naval Uniform (Alt 2)</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_naval_heavy_vest">
+            <English>New Republic Heavy Naval Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_naval_light_vest">
+            <English>New Republic Light Naval Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_naval_medium_vest">
+            <English>New Republic Medium Naval Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_naval_uniform">
+            <English>New Republic Naval Uniform</English>
+        </Key>
+        <Key ID="STR_ls_characters_new_republic_naval_vest">
+            <English>New Republic Naval Armor</English>
+        </Key>
+    </Package>
+</Project>

@@ -306,6 +306,9 @@
         <Key ID="STR_ls_characters_clone_scout_helmet">
             <English>Clone Scout Helmet</English>
         </Key>
+        <Key ID="STR_ls_characters_clone_scout_undersuit_uniform">
+            <English>Clone Scout Undersuit</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_scout_uniform">
             <English>Clone Scout Armor</English>
         </Key>
