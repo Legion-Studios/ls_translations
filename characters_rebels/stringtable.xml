@@ -4,5 +4,8 @@
         <Key ID="STR_ls_characters_rebels_honorGuard_uniform">
             <English>Rebel Honor Guard Fatigues</English>
         </Key>
+        <Key ID="STR_ls_characters_rebels_chestPouches">
+            <English>Rebel Chest Pouches</English>
+        </Key>
     </Package>
 </Project>
