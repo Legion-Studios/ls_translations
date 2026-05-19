@@ -94,6 +94,42 @@
             <Polish>Kaptur</Polish>
             <Russian>Капюшон</Russian>
         </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel0_helmet">
+            <English>Invisible Helmet (Armor Level 0)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel0_vest">
+            <English>Invisible Vest (Armor Level 0)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel1_helmet">
+            <English>Invisible Helmet (Armor Level 1)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel1_vest">
+            <English>Invisible Vest (Armor Level 1)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel2_helmet">
+            <English>Invisible Helmet (Armor Level 2)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel2_vest">
+            <English>Invisible Vest (Armor Level 2)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel3_helmet">
+            <English>Invisible Helmet (Armor Level 3)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel3_vest">
+            <English>Invisible Vest (Armor Level 3)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel4_helmet">
+            <English>Invisible Helmet (Armor Level 4)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel4_vest">
+            <English>Invisible Vest (Armor Level 4)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel5_helmet">
+            <English>Invisible Helmet (Armor Level 5)</English>
+        </Key>
+        <Key ID="STR_ls_characters_invisible_armorLevel5_vest">
+            <English>Invisible Vest (Armor Level 5)</English>
+        </Key>
         <Key ID="STR_ls_characters_jockey_goggles_helmet">
             <English>Jockey (Goggles)</English>
         </Key>
