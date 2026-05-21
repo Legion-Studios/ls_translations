@@ -153,10 +153,19 @@
             <French>Forces de Sécurité des Régions Exterieurs</French>
             <Polish>Siły Obrone Regionów Zewnętrznych</Polish>
         </Key>
+        <Key ID="STR_ls_common_pickUp">
+            <English>Pick up</English>
+        </Key>
         <Key ID="STR_ls_common_pirates">
             <English>Pirates</English>
             <French>Pirates</French>
             <Polish>Piraci</Polish>
+        </Key>
+        <Key ID="STR_ls_common_placeItem">
+            <English>Place item</English>
+        </Key>
+        <Key ID="STR_ls_common_placingProgress">
+            <English>Placing %1...</English>
         </Key>
         <Key ID="STR_ls_common_rebelAlliance">
             <English>Rebel Alliance</English>
