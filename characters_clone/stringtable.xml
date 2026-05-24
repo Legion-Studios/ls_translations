@@ -31,6 +31,12 @@
                 <French>Sac à dos Munitions Clone</French>
                 <Polish>Plecak Klona Nosiciela Amunicji</Polish>
             </Key>
+            <Key ID="STR_ls_characters_clone_arcTrooper">
+                <English>Clone ARC Trooper</English>
+            </Key>
+            <Key ID="STR_ls_characters_clone_arcTroopers">
+                <English>Clone ARC Trooper</English>
+            </Key>
             <Key ID="STR_ls_characters_clone_arc_backpack">
                 <English>Clone ARC Backpack</English>
                 <French>Sac à dos Clone ARC</French>
@@ -251,6 +257,9 @@
                 <French>Gilet de Clone ARC</French>
                 <Polish>Kamizelka Klona ARC</Polish>
                 <Russian>Жилет ARC-клона (ВАР)</Russian>
+            </Key>
+            <Key ID="STR_ls_characters_clone_commander_vest">
+                <English>Clone Commander Vest</English>
             </Key>
             <Key ID="STR_ls_characters_clone_gunner_vest">
                 <English>Clone Gunner Vest</English>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="characters_clone_legions">
+        <Key ID="STR_ls_characters_clone_legions_appo">
+            <English>Appo</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_boil">
+            <English>Boil</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_104th">
             <English>104th Wolfpack Battalion</English>
             <French>104e Bataillon "Wolfpack"</French>
@@ -251,10 +257,31 @@
             <French>Escouade "Yayax"</French>
             <Polish>Oddział "Yayax"</Polish>
         </Key>
+        <Key ID="STR_ls_characters_clone_legions_cody">
+            <English>Commander Cody</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_dogma">
+            <English>Dogma</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_garLegions">
             <English>Grand Army of the Republic Legions</English>
             <French>Legions de la Grande Armée de la République</French>
             <Polish>Legiony Wielkiej Armii Republiki</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_jesse">
+            <English>Jesse</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_kix">
+            <English>Kix</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_rex">
+            <English>Captain Rex</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_tup">
+            <English>Tup</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_waxer">
+            <English>Waxer</English>
         </Key>
     </Package>
 </Project>
