@@ -3,64 +3,83 @@
     <Package name="characters">
         <Key ID="STR_ls_characters_chestRig_pouches_vest">
             <English>Chest Rig (Pouches)</English>
+            <French>Harnais de Poitrine (Poches)</French>
         </Key>
         <Key ID="STR_ls_characters_chestRig_vest">
             <English>Chest Rig</English>
+            <French>Harnais de Poitrine</French>
         </Key>
         <Key ID="STR_ls_characters_coif">
             <English>Coif</English>
+            <French>Coiffe</French>
         </Key>
         <Key ID="STR_ls_characters_cqcm_helmet">
             <English>Close Quarters Combat Helmet</English>
+            <French>Casque de Combat Rapproché</French>
         </Key>
         <Key ID="STR_ls_characters_cqcm_mask_helmet">
             <English>Close Quarters Combat Helmet</English>
+            <French>Casque de Combat Rapproché</French>
         </Key>
         <Key ID="STR_ls_characters_cqcm_mask_visor_helmet">
             <English>Close Quarters Combat Helmet (Visor)</English>
+            <French>Casque de Combat Rapproché (Visière)</French>
         </Key>
         <Key ID="STR_ls_characters_cqcm_visor_helmet">
             <English>Close Quarters Combat Helmet (Visor)</English>
+            <French>Casque de Combat Rapproché (Visière)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_brown_vest">
             <English>Flak Jacket (Brown)</English>
+            <French>Gilet Pare-Balles (Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_open_vest">
             <English>Flak Jacket (Open)</English>
+            <French>Gilet Pare-Balles (Ouverte)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouchesAlt_brown_vest">
             <English>Flak Jacket (Pouches, Brown, Alt)</English>
+            <French>Gilet Pare-Balles (Poches, Brun, Alt)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouchesAlt_vest">
             <English>Flak Jacket (Pouches, Alt)</English>
+            <French>Gilet Pare-Balles (Poches, Alt)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouches_brown_vest">
             <English>Flak Jacket (Pouches, Brown)</English>
+            <French>Gilet Pare-Balles (Poches, Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouches_vest">
             <English>Flak Jacket (Pouches)</English>
+            <French>Gilet Pare-Balles (Poches)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_vest">
             <English>Flak Jacket</English>
+            <French>Gilet Pare-Balles</French>
         </Key>
         <Key ID="STR_ls_characters_goggles">
             <English>Goggles</English>
+            <French>Lunettes</French>
         </Key>
         <Key ID="STR_ls_characters_goggles_blue">
             <English>Goggles (Blue)</English>
+            <French>Lunettes (Bleu)</French>
         </Key>
         <Key ID="STR_ls_characters_goggles_green">
             <English>Goggles (Green)</English>
+            <French>Lunettes (Verte)</French>
         </Key>
         <Key ID="STR_ls_characters_goggles_orange">
             <English>Goggles (Orange)</English>
+            <French>Lunettes (Orange)</French>
         </Key>
         <Key ID="STR_ls_characters_goggles_white">
             <English>Goggles (White)</English>
+            <French>Lunettes (Blanc)</French>
         </Key>
         <Key ID="STR_ls_characters_gunslinger_hat">
             <English>Gunslinger Hat</English>
-            <French>Chapeau de tireur d'élite</French>
+            <French>Chapeau de Bandit</French>
             <Polish>Kapelusz łowcy nagród</Polish>
             <Russian>Шляпа стрелка</Russian>
         </Key>
@@ -78,15 +97,19 @@
         </Key>
         <Key ID="STR_ls_characters_holster_brown_vest">
             <English>Belt and Holster (Brown)</English>
+            <French>Ceinture et étui (Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_holster_maroon_vest">
             <English>Belt and Holster (Maroon)</English>
+            <French>Ceinture et étui (Marron)</French>
         </Key>
         <Key ID="STR_ls_characters_holster_vest">
             <English>Belt and Holster</English>
+            <French>Ceinture et étui</French>
         </Key>
         <Key ID="STR_ls_characters_honorGuardVisor">
             <English>Honor Guard Visor</English>
+            <French>Visière de Guarde d'Honneur</French>
         </Key>
         <Key ID="STR_ls_characters_hood">
             <English>Hood</English>
@@ -132,48 +155,63 @@
         </Key>
         <Key ID="STR_ls_characters_jockey_goggles_helmet">
             <English>Jockey (Goggles)</English>
+            <French>Casquette Jockey (Lunettes)</French>
         </Key>
         <Key ID="STR_ls_characters_jockey_helmet">
             <English>Jockey</English>
+            <French>Casquette Jockey</French>
         </Key>
         <Key ID="STR_ls_characters_jockey_navy_goggles_helmet">
             <English>Jockey (Navy, Goggles)</English>
+            <French>Casquette Jockey (Blue Marine, Lunettes)</French>
         </Key>
         <Key ID="STR_ls_characters_jockey_navy_helmet">
             <English>Jockey (Navy)</English>
+            <French>Casquette Jockey (Blue Marine)</French>
         </Key>
         <Key ID="STR_ls_characters_m1_helmet">
             <English>M1 Helmet</English>
+            <French>Casque M1</French>
         </Key>
         <Key ID="STR_ls_characters_m1_light_helmet">
             <English>M1 Light Helmet</English>
+            <French>Casque Léger M1</French>
         </Key>
         <Key ID="STR_ls_characters_naval_uniform">
             <English>Naval Uniform</English>
+            <French>Uniforme de la Marine</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_brown_rolled_uniform">
             <English>Pathfinder Fatigues (Brown, Rolled)</English>
+            <French>Treillis d'Éclaireur (Brun, Rouler)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_brown_uniform">
             <English>Pathfinder Fatigues (Brown)</English>
+            <French>Treillis d'Éclaireur (Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navyAlt_rolled_uniform">
             <English>Pathfinder Fatigues (Navy Alt, Rolled)</English>
+            <French>Treillis d'Éclaireur (Bleu Marine Alt, Rouler)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navyAlt_uniform">
             <English>Pathfinder Fatigues (Navy Alt)</English>
+            <French>Treillis d'Éclaireur (Bleu Marine Alt)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navy_rolled_uniform">
             <English>Pathfinder Fatigues (Navy, Rolled)</English>
+            <French>Treillis d'Éclaireur (Bleu Marine, Rouler)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navy_uniform">
             <English>Pathfinder Fatigues (Navy)</English>
+            <French>Treillis d'Éclaireur (Bleu Marine)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_rolled_uniform">
             <English>Pathfinder Fatigues (Rolled)</English>
+            <French>Treillis d'Éclaireur (Rouler)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_uniform">
             <English>Pathfinder Fatigues</English>
+            <French>Treillis d'Éclaireur</French>
         </Key>
         <Key ID="STR_ls_characters_poncho">
             <English>Poncho</English>
@@ -237,9 +275,11 @@
         </Key>
         <Key ID="STR_ls_characters_reinforcedService_coif_helmet">
             <English>Reinforced Service Helmet (Coif)</English>
+            <French>Casque Renforcé de Service (Coiffe)</French>
         </Key>
         <Key ID="STR_ls_characters_reinforcedService_helmet">
             <English>Reinforced Service Helmet</English>
+            <French>Casque Renforcé de Service</French>
         </Key>
         <Key ID="STR_ls_characters_scarf">
             <English>Scarf</English>
@@ -285,48 +325,63 @@
         </Key>
         <Key ID="STR_ls_characters_service_brown_helmet">
             <English>Service Helmet (Brown)</English>
+            <French>Casque de Service (Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_service_comlink_brown_helmet">
             <English>Service Helmet (Comlink, Brown)</English>
+            <French>Casque de Service (Comlink, Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_service_comlink_helmet">
             <English>Service Helmet (Comlink)</English>
+            <French>Casque de Service (Comlink)</French>
         </Key>
         <Key ID="STR_ls_characters_service_helmet">
             <English>Service Helmet</English>
+            <French>Casque de Service</French>
         </Key>
         <Key ID="STR_ls_characters_shoulderPouch">
             <English>Shoulder Pouch</English>
+            <French>Poches d'Épaule</French>
         </Key>
         <Key ID="STR_ls_characters_spacer_alt_uniform">
             <English>Spacer Fatigues (Alt)</English>
+            <French>Treillis Spatial (Alt)</French>
         </Key>
         <Key ID="STR_ls_characters_spacer_brownAlt_uniform">
             <English>Spacer Fatigues (Brown, Alt)</English>
+            <French>Treillis Spatial (Brun, Alt)</French>
         </Key>
         <Key ID="STR_ls_characters_spacer_brown_uniform">
             <English>Spacer Fatigues (Brown)</English>
+            <French>Treillis Spatial (Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_spacer_holster_vest">
             <English>Spacer Vest (Holster)</English>
+            <French>Treillis Spatial (Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_spacer_uniform">
             <English>Spacer Fatigues</English>
+            <French>Treillis Spatial</French>
         </Key>
         <Key ID="STR_ls_characters_spacer_vest">
             <English>Spacer Vest</English>
+            <French>Gilet Spatial</French>
         </Key>
         <Key ID="STR_ls_characters_technician_brown_helmet">
             <English>Technician Helmet (Brown)</English>
+            <French>Casque de Technicien (Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_technician_comlink_brown_helmet">
             <English>Technician Helmet (Comlink, Brown)</English>
+            <French>Casque de Technicien (ComLink, Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_technician_comlink_helmet">
             <English>Technician Helmet (Comlink)</English>
+            <French>Casque de Technicien (ComLink)</French>
         </Key>
         <Key ID="STR_ls_characters_technician_helmet">
             <English>Technician Helmet</English>
+            <French>Casque de Technicien</French>
         </Key>
     </Package>
 </Project>
