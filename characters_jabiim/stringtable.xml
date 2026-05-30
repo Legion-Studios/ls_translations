@@ -3,27 +3,35 @@
     <Package name="characters_jabiim">
         <Key ID="STR_ls_characters_jabiim_nationalist_goggles">
             <English>Jabiimi Nationalist Goggles</English>
+            <French>Lunettes de Nationaliste Jabiimi</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nationalist_goggles_raised">
             <English>Jabiimi Nationalist Goggles (Raised)</English>
+            <French>Lunettes de Nationaliste Jabiimi (Levées)</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nationalist_helmet">
             <English>Jabiimi Nationalist Helmet</English>
+            <French>Casque de Nationaliste Jabiimi</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbusCommandos">
             <English>Nimbus Commandos</English>
+            <French>Commandos Nimbus</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
             <English>Nimbus Commando Backpack</English>
+            <French>Sac à Dos de Commando Nimbus</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier_helmet">
             <English>Nimbus Grenadier Helmet</English>
+            <French>Casque de Grenadier Nimbus</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_helmet">
             <English>Nimbus Commando Helmet</English>
+            <French>Casque de Commando Nimbus</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_uniform">
             <English>Nimbus Commando Armor</English>
+            <French>Armure de Commando Nimbus</French>
         </Key>
     </Package>
 </Project>
