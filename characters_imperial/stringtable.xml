@@ -3,318 +3,423 @@
     <Package name="characters_imperial">
         <Key ID="STR_ls_characters_imperial_army">
             <English>Imperial Army</English>
+            <French>Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_black_uniform">
             <English>Imperial Army Fatigues (Armored, Black)</English>
+            <French>Treillis de l'Armée Impériale (Renforcé, Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_isb_uniform">
             <English>Imperial Army Fatigues (Armored, ISB)</English>
+            <French>Treillis de l'Armée Impériale (Renforcé, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Armored, Mudtrooper)</English>
+            <French>Treillis de l'Armée Impériale (Renforcé, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_black_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, Black)</English>
+            <French>Treillis de l'Armée Impériale (Renforcé, Retroussé, Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_isb_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, ISB)</English>
+            <French>Treillis de l'Armée Impériale (Renforcé, Retroussé, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, Mudtrooper)</English>
+            <French>Treillis de l'Armée Impériale (Renforcé, Retroussé, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled)</English>
+            <French>Treillis de l'Armée Impériale (Renforcé, Retroussé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_uniform">
             <English>Imperial Army Fatigues (Armored)</English>
+            <French>Treillis de l'Armée Impériale (Renforcé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_helmet">
             <English>Imperial Army Helmet (Black)</English>
+            <French>Casque de l'Armée Impériale (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_holster_vest">
             <English>Imperial Army Vest (Black, Holster)</English>
+            <French>Gilet Tactique de l'Armée Impériale (Noir, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_tacbelt">
             <English>Imperial Tacbelt (Black)</English>
+            <French>Ceinture Tactique Impériale (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_uniform">
             <English>Imperial Army Fatigues (Black)</English>
+            <French>Treillis de l'Armée Impériale (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_vest">
             <English>Imperial Army Vest (Black)</English>
+            <French>Gilet Tactique de l'Armée Impériale (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_damaged_vest">
             <English>Imperial Army Vest (Damaged)</English>
+            <French>Gilet Tactique de l'Armée Impériale (Endommagé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gd_black_helmet">
             <English>Imperial Army Helmet (Goggles Down, Black)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Baissées, Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gd_helmet">
             <English>Imperial Army Helmet (Goggles Down)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Baissées)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gd_isb_helmet">
             <English>Imperial Army Helmet (Goggles Down, ISB)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Baissées, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gd_mudtrooper_helmet">
             <English>Imperial Army Helmet (Goggles Down, Mudtrooper)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Baissées, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gdr_black_helmet">
             <English>Imperial Army Helmet (Goggles Down, Rebreather, Black)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Baissées, Recycleur, Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gdr_helmet">
             <English>Imperial Army Helmet (Goggles Down, Rebreather)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Baissées, Recycleur)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gdr_isb_helmet">
             <English>Imperial Army Helmet (Goggles Down, Rebreather, ISB)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Baissées, Recycleur, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gdr_mudtrooper_helmet">
             <English>Imperial Army Helmet (Goggles Down, Rebreather, Mudtrooper)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Baissées, Recycleur, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gu_black_helmet">
             <English>Imperial Army Helmet (Goggles Up, Black)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Levées, Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gu_helmet">
             <English>Imperial Army Helmet (Goggles Up)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Levées)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gu_isb_helmet">
             <English>Imperial Army Helmet (Goggles Up, ISB)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Levées, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gu_mudtrooper_helmet">
             <English>Imperial Army Helmet (Goggles Up, Mudtrooper)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Levées, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gur_black_helmet">
             <English>Imperial Army Helmet (Goggles Up, Rebreather, Black)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Levées, Recycleur, Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gur_helmet">
             <English>Imperial Army Helmet (Goggles Up, Rebreather)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Levées, Recycleur)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gur_isb_helmet">
             <English>Imperial Army Helmet (Goggles Up, Rebreather, ISB)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Levées, Recycleur, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gur_mudtrooper_helmet">
             <English>Imperial Army Helmet (Goggles Up, Rebreather, Mudtrooper)</English>
+            <French>Casque de l'Armée Impériale (Lunettes Levées, Recycleur, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_helmet">
             <English>Imperial Army Helmet</English>
+            <French>Casque de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_holster_vest">
             <English>Imperial Army Vest (Holster)</English>
+            <French>Gilet Tactique de l'Armée Impériale (Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_helmet">
             <English>Imperial Army Helmet (ISB)</English>
+            <French>Casque de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_holster_vest">
             <English>Imperial Army Vest (ISB, Holster)</English>
+            <French>Gilet Tactique de l'Armée Impériale (BSI, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_tacbelt">
             <English>Imperial Tacbelt (ISB)</English>
+            <French>Ceinture Tactique Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_vest">
             <English>Imperial Army Vest (ISB)</English>
+            <French>Gilet Tactique de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_black_holster_vest">
             <English>Imperial Army Light Vest (Black, Holster)</English>
+            <French>Gilet Tactique Léger de l'Armée Impériale (Noir, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_black_vest">
             <English>Imperial Army Light Vest (Black)</English>
+            <French>Gilet Tactique Léger de l'Armée Impériale (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_holster_vest">
             <English>Imperial Army Light Vest (Holster)</English>
+            <French>Gilet Tactique Léger de l'Armée Impériale (Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_isb_holster_vest">
             <English>Imperial Army Light Vest (ISB, Holster)</English>
+            <French>Gilet Tactique Léger de l'Armée Impériale (BSI, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_isb_vest">
             <English>Imperial Army Light Vest (ISB)</English>
+            <French>Gilet Tactique Léger de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_holster_vest">
             <English>Imperial Army Light Vest (Mudtrooper, Holster)</English>
+            <French>Gilet Tactique Léger de l'Armée Impériale (Mudtrooper, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_vest">
             <English>Imperial Army Light Vest (Mudtrooper)</English>
+            <French>Gilet Tactique Léger de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_vest">
             <English>Imperial Army Light Vest</English>
+            <French>Gilet Tactique Léger de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_black_holster_vest">
             <English>Imperial Army Medic Vest (Black, Holster)</English>
+            <French>Gilet Tactique Médical de l'Armée Impériale (Noir, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_black_vest">
             <English>Imperial Army Medic Vest (Black)</English>
+            <French>Gilet Tactique Médical de l'Armée Impériale (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_damaged_vest">
             <English>Imperial Army Medic Vest (Damaged)</English>
+            <French>Gilet Tactique Médical de l'Armée Impériale (Endommagé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_holster_vest">
             <English>Imperial Army Medic Vest (Holster)</English>
+            <French>Gilet Tactique Médical de l'Armée Impériale (Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_mudtrooper_holster_vest">
             <English>Imperial Army Medic Vest (Mudtrooper, Holster)</English>
+            <French>Gilet Tactique Médical de l'Armée Impériale (Mudtrooper, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_mudtrooper_vest">
             <English>Imperial Army Medic Vest (Mudtrooper)</English>
+            <French>Gilet Tactique Médical de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_vest">
             <English>Imperial Army Medic Vest</English>
+            <French>Gilet Tactique Médical de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_black_holster_vest">
             <English>Imperial Army Medium Vest (Black, Holster)</English>
+            <French>Gilet Tactique Moyen de l'Armée Impériale (Noir, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_black_vest">
             <English>Imperial Army Medium Vest (Black)</English>
+            <French>Gilet Tactique Moyen de l'Armée Impériale (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_holster_vest">
             <English>Imperial Army Medium Vest (Holster)</English>
+            <French>Gilet Tactique Moyen de l'Armée Impériale (Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_isb_holster_vest">
             <English>Imperial Army Medium Vest (ISB, Holster)</English>
+            <French>Gilet Tactique Moyen de l'Armée Impériale (BSI, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_isb_vest">
             <English>Imperial Army Medium Vest (ISB)</English>
+            <French>Gilet Tactique Moyen de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_mudtrooper_holster_vest">
             <English>Imperial Army Medium Vest (Mudtrooper, Holster)</English>
+            <French>Gilet Tactique Moyen de l'Armée Impériale (Mudtrooper, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_mudtrooper_vest">
             <English>Imperial Army Medium Vest (Mudtrooper)</English>
+            <French>Gilet Tactique Moyen de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_vest">
             <English>Imperial Army Medium Vest</English>
+            <French>Gilet Tactique Moyen de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_helmet">
             <English>Imperial Army Helmet (Mudtrooper)</English>
+            <French>Casque de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_holster_vest">
             <English>Imperial Army Vest (Mudtrooper, Holster)</English>
+            <French>Gilet Tactique de l'Armée Impériale (Mudtrooper, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_tacbelt">
             <English>Imperial Tacbelt (Mudtrooper)</English>
+            <French>Ceinture Tactique Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Mudtrooper)</English>
+            <French>Treillis de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_vest">
             <English>Imperial Army Vest (Mudtrooper)</English>
+            <French>Gilet Tactique de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtroopers">
             <English>Mudtroopers</English>
+            <French>Mudtroopers</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_black_holster_vest">
             <English>Imperial Army Officer Vest (Black, Holster)</English>
+            <French>Gilet Tactique d'Officier de l'Armée Impériale (Noir, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_black_vest">
             <English>Imperial Army Officer Vest (Black)</English>
+             <French>Gilet Tactique d'Officier de l'Armée Impériale (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_damaged_vest">
             <English>Imperial Army Officer Vest (Damaged)</English>
+             <French>Gilet Tactique d'Officier de l'Armée Impériale (Endommagé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_holster_vest">
             <English>Imperial Army Officer Vest (Holster)</English>
+             <French>Gilet Tactique d'Officier de l'Armée Impériale (Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_isb_holster_vest">
             <English>Imperial Army Officer Vest (ISB, Holster)</English>
+             <French>Gilet Tactique d'Officier de l'Armée Impériale (BSI, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_isb_vest">
             <English>Imperial Army Officer Vest (ISB)</English>
+             <French>Gilet Tactique d'Officier de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_mudtrooper_holster_vest">
             <English>Imperial Army Officer Vest (Mudtrooper, Holster)</English>
+             <French>Gilet Tactique d'Officier de l'Armée Impériale (Mudtrooper, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_mudtrooper_vest">
             <English>Imperial Army Officer Vest (Mudtrooper)</English>
+             <French>Gilet Tactique d'Officier de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_vest">
             <English>Imperial Army Officer Vest</English>
+             <French>Gilet Tactique d'Officier de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_riot">
             <English>Riot Control</English>
+             <French>Anti-Émeute</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_black_uniform">
             <English>Imperial Army Fatigues (Rolled, Black)</English>
+             <French>Treillis de l'Armée Impériale (Retroussé, Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Rolled, Mudtrooper)</English>
+            <French>Treillis de l'Armée Impériale (Retroussé, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_uniform">
             <English>Imperial Army Fatigues (Rolled)</English>
+            <French>Treillis de l'Armée Impériale (Retroussé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_tacbelt">
             <English>Imperial Tacbelt</English>
+            <French>Ceinture Tactique Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_uniform">
             <English>Imperial Army Fatigues</English>
+            <French>Treillis de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_vest">
             <English>Imperial Army Vest</English>
+            <French>Gilet Tactique de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_earPiece">
             <English>Imperial Ear Piece</English>
+            <French>Oreillette Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_isb">
             <English>ISB</English>
+            <French>BSI</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_black_helmet">
             <English>Imperial Kepi (Black)</English>
+            <French>Kepi Impérial (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_black_helmet">
             <English>Imperial Kepi (Goggles, Black)</English>
+            <French>Kepi Impérial (Lunettes, Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_helmet">
             <English>Imperial Kepi (Goggles)</English>
+            <French>Kepi Impérial (Lunettes)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_isb_helmet">
             <English>Imperial Kepi (Goggles, ISB)</English>
+            <French>Kepi Impérial (Lunettes, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_mudtrooper_helmet">
             <English>Imperial Kepi (Goggles, Mudtrooper)</English>
+            <French>Kepi Impérial (Lunettes, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_helmet">
             <English>Imperial Kepi</English>
+            <French>Kepi Impérial</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_isb_helmet">
             <English>Imperial Kepi (ISB)</English>
+            <French>Kepi Impérial (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_mudtrooper_helmet">
             <English>Imperial Kepi (Mudtrooper)</English>
+            <French>Kepi Impérial (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather">
             <English>Imperial Rebreather</English>
+            <French>Recycleur Impérial</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_black">
             <English>Imperial Rebreather (Black)</English>
+            <French>Recycleur Impérial (Noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_isb">
             <English>Imperial Rebreather (ISB)</English>
+            <French>Recycleur Impérial (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_mudtrooper">
             <English>Imperial Rebreather (Mudtrooper)</English>
+            <French>Recycleur Impérial (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_satchel">
             <English>Imperial Satchel</English>
+            <French>Sacoche Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_satchelOthers">
             <English>Imperial Satchel (Others)</English>
+            <French>Sacoche Impériale (Autres)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_shoulderPouch">
             <English>Imperial Shoulder Pouch</English>
+            <French>Poches d'Épaule Impériales</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_captain">
             <English>Stormtrooper Pauldron (Captain)</English>
+            <French>Épaulière de Stormtrooper (Capitaine)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_corporal">
             <English>Stormtrooper Pauldron (Corporal)</English>
+            <French>Épaulière de Stormtrooper (Caporal)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_lieutenant">
             <English>Stormtrooper Pauldron (Lieutenant)</English>
+            <French>Épaulière de Stormtrooper (Lieutenant)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_sergeant">
             <English>Stormtrooper Pauldron (Sergeant)</English>
+            <French>Épaulière de Stormtrooper (Sergent)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_tactical_isb_vest">
             <English>Imperial Tactical Vest (ISB, Holster)</English>
+            <French>Armure Impériale (BSI, Étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_tactical_officer_isb_vest">
             <English>Imperial Tactical Officer Vest (ISB, Holster)</English>
+            <French>Armure d'Officier Impériale (BSI, Étui)</French>
         </Key>
     </Package>
 </Project>
