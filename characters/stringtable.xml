@@ -183,7 +183,7 @@
         </Key>
         <Key ID="STR_ls_characters_pathfinder_brown_rolled_uniform">
             <English>Pathfinder Fatigues (Brown, Rolled)</English>
-            <French>Treillis d'Éclaireur (Brun, Rouler)</French>
+            <French>Treillis d'Éclaireur (Brun, Retroussé)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_brown_uniform">
             <English>Pathfinder Fatigues (Brown)</English>
@@ -191,7 +191,7 @@
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navyAlt_rolled_uniform">
             <English>Pathfinder Fatigues (Navy Alt, Rolled)</English>
-            <French>Treillis d'Éclaireur (Bleu Marine Alt, Rouler)</French>
+            <French>Treillis d'Éclaireur (Bleu Marine Alt, Retroussé)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navyAlt_uniform">
             <English>Pathfinder Fatigues (Navy Alt)</English>
@@ -199,7 +199,7 @@
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navy_rolled_uniform">
             <English>Pathfinder Fatigues (Navy, Rolled)</English>
-            <French>Treillis d'Éclaireur (Bleu Marine, Rouler)</French>
+            <French>Treillis d'Éclaireur (Bleu Marine, Retroussé)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navy_uniform">
             <English>Pathfinder Fatigues (Navy)</English>
@@ -207,7 +207,7 @@
         </Key>
         <Key ID="STR_ls_characters_pathfinder_rolled_uniform">
             <English>Pathfinder Fatigues (Rolled)</English>
-            <French>Treillis d'Éclaireur (Rouler)</French>
+            <French>Treillis d'Éclaireur (Retroussé)</French>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_uniform">
             <English>Pathfinder Fatigues</English>
