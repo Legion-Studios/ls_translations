@@ -1,325 +1,282 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="characters_clone">
-        <Container name="Backpacks">
-            <Key ID="STR_ls_characters_clone_CDV">
-                <English>Clone CDV Jumppack</English>
-                <French>Jumppack CDV</French>
-                <Polish>Plecak Skokowy KLona CDV</Polish>
-                <Russian>Прыжковый ранец - CDV (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_JT12">
-                <English>JT-12 Jumppack</English>
-                <French>Jumppack JT-12</French>
-                <Polish>Plecak Skokowy JT-12</Polish>
-                <Russian>Прыжковый ранец - JT-12 (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_MiniLR">
-                <English>Mini Long Range Backpack</English>
-                <French>Mini Radio Longue Portée</French>
-                <Polish>Mały Plecak Dalekiego Zasięgu</Polish>
-                <Russian>Мини-рюкзак с радиостанцией (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_MiniLR_attachment">
-                <English>Mini Long Range Attachment</English>
-                <French>Mini Accessoire Longue Portée</French>
-                <Polish>Mały Dodatek Dalekiego Zasięgu</Polish>
-                <Russian>Мини-крепеж с радиостанцией (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_ammo_backpack">
-                <English>Clone Ammobearer Backpack</English>
-                <French>Sac à dos Munitions Clone</French>
-                <Polish>Plecak Klona Nosiciela Amunicji</Polish>
-            </Key>
-            <Key ID="STR_ls_characters_clone_arc_backpack">
-                <English>Clone ARC Backpack</English>
-                <French>Sac à dos Clone ARC</French>
-                <Polish>Plecak klona ARC</Polish>
-                <Russian>Рюкзак ARC-клона (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_backpack">
-                <English>Clone Backpack</English>
-                <French>Sac à dos Clone</French>
-                <Polish>Plecak Klona</Polish>
-                <Russian>Рюкзак (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_beltbag">
-                <English>Clone Belt Bag</English>
-                <French>Pochette Clone</French>
-                <Polish>Torba Paskowa Klona</Polish>
-                <Russian>Поясная сумка (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_cloneTrooper">
-                <English>Clone Trooper</English>
-                <French>Clones</French>
-                <Polish>Żołnierz Klon</Polish>
-            </Key>
-            <Key ID="STR_ls_characters_clone_cloneTroopers_phase1">
-                <English>Clone Troopers (Phase 1)</English>
-                <French>Clones (Phase 1)</French>
-                <Polish>Żołnierz Klon (Faza 1)</Polish>
-            </Key>
-            <Key ID="STR_ls_characters_clone_cloneTroopers_phase2">
-                <English>Clone Troopers (Phase 2)</English>
-                <French>Clones (Phase 2)</French>
-                <Polish>Żołnierz Klon (Faza 2)</Polish>
-            </Key>
-            <Key ID="STR_ls_characters_clone_heavy_backpack">
-                <English>Clone Heavy Backpack</English>
-                <French>Sac à dos Lourd Clone</French>
-                <Polish>Ciężki Plecak Klona</Polish>
-                <Russian>Рюкзак хевика (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_medic_backpack">
-                <English>Clone Medic Backpack</English>
-                <French>Sac à dos Médical Clone</French>
-                <Polish>Medyczny Plecak Klona</Polish>
-                <Russian>Рюкзак медика (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_radio_backpack">
-                <English>Clone Radio Backpack</English>
-                <French>Sac à dos Radio Clone</French>
-                <Polish>Plecak Klona z Radiostacją</Polish>
-                <Russian>Рюкзак радиста (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_rocket_backpack">
-                <English>Clone Rocket Backpack</English>
-                <French>Sac à dos Roquettes Clone</French>
-                <Polish>Plecak Klona z Rakietami</Polish>
-                <Russian>Рюкзак ракетчика (ВАР)</Russian>
-            </Key>
-        </Container>
-        <Container name="Equipment">
-            <Key ID="STR_ls_characters_clone_atrtDriver_helmet">
-                <English>Clone AT-RT Driver Helmet</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_commander_electrobinoculars">
-                <English>Clone Commander Electrobinoculars</English>
-                <French>Jumelles Électroniques Commandant Clone</French>
-                <Polish>Elektrolornetka Klona Komandora</Polish>
-                <Russian>Электробинокль (БСО)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_electrobinoculars">
-                <English>Clone Trooper Electrobinoculars</English>
-                <French>Jumelles Électroniques Clone</French>
-                <Polish>Elektrolornetka Klona</Polish>
-                <Russian>Электробинокль (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_electrobinoculars_night">
-                <English>Clone Commander Electrobinoculars (Night)</English>
-                <French>Jumelles Électroniques Commandant Clone (Nuit)</French>
-                <Polish>Elektrolornetka Klona Komandora (Noc)</Polish>
-                <Russian>Электробинокль (БСО, Ночной)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_katarn_helmet_interior">
-                <English>Clone Commando Katarn I Helmet Interior</English>
-                <French>Intérieur de Casque Clone Commando Katarn I</French>
-                <Polish>Wnętrze Hełmu Klona Komandosa Katarn 1</Polish>
-                <Russian>Внутренний худ 1-й фазы (РК, 2-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_p1_headlamp">
-                <English>Clone Phase 1 Headlamp</English>
-                <French>Lampe Frontale Clone Phase 1</French>
-                <Polish>Latarka Hełmowa Fazy 1</Polish>
-                <Russian>Налобный фонарь (Клона, 1-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_p1_helmet_interior">
-                <English>Clone Phase 1 Helmet Interior</English>
-                <French>Intérieur de Casque Clone Phase 1</French>
-                <Polish>Wnętrze Hełmu Klona Fazy 1</Polish>
-                <Russian>Внутренний худ шлема (Клона, 1-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_p2_headlamp">
-                <English>Clone Phase 2 Headlamp</English>
-                <French>Lampe Frontale Clone Phase 2</French>
-                <Polish>Latarka Hełmowa Fazy 2</Polish>
-                <Russian>Налобный фонарь (Клона, 2-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_p2_helmet_interior">
-                <English>Clone Phase 2 Helmet Interior</English>
-                <French>Intérieur de Casque Clone Phase 2</French>
-                <Polish>Wnętrze Hełmu Klona Fazy 2</Polish>
-                <Russian>Внутренний худ шлема (Клона, 2-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase1_helmet">
-                <English>Clone Phase 1 Helmet</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase1_rangefinder">
-                <English>Clone Phase 1 Rangefinder</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase1_visor">
-                <English>Clone Phase 1 Visor</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_commander_visor">
-                <English>Clone Phase 2 Commander Visor</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_commander_visor_white">
-                <English>Clone Phase 2 Commander Visor (White)</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_rangefinder">
-                <English>Clone Phase 2 Rangefinder</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_visor">
-                <English>Clone Phase 2 Visor</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase3_pilot_imperial">
-                <English>Clone Phase 3 Pilot Visor (Tactical)</English>
-                <French>Visière de Pilote Clone Phase 3 (Tactique)</French>
-                <Polish>Wizjer Klona Pilota Fazy 3 (Taktyczny)</Polish>
-                <Russian>Визор пилота (Tactical, 3-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase3_pilot_visor">
-                <English>Clone Phase 3 Pilot Visor</English>
-                <French>Visière de Pilote Clone Phase 3</French>
-                <Polish>Wizjer Klona Pilota Fazy 3</Polish>
-                <Russian>Визор пилота (3-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase3_pilot_vwing">
-                <English>Republic Phase 3 Pilot (Vwing) [NV/TI]</English>
-                <French>République Pilote Phase 3 (Vwing) [NV/TI]</French>
-                <Polish>Klon Pilot Republiki Fazy 3 (Vwing) [NV/TI]</Polish>
-                <Russian>Визор республиканского пилота  (V-wing, 3-й фазы)</Russian>
-            </Key>
-        </Container>
-        <Container name="Uniforms">
-            <Key ID="STR_ls_characters_clone_jediCommander_uniform">
-                <English>Jedi Commander Armor</English>
-                <French>Armure de Commandant Jedi</French>
-                <Polish>Zbroja Komandora Jedi</Polish>
-                <Russian>Броня джедай-коммандера (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_uniform">
-                <English>Clone Phase 2 Armor</English>
-                <French>Armure Clone Phase 2</French>
-                <Polish>Zbroja Klona Fazy 2</Polish>
-                <Russian>Броня клон-солдата (2-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_scout_uniform">
-                <English>Clone Scout Armor</English>
-            </Key>
-        </Container>
-        <Container name="Units">
-            <Key ID="STR_ls_characters_clone_arf">
-                <English>ARF (Phase 2)</English>
-                <French>ARF (Phase 2)</French>
-                <Polish>ARF (Faza 2)</Polish>
-                <Russian>ARF (Фаза 2)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_marine">
-                <English>Marine</English>
-                <French>Marine</French>
-                <Polish>Galaktyczna Piechota Morska</Polish>
-                <Russian>Пехотинец (Фаза 2)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_grenadier">
-                <English>Grenadier (Phase 2)</English>
-                <French>Grenadier (Phase 2)</French>
-                <Polish>Grenadier (Faza 2)</Polish>
-                <Russian>Гренадер (Фаза 2)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_marksman">
-                <English>Marksman (Phase 2)</English>
-                <French>Sniper (Phase 2)</French>
-                <Polish>Strzelec Wyborowy (Faza 2)</Polish>
-                <Russian>Меткий стрелок (Фаза 2)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_medic">
-                <English>Medic (Phase 2)</English>
-                <French>Médecin (Phase 2)</French>
-                <Polish>Medyk (Faza 2)</Polish>
-                <Russian>Медик (Фаза 2)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_rifleman">
-                <English>Rifleman (Phase 2)</English>
-                <French>Fusilier (Phase 2)</French>
-                <Polish>Strzelec (Faza 2)</Polish>
-                <Russian>Стрелок (Фаза 2)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_sniper">
-                <English>Sniper (Phase 2)</English>
-                <French>Tireur d'Élite (Phase 2)</French>
-                <Polish>Snajper (Faza 2)</Polish>
-                <Russian>Снайпер (Фаза 2)</Russian>
-            </Key>
-        </Container>
-        <Container name="Vests">
-            <Key ID="STR_ls_characters_clone_arc_cadet_vest">
-                <English>Clone ARC Vest (Cadet)</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_arc_vest">
-                <English>Clone ARC Vest</English>
-                <French>Gilet de Clone ARC</French>
-                <Polish>Kamizelka Klona ARC</Polish>
-                <Russian>Жилет ARC-клона (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_gunner_vest">
-                <English>Clone Gunner Vest</English>
-                <French>Gilet de Clone Tireur (Gunner)</French>
-                <Polish>Kamizelka Klona Artylerzysty</Polish>
-                <Russian>Жилет клон-артиллериста (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_kama_vest">
-                <English>Clone Kama</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_lieutenant_vest">
-                <English>Clone Lieutenant Vest</English>
-            </Key>
-            <Key ID="STR_ls_characters_clone_officer_vest">
-                <English>Clone Officer Vest</English>
-                <French>Gilet de Clone Officier</French>
-                <Polish>Kamizelka Klona Officera</Polish>
-                <Russian>Жилет клон-офицера (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_recon_vest">
-                <English>Clone Recon Vest</English>
-                <French>Gilet de Clone Recon</French>
-                <Polish>Kamizelka Klona Zwiadowcy</Polish>
-                <Russian>Жилет клон-разведчика (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_scout_vest">
-                <English>Clone Scout Pouches</English>
-            </Key>
-        </Container>
-        <Container name="helmets">
-            <Key ID="STR_ls_characters_clone_airborne_helmet">
-                <English>Clone Airborne Helmet</English>
-                <French>Casque Clone Aéroporté (Airborne)</French>
-                <Polish>Hełm Klona Spadochroniarza</Polish>
-                <Russian>Шлем десантника (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_arc_helmet">
-                <English>Clone ARC Helmet</English>
-                <French>Casque Clone ARC</French>
-                <Polish>Hełm Klona ARC</Polish>
-                <Russian>Шлем ARC-клона (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_arf_helmet">
-                <English>Clone ARF Helmet</English>
-                <French>Casque Clone ARF</French>
-                <Polish>Hełm Klona ARF</Polish>
-                <Russian>Шлем ARF-клона (ВАР)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_helmet">
-                <English>Clone Phase 2 Helmet</English>
-                <French>Casque Clone Phase 2</French>
-                <Polish>Hełm Klona Fazy 2</Polish>
-                <Russian>Шлем клона (2-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
-                <English>Clone Pilot Phase 2 Helmet</English>
-                <French>Casque Clone Pilote Phase 2</French>
-                <Polish>Hełm Klona Pilota Fazy 2</Polish>
-                <Russian>Шлем пилота (2-й фазы)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_phase3_pilot_helmet">
-                <English>Clone Pilot Phase 3 Helmet</English>
-                <French>Casque Clone Pilote Phase 3</French>
-                <Polish>Hełm Klona Pilota Fazy 3</Polish>
-                <Russian>Шлем пилота (3-й фаза)</Russian>
-            </Key>
-            <Key ID="STR_ls_characters_clone_scout_helmet">
-                <English>Clone Scout Helmet</English>
-            </Key>
-        </Container>
+        <Key ID="STR_ls_characters_clone_CDV">
+            <English>Clone CDV Jumppack</English>
+            <French>Jumppack CDV</French>
+            <Polish>Plecak Skokowy KLona CDV</Polish>
+            <Russian>Прыжковый ранец - CDV (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_JT12">
+            <English>JT-12 Jumppack</English>
+            <French>Jumppack JT-12</French>
+            <Polish>Plecak Skokowy JT-12</Polish>
+            <Russian>Прыжковый ранец - JT-12 (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_MiniLR">
+            <English>Mini Long Range Backpack</English>
+            <French>Mini Radio Longue Portée</French>
+            <Polish>Mały Plecak Dalekiego Zasięgu</Polish>
+            <Russian>Мини-рюкзак с радиостанцией (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_MiniLR_attachment">
+            <English>Mini Long Range Attachment</English>
+            <French>Mini Accessoire Longue Portée</French>
+            <Polish>Mały Dodatek Dalekiego Zasięgu</Polish>
+            <Russian>Мини-крепеж с радиостанцией (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_airborne_helmet">
+            <English>Clone Airborne Helmet</English>
+            <French>Casque Clone Aéroporté (Airborne)</French>
+            <Polish>Hełm Klona Spadochroniarza</Polish>
+            <Russian>Шлем десантника (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_ammo_backpack">
+            <English>Clone Ammobearer Backpack</English>
+            <French>Sac à dos Munitions Clone</French>
+            <Polish>Plecak Klona Nosiciela Amunicji</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_clone_arc_backpack">
+            <English>Clone ARC Backpack</English>
+            <French>Sac à dos Clone ARC</French>
+            <Polish>Plecak klona ARC</Polish>
+            <Russian>Рюкзак ARC-клона (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_arc_cadet_vest">
+            <English>Clone ARC Cadet Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_arc_helmet">
+            <English>Clone ARC Helmet</English>
+            <French>Casque Clone ARC</French>
+            <Polish>Hełm Klona ARC</Polish>
+            <Russian>Шлем ARC-клона (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_arc_vest">
+            <English>Clone ARC Vest</English>
+            <French>Gilet de Clone ARC</French>
+            <Polish>Kamizelka Klona ARC</Polish>
+            <Russian>Жилет ARC-клона (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_arf_helmet">
+            <English>Clone ARF Helmet</English>
+            <French>Casque Clone ARF</French>
+            <Polish>Hełm Klona ARF</Polish>
+            <Russian>Шлем ARF-клона (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_atrtDriver_helmet">
+            <English>Clone AT-RT Driver Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_backpack">
+            <English>Clone Backpack</English>
+            <French>Sac à dos Clone</French>
+            <Polish>Plecak Klona</Polish>
+            <Russian>Рюкзак (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_basic_vest">
+            <English>Clone Trooper Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_beltbag">
+            <English>Clone Belt Bag</English>
+            <French>Pochette Clone</French>
+            <Polish>Torba Paskowa Klona</Polish>
+            <Russian>Поясная сумка (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_cloneTrooper">
+            <English>Clone Trooper</English>
+            <French>Clones</French>
+            <Polish>Żołnierz Klon</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_clone_cloneTroopers_phase1">
+            <English>Clone Troopers (Phase 1)</English>
+            <French>Clones (Phase 1)</French>
+            <Polish>Żołnierz Klon (Faza 1)</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_clone_cloneTroopers_phase2">
+            <English>Clone Troopers (Phase 2)</English>
+            <French>Clones (Phase 2)</French>
+            <Polish>Żołnierz Klon (Faza 2)</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_clone_commander_electrobinoculars">
+            <English>Clone Commander Electrobinoculars</English>
+            <French>Jumelles Électroniques Commandant Clone</French>
+            <Polish>Elektrolornetka Klona Komandora</Polish>
+            <Russian>Электробинокль (БСО)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_electrobinoculars">
+            <English>Clone Trooper Electrobinoculars</English>
+            <French>Jumelles Électroniques Clone</French>
+            <Polish>Elektrolornetka Klona</Polish>
+            <Russian>Электробинокль (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_electrobinoculars_night">
+            <English>Clone Commander Electrobinoculars (Night)</English>
+            <French>Jumelles Électroniques Commandant Clone (Nuit)</French>
+            <Polish>Elektrolornetka Klona Komandora (Noc)</Polish>
+            <Russian>Электробинокль (БСО, Ночной)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_gunner_vest">
+            <English>Clone Gunner Vest</English>
+            <French>Gilet de Clone Tireur (Gunner)</French>
+            <Polish>Kamizelka Klona Artylerzysty</Polish>
+            <Russian>Жилет клон-артиллериста (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_heavy_backpack">
+            <English>Clone Heavy Backpack</English>
+            <French>Sac à dos Lourd Clone</French>
+            <Polish>Ciężki Plecak Klona</Polish>
+            <Russian>Рюкзак хевика (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_jediCommander_uniform">
+            <English>Jedi Commander Armor</English>
+            <French>Armure de Commandant Jedi</French>
+            <Polish>Zbroja Komandora Jedi</Polish>
+            <Russian>Броня джедай-коммандера (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_kama_vest">
+            <English>Clone Kama</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_katarn_helmet_interior">
+            <English>Clone Commando Katarn I Helmet Interior</English>
+            <French>Intérieur de Casque Clone Commando Katarn I</French>
+            <Polish>Wnętrze Hełmu Klona Komandosa Katarn 1</Polish>
+            <Russian>Внутренний худ 1-й фазы (РК, 2-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_lieutenant_vest">
+            <English>Clone Lieutenant Vest</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_medic_backpack">
+            <English>Clone Medic Backpack</English>
+            <French>Sac à dos Médical Clone</French>
+            <Polish>Medyczny Plecak Klona</Polish>
+            <Russian>Рюкзак медика (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_officer_vest">
+            <English>Clone Officer Vest</English>
+            <French>Gilet de Clone Officier</French>
+            <Polish>Kamizelka Klona Officera</Polish>
+            <Russian>Жилет клон-офицера (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_p1_headlamp">
+            <English>Clone Phase 1 Headlamp</English>
+            <French>Lampe Frontale Clone Phase 1</French>
+            <Polish>Latarka Hełmowa Fazy 1</Polish>
+            <Russian>Налобный фонарь (Клона, 1-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_p1_helmet_interior">
+            <English>Clone Phase 1 Helmet Interior</English>
+            <French>Intérieur de Casque Clone Phase 1</French>
+            <Polish>Wnętrze Hełmu Klona Fazy 1</Polish>
+            <Russian>Внутренний худ шлема (Клона, 1-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_p2_headlamp">
+            <English>Clone Phase 2 Headlamp</English>
+            <French>Lampe Frontale Clone Phase 2</French>
+            <Polish>Latarka Hełmowa Fazy 2</Polish>
+            <Russian>Налобный фонарь (Клона, 2-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_p2_helmet_interior">
+            <English>Clone Phase 2 Helmet Interior</English>
+            <French>Intérieur de Casque Clone Phase 2</French>
+            <Polish>Wnętrze Hełmu Klona Fazy 2</Polish>
+            <Russian>Внутренний худ шлема (Клона, 2-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase1_helmet">
+            <English>Clone Phase 1 Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase1_rangefinder">
+            <English>Clone Phase 1 Rangefinder</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase1_visor">
+            <English>Clone Phase 1 Visor</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_commander_visor">
+            <English>Clone Phase 2 Commander Visor</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_commander_visor_white">
+            <English>Clone Phase 2 Commander Visor (White)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_helmet">
+            <English>Clone Phase 2 Helmet</English>
+            <French>Casque Clone Phase 2</French>
+            <Polish>Hełm Klona Fazy 2</Polish>
+            <Russian>Шлем клона (2-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
+            <English>Clone Pilot Phase 2 Helmet</English>
+            <French>Casque Clone Pilote Phase 2</French>
+            <Polish>Hełm Klona Pilota Fazy 2</Polish>
+            <Russian>Шлем пилота (2-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_rangefinder">
+            <English>Clone Phase 2 Rangefinder</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_uniform">
+            <English>Clone Phase 2 Armor</English>
+            <French>Armure Clone Phase 2</French>
+            <Polish>Zbroja Klona Fazy 2</Polish>
+            <Russian>Броня клон-солдата (2-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_visor">
+            <English>Clone Phase 2 Visor</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase3_pilot_helmet">
+            <English>Clone Pilot Phase 3 Helmet</English>
+            <French>Casque Clone Pilote Phase 3</French>
+            <Polish>Hełm Klona Pilota Fazy 3</Polish>
+            <Russian>Шлем пилота (3-й фаза)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase3_pilot_imperial">
+            <English>Clone Phase 3 Pilot Visor (Tactical)</English>
+            <French>Visière de Pilote Clone Phase 3 (Tactique)</French>
+            <Polish>Wizjer Klona Pilota Fazy 3 (Taktyczny)</Polish>
+            <Russian>Визор пилота (Tactical, 3-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase3_pilot_visor">
+            <English>Clone Phase 3 Pilot Visor</English>
+            <French>Visière de Pilote Clone Phase 3</French>
+            <Polish>Wizjer Klona Pilota Fazy 3</Polish>
+            <Russian>Визор пилота (3-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase3_pilot_vwing">
+            <English>Republic Phase 3 Pilot (Vwing) [NV/TI]</English>
+            <French>République Pilote Phase 3 (Vwing) [NV/TI]</French>
+            <Polish>Klon Pilot Republiki Fazy 3 (Vwing) [NV/TI]</Polish>
+            <Russian>Визор республиканского пилота  (V-wing, 3-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_radio_backpack">
+            <English>Clone Radio Backpack</English>
+            <French>Sac à dos Radio Clone</French>
+            <Polish>Plecak Klona z Radiostacją</Polish>
+            <Russian>Рюкзак радиста (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_recon_vest">
+            <English>Clone Recon Vest</English>
+            <French>Gilet de Clone Recon</French>
+            <Polish>Kamizelka Klona Zwiadowcy</Polish>
+            <Russian>Жилет клон-разведчика (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_rocket_backpack">
+            <English>Clone Rocket Backpack</English>
+            <French>Sac à dos Roquettes Clone</French>
+            <Polish>Plecak Klona z Rakietami</Polish>
+            <Russian>Рюкзак ракетчика (ВАР)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_scout">
+            <English>Clone Scout Trooper</English>
+            <French>Clone Soldat (Scout)</French>
+            <Polish>Żołnierz Klon (Zwiadowca)</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_clone_scout_helmet">
+            <English>Clone Scout Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_scout_undersuit_uniform">
+            <English>Clone Scout Undersuit</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_scout_uniform">
+            <English>Clone Scout Armor</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_scout_vest">
+            <English>Clone Scout Pouches</English>
+        </Key>
     </Package>
 </Project>
