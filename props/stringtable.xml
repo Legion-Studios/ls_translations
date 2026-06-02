@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="props">
+        <Key ID="STR_ls_props_acceptance">
+            <English>Acceptance</English>
+        </Key>
+        <Key ID="STR_ls_props_blank">
+            <English>Blank</English>
+        </Key>
+        <Key ID="STR_ls_props_bloodPools">
+            <English>Blood Pools</English>
+        </Key>
+        <Key ID="STR_ls_props_bsod">
+            <English>Blue Screen</English>
+        </Key>
+        <Key ID="STR_ls_props_commandPosts">
+            <English>Command Posts</English>
+        </Key>
+        <Key ID="STR_ls_props_crash">
+            <English>Crash</English>
+        </Key>
+        <Key ID="STR_ls_props_ironmouse">
+            <English>Ironmouse</English>
+        </Key>
+        <Key ID="STR_ls_props_terminal">
+            <English>Terminal</English>
+        </Key>
+        <Key ID="STR_ls_props_terminal_01">
+            <English>Terminal 01</English>
+        </Key>
+        <Key ID="STR_ls_props_terminal_reinsert">
+            <English>Reinsert Terminal</English>
+        </Key>
+        <Key ID="STR_ls_props_terminals">
+            <English>Terminals</English>
+        </Key>
+        <Key ID="STR_ls_props_windowsXp">
+            <English>Windows XP</English>
+        </Key>
+    </Package>
+</Project>
