@@ -3,21 +3,27 @@
     <Package name="droids">
         <Key ID="STR_ls_droids_droidekaShieldCooldown_name">
             <English>Droideka - Shield Cooldown</English>
+            <Polish>Droideka - Czas Odnowienia Tarczy</Polish>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldCooldown_tooltip">
             <English>The amount of time that the droideka's shield will be disabled for after being fully destroyed.</English>
+            <Polish>Czas przez jaki tarcza droideki będzie wyłączona po jej całkowitym zniszczeniu.</Polish>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldHealth_name">
             <English>Droideka - Shield Health</English>
+            <Polish>Droideka - Życie Tarczy</Polish>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldHealth_tooltip">
             <English>The max health of the droideka's shield\n0 = Disable droideka shields</English>
+            <Polish>Maksymalna wartość życia tarczy\n0 = Wyłączenie tarczy</Polish>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldRegen_name">
             <English>Droideka - Shield Regen</English>
+            <Polish>Droideka - Odnowienie Tarczy</Polish>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldRegen_tooltip">
             <English>The percentage of maximum health that the droideka's shield will regenerate.</English>
+            <Polish>Jaki procent maksymalnej ilości życia tarczy droideki zostanie zregenerowany.</Polish>
         </Key>
     </Package>
 </Project>

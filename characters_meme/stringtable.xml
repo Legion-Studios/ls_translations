@@ -2,37 +2,48 @@
 <Project name="Legion Studios">
     <Package name="characters_meme">
         <Key ID="STR_ls_characters_meme_arcborne_helmet">
-            <English>Clone ARCborne Helmet</English>
+            <English>Clone ARCborne Helmet</English>\
+            <Polish>Hełm Żołnierza Klona ARCBorne</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_blackbeard_vest">
             <English>Blackbeard's Vest</English>
+            <Polish>Kamizelka Czarnobrodego</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_chad_helmet">
             <English>CT-6969 'Chadimus Maximus'</English>
+            <Polish>CT-6969 'Chadimus Maximus'</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_killerRabbit">
             <English>The Killer Rabbit</English>
+            <Polish>Królik Zabójca</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nut">
             <English>The Nut</English>
+            <Polish>Orzeszek</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased">
             <English>The Pleased Nut</English>
+            <Polish>Zadowolony Orzeszek</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased_armed">
             <English>The Pleased Nut (Armed)</English>
+            <Polish>Zadowolony Orzeszek (z Ramionami)</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nutgotiator">
             <English>The Nugotiator</English>
+            <Polish>Orzechocjator</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nutgotiator_armed">
             <English>The Nugotiator (Armed)</English>
+            <Polish>Orzechocjator (z ramionami)</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_splinterCell_nvg">
             <English>Clone SpecOp Trinocular Visor</English>
+            <Polish>Wizjer Trzyoptyczny Żołnierza Klona</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_zygerrianDisguise">
             <English>Zygerrian Disguise</English>
+            <Polish>Przebranie Zygerrianina</Polish>
         </Key>
     </Package>
 </Project>

@@ -3,18 +3,23 @@
     <Package name="characters_orsf">
         <Key ID="STR_ls_characters_orsf_trooper_backpack">
             <English>Special Tactics Trooper Backpack</English>
+            <Polish>Plecak Operatora Sił Specjalnych</Polish>
         </Key>
         <Key ID="STR_ls_characters_orsf_trooper_helmet">
             <English>Special Tactics Trooper Helmet</English>
+            <Polish>Hełm Operatora Sił Specjalnych</Polish>
         </Key>
         <Key ID="STR_ls_characters_orsf_trooper_radio_backpack">
             <English>Special Tactics Radio Backpack</English>
+            <Polish>Plecak Radiostacji Operatora Sił Specjalnych</Polish>
         </Key>
         <Key ID="STR_ls_characters_orsf_trooper_uniform">
             <English>Special Tactics Trooper Fatigues</English>
+            <Polish>Mundur Polowy Operatora Sił Specjalnych</Polish>
         </Key>
         <Key ID="STR_ls_characters_orsf_trooper_vest">
             <English>Special Tactics Trooper Vest</English>
+            <Polish>Kamizelka Operatora Sił Specjalnych</Polish>
         </Key>
     </Package>
 </Project>
