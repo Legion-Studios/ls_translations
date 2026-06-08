@@ -74,6 +74,12 @@
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
         </Key>
+        <Key ID="STR_ls_modules_moduleSetSkills">
+            <English>Set Skills</English>
+        </Key>
+        <Key ID="STR_ls_modules_updatedSkills">
+            <English>Updated skills for %1</English>
+        </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo">
             <English>Toggle Active Camo</English>
             <French>Basculé Camouflage Actif</French>
