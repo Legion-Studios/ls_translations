@@ -74,6 +74,9 @@
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
         </Key>
+        <Key ID="STR_ls_modules_moduleSetSkills">
+            <English>Set Skills</English>
+        </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo">
             <English>Toggle Active Camo</English>
             <French>Basculé Camouflage Actif</French>
@@ -165,6 +168,9 @@
             <English>Stops after spawning X units.\n-1 = unlimited</English>
             <French>Arrête de créer après X unités.\n-1 = illimité</French>
             <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
+        </Key>
+        <Key ID="STR_ls_modules_updatedSkills">
+            <English>Updated skills for %1</English>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>

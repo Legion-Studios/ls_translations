@@ -136,6 +136,36 @@
             <French>Reception du traitement...</French>
             <Polish>Otrzymywanie opieki zdrowotnej...</Polish>
         </Key>
+        <Key ID="STR_ls_common_skill_advanced">
+            <English>Advanced</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_crewman_tooltip">
+            <English>Unit's skill in operating ground vehicles.</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_engineer_tooltip">
+            <English>Unit's skill in servicing vehicles and equipment.</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_eod_tooltip">
+            <English>Unit's skill in locating, placing, and disarming explosives.</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_medic_tooltip">
+            <English>Unit's skill in treating patients.</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_pilot_tooltip">
+            <English>Unit's skill in operating aerial vehicles.</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_tech_name">
+            <English>Tech Specialist</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_tech_tooltip">
+            <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_trained">
+            <English>Trained</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_untrained">
+            <English>Untrained</English>
+        </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_yes">
             <English>Yes</English>
