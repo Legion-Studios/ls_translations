@@ -95,10 +95,9 @@
             <French>Aucune porte trouvée</French>
             <Polish>Nie znaleziono drzwi!</Polish>
         </Key>
-        <Key ID="STR_ls_modules_noOpenFound">
-            <English>No door found!</English>
+        <Key ID="STR_ls_modules_noOpenDoorFound">
+            <English>No open door found!</English>
             <French>Aucune porte ouverte trouvée</French>
-            <Polish>Nie znaleziono drzwi!</Polish>
         </Key>
         <Key ID="STR_ls_modules_noPlayer">
             <English>Unit must not be a player</English>
