@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="medical">
+        <Key ID="STR_ls_medical_helmetKnockoffChance_name">
+            <English>Helmet Knockoff - Chance</English>
+        </Key>
+        <Key ID="STR_ls_medical_helmetKnockoffChance_tooltip">
+            <English>The chance for a helmet to be knocked off.</English>
+        </Key>
+        <Key ID="STR_ls_medical_helmetKnockoffEnabled_name">
+            <English>Helmet Knockoff - Enabled</English>
+        </Key>
+        <Key ID="STR_ls_medical_helmetKnockoffEnabled_tooltip">
+            <English>If enabled, shooting a unit in the head has a chance to knock off the unit's helmet.</English>
+        </Key>
+    </Package>
+</Project>

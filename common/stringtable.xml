@@ -11,6 +11,9 @@
             <French>Forces de Sécurité de Coruscant</French>
             <Polish>Siły Bezpieczeństwa Coruscant</Polish>
         </Key>
+        <Key ID="STR_ls_common_onlyAI">
+            <English>Only AI</English>
+        </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
             <English>Disabled</English>
