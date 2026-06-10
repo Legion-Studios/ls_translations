@@ -4,6 +4,255 @@
         <Key ID="STR_ls_characters_droid_b1">
             <English>B1 Battle Droid</English>
         </Key>
+        <Key ID="STR_ls_characters_droid_b1_antenna_backpack">
+            <English>B1 Antenna Array</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_antenna_geonosis_backpack">
+            <English>B1 Antenna Array (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_antenna_hologram_backpack">
+            <English>B1 Antenna Array (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_antenna_simulation_backpack">
+            <English>B1 Antenna Array (Simulation)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_antenna_training_backpack">
+            <English>B1 Antenna Array (Training)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_at">
+            <English>B1 Battle Droid (AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_backpack">
+            <English>B1 Comlink Booster</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_breacher">
+            <English>B1 Battle Droid (Breacher)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_uniform">
+            <English>B1 Droid Chassis</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_commander">
+            <English>OOM-Series Commander Droid</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_commander_geonosis_helmet">
+            <English>OOM-Series Commander Droid Head (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_commander_geonosis_uniform">
+            <English>B1 Droid Chassis (Commander, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_commander_helmet">
+            <English>OOM-Series Commander Droid Head</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_commander_uniform">
+            <English>B1 Droid Chassis (Commander)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_crew">
+            <English>OOM-Series Crew Droid</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_crew_backpack">
+            <English>B1 Comlink Booster (Crew)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_crew_geonosis_backpack">
+            <English>B1 Comlink Booster (Crew, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_crew_geonosis_helmet">
+            <English>B1 Droid Head (Crew, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_crew_geonosis_uniform">
+            <English>B1 Droid Chassis (Crew, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_crew_helmet">
+            <English>B1 Droid Head (Crew)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_crew_uniform">
+            <English>B1 Droid Chassis (Crew)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_engineer">
+            <English>B1 Battle Droid (Engineer)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_engineer_backpack">
+            <English>B1 Comlink Booster (Engineer)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_engineer_geonosis_backpack">
+            <English>B1 Comlink Booster (Engineer, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_engineer_geonosis_uniform">
+            <English>B1 Droid Chassis (Engineer, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_engineer_uniform">
+            <English>B1 Droid Chassis (Engineer)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_firefighter">
+            <English>B1 Battle Droid (Firefighter)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_firefighter_backpack">
+            <English>B1 Comlink Booster (Firefighter)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_firefighter_helmet">
+            <English>B1 Droid Head (Firefighter)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_firefighter_uniform">
+            <English>B1 Droid Chassis (Firefighter)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_geonosis_backpack">
+            <English>B1 Comlink Booster (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_geonosis_helmet">
+            <English>B1 Droid Head (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_geonosis_uniform">
+            <English>B1 Droid Chassis (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_grenadier">
+            <English>B1 Battle Droid (Grenadier)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_grenadier_backpack">
+            <English>B1 Comlink Booster (Grenadier)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_grenadier_geonosis_backpack">
+            <English>B1 Comlink Booster (Grenadier, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_grenadier_geonosis_helmet">
+            <English>B1 Droid Head (Grenadier, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_grenadier_geonosis_uniform">
+            <English>B1 Droid Chassis (Grenadier, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_grenadier_helmet">
+            <English>B1 Droid Head (Grenadier)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_grenadier_uniform">
+            <English>B1 Droid Chassis (Grenadier)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_heavy">
+            <English>B1 Battle Droid (Heavy)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_heavyAA">
+            <English>B1 Battle Droid (Missile AA)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_heavyAT">
+            <English>B1 Battle Droid (Missile AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_heavy_backpack">
+            <English>B1 Comlink Booster (Heavy)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_heavy_geonosis_backpack">
+            <English>B1 Comlink Booster (Heavy, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_heavy_geonosis_uniform">
+            <English>B1 Droid Chassis (Heavy, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_heavy_uniform">
+            <English>B1 Droid Chassis (Heavy)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_helmet">
+            <English>B1 Droid Head</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_hologram">
+            <English>B1 Battle Droid (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_hologram_backpack">
+            <English>B1 Comlink Booster (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_hologram_helmet">
+            <English>B1 Droid Head (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_hologram_uniform">
+            <English>B1 Droid Chassis (Hologram)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_marine">
+            <English>B1 Battle Droid (Marine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_marine_backpack">
+            <English>B1 Comlink Booster (Marine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_marine_uniform">
+            <English>B1 Droid Chassis (Marine)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_marksman">
+            <English>B1 Battle Droid (Marksman)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_pilot_backpack">
+            <English>B1 Comlink Booster (Pilot)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_pilot_geonosis_backpack">
+            <English>B1 Comlink Booster (Pilot, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_pilot_geonosis_uniform">
+            <English>B1 Droid Chassis (Pilot, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_pilot_uniform">
+            <English>B1 Droid Chassis (Pilot)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_roi">
+            <English>OOM-Series Pilot Droid</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_saboteur">
+            <English>B1 Battle Droid (Saboteur)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_saboteur_backpack">
+            <English>B1 Comlink Booster (Saboteur)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_saboteur_helmet">
+            <English>B1 Droid Head (Saboteur)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_saboteur_uniform">
+            <English>B1 Droid Chassis (Saboteur)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_scout">
+            <English>B1 Battle Droid (Scout)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_scout_geonosis_helmet">
+            <English>B1 Droid Head (Scout, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_scout_geonosis_uniform">
+            <English>B1 Droid Chassis (Scout, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_scout_helmet">
+            <English>B1 Droid Head (Scout)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_scout_uniform">
+            <English>B1 Droid Chassis (Scout)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_security">
+            <English>OOM-Series Security Droid</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_security_backpack">
+            <English>B1 Comlink Booster (Security)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_security_geonosis_backpack">
+            <English>B1 Comlink Booster (Security, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_security_geonosis_uniform">
+            <English>B1 Droid Chassis (Security, Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_security_uniform">
+            <English>B1 Droid Chassis (Security)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_simulation">
+            <English>B1 Battle Droid (Simulation)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_simulation_backpack">
+            <English>B1 Comlink Booster (Simulation)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_simulation_helmet">
+            <English>B1 Droid Head (Simulation)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_simulation_uniform">
+            <English>B1 Droid Chassis (Simulation)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_squadLead">
+            <English>B1 Battle Droid (Squad Lead)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_training_backpack">
+            <English>B1 Comlink Booster (Training)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_training_helmet">
+            <English>B1 Droid Head (Training)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_training_uniform">
+            <English>B1 Droid Chassis (Training)</English>
+        </Key>
         <Key ID="STR_ls_characters_droid_droideka">
             <English>Droideka</English>
         </Key>
