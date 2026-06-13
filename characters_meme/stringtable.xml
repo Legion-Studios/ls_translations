@@ -3,36 +3,47 @@
     <Package name="characters_meme">
         <Key ID="STR_ls_characters_meme_arcborne_helmet">
             <English>Clone ARCborne Helmet</English>
+            <French>Casque de clone ARCBorne</French>
         </Key>
         <Key ID="STR_ls_characters_meme_blackbeard_vest">
             <English>Blackbeard's Vest</English>
+            <French>Gilet de barbe noir</French>
         </Key>
         <Key ID="STR_ls_characters_meme_chad_helmet">
             <English>CT-6969 'Chadimus Maximus'</English>
+            <French>CT-6969 'Chadimus Maximus'</French>
         </Key>
         <Key ID="STR_ls_characters_meme_killerRabbit">
             <English>The Killer Rabbit</English>
+            <English>Le Lapin Tueur</English>
         </Key>
         <Key ID="STR_ls_characters_meme_nut">
             <English>The Nut</English>
+            <French>La Cacahuète</French>
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased">
             <English>The Pleased Nut</English>
+            <French>La Cacahuète Heureuse</French>
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased_armed">
             <English>The Pleased Nut (Armed)</English>
+            <French>La Cacahuète Heureuse (Bras)</French>
         </Key>
         <Key ID="STR_ls_characters_meme_nutgotiator">
             <English>The Nugotiator</English>
+            <French>La Cacahuète Négociatrice</French>
         </Key>
         <Key ID="STR_ls_characters_meme_nutgotiator_armed">
             <English>The Nugotiator (Armed)</English>
+            <French>La Cacahuète Négociatrice (Bras)</French>
         </Key>
         <Key ID="STR_ls_characters_meme_splinterCell_nvg">
             <English>Clone SpecOp Trinocular Visor</English>
+            <French>Lunettes trinoculaire de clone specop</French>
         </Key>
         <Key ID="STR_ls_characters_meme_zygerrianDisguise">
             <English>Zygerrian Disguise</English>
+            <French>Deguisement de Zygerrian</French>
         </Key>
     </Package>
 </Project>
