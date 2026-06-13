@@ -3,9 +3,11 @@
     <Package name="characters_rebels">
         <Key ID="STR_ls_characters_rebels_chestPouches">
             <English>Rebel Chest Pouches</English>
+            <French>Poches de Poitrine Rebelles</French>
         </Key>
         <Key ID="STR_ls_characters_rebels_honorGuard_uniform">
             <English>Rebel Honor Guard Fatigues</English>
+            <French>Treillis de garde d'honneur rebel</French>
         </Key>
     </Package>
 </Project>
