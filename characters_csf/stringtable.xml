@@ -7,55 +7,55 @@
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_captain">
             <English>Senate Commando Captain</English>
-            <French>Capitaine des Commandos du Sénat</French>
+            <French>Capitaine des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_captain_helmet">
             <English>Senate Commando Captain Helmet</English>
-            <French>Casque de Capitaine des Commandos du Sénat</French>
+            <French>Casque de capitaine des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_captain_uniform">
             <English>Senate Commando Captain Armor</English>
-            <French>Armure de Capitaine des Commandos du Sénat</French>
+            <French>Armure de capitaine des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_guardsman_helmet">
             <English>Senate Commando Guardsman Helmet</English>
-            <French>Casque de Capitaine des Commandos du Sénat</French>
+            <French>Casque de garde des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_guardsman_uniform">
             <English>Senate Commando Guardsman Armor</English>
-            <French>Armure de Guarde des Commandos du Sénat</French>
+            <French>Armure de garde des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_helmet">
             <English>Senate Commando Trooper Helmet</English>
-            <French>Casque de Commando du Sénat</French>
+            <French>Casque de commando du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_hologram">
             <English>Senate Commando (Hologram)</English>
-            <French>Commando du Sénat (Hologramme)</French>
+            <French>Commando du Sénat (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_hologram_helmet">
             <English>Senate Commando Helmet (Hologram)</English>
-            <French>Casque Commando du Sénat (Hologramme)</French>
+            <French>Casque de commando du Sénat (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_hologram_uniform">
             <English>Senate Commando Armor (Hologram)</English>
-            <French>Armure de Commando Sénatoriale (Hologramme)</French>
+            <French>Armure de commando du Sénat (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_lieutenant">
             <English>Senate Commando Lieutenant</English>
-            <French>Lieutenant des Commandos Scénatoriales</French>
+            <French>Lieutenant des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_lieutenant_helmet">
             <English>Senate Commando Lieutenant Helmet</English>
-            <French>Casque de Lieutenant des Commandos du Sénat</French>
+            <French>Casque de lieutenant des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_lieutenant_uniform">
             <English>Senate Commando Lieutenant Armor</English>
-            <French>Armure de Lieutenant des Commandos du Sénat</French>
+            <French>Armure de lieutenant des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_uniform">
             <English>Senate Commando Trooper Armor</English>
-            <French>Armure de Commando du Sénat</French>
+            <French>Armure de commando du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommandos">
             <English>Senate Commandos</English>
