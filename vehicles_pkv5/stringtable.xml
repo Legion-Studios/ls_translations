@@ -3,25 +3,32 @@
     <Package name="vehicles_pkv5">
         <Key ID="STR_ls_vehicles_pkv5_aaa_displayName">
             <English>PK-V5 Medium Fighter Tank (AAA)</English>
+            <French>Tank de Combat Intermédiaire PK-V5 (AAA)</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_displayName">
             <English>PK-V5 Medium Fighter Tank</English>
+            <French>Tank de Combat Intermédiaire PK-V5</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mlrs_displayName">
             <English>PK-V5 Medium Fighter Tank (MLRS)</English>
+            <French>Tank de Combat Intermédiaire PK-V5 (MLRS)</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mortar_displayName">
             <English>PK-V5 Medium Fighter Tank (Mortar)</English>
+            <French>Tank de Combat Intermédiaire PK-V5 (Mortier)</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mp_displayName">
             <English>PK-V5 Medium Fighter Tank (MP)</English>
+            <French>Tank de Combat Intermédiaire PK-V5 (MP)</French>
         </Key>
         <!-- Can probably be reused elsewhere -->
         <Key ID="STR_ls_vehicles_pkv5_standard">
             <English>Standard</English>
+            <French>Standard</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_standard_logo">
             <English>Standard (Logo)</English>
+            <French>Standard (Logo)</French>
         </Key>
     </Package>
 </Project>
