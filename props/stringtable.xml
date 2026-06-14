@@ -6,36 +6,47 @@
         </Key>
         <Key ID="STR_ls_props_blank">
             <English>Blank</English>
+            <French>Vierge</French>
         </Key>
         <Key ID="STR_ls_props_bloodPools">
             <English>Blood Pools</English>
+            </F
         </Key>
         <Key ID="STR_ls_props_bsod">
             <English>Blue Screen</English>
+            <French>Écran bleu</French>
         </Key>
         <Key ID="STR_ls_props_commandPosts">
             <English>Command Posts</English>
+            <French>Postes de commandement</French>
         </Key>
         <Key ID="STR_ls_props_crash">
             <English>Crash</English>
+            <French>Crash</French>
         </Key>
         <Key ID="STR_ls_props_ironmouse">
             <English>Ironmouse</English>
+            <French>Ironmouse</French>
         </Key>
         <Key ID="STR_ls_props_terminal">
             <English>Terminal</English>
+            <French>Terminal</French>
         </Key>
         <Key ID="STR_ls_props_terminal_01">
             <English>Terminal 01</English>
+            <French>Terminal 01</French>
         </Key>
         <Key ID="STR_ls_props_terminal_reinsert">
             <English>Reinsert Terminal</English>
+            <French>Réinsérer terminal</French>
         </Key>
         <Key ID="STR_ls_props_terminals">
             <English>Terminals</English>
+            <French>Terminaux</French>
         </Key>
         <Key ID="STR_ls_props_windowsXp">
             <English>Windows XP</English>
+            <French>Windows XP</French>
         </Key>
     </Package>
 </Project>
