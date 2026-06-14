@@ -3,12 +3,15 @@
     <Package name="units">
         <Key ID="STR_ls_units_breacher">
             <English>Breacher</English>
+            <French>Sapeur</French>
         </Key>
         <Key ID="STR_ls_units_medic">
             <English>Medic</English>
+            <French>Médecin</French>
         </Key>
         <Key ID="STR_ls_units_rto">
             <English>Radio Operator</English>
+            <French>Opérateur Radio</French>
         </Key>
     </Package>
 </Project>
