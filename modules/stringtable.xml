@@ -38,7 +38,7 @@
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
             <English>Select what group will be spawned by the droid dispenser when it activates</English>
-            <French>Sélectinonez quel groupe sera créé par le distributeur de droïdes lors son activation</French>
+            <French>Sélectionnez quel groupe sera créé par le distributeur de droïdes lors son activation</French>
             <Polish>Wybierz jaka grupa zostanie utworzona przez zasobnik droidów w momencie jego uruchomienia</Polish>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_noGroup">
@@ -224,7 +224,7 @@
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeCount_tooltip">
             <English>The number of debris objects to spawn</English>
-            <French>Le nombre de objets de débris à créer</French>
+            <French>Le nombre d'objets de débris à créer</French>
             <Polish>Ilość szczątków do rozmieszczenia</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_name">
@@ -264,7 +264,7 @@
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_description">
             <English>Spawns a number of space debris objects floating in a random area around the module. The objects are created locally on each player's machine.</English>
-            <French>Créer un nombre de débris spatiaux flottants dans un zone aléatoire autour le module. Les objets sont créés sur chaque machine de joueur.</French>
+            <French>Créer un nombre de débris spatiaux flottants dans une zone aléatoire autour le module. Les objets sont créés sur chaque machine de joueur.</French>
             <Polish>Rozmieszcza określoną liczbę Szczątków wiszących w losowych pozycjach dookoła modułu. Obiekty są lokalne na maszynach graczy.</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_name">

@@ -31,31 +31,31 @@
         </Key>
         <Key ID="STR_ls_characters_flakJacket_brown_vest">
             <English>Flak Jacket (Brown)</English>
-            <French>Gilet pare-balles (Brun)</French>
+            <French>Gilet tactique (Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_open_vest">
             <English>Flak Jacket (Open)</English>
-            <French>Gilet pare-balles (Ouverte)</French>
+            <French>Gilet tactique (Ouverte)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouchesAlt_brown_vest">
             <English>Flak Jacket (Pouches, Brown, Alt)</English>
-            <French>Gilet pare-balles (Poches, Brun, Alt)</French>
+            <French>Gilet tactique (Poches, Brun, Alt)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouchesAlt_vest">
             <English>Flak Jacket (Pouches, Alt)</English>
-            <French>Gilet pare-balles (Poches, Alt)</French>
+            <French>Gilet tactique (Poches, Alt)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouches_brown_vest">
             <English>Flak Jacket (Pouches, Brown)</English>
-            <French>Gilet pare-balles (Poches, Brun)</French>
+            <French>Gilet tactique (Poches, Brun)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouches_vest">
             <English>Flak Jacket (Pouches)</English>
-            <French>Gilet pare-balles (Poches)</French>
+            <French>Gilet tactique (Poches)</French>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_vest">
             <English>Flak Jacket</English>
-            <French>Gilet pare-balles</French>
+            <French>Gilet tactique</French>
         </Key>
         <Key ID="STR_ls_characters_goggles">
             <English>Goggles</English>

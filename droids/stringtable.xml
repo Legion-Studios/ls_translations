@@ -11,7 +11,7 @@
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldHealth_name">
             <English>Droideka - Shield Health</English>
-            <French>Droideka - Santé du Bouclier</French>
+            <French>Droideka - Intégrité du Bouclier</French>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldHealth_tooltip">
             <English>The max health of the droideka's shield\n0 = Disable droideka shields</English>

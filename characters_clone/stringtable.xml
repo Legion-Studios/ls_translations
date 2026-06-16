@@ -44,7 +44,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_arc_cadet_vest">
             <English>Clone ARC Cadet Vest</English>
-            <French>Gilet de cadet ARC</English>
+            <French>Gilet de cadet ARC</French>
         </Key>
         <Key ID="STR_ls_characters_clone_arc_helmet">
             <English>Clone ARC Helmet</English>
@@ -119,7 +119,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_gunner_vest">
             <English>Clone Gunner Vest</English>
-            <French>Gilet de clone tireur (Gunner)</French>
+            <French>Gilet de clone tireur (Artilleur)</French>
             <Polish>Kamizelka Klona Artylerzysty</Polish>
             <Russian>Жилет клон-артиллериста (ВАР)</Russian>
         </Key>
