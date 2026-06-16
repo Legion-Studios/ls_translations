@@ -113,7 +113,7 @@
         </Key>
         <Key ID="STR_ls_common_orsf">
             <English>Outland Regions Security Forces</English>
-            <French>Forces de Sécurité des Régions Extérieurs</French>
+            <French>Forces de Sécurité des Régions Extérieures</French>
             <Polish>Siły Obrone Regionów Zewnętrznych</Polish>
         </Key>
         <Key ID="STR_ls_common_pirates">
@@ -170,7 +170,7 @@
         </Key>
         <Key ID="STR_ls_common_skill_trained">
             <English>Trained</English>
-            <French>Entrainé</French>
+            <French>Entraîné</French>
         </Key>
         <Key ID="STR_ls_common_skill_untrained">
             <English>Untrained</English>

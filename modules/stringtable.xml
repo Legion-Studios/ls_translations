@@ -38,7 +38,7 @@
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
             <English>Select what group will be spawned by the droid dispenser when it activates</English>
-            <French>Sélectionnez quel groupe sera créé par le distributeur de droïdes lors son activation</French>
+            <French>Sélectionnez quel groupe sera créé par le distributeur de droïdes lors de son activation</French>
             <Polish>Wybierz jaka grupa zostanie utworzona przez zasobnik droidów w momencie jego uruchomienia</Polish>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_noGroup">
@@ -161,7 +161,7 @@
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
-            <French>Limite de d'apparition</French>
+            <French>Limite d'apparition</French>
             <Polish>Limit Jednostek</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_tooltip">
