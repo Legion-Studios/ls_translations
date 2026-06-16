@@ -3,6 +3,7 @@
     <Package name="props">
         <Key ID="STR_ls_props_acceptance">
             <English>Acceptance</English>
+            <French>Acceptation</French>
         </Key>
         <Key ID="STR_ls_props_blank">
             <English>Blank</English>
