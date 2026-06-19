@@ -3,422 +3,527 @@
     <Package name="characters_imperial">
         <Key ID="STR_ls_characters_imperial_army">
             <English>Imperial Army</English>
+            <Polish>Armia Imperium</Polish>
             <French>Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_black_uniform">
             <English>Imperial Army Fatigues (Armored, Black)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Czarny)</Polish>
             <French>Treillis de l'Armée Impériale (renforcé, noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_isb_uniform">
             <English>Imperial Army Fatigues (Armored, ISB)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, ISB)</Polish>
             <French>Treillis de l'Armée Impériale (renforcé, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Armored, Mudtrooper)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Zołnierz Błotny)</Polish>
             <French>Treillis de l'Armée Impériale (renforcé, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_black_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, Black)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, Czarny)</Polish>
             <French>Treillis de l'Armée Impériale (renforcé, retroussé, noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_isb_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, ISB)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, ISB)</Polish>
             <French>Treillis de l'Armée Impériale (renforcé, retroussé, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, Mudtrooper)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, Żołnierz Błotny)</Polish>
             <French>Treillis de l'Armée Impériale (renforcé, retroussé, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty)</Polish>
             <French>Treillis de l'Armée Impériale (renforcé, retroussé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_uniform">
             <English>Imperial Army Fatigues (Armored)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony)</Polish>
             <French>Treillis de l'Armée Impériale (renforcé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_helmet">
             <English>Imperial Army Helmet (Black)</English>
+            <Polish>Hełm Armii Imperialnej (Czarny)</Polish>
             <French>Casque de l'Armée Impériale (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_holster_vest">
             <English>Imperial Army Vest (Black, Holster)</English>
+            <Polish>Kamizelka Armii Imperialnek (Czarny, Kabura)</Polish>
             <French>Gilet tactique de l'Armée Impériale (noir, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_tacbelt">
             <English>Imperial Tacbelt (Black)</English>
+            <Polish>Imperialny Pas Taktyczny (Czarny)</Polish>
             <French>Ceinture tactique Impériale (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_uniform">
             <English>Imperial Army Fatigues (Black)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Czarny)</Polish>
             <French>Treillis de l'Armée Impériale (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_vest">
             <English>Imperial Army Vest (Black)</English>
+            <Polish>Kamizelka Armii Imperialnek (Czarna)</Polish>
             <French>Gilet tactique de l'Armée Impériale (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_damaged_vest">
             <English>Imperial Army Vest (Damaged)</English>
+            <Polish>Kamizelka Armii Imperialnek (Uszkodzona)</Polish>
             <French>Gilet tactique de l'Armée Impériale (endommagé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gd_black_helmet">
             <English>Imperial Army Helmet (Goggles Down, Black)</English>
+            <Polish>Hełm Armii Imperialnej (Opuszczone Okulary Ochronne, Czarny)</Polish>
             <French>Casque de l'Armée Impériale (lunettes baissées, noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gd_helmet">
             <English>Imperial Army Helmet (Goggles Down)</English>
+            <Polish>Hełm Armii Imperialnej (Opuszczone Okulary Ochronne)</Polish>
             <French>Casque de l'Armée Impériale (lunettes baissées)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gd_isb_helmet">
             <English>Imperial Army Helmet (Goggles Down, ISB)</English>
+            <Polish>Hełm Armii Imperialnej (Opuszczone Okulary Ochronne, ISB)</Polish>
             <French>Casque de l'Armée Impériale (lunettes baissées, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gd_mudtrooper_helmet">
             <English>Imperial Army Helmet (Goggles Down, Mudtrooper)</English>
+            <Polish>Hełm Armii Imperialnej (Opuszczone Okulary Ochronne, Żołnierz Błotny)</Polish>
             <French>Casque de l'Armée Impériale (lunettes baissées, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gdr_black_helmet">
             <English>Imperial Army Helmet (Goggles Down, Rebreather, Black)</English>
+            <Polish>Hełm Armii Imperialnej (Opuszczone Okulary Ochronne, Aparat Oddechowy, Czarny)</Polish>
             <French>Casque de l'Armée Impériale (lunettes baissées, recycleur, noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gdr_helmet">
             <English>Imperial Army Helmet (Goggles Down, Rebreather)</English>
+            <Polish>Hełm Armii Imperialnej (Opuszczone Okulary Ochronne, Aparat Oddechowy)</Polish>
             <French>Casque de l'Armée Impériale (lunettes baissées, recycleur)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gdr_isb_helmet">
             <English>Imperial Army Helmet (Goggles Down, Rebreather, ISB)</English>
+            <Polish>Hełm Armii Imperialnej (Opuszczone Okulary Ochronne, Aparat Oddechowy, ISB)</Polish>
             <French>Casque de l'Armée Impériale (lunettes baissées, recycleur, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gdr_mudtrooper_helmet">
             <English>Imperial Army Helmet (Goggles Down, Rebreather, Mudtrooper)</English>
+            <Polish>Hełm Armii Imperialnej (Opuszczone Okulary Ochronne, Aparat Oddechowy, Żołnierz Błotny)</Polish>
             <French>Casque de l'Armée Impériale (lunettes baissées, recycleur, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gu_black_helmet">
             <English>Imperial Army Helmet (Goggles Up, Black)</English>
+            <Polish>Hełm Armii Imperialnej (Podniesione Okulary Ochronne, Czarny)</Polish>
             <French>Casque de l'Armée Impériale (lunettes levées, noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gu_helmet">
             <English>Imperial Army Helmet (Goggles Up)</English>
+            <Polish>Hełm Armii Imperialnej (Podniesione Okulary Ochronne)</Polish>
             <French>Casque de l'Armée Impériale (lunettes levées)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gu_isb_helmet">
             <English>Imperial Army Helmet (Goggles Up, ISB)</English>
+            <Polish>Hełm Armii Imperialnej (Podniesione Okulary Ochronne, ISB)</Polish>
             <French>Casque de l'Armée Impériale (lunettes levées, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gu_mudtrooper_helmet">
             <English>Imperial Army Helmet (Goggles Up, Mudtrooper)</English>
+            <Polish>Hełm Armii Imperialnej (Podniesione Okulary Ochronne, Żołnierz Błotny)</Polish>
             <French>Casque de l'Armée Impériale (lunettes levées, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gur_black_helmet">
             <English>Imperial Army Helmet (Goggles Up, Rebreather, Black)</English>
+            <Polish>Hełm Armii Imperialnej (Podniesione Okulary Ochronne, Aparat Oddechowy, Czarny)</Polish>
             <French>Casque de l'Armée Impériale (lunettes levées, recycleur, noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gur_helmet">
             <English>Imperial Army Helmet (Goggles Up, Rebreather)</English>
+            <Polish>Hełm Armii Imperialnej (Podniesione Okulary Ochronne, Aparat Oddechowy)</Polish>
             <French>Casque de l'Armée Impériale (lunettes levées, recycleur)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gur_isb_helmet">
             <English>Imperial Army Helmet (Goggles Up, Rebreather, ISB)</English>
+            <Polish>Hełm Armii Imperialnej (Podniesione Okulary Ochronne, Aparat Oddechowy, ISB)</Polish>
             <French>Casque de l'Armée Impériale (lunettes levées, recycleur, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_gur_mudtrooper_helmet">
             <English>Imperial Army Helmet (Goggles Up, Rebreather, Mudtrooper)</English>
+            <Polish>Hełm Armii Imperialnej (Podniesione Okulary Ochronne, Aparat Oddechowy, Żołnierz Błotny)</Polish>
             <French>Casque de l'Armée Impériale (lunettes levées, recycleur, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_helmet">
             <English>Imperial Army Helmet</English>
+            <Polish>Hełm Armii Imperialnej</Polish>
             <French>Casque de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_holster_vest">
             <English>Imperial Army Vest (Holster)</English>
+            <Polish>Kamizelka Armii Imperialnej (Kabura)</Polish>
             <French>Gilet tactique de l'Armée Impériale (étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_helmet">
             <English>Imperial Army Helmet (ISB)</English>
+            <Polish>Kamizelka Armii Imperialnej (ISB)</Polish>
             <French>Casque de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_holster_vest">
             <English>Imperial Army Vest (ISB, Holster)</English>
+            <Polish>Kamizelka Armii Imperialnej (ISB, Kabura)</Polish>
             <French>Gilet tactique de l'Armée Impériale (BSI, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_tacbelt">
             <English>Imperial Tacbelt (ISB)</English>
+            <Polish>Pas Taktyczny Armii Imperialnej (ISB)</Polish>
             <French>Ceinture tactique Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_vest">
             <English>Imperial Army Vest (ISB)</English>
+            <Polish>Kamizelka Armii Imperialnej (ISB)</Polish>
             <French>Gilet tactique de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_black_holster_vest">
             <English>Imperial Army Light Vest (Black, Holster)</English>
+            <Polish>Lekka Kamizelka Armii Imperialnej (Czarna, Kabura)</Polish>
             <French>Gilet tactique léger de l'Armée Impériale (noir, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_black_vest">
             <English>Imperial Army Light Vest (Black)</English>
+            <Polish>Lekka Kamizelka Armii Imperialnej (Czarna)</Polish>
             <French>Gilet tactique léger de l'Armée Impériale (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_holster_vest">
             <English>Imperial Army Light Vest (Holster)</English>
+            <Polish>Lekka Kamizelka Armii Imperialnej (Kabura)</Polish>
             <French>Gilet tactique léger de l'Armée Impériale (étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_isb_holster_vest">
             <English>Imperial Army Light Vest (ISB, Holster)</English>
+            <Polish>Lekka Kamizelka Armii Imperialnej (ISB, Kabura)</Polish>
             <French>Gilet tactique léger de l'Armée Impériale (BSI, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_isb_vest">
             <English>Imperial Army Light Vest (ISB)</English>
+            <Polish>Lekka Kamizelka Armii Imperialnej (Czarna)</Polish>
             <French>Gilet tactique léger de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_holster_vest">
             <English>Imperial Army Light Vest (Mudtrooper, Holster)</English>
+            <Polish>Lekka Kamizelka Armii Imperialnej (Żołnierz Błotny, Kabura)</Polish>
             <French>Gilet tactique léger de l'Armée Impériale (Mudtrooper, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_vest">
             <English>Imperial Army Light Vest (Mudtrooper)</English>
+            <Polish>Lekka Kamizelka Armii Imperialnej (Żołnierz Błotny)</Polish>
             <French>Gilet tactique léger de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_vest">
             <English>Imperial Army Light Vest</English>
+            <Polish>Lekka Kamizelka Armii Imperialnej</Polish>
             <French>Gilet tactique léger de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_black_holster_vest">
             <English>Imperial Army Medic Vest (Black, Holster)</English>
+            <Polish>Kamizelka Medyka Armii Imperialnej (Czarna, Kabura)</Polish>
             <French>Gilet tactique médical de l'Armée Impériale (noir, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_black_vest">
             <English>Imperial Army Medic Vest (Black)</English>
+            <Polish>Kamizelka Medyka Armii Imperialnej (Czarna)</Polish>
             <French>Gilet tactique médical de l'Armée Impériale (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_damaged_vest">
             <English>Imperial Army Medic Vest (Damaged)</English>
+            <Polish>Kamizelka Medyka Armii Imperialnej (Uszkodzona)</Polish>
             <French>Gilet tactique médical de l'Armée Impériale (endommagé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_holster_vest">
             <English>Imperial Army Medic Vest (Holster)</English>
+            <Polish>Kamizelka Medyka Armii Imperialnej (Kabura)</Polish>
             <French>Gilet tactique médical de l'Armée Impériale (étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_mudtrooper_holster_vest">
             <English>Imperial Army Medic Vest (Mudtrooper, Holster)</English>
+            <Polish>Kamizelka Medyka Armii Imperialnej (Żołnierz Błotny, Kabura)</Polish>
             <French>Gilet tactique médical de l'Armée Impériale (Mudtrooper, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_mudtrooper_vest">
             <English>Imperial Army Medic Vest (Mudtrooper)</English>
+            <Polish>Kamizelka Medyka Armii Imperialnej (Żołnierz Błotny)</Polish>
             <French>Gilet tactique médical de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medic_vest">
             <English>Imperial Army Medic Vest</English>
+            <Polish>Kamizelka Medyka Armii Imperialnej</Polish>
             <French>Gilet tactique médical de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_black_holster_vest">
             <English>Imperial Army Medium Vest (Black, Holster)</English>
+            <Polish>Średnia Kamizelka Armii Imperialnej (Czarna, Kabura)</Polish>
             <French>Gilet tactique moyen de l'Armée Impériale (noir, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_black_vest">
             <English>Imperial Army Medium Vest (Black)</English>
+            <Polish>Średnia Kamizelka Armii Imperialnej (Czarna)</Polish>
             <French>Gilet tactique moyen de l'Armée Impériale (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_holster_vest">
             <English>Imperial Army Medium Vest (Holster)</English>
+            <Polish>Średnia Kamizelka Armii Imperialnej (Kabura)</Polish>
             <French>Gilet tactique moyen de l'Armée Impériale (étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_isb_holster_vest">
             <English>Imperial Army Medium Vest (ISB, Holster)</English>
+            <Polish>Średnia Kamizelka Armii Imperialnej (ISB, Kabura)</Polish>
             <French>Gilet tactique moyen de l'Armée Impériale (BSI, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_isb_vest">
             <English>Imperial Army Medium Vest (ISB)</English>
+            <Polish>Średnia Kamizelka Armii Imperialnej (Czarna)</Polish>
             <French>Gilet tactique moyen de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_mudtrooper_holster_vest">
             <English>Imperial Army Medium Vest (Mudtrooper, Holster)</English>
+            <Polish>Średnia Kamizelka Armii Imperialnej (Żołnierz Błotny, Kabura)</Polish>
             <French>Gilet tactique moyen de l'Armée Impériale (Mudtrooper, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_mudtrooper_vest">
             <English>Imperial Army Medium Vest (Mudtrooper)</English>
+            <Polish>Średnia Kamizelka Armii Imperialnej (Żołnierz Błotny)</Polish>
             <French>Gilet tactique moyen de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_vest">
             <English>Imperial Army Medium Vest</English>
+            <Polish>Średnia Kamizelka Armii Imperialnej</Polish>
             <French>Gilet tactique moyen de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_helmet">
             <English>Imperial Army Helmet (Mudtrooper)</English>
+            <Polish>Hełm Armii Imperialnej (Żołnierz Błotny)</Polish>
             <French>Casque de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_holster_vest">
             <English>Imperial Army Vest (Mudtrooper, Holster)</English>
+            <Polish>Kamizelka Armii Imperialnej (Żołnierz Błotny, Kabura)</Polish>
             <French>Gilet tactique de l'Armée Impériale (Mudtrooper, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_tacbelt">
             <English>Imperial Tacbelt (Mudtrooper)</English>
+            <Polish>Pas Taktyczny Armii Imperialnej (Żołnierz Błotny)</Polish>
             <French>Ceinture tactique Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Mudtrooper)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Żołnierz Błotny)</Polish>
             <French>Treillis de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_vest">
             <English>Imperial Army Vest (Mudtrooper)</English>
+            <Polish>Kamizelka Armii Imperialnej (Żołnierz Błotny)</Polish>
             <French>Gilet tactique de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtroopers">
             <English>Mudtroopers</English>
+            <Polish>Żołnierze Błotni</Polish>
             <French>Mudtroopers</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_black_holster_vest">
             <English>Imperial Army Officer Vest (Black, Holster)</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej (Czarna, Kabura)</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale (noir, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_black_vest">
             <English>Imperial Army Officer Vest (Black)</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej (Czarna)</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_damaged_vest">
             <English>Imperial Army Officer Vest (Damaged)</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej (Uszkodzona)</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale (endommagé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_holster_vest">
             <English>Imperial Army Officer Vest (Holster)</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej (Kabura)</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale (étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_isb_holster_vest">
             <English>Imperial Army Officer Vest (ISB, Holster)</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej (ISB, Kabura)</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale (BSI, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_isb_vest">
             <English>Imperial Army Officer Vest (ISB)</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej (ISB)</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_mudtrooper_holster_vest">
             <English>Imperial Army Officer Vest (Mudtrooper, Holster)</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej (Żołnierz Błotny, Kabura)</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale (Mudtrooper, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_mudtrooper_vest">
             <English>Imperial Army Officer Vest (Mudtrooper)</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej (Żołnierz Błotny)</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_vest">
             <English>Imperial Army Officer Vest</English>
+            <Polish>Kamizelka Oficera Armii Imperialnej</Polish>
             <French>Gilet tactique d'officier de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_riot">
             <English>Riot Control</English>
+            <Polish>Kontrola Tłumu</Polish>
             <French>Anti-Émeute</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_black_uniform">
             <English>Imperial Army Fatigues (Rolled, Black)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Podwinięty, Czarny)</Polish>
             <French>Treillis de l'Armée Impériale (retroussé, noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Rolled, Mudtrooper)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Podwinięty, Żołnierz Błotny)</Polish>
             <French>Treillis de l'Armée Impériale (retroussé, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_uniform">
             <English>Imperial Army Fatigues (Rolled)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Podwinięty)</Polish>
             <French>Treillis de l'Armée Impériale (retroussé)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_tacbelt">
             <English>Imperial Tacbelt</English>
+            <Polish>Pas Taktyczny Armii Imperialnej</Polish>
             <French>Ceinture tactique Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_uniform">
             <English>Imperial Army Fatigues</English>
+            <Polish>Mundur Polowy Armii Imperialnej</Polish>
             <French>Treillis de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_vest">
             <English>Imperial Army Vest</English>
+            <Polish>Kamizelka Polowy Armii Imperialnej</Polish>
             <French>Gilet tactique de l'Armée Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_earPiece">
             <English>Imperial Ear Piece</English>
+            <Polish>Imperialna Słuchawka</Polish>
             <French>Oreillette Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_isb">
             <English>ISB</English>
+            <Polish>ISB</Polish>
             <French>BSI</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_black_helmet">
             <English>Imperial Kepi (Black)</English>
+            <Polish>Czapka Imperialnej Armii (Czarna)</Polish>
             <French>Képi Impérial (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_black_helmet">
             <English>Imperial Kepi (Goggles, Black)</English>
+            <Polish>Czapka Imperialnej Armii (Okulary Ochronne, Czarna)</Polish>
             <French>Képi Impérial (lunettes, noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_helmet">
             <English>Imperial Kepi (Goggles)</English>
+            <Polish>Czapka Imperialnej Armii (Okulary Ochronne)</Polish>
             <French>Képi Impérial (lunettes)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_isb_helmet">
             <English>Imperial Kepi (Goggles, ISB)</English>
+            <Polish>Czapka Imperialnej Armii (Okulary Ochronne, ISB)</Polish>
             <French>Képi Impérial (lunettes, BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_mudtrooper_helmet">
             <English>Imperial Kepi (Goggles, Mudtrooper)</English>
+            <Polish>Czapka Imperialnej Armii (Okulary Ochronne, Żołnierz Błotny)</Polish>
             <French>Képi Impérial (lunettes, Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_helmet">
             <English>Imperial Kepi</English>
+            <Polish>Czapka Imperialnej Armii</Polish>
             <French>Képi Impérial</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_isb_helmet">
             <English>Imperial Kepi (ISB)</English>
+            <Polish>Czapka Imperialnej Armii (ISB)</Polish>
             <French>Képi Impérial (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_mudtrooper_helmet">
             <English>Imperial Kepi (Mudtrooper)</English>
+            <Polish>Czapka Imperialnej Armii (Żołnierz Błotny)</Polish>
             <French>Képi Impérial (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather">
             <English>Imperial Rebreather</English>
+            <Polish>Imperialny Aparat Oddechowy</Polish>
             <French>Recycleur Impérial</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_black">
             <English>Imperial Rebreather (Black)</English>
+            <Polish>Imperialny Aparat Oddechowy (Czarny)</Polish>
             <French>Recycleur Impérial (noir)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_isb">
             <English>Imperial Rebreather (ISB)</English>
+            <Polish>Imperialny Aparat Oddechowy (ISB)</Polish>
             <French>Recycleur Impérial (BSI)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_mudtrooper">
             <English>Imperial Rebreather (Mudtrooper)</English>
+            <Polish>Imperialny Aparat Oddechowy (Żołnierz Błotny)</Polish>
             <French>Recycleur Impérial (Mudtrooper)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_satchel">
             <English>Imperial Satchel</English>
+            <Polish>Imperialna Torba Naramienna</Polish>
             <French>Sacoche Impériale</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_satchelOthers">
             <English>Imperial Satchel (Others)</English>
+            <Polish>Imperialna Torba Naramienna (Inne)</Polish>
             <French>Sacoche Impériale (autres)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_shoulderPouch">
             <English>Imperial Shoulder Pouch</English>
+            <Polish>Imperialna Kieszeń Naramienna</Polish>
             <French>Poches d'épaule Impériales</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_captain">
             <English>Stormtrooper Pauldron (Captain)</English>
+            <Polish>Naramiennik Szturmowca (Kapitan)</Polish>
             <French>Épaulière de Stormtrooper (capitaine)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_corporal">
             <English>Stormtrooper Pauldron (Corporal)</English>
+            <Polish>Naramiennik Szturmowca (Kapral)</Polish>
             <French>Épaulière de Stormtrooper (caporal)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_lieutenant">
             <English>Stormtrooper Pauldron (Lieutenant)</English>
+            <Polish>Naramiennik Szturmowca (Porucznik)</Polish>
             <French>Épaulière de Stormtrooper (lieutenant)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_sergeant">
             <English>Stormtrooper Pauldron (Sergeant)</English>
+            <Polish>Naramiennik Szturmowca (Sierżant)</Polish>
             <French>Épaulière de Stormtrooper (sergent)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_tactical_isb_vest">
             <English>Imperial Tactical Vest (ISB, Holster)</English>
+            <Polish>Kamizelka Armii Imperialnek Taktyczna (ISB, Kabura)</Polish>
             <French>Armure Impériale (BSI, étui)</French>
         </Key>
         <Key ID="STR_ls_characters_imperial_tactical_officer_isb_vest">
             <English>Imperial Tactical Officer Vest (ISB, Holster)</English>
+            <Polish>Kamizelka Armii Imperialnek Taktyczna Oficera (ISB, Kabura)</Polish>
             <French>Armure d'officier Impériale (BSI, étui)</French>
         </Key>
     </Package>
