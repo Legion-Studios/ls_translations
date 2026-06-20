@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="grenades">
+        <Key ID="STR_ls_grenades_c22_description">
+            <English>Type: Fragmentation Grenade&lt;br/&gt;Double click to set timer.&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_c22_displayName">
+            <English>C-22 Fragmentation Grenade</English>
+        </Key>
+        <Key ID="STR_ls_grenades_c22_displayNameShort">
+            <English>C-22</English>
+        </Key>
+        <Key ID="STR_ls_grenades_c22_explosive_description">
+            <English>Type: Fragmentation Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+        </Key>
+        <Key ID="STR_ls_grenades_c22_explosive_displayName">
+            <English>C-22 Fragmentation Grenade (Placeable)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightBlue_displayName">
+            <English>Chemlight (Blue)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightBlue_displayNameShort">
+            <English>Blue Light</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightGreen_displayName">
+            <English>Chemlight (Green)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightGreen_displayNameShort">
+            <English>Green Light</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightOrange_description">
+            <English>Type: Light - Orange&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightOrange_displayName">
+            <English>Chemlight (Orange)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightOrange_displayNameShort">
+            <English>Orange Light</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightRed_displayName">
+            <English>Chemlight (Red)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightRed_displayNameShort">
+            <English>Red Light</English>
+        </Key>
+        <Key ID="STR_ls_grenades_convertToPlaceable">
+            <English>Convert to Placeable</English>
+        </Key>
+        <Key ID="STR_ls_grenades_convertToThrowable">
+            <English>Convert to Throwable</English>
+        </Key>
+        <Key ID="STR_ls_grenades_cryoban_description">
+            <English>Type: Fire-suppressant Grenade&lt;br/&gt;Can cause frostbite and damage electronic components.&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_cryoban_displayName">
+            <English>Cryoban Grenade</English>
+        </Key>
+        <Key ID="STR_ls_grenades_cryoban_displayNameShort">
+            <English>Cryoban</English>
+        </Key>
+        <Key ID="STR_ls_grenades_flashbang_9bang_displayName">
+            <English>Flash Grenade (9-bang)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_flashbang_9bang_displayNameShort">
+            <English>Flash (9-bang)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_flashbang_description">
+            <English>Type: Non-lethal Grenade&lt;br/&gt;Causes blindness, deafness, tinnitus, and disrupts droid sensors.&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_flashbang_displayName">
+            <English>Flash Grenade</English>
+        </Key>
+        <Key ID="STR_ls_grenades_n20_description">
+            <English>Type: Offensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_n20_displayName">
+            <English>N-20 Baradium Core Detonator</English>
+        </Key>
+        <Key ID="STR_ls_grenades_n20_displayNameShort">
+            <English>N-20 (CTBI)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_setFuseTimer">
+            <English>Set Fuse Timer</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassA_description">
+            <English>Type: High-yield Offensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassA_displayName">
+            <English>Thermal Detonator (Class A)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassA_displayNameShort">
+            <English>Class A</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassB_description">
+            <English>Type: Medium-yield Offensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassB_displayName">
+            <English>Thermal Detonator (Class B)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassB_displayNameShort">
+            <English>Class B</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassC_displayName">
+            <English>Thermal Detonator (Class C)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassC_displayNameShort">
+            <English>Class C</English>
+        </Key>
+    </Package>
+</Project>

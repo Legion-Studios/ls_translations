@@ -6,6 +6,9 @@
             <French>Confédération des Systèmes Indépendants</French>
             <Polish>Konfederacja Niezależnych Systemów</Polish>
         </Key>
+        <Key ID="STR_ls_common_couldntFit">
+            <English>Could not fit items into container, check nearby on the ground</English>
+        </Key>
         <Key ID="STR_ls_common_csf">
             <English>Coruscant Security Force</English>
             <French>Forces de Sécurité de Coruscant</French>
@@ -46,6 +49,9 @@
             <Chinesesimp>启用</Chinesesimp>
             <Turkish>Etkin</Turkish>
             <Ukrainian>Увімкнено</Ukrainian>
+        </Key>
+        <Key ID="STR_ls_common_invalidValue">
+            <English>Invalid value</English>
         </Key>
         <Key ID="STR_ls_common_galacticEmpire">
             <English>Galactic Empire</English>
