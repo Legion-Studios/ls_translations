@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons">
+        <Key ID="STR_ls_weapons_accelerator_descriptionShort">
+            <English>Increases the velocity of fired rounds</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterCannon">
+            <English>Blaster Cannon</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterCarbine">
+            <English>Blaster Carbine</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterPistol">
+            <English>Blaster Carbine</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterRifle">
+            <English>Blaster Rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterSniper">
+            <English>Sniper Blaster Rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapons_holdoutBlasterPistol">
+            <English>Hold-out Blaster Pistol</English>
+        </Key>
+        <Key ID="STR_ls_weapons_leftHand">
+            <English>Left Hand</English>
+        </Key>
+        <Key ID="STR_ls_weapons_rightHand">
+            <English>Right Hand</English>
+        </Key>
+        <Key ID="STR_ls_weapons_scatterBlaster">
+            <English>Scatter Blaster</English>
+        </Key>
+        <Key ID="STR_ls_weapons_visibleLaser">
+            <English>Visible Laser</English>
+        </Key>
+    </Package>
+</Project>
