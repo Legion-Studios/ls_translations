@@ -113,7 +113,7 @@
         </Key>
         <Key ID="STR_ls_common_orsf">
             <English>Outland Regions Security Forces</English>
-            <French>Forces de Sécurité des Régions Exterieurs</French>
+            <French>Forces de Sécurité des Régions Extérieures</French>
             <Polish>Siły Obrone Regionów Zewnętrznych</Polish>
         </Key>
         <Key ID="STR_ls_common_pirates">
@@ -132,39 +132,49 @@
             <Polish>Zostałeś w pełni wyleczony</Polish>
         </Key>
         <Key ID="STR_ls_common_recievingTreatment">
-            <English>Recieving treatment...</English>
-            <French>Reception du traitement...</French>
+            <English>Receiving treatment...</English>
+            <French>Traitement en cours...</French>
             <Polish>Otrzymywanie opieki zdrowotnej...</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_advanced">
             <English>Advanced</English>
+            <French>Avancé</French>
         </Key>
         <Key ID="STR_ls_common_skill_crewman_tooltip">
             <English>Unit's skill in operating ground vehicles.</English>
+            <French>Compétence de l'unité dans la conduite de véhicules terrestres.</French>
         </Key>
         <Key ID="STR_ls_common_skill_engineer_tooltip">
             <English>Unit's skill in servicing vehicles and equipment.</English>
+            <French>Compétence de l'unité dans la maintenance de véhicules et équipements.</French>
         </Key>
         <Key ID="STR_ls_common_skill_eod_tooltip">
             <English>Unit's skill in locating, placing, and disarming explosives.</English>
+            <French>Compétence de l'unité dans la localisation, la pose et le désamorçage d'explosifs.</French>
         </Key>
         <Key ID="STR_ls_common_skill_medic_tooltip">
             <English>Unit's skill in treating patients.</English>
+            <French>Compétence de l'unité dans le traitement des patients.</French>
         </Key>
         <Key ID="STR_ls_common_skill_pilot_tooltip">
             <English>Unit's skill in operating aerial vehicles.</English>
+            <French>Compétence de l'unité dans la conduite de véhicules aériens.</French>
         </Key>
         <Key ID="STR_ls_common_skill_tech_name">
             <English>Tech Specialist</English>
+            <French>Spécialiste Technique</French>
         </Key>
         <Key ID="STR_ls_common_skill_tech_tooltip">
-            <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>
+            <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>.
+            <French>Compétence de l'unité dans le piratage, le forçage et la manipulation de systèmes électroniques.</French>
         </Key>
         <Key ID="STR_ls_common_skill_trained">
             <English>Trained</English>
+            <French>Entraîné</French>
         </Key>
         <Key ID="STR_ls_common_skill_untrained">
             <English>Untrained</English>
+            <French>Non Formé</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_yes">

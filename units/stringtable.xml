@@ -4,14 +4,17 @@
         <Key ID="STR_ls_units_breacher">
             <English>Breacher</English>
             <Polish>Wyważacz</Polish>
+            <French>Sapeur</French>
         </Key>
         <Key ID="STR_ls_units_medic">
             <English>Medic</English>
             <Polish>Medyk</Polish>
+            <French>Médecin</French>
         </Key>
         <Key ID="STR_ls_units_rto">
             <English>Radio Operator</English>
             <Polish>Operator Radiotelefonu</Polish>
+            <French>Opérateur Radio</French>
         </Key>
     </Package>
 </Project>

@@ -4,31 +4,38 @@
         <Key ID="STR_ls_vehicles_pkv5_aaa_displayName">
             <English>PK-V5 Medium Fighter Tank (AAA)</English>
             <Polish>Średni Czołg Przechwytujący PK-V5 (Przeciwlotniczy)</Polish>
+            <French>Tank de Combat Intermédiaire PK-V5 (AAA)</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_displayName">
             <English>PK-V5 Medium Fighter Tank</English>
             <Polish>Średni Czołg Przechwytujący PK-V5</Polish>
+            <French>Tank de Combat Intermédiaire PK-V5</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mlrs_displayName">
             <English>PK-V5 Medium Fighter Tank (MLRS)</English>
             <Polish>Średni Czołg Przechwytujący PK-V5 (System Rakietowy)</Polish>
+            <French>Tank de Combat Intermédiaire PK-V5 (MLRS)</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mortar_displayName">
             <English>PK-V5 Medium Fighter Tank (Mortar)</English>
             <Polish>Średni Czołg Przechwytujący PK-V5 (Moździerz)</Polish>
+            <French>Tank de Combat Intermédiaire PK-V5 (Mortier)</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mp_displayName">
             <English>PK-V5 Medium Fighter Tank (MP)</English>
             <Polish>Średni Czołg Przechwytujący PK-V5 (MP)</Polish>
+            <French>Tank de Combat Intermédiaire PK-V5 (MP)</French>
         </Key>
         <!-- Can probably be reused elsewhere -->
         <Key ID="STR_ls_vehicles_pkv5_standard">
             <English>Standard</English>
             <Polish>Standardowy</Polish>
+            <French>Standard</French>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_standard_logo">
             <English>Standard (Logo)</English>
             <Polish>Standardowy (Logo)</Polish>
+            <French>Standard (Logo)</French>
         </Key>
     </Package>
 </Project>

@@ -4,22 +4,27 @@
         <Key ID="STR_ls_characters_orsf_trooper_backpack">
             <English>Special Tactics Trooper Backpack</English>
             <Polish>Plecak Operatora Sił Specjalnych</Polish>
+            <French>Sac à Dos de soldat des Forces Spéciales</French>
         </Key>
         <Key ID="STR_ls_characters_orsf_trooper_helmet">
             <English>Special Tactics Trooper Helmet</English>
             <Polish>Hełm Operatora Sił Specjalnych</Polish>
+            <French>Casque de soldat des Forces Spéciales</French>
         </Key>
         <Key ID="STR_ls_characters_orsf_trooper_radio_backpack">
             <English>Special Tactics Radio Backpack</English>
             <Polish>Plecak Radiostacji Operatora Sił Specjalnych</Polish>
+            <French>Sac à dos radio des Forces Spéciales</French>
         </Key>
         <Key ID="STR_ls_characters_orsf_trooper_uniform">
             <English>Special Tactics Trooper Fatigues</English>
             <Polish>Mundur Polowy Operatora Sił Specjalnych</Polish>
+            <French>Treillis de soldat des Forces Spéciales</French>
         </Key>
         <Key ID="STR_ls_characters_orsf_trooper_vest">
             <English>Special Tactics Trooper Vest</English>
             <Polish>Kamizelka Operatora Sił Specjalnych</Polish>
+            <French>Harnais de poitrine de soldat des Forces Spéciales</French>
         </Key>
     </Package>
 </Project>

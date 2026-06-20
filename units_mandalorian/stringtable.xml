@@ -4,14 +4,17 @@
         <Key ID="STR_ls_units_mandalorian_warrior">
             <English>Warrior</English>
             <Polish>Wojownik</Polish>
+            <French>Guerrier</French>
         </Key>
         <Key ID="STR_ls_units_mandalorian_warrior_at">
             <English>Warrior (AT)</English>
             <Polish>Wojownik (Przeciwpancerny)</Polish>
+            <French>Guerrier (AC)</French>
         </Key>
         <Key ID="STR_ls_units_mandalorian_warrior_heavy">
             <English>Heavy Warrior</English>
             <Polish>Ciężki Wojownik</Polish>
+            <French>Guerrier Lourd</French>
         </Key>
     </Package>
 </Project>

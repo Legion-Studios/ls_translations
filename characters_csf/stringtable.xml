@@ -4,62 +4,77 @@
         <Key ID="STR_ls_characters_csf_senateCommando">
             <English>Senate Commando</English>
             <Polish>Straż Senatu</Polish>
+            <French>Commando du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_captain">
             <English>Senate Commando Captain</English>
             <Polish>Kapitan Straży Senatu</Polish>
+            <French>Capitaine des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_captain_helmet">
             <English>Senate Commando Captain Helmet</English>
             <Polish>Hełm Kapitana Straży Senatu</Polish>
+            <French>Casque de capitaine des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_captain_uniform">
             <English>Senate Commando Captain Armor</English>
             <Polish>Zbroja Kapitana Straży Senatu</Polish>
+            <French>Armure de capitaine des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_guardsman_helmet">
             <English>Senate Commando Guardsman Helmet</English>
             <Polish>Hełm Gwardzisty Straży Senatu</Polish>
+            <French>Casque de garde des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_guardsman_uniform">
             <English>Senate Commando Guardsman Armor</English>
             <Polish>Zbroja Gwardzisty Straży Senatu</Polish>
+            <French>Armure de garde des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_helmet">
             <English>Senate Commando Trooper Helmet</English>
             <Polish>Hełm Żołnierza Straży Senatu</Polish>
+            <French>Casque de commando du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_hologram">
             <English>Senate Commando (Hologram)</English>
             <Polish>Straż Senatu (Hologram)</Polish>
+            <French>Commando du Sénat (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_hologram_helmet">
             <English>Senate Commando Helmet (Hologram)</English>
             <Polish>Hełm Straży Senatu (Hologram)</Polish>
+            <French>Casque de commando du Sénat (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_hologram_uniform">
             <English>Senate Commando Armor (Hologram)</English>
             <Polish>Zbroja Straży Senatu (Hologram)</Polish>
+            <French>Armure de commando du Sénat (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_lieutenant">
             <English>Senate Commando Lieutenant</English>
             <Polish>Porucznik Straży Senatu</Polish>
+            <French>Lieutenant des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_lieutenant_helmet">
             <English>Senate Commando Lieutenant Helmet</English>
             <Polish>Hełm Porucznika Straży Senatu</Polish>
+            <French>Casque de lieutenant des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_lieutenant_uniform">
             <English>Senate Commando Lieutenant Armor</English>
             <Polish>Zbroja Porucznika Straży Senatu</Polish>
+            <French>Armure de lieutenant des commandos du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommando_uniform">
             <English>Senate Commando Trooper Armor</English>
             <Polish>Zbroja Żołnierza Straży Senatu</Polish>
+            <French>Armure de commando du Sénat</French>
         </Key>
         <Key ID="STR_ls_characters_csf_senateCommandos">
             <English>Senate Commandos</English>
             <Polish>Strażnicy Senatu</Polish>
+            <French>Commandos du Sénat</French>
         </Key>
     </Package>
 </Project>
