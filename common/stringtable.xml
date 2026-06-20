@@ -138,7 +138,7 @@
         </Key>
         <Key ID="STR_ls_common_skill_advanced">
             <English>Advanced</English>
-            <Polish>Zaawansowane</Polish>
+            <Polish>Zaawansowany</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_crewman_tooltip">
             <English>Unit's skill in operating ground vehicles.</English>
@@ -162,7 +162,7 @@
         </Key>
         <Key ID="STR_ls_common_skill_tech_name">
             <English>Tech Specialist</English>
-            <Polish>Technik</Polish>
+            <Polish>Specjalista</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_tech_tooltip">
             <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>
