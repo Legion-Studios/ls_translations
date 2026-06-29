@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="characters_jabiim">
+        <Key ID="STR_ls_characters_jabiim_nationalist_goggles">
+            <English>Jabiimi Nationalist Goggles</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nationalist_goggles_raised">
+            <English>Jabiimi Nationalist Goggles (Raised)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nationalist_helmet">
+            <English>Jabiimi Nationalist Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbusCommandos">
+            <English>Nimbus Commandos</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
+            <English>Nimbus Commando Backpack</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_grenadier_helmet">
+            <English>Nimbus Grenadier Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_helmet">
+            <English>Nimbus Commando Helmet</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_uniform">
+            <English>Nimbus Commando Armor</English>
+        </Key>
+    </Package>
+</Project>

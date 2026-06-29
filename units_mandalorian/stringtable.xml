@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="units_mandalorian">
+        <Key ID="STR_ls_units_mandalorian_warrior">
+            <English>Warrior</English>
+        </Key>
+        <Key ID="STR_ls_units_mandalorian_warrior_at">
+            <English>Warrior (AT)</English>
+        </Key>
+        <Key ID="STR_ls_units_mandalorian_warrior_heavy">
+            <English>Heavy Warrior</English>
+        </Key>
+    </Package>
+</Project>

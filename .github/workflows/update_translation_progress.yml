@@ -1,0 +1,31 @@
+name: Update translation progress
+
+concurrency:
+  group: translation-stats-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  issues: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  translations:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout the source code
+      uses: actions/checkout@v4
+    - name: Install Python Packages
+      run: |
+        pip3 install wheel
+        pip3 install setuptools
+        pip3 install pygithub
+        pip3 install pygithub3
+    - name: Update translation progress
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: python tools/update_issue.py
