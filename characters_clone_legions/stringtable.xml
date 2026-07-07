@@ -241,6 +241,84 @@
             <French>Escouade "Yayax"</French>
             <Polish>Oddział "Yayax"</Polish>
         </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_aiwhaDikut">
+            <English>Clone Commando (Aiwha [Di'kut])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_aiwhaSarge">
+            <English>Clone Commando (Aiwha [Sarge])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_aiwhaTyto">
+            <English>Clone Commando (Aiwha [Tyto])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_aiwhaZag">
+            <English>Clone Commando (Aiwha [Zag])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_bravo2">
+            <English>Clone Commando (Bravo [2])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_bravo3">
+            <English>Clone Commando (Bravo [3])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_bravo4">
+            <English>Clone Commando (Bravo [4])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_bravoRam">
+            <English>Clone Commando (Bravo [Ram])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_deltaBoss">
+            <English>Clone Commando (Delta [Boss])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_deltaFixer">
+            <English>Clone Commando (Delta [Fixer])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_deltaScorch">
+            <English>Clone Commando (Delta [Scorch])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_deltaSev">
+            <English>Clone Commando (Delta [Sev])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_foxtrotGregor">
+            <English>Clone Commando (Foxtrot [Gregor])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_hodasalJungle">
+            <English>Clone Commando (Hodasal Camo)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_mpGunner">
+            <English>Clone Commando (Gunner)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_mpMarksman">
+            <English>Clone Commando (Marksman)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_mpRecon">
+            <English>Clone Commando (Recon)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_mpStealth">
+            <English>Clone Commando (Stealth)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_omegaAtin">
+            <English>Clone Commando (Omega [Atin])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_omegaDarman">
+            <English>Clone Commando (Omega [Darman])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_omegaFi">
+            <English>Clone Commando (Omega [Fi])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_omegaNiner">
+            <English>Clone Commando (Omega [Niner])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_yayaxCov">
+            <English>Clone Commando (Yayax [Cov])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_yayaxDev">
+            <English>Clone Commando (Yayax [Dev])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_yayaxJind">
+            <English>Clone Commando (Yayax [Jind])</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_commando_yayaxYover">
+            <English>Clone Commando (Yayax [Yover])</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_garLegions">
             <English>Grand Army of the Republic Legions</English>
             <French>Legions de la Grande Armée de la République</French>
