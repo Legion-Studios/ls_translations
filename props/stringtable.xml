@@ -45,6 +45,51 @@
             <English>Terminals</English>
             <Polish>Terminale</Polish>
         </Key>
+        <Key ID="STR_ls_props_resupply_cis_droid">
+            <English>CIS Droid Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_cis_e60r">
+            <English>CIS E60-R Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_empty">
+            <English>Empty Resupply Box</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_eod">
+            <English>EOD Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_assault">
+            <English>Republic Assault Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_commando">
+            <English>Republic Commando Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_dc15a">
+            <English>Republic DC-15A Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_dc15s">
+            <English>Republic DC-15S Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_general">
+            <English>Republic Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_grenade">
+            <English>Republic Grenade Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_plx1">
+            <English>Republic PLX-1 Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_rocket">
+            <English>Republic Rocket Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_rps6">
+            <English>Republic RPS-6 Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_specOps">
+            <English>Republic Special Operations Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_z6">
+            <English>Republic Z-6 Resupply</English>
+        </Key>
         <Key ID="STR_ls_props_windowsXp">
             <English>Windows XP</English>
             <Polish>Windows XP</Polish>

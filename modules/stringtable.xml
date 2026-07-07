@@ -75,6 +75,9 @@
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
         </Key>
+        <Key ID="STR_ls_modules_DroidDispenser_description">
+            <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
+        </Key>
         <Key ID="STR_ls_modules_moduleSetSkills">
             <English>Set Skills</English>
         </Key>
@@ -138,6 +141,9 @@
             <Chinesesimp>单位必须是活的</Chinesesimp>
             <Turkish>Birliğin yaşaması gerekiyor</Turkish>
             <Hungarian>Csak élő egységeken használni</Hungarian>
+        </Key>
+        <Key ID="STR_ls_modules_onlyConscious">
+            <English>Unit must be conscious</English>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1605-L1620 -->
         <Key ID="STR_ls_modules_onlyInfantry">

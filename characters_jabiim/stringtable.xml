@@ -33,5 +33,29 @@
             <English>Nimbus Commando Armor</English>
             <Polish>Zbroja Komandosa Nimbus</Polish>
         </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_at">
+            <English>Commando (AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_demo">
+            <English>Commando (Demo)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_grenadier">
+            <English>Commando (Grenadier)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_heavy">
+            <English>Commando (Machine Gunner)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_heavyAA">
+            <English>Commando (Missle AA)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_heavyAT">
+            <English>Commando (Missle AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_shotgun">
+            <English>Commando (Shotgun)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_sniper">
+            <English>Commando (Marksman)</English>
+        </Key>
     </Package>
 </Project>
