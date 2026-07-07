@@ -2,7 +2,7 @@
 <Project name="Legion Studios">
     <Package name="characters_meme">
         <Key ID="STR_ls_characters_meme_arcborne_helmet">
-            <English>Clone ARCborne Helmet</English>\
+            <English>Clone ARCborne Helmet</English>
             <Polish>Hełm Żołnierza Klona ARCBorne</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_blackbeard_vest">

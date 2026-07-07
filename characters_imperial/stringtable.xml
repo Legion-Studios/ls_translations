@@ -5,40 +5,12 @@
             <English>Imperial Army</English>
             <Polish>Armia Imperium</Polish>
         </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_at">
+            <English>Armored Imperial Army (AT)</English>
+        </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_black_uniform">
             <English>Imperial Army Fatigues (Armored, Black)</English>
             <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Czarny)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_armored_isb_uniform">
-            <English>Imperial Army Fatigues (Armored, ISB)</English>
-            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, ISB)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_armored_mudtrooper_uniform">
-            <English>Imperial Army Fatigues (Armored, Mudtrooper)</English>
-            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Zołnierz Błotny)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_armored_rolled_black_uniform">
-            <English>Imperial Army Fatigues (Armored, Rolled, Black)</English>
-            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, Czarny)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_armored_rolled_isb_uniform">
-            <English>Imperial Army Fatigues (Armored, Rolled, ISB)</English>
-            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, ISB)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_armored_rolled_mudtrooper_uniform">
-            <English>Imperial Army Fatigues (Armored, Rolled, Mudtrooper)</English>
-            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, Żołnierz Błotny)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_armored_rolled_uniform">
-            <English>Imperial Army Fatigues (Armored, Rolled)</English>
-            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_armored_uniform">
-            <English>Imperial Army Fatigues (Armored)</English>
-            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_armored_at">
-            <English>Armored Imperial Army (AT)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_grenadier">
             <English>Armored Imperial Army (Grenadier)</English>
@@ -49,6 +21,10 @@
         <Key ID="STR_ls_characters_imperial_army_armored_heavyAa">
             <English>Armored Imperial Army (Heavy AA)</English>
         </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_isb_uniform">
+            <English>Imperial Army Fatigues (Armored, ISB)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, ISB)</Polish>
+        </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_marksman">
             <English>Armored Imperial Army (Marksman)</English>
         </Key>
@@ -58,11 +34,19 @@
         <Key ID="STR_ls_characters_imperial_army_armored_missileAt">
             <English>Armored Imperial Army (Missile AT)</English>
         </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_mudtrooper_uniform">
+            <English>Imperial Army Fatigues (Armored, Mudtrooper)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Zołnierz Błotny)</Polish>
+        </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_officer">
             <English>Armored Imperial Army (Officer)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_at">
             <English>Armored Imperial Army (Rolled, AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_rolled_black_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled, Black)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, Czarny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_grenadier">
             <English>Armored Imperial Army (Rolled, Grenadier)</English>
@@ -73,6 +57,10 @@
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_heavyAa">
             <English>Armored Imperial Army (Rolled, Heavy AA)</English>
         </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_rolled_isb_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled, ISB)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, ISB)</Polish>
+        </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_marksman">
             <English>Armored Imperial Army (Rolled, Marksman)</English>
         </Key>
@@ -81,6 +69,10 @@
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_missileAt">
             <English>Armored Imperial Army (Rolled, Missile AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_rolled_mudtrooper_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled, Mudtrooper)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty, Żołnierz Błotny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_officer">
             <English>Armored Imperial Army (Rolled, Officer)</English>
@@ -91,11 +83,19 @@
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_squadLead">
             <English>Armored Imperial Army (Rolled, Squad Lead)</English>
         </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_rolled_uniform">
+            <English>Imperial Army Fatigues (Armored, Rolled)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Podwinięty)</Polish>
+        </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_shotgun">
             <English>Armored Imperial Army (Shotgun)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_squadLead">
             <English>Armored Imperial Army (Squad Lead)</English>
+        </Key>
+        <Key ID="STR_ls_characters_imperial_army_armored_uniform">
+            <English>Imperial Army Fatigues (Armored)</English>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_black_helmet">
             <English>Imperial Army Helmet (Black)</English>
@@ -301,6 +301,9 @@
             <English>Imperial Army Medium Vest</English>
             <Polish>Średnia Kamizelka Armii Imperialnej</Polish>
         </Key>
+        <Key ID="STR_ls_characters_imperial_army_mudtrooper_damaged_vest">
+            <English>Imperial Army Vest (MudTrooper, Damaged)</English>
+        </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_helmet">
             <English>Imperial Army Helmet (Mudtrooper)</English>
             <Polish>Hełm Armii Imperialnej (Żołnierz Błotny)</Polish>
@@ -308,9 +311,6 @@
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_holster_vest">
             <English>Imperial Army Vest (Mudtrooper, Holster)</English>
             <Polish>Kamizelka Armii Imperialnej (Żołnierz Błotny, Kabura)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_imperial_army_mudtrooper_damaged_vest">
-            <English>Imperial Army Vest (MudTrooper, Damaged)</English>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_tacbelt">
             <English>Imperial Tacbelt (Mudtrooper)</English>

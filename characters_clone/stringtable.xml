@@ -58,14 +58,14 @@
             <Polish>Kamizelka Klona ARC</Polish>
             <Russian>Жилет ARC-клона (ВАР)</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_arf">
+            <English>Clone ARF Trooper</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_arf_helmet">
             <English>Clone ARF Helmet</English>
             <French>Casque Clone ARF</French>
             <Polish>Hełm Klona ARF</Polish>
             <Russian>Шлем ARF-клона (ВАР)</Russian>
-        </Key>
-        <Key ID="STR_ls_characters_clone_arf">
-            <English>Clone ARF Trooper</English>
         </Key>
         <Key ID="STR_ls_characters_clone_atrtDriver_helmet">
             <English>Clone AT-RT Driver Helmet</English>
@@ -155,14 +155,14 @@
             <English>Clone Lieutenant Vest</English>
             <Polish>Kamizelka Żołnierza Klona (Porucznik)</Polish>
         </Key>
+        <Key ID="STR_ls_characters_clone_marine">
+            <English>Galactic Marine</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_medic_backpack">
             <English>Clone Medic Backpack</English>
             <French>Sac à dos Médical Clone</French>
             <Polish>Medyczny Plecak Klona</Polish>
             <Russian>Рюкзак медика (ВАР)</Russian>
-        </Key>
-        <Key ID="STR_ls_characters_clone_marine">
-            <English>Galactic Marine</English>
         </Key>
         <Key ID="STR_ls_characters_clone_officer_vest">
             <English>Clone Officer Vest</English>
@@ -214,23 +214,17 @@
             <English>Clone Phase 2 Commander Visor (White)</English>
             <Polish>Wizjer Żołnierza Komandora Klona Fazy 2 (Biały)</Polish>
         </Key>
+        <Key ID="STR_ls_characters_clone_phase2_grenadier">
+            <English>Clone Phase 2 Grenadier</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_phase2_helmet">
             <English>Clone Phase 2 Helmet</English>
             <French>Casque Clone Phase 2</French>
             <Polish>Hełm Klona Fazy 2</Polish>
             <Russian>Шлем клона (2-й фазы)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_phase2_rifleman">
-            <English>Clone Phase 2 Rifleman</English>
-        </Key>
         <Key ID="STR_ls_characters_clone_phase2_marksman">
             <English>Clone Phase 2 Marksman</English>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_sniper">
-            <English>Clone Phase 2 Sniper</English>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_grenadier">
-            <English>Clone Phase 2 Grenadier</English>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_medic">
             <English>Clone Phase 2 Medic</English>
@@ -243,6 +237,12 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_rangefinder">
             <English>Clone Phase 2 Rangefinder</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_rifleman">
+            <English>Clone Phase 2 Rifleman</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_sniper">
+            <English>Clone Phase 2 Sniper</English>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_uniform">
             <English>Clone Phase 2 Armor</English>

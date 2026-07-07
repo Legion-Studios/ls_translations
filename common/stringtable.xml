@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="common">
+        <Key ID="STR_ls_common_cancelled">
+            <English>Cancelled</English>
+        </Key>
         <Key ID="STR_ls_common_cis">
             <English>Confederacy of Independent Systems</English>
             <French>Confédération des Systèmes Indépendants</French>
@@ -10,9 +13,6 @@
             <English>Coruscant Security Force</English>
             <French>Forces de Sécurité de Coruscant</French>
             <Polish>Siły Bezpieczeństwa Coruscant</Polish>
-        </Key>
-        <Key ID="STR_ls_common_cancelled">
-            <English>Cancelled</English>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
@@ -32,42 +32,14 @@
             <Turkish>Devre Dışı</Turkish>
             <Ukrainian>Вимкнено</Ukrainian>
         </Key>
-        <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L787-L803 -->
-        <Key ID="STR_ls_common_enabled">
-            <English>Enabled</English>
-            <Czech>Povoleno</Czech>
-            <French>Activé</French>
-            <Spanish>Activado</Spanish>
-            <Italian>Attivato</Italian>
-            <Polish>Włączone</Polish>
-            <Portuguese>Ativado</Portuguese>
-            <Russian>Включено</Russian>
-            <German>Aktiviert</German>
-            <Korean>활성화</Korean>
-            <Japanese>有効化</Japanese>
-            <Chinese>啟用</Chinese>
-            <Chinesesimp>启用</Chinesesimp>
-            <Turkish>Etkin</Turkish>
-            <Ukrainian>Увімкнено</Ukrainian>
-        </Key>
-        <Key ID="STR_ls_common_galacticEmpire">
-            <English>Galactic Empire</English>
-            <French>Empire Galactique</French>
-            <Polish>Imperium Galaktyczne</Polish>
-        </Key>
-        <Key ID="STR_ls_common_gar">
-            <English>Grand Army of the Republic</English>
-            <French>Grande Armée de la République</French>
-            <Polish>Wielka Armia Republiki</Polish>
+        <Key ID="STR_ls_common_edsubcat_chissAscendency">
+            <English>Chiss Ascendency</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p1">
             <English>Clone Trooper (Phase 1)</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p2">
             <English>Clone Trooper (Phase 2)</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_chissAscendency">
-            <English>Chiss Ascendency</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_droids">
             <English>Droids</English>
@@ -108,17 +80,11 @@
         <Key ID="STR_ls_common_edsubcat_screenshotSupport">
             <English>Screenshot Support</English>
         </Key>
-        <Key ID="STR_ls_common_edsubcat_staticShips">
-            <English>Ships</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_staticShipParts">
+        <Key ID="STR_ls_common_edsubcat_shipParts">
             <English>Ship Parts</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_ships">
             <English>Ships</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_shipParts">
-            <English>Ship Parts</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_special">
             <English>Special</English>
@@ -128,6 +94,12 @@
         </Key>
         <Key ID="STR_ls_common_edsubcat_speeders">
             <English>Speeders</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_staticShipParts">
+            <English>Ship Parts</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_staticShips">
+            <English>Ships</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_structures">
             <English>Structures</English>
@@ -156,16 +128,44 @@
         <Key ID="STR_ls_common_edsubcat_zeltron">
             <English>Zeltron</English>
         </Key>
-        <Key ID="STR_ls_common_invalidValue">
-            <English>Invalid value</English>
-            <French>Valeur Invalide</French>
-            <Polish>Nieprawidłowa Wartość</Polish>
+        <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L787-L803 -->
+        <Key ID="STR_ls_common_enabled">
+            <English>Enabled</English>
+            <Czech>Povoleno</Czech>
+            <French>Activé</French>
+            <Spanish>Activado</Spanish>
+            <Italian>Attivato</Italian>
+            <Polish>Włączone</Polish>
+            <Portuguese>Ativado</Portuguese>
+            <Russian>Включено</Russian>
+            <German>Aktiviert</German>
+            <Korean>활성화</Korean>
+            <Japanese>有効化</Japanese>
+            <Chinese>啟用</Chinese>
+            <Chinesesimp>启用</Chinesesimp>
+            <Turkish>Etkin</Turkish>
+            <Ukrainian>Увімкнено</Ukrainian>
         </Key>
         <Key ID="STR_ls_common_finishedCollectingFuel">
             <English>Finished collecting fuel</English>
         </Key>
         <Key ID="STR_ls_common_finishedRefueling">
             <English>Finished refueling</English>
+        </Key>
+        <Key ID="STR_ls_common_galacticEmpire">
+            <English>Galactic Empire</English>
+            <French>Empire Galactique</French>
+            <Polish>Imperium Galaktyczne</Polish>
+        </Key>
+        <Key ID="STR_ls_common_gar">
+            <English>Grand Army of the Republic</English>
+            <French>Grande Armée de la République</French>
+            <Polish>Wielka Armia Republiki</Polish>
+        </Key>
+        <Key ID="STR_ls_common_invalidValue">
+            <English>Invalid value</English>
+            <French>Valeur Invalide</French>
+            <Polish>Nieprawidłowa Wartość</Polish>
         </Key>
         <Key ID="STR_ls_common_jabiim">
             <English>Jabiim</English>

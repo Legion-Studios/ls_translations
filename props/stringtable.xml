@@ -29,22 +29,6 @@
             <English>Ironmouse</English>
             <Polish>Ironmouse</Polish>
         </Key>
-        <Key ID="STR_ls_props_terminal">
-            <English>Terminal</English>
-            <Polish>Terminal</Polish>
-        </Key>
-        <Key ID="STR_ls_props_terminal_01">
-            <English>Terminal 01</English>
-            <Polish>Terminal 01</Polish>
-        </Key>
-        <Key ID="STR_ls_props_terminal_reinsert">
-            <English>Reinsert Terminal</English>
-            <Polish>Terminal Ponownego Rozmieszczenia</Polish>
-        </Key>
-        <Key ID="STR_ls_props_terminals">
-            <English>Terminals</English>
-            <Polish>Terminale</Polish>
-        </Key>
         <Key ID="STR_ls_props_resupply_cis_droid">
             <English>CIS Droid Resupply</English>
         </Key>
@@ -89,6 +73,22 @@
         </Key>
         <Key ID="STR_ls_props_resupply_republic_z6">
             <English>Republic Z-6 Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_terminal">
+            <English>Terminal</English>
+            <Polish>Terminal</Polish>
+        </Key>
+        <Key ID="STR_ls_props_terminal_01">
+            <English>Terminal 01</English>
+            <Polish>Terminal 01</Polish>
+        </Key>
+        <Key ID="STR_ls_props_terminal_reinsert">
+            <English>Reinsert Terminal</English>
+            <Polish>Terminal Ponownego Rozmieszczenia</Polish>
+        </Key>
+        <Key ID="STR_ls_props_terminals">
+            <English>Terminals</English>
+            <Polish>Terminale</Polish>
         </Key>
         <Key ID="STR_ls_props_windowsXp">
             <English>Windows XP</English>

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="modules">
+        <Key ID="STR_ls_modules_DroidDispenser_description">
+            <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
+        </Key>
         <Key ID="STR_ls_modules_activeCamo_cannotActivate">
             <English>Object cannot activate active camo</English>
             <French>L'objet ne peut pas activer le camouflage actif</French>
@@ -74,9 +77,6 @@
             <English>Delete Empty Groups</English>
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
-        </Key>
-        <Key ID="STR_ls_modules_DroidDispenser_description">
-            <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
         </Key>
         <Key ID="STR_ls_modules_moduleSetSkills">
             <English>Set Skills</English>
