@@ -165,7 +165,7 @@
             <French>Spécialiste Technique</French>
         </Key>
         <Key ID="STR_ls_common_skill_tech_tooltip">
-            <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>.
+            <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>
             <French>Compétence de l'unité dans le piratage, le forçage et la manipulation de systèmes électroniques.</French>
         </Key>
         <Key ID="STR_ls_common_skill_trained">
