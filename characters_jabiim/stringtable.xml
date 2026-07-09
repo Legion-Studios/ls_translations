@@ -21,20 +21,44 @@
             <Polish>Komandosi Nimbus</Polish>
             <French>Commandos Nimbus</French>
         </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_at">
+            <English>Commando (AT)</English>
+        </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
             <English>Nimbus Commando Backpack</English>
             <Polish>Plecak Komandosa Nimbus</Polish>
             <French>Sac à Dos de Commando Nimbus</French>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_demo">
+            <English>Commando (Demo)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_grenadier">
+            <English>Commando (Grenadier)</English>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier_helmet">
             <English>Nimbus Grenadier Helmet</English>
             <Polish>Hełm Grenadiera Nimbus</Polish>
             <French>Casque de Grenadier Nimbus</French>
         </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_heavy">
+            <English>Commando (Machine Gunner)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_heavyAA">
+            <English>Commando (Missile AA)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_heavyAT">
+            <English>Commando (Missile AT)</English>
+        </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_helmet">
             <English>Nimbus Commando Helmet</English>
             <Polish>Hełm Komandosa Nimbus</Polish>
             <French>Casque de Commando Nimbus</French>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_shotgun">
+            <English>Commando (Shotgun)</English>
+        </Key>
+        <Key ID="STR_ls_characters_jabiim_nimbus_sniper">
+            <English>Commando (Marksman)</English>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_uniform">
             <English>Nimbus Commando Armor</English>

@@ -59,6 +59,9 @@
             <Polish>Kamizelka Klona ARC</Polish>
             <Russian>Жилет ARC-клона (ВАР)</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_arf">
+            <English>Clone ARF Trooper</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_arf_helmet">
             <English>Clone ARF Helmet</English>
             <French>Casque clone ARF</French>
@@ -138,6 +141,9 @@
             <Polish>Zbroja Komandora Jedi</Polish>
             <Russian>Броня джедай-коммандера (ВАР)</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_jedi_commander">
+            <English>Jedi Commander</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_kama_vest">
             <English>Clone Kama</English>
             <Polish>Kama Żołnierza Klona</Polish>
@@ -153,6 +159,9 @@
             <English>Clone Lieutenant Vest</English>
             <Polish>Kamizelka Żołnierza Klona (Porucznik)</Polish>
             <French>Veste de lieutenant clone</French>
+        </Key>
+        <Key ID="STR_ls_characters_clone_marine">
+            <English>Galactic Marine</English>
         </Key>
         <Key ID="STR_ls_characters_clone_medic_backpack">
             <English>Clone Medic Backpack</English>
@@ -215,11 +224,20 @@
             <Polish>Wizjer Żołnierza Komandora Klona Fazy 2 (Biały)</Polish>
             <French>Visière de commandant clone phase 2 (Blanc)</French>
         </Key>
+        <Key ID="STR_ls_characters_clone_phase2_grenadier">
+            <English>Clone Phase 2 Grenadier</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_phase2_helmet">
             <English>Clone Phase 2 Helmet</English>
             <French>Casque clone phase 2</French>
             <Polish>Hełm Klona Fazy 2</Polish>
             <Russian>Шлем клона (2-й фазы)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_marksman">
+            <English>Clone Phase 2 Marksman</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_medic">
+            <English>Clone Phase 2 Medic</English>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
             <English>Clone Pilot Phase 2 Helmet</English>
@@ -230,6 +248,12 @@
         <Key ID="STR_ls_characters_clone_phase2_rangefinder">
             <English>Clone Phase 2 Rangefinder</English>
             <French>Télémètre de clone phase 2</French>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_rifleman">
+            <English>Clone Phase 2 Rifleman</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_sniper">
+            <English>Clone Phase 2 Sniper</English>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_uniform">
             <English>Clone Phase 2 Armor</English>
