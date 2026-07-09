@@ -79,22 +79,22 @@
         <Key ID="STR_ls_characters_goggles_blue">
             <English>Goggles (Blue)</English>
             <Polish>Okulary Ochronne (Niebieskie)</Polish>
-            <French>Lunettes (Bleu)</French>
+            <French>Lunettes (Bleues)</French>
         </Key>
         <Key ID="STR_ls_characters_goggles_green">
             <English>Goggles (Green)</English>
             <Polish>Okulary Ochronne (Zielone)</Polish>
-            <French>Lunettes (Verte)</French>
+            <French>Lunettes (Vertes)</French>
         </Key>
         <Key ID="STR_ls_characters_goggles_orange">
             <English>Goggles (Orange)</English>
             <Polish>Okulary Ochronne (Pomarańczowe)</Polish>
-            <French>Lunettes (Orange)</French>
+            <French>Lunettes (Oranges)</French>
         </Key>
         <Key ID="STR_ls_characters_goggles_white">
             <English>Goggles (White)</English>
             <Polish>Okulary Ochronne (Białe)</Polish>
-            <French>Lunettes (Blanc)</French>
+            <French>Lunettes (Blanches)</French>
         </Key>
         <Key ID="STR_ls_characters_gunslinger_hat">
             <English>Gunslinger Hat</English>
@@ -132,7 +132,7 @@
         <Key ID="STR_ls_characters_honorGuardVisor">
             <English>Honor Guard Visor</English>
             <Polish>Wizjer Gwardi Honorowej</Polish>
-            <French>Visière de Guarde d'Honneur</French>
+            <French>Visière de guarde d'honneur</French>
         </Key>
         <Key ID="STR_ls_characters_hood">
             <English>Hood</English>
@@ -218,7 +218,7 @@
         <Key ID="STR_ls_characters_jockey_navy_helmet">
             <English>Jockey (Navy)</English>
             <Polish>Hełm "Jockey" (Granatowy)</Polish>
-            <French>Casquette jockey (Blue Marine)</French>
+            <French>Casquette jockey (Bleu Marine)</French>
         </Key>
         <Key ID="STR_ls_characters_m1_helmet">
             <English>M1 Helmet</English>
@@ -336,7 +336,7 @@
             <Russian>Пончо (Параллель, Белый)</Russian>
         </Key>
         <Key ID="STR_ls_characters_reinforcedService_coif_helmet">
-            <English>Reinforced service helmet (Coif)</English>
+            <English>Reinforced Service Helmet (Coif)</English>
             <Polish>Wzmocniony Hełm Służbowy (Kaptur)</Polish>
             <French>Casque renforcé de service (Coiffe)</French>
         </Key>

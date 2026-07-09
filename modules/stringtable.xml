@@ -266,7 +266,7 @@
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_description">
             <English>Spawns a number of space debris objects floating in a random area around the module. The objects are created locally on each player's machine.</English>
-            <French>Créer un nombre de débris spatiaux flottants dans une zone aléatoire autour le module. Les objets sont créés sur chaque machine de joueur.</French>
+            <French>Créer un nombre de débris spatiaux flottants dans une zone aléatoire autour du module. Les objets sont créés sur chaque machine de chaque joueur.</French>
             <Polish>Rozmieszcza określoną liczbę Szczątków wiszących w losowych pozycjach dookoła modułu. Obiekty są lokalne na maszynach graczy.</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_name">

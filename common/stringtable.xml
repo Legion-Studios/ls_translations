@@ -174,7 +174,7 @@
         </Key>
         <Key ID="STR_ls_common_skill_untrained">
             <English>Untrained</English>
-            <French>Non Formé</French>
+            <French>Non formé</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_yes">
