@@ -4,6 +4,9 @@
         <Key ID="STR_ls_characters_clone_legions_appo">
             <English>Appo</English>
         </Key>
+        <Key ID="STR_ls_characters_clone_legions_bly">
+            <English>Commander Bly</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_boil">
             <English>Boil</English>
         </Key>
@@ -111,6 +114,36 @@
             <English>Clone Trooper (DC-15S)</English>
             <French>Clone Soldat (DC-15S)</French>
             <Polish>Żołnierz Klon (DC-15S)</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_AT">
+            <English>Clone Airborne Trooper (AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_DC15A">
+            <English>Clone Airborne Trooper</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_DC15S">
+            <English>Clone Airborne Trooper (DC-15S)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_breacher">
+            <English>Clone Airborne Trooper (Breacher)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_captain">
+            <English>Clone Airborne Captain</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_commander">
+            <English>Clone Airborne Commander</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_demo">
+            <English>Clone Airborne Demolitions Expert</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_lieutenant">
+            <English>Clone Airborne Lieutenant</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_medic">
+            <English>Clone Airborne Medic</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_sergeant">
+            <English>Clone Airborne Sergeant</English>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_aiwhaSquad">
             <English>Aiwha Squad</English>
@@ -263,16 +296,25 @@
         <Key ID="STR_ls_characters_clone_legions_dogma">
             <English>Dogma</English>
         </Key>
+        <Key ID="STR_ls_characters_clone_legions_doom">
+            <English>Commander Doom</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_garLegions">
             <English>Grand Army of the Republic Legions</English>
             <French>Legions de la Grande Armée de la République</French>
             <Polish>Legiony Wielkiej Armii Republiki</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_gree">
+            <English>Commander Gree</English>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_jesse">
             <English>Jesse</English>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_kix">
             <English>Kix</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_ponds">
+            <English>Commander Ponds</English>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_rex">
             <English>Captain Rex</English>
@@ -282,6 +324,9 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_waxer">
             <English>Waxer</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_wolffe">
+            <English>Commander Wolffe</English>
         </Key>
     </Package>
 </Project>
