@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="units">
+        <Key ID="STR_ls_units_breacher">
+            <English>Breacher</English>
+            <French>Sapeur</French>
+            <Polish>Wyważacz</Polish>
+        </Key>
+        <Key ID="STR_ls_units_medic">
+            <English>Medic</English>
+            <French>Médecin</French>
+            <Polish>Medyk</Polish>
+        </Key>
+        <Key ID="STR_ls_units_rto">
+            <English>Radio Operator</English>
+            <French>Opérateur Radio</French>
+            <Polish>Operator Radiotelefonu</Polish>
+        </Key>
+    </Package>
+</Project>
