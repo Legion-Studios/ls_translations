@@ -174,7 +174,7 @@
         </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
-            <Polish>Zaktualizowano umięjętności dla %1</Polish>
+            <Polish>Zaktualizowano umiejętności dla %1</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
