@@ -4,50 +4,107 @@
         <Key ID="STR_ls_props_acceptance">
             <English>Acceptance</English>
             <Polish>Akceptacja</Polish>
+            <French>Acceptation</French>
         </Key>
         <Key ID="STR_ls_props_blank">
             <English>Blank</English>
             <Polish>Pusty</Polish>
+            <French>Vierge</French>
         </Key>
         <Key ID="STR_ls_props_bloodPools">
             <English>Blood Pools</English>
             <Polish>Kałuże Krwi</Polish>
+            <French>Mare de sang</French>
         </Key>
         <Key ID="STR_ls_props_bsod">
             <English>Blue Screen</English>
             <Polish>Niebieski Ekran</Polish>
+            <French>Écran bleu</French>
         </Key>
         <Key ID="STR_ls_props_commandPosts">
             <English>Command Posts</English>
             <Polish>Punkt Dowodzenia</Polish>
+            <French>Postes de commandement</French>
         </Key>
         <Key ID="STR_ls_props_crash">
             <English>Crash</English>
             <Polish>Awaria</Polish>
+            <French>Crash</French>
         </Key>
         <Key ID="STR_ls_props_ironmouse">
             <English>Ironmouse</English>
             <Polish>Ironmouse</Polish>
+            <French>Ironmouse</French>
+        </Key>
+        <Key ID="STR_ls_props_resupply_cis_droid">
+            <English>CIS Droid Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_cis_e60r">
+            <English>CIS E60-R Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_empty">
+            <English>Empty Resupply Box</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_eod">
+            <English>EOD Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_assault">
+            <English>Republic Assault Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_commando">
+            <English>Republic Commando Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_dc15a">
+            <English>Republic DC-15A Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_dc15s">
+            <English>Republic DC-15S Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_general">
+            <English>Republic Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_grenade">
+            <English>Republic Grenade Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_plx1">
+            <English>Republic PLX-1 Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_rocket">
+            <English>Republic Rocket Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_rps6">
+            <English>Republic RPS-6 Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_specOps">
+            <English>Republic Special Operations Resupply</English>
+        </Key>
+        <Key ID="STR_ls_props_resupply_republic_z6">
+            <English>Republic Z-6 Resupply</English>
         </Key>
         <Key ID="STR_ls_props_terminal">
             <English>Terminal</English>
             <Polish>Terminal</Polish>
+            <French>Terminal</French>
         </Key>
         <Key ID="STR_ls_props_terminal_01">
             <English>Terminal 01</English>
             <Polish>Terminal 01</Polish>
+            <French>Terminal 01</French>
         </Key>
         <Key ID="STR_ls_props_terminal_reinsert">
             <English>Reinsert Terminal</English>
             <Polish>Terminal Ponownego Rozmieszczenia</Polish>
+            <French>Réinsérer terminal</French>
         </Key>
         <Key ID="STR_ls_props_terminals">
             <English>Terminals</English>
             <Polish>Terminale</Polish>
+            <French>Terminaux</French>
         </Key>
         <Key ID="STR_ls_props_windowsXp">
             <English>Windows XP</English>
             <Polish>Windows XP</Polish>
+            <French>Windows XP</French>
         </Key>
     </Package>
 </Project>

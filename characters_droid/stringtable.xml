@@ -4,250 +4,312 @@
         <Key ID="STR_ls_characters_droid_b1">
             <English>B1 Battle Droid</English>
             <Polish>Droid Bojowy B1</Polish>
+            <French>Droïde de combat B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_AT">
             <English>B1 Battle Droid (AT)</English>
             <Polish>Droid Bojowy B1 (Przeciwpancerny)</Polish>
+            <French>Droïde de combat B1 (AC)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_breacher">
             <English>B1 Battle Droid (Breacher)</English>
             <Polish>Droid Bojowy B1 (Wyważający)</Polish>
+            <French>Droïde de combat B1 (sapeur)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_geonosis_helmet">
             <English>B1 Commander Droid Head (Geonosis)</English>
             <Polish>Głowa Droida Dowódcy B1 (Geonosis)</Polish>
+            <French>Tête de commandant droïde B1 (Geonosis)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_geonosis_uniform">
             <English>B1 Commander Droid Chassis (Geonosis)</English>
             <Polish>Korpus Droida Dowódcy B1 (Geonosis)</Polish>
+            <French>Châssis de commandant droïde B1 (Geonosis)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_helmet">
             <English>B1 Commander Droid Head</English>
             <Polish>Głowa Droida Dowódcy B1</Polish>
+            <French>Tête de commandant droïde B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_uniform">
             <English>B1 Commander Droid Chassis</English>
             <Polish>Korpus Droida Dowódcy B1</Polish>
+            <French>Châssis de commandant droïde B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew_helmet">
             <English>OOM-Series Crew Droid Head</English>
             <Polish>Głowa Droida Załoganta Serii OOM</Polish>
+            <French>Tête de droïde d'équipage série-OOM</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew_uniform">
             <English>OOM-Series Crew Droid</English>
             <Polish>Droid Załogant Serii OOM</Polish>
+            <French>Droïde d'équipage série-OOM</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_geonosis_helmet">
             <English>B1 Battle Droid Head (Geonosis)</English>
             <Polish>Głowa Droida Bojowego B1 (Geonosis)</Polish>
+            <French>Tête de droïde de combat B1 (Geonosis)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_geonosis_uniform">
             <English>B1 Droid Chassis (Geonosis)</English>
             <Polish>Korpus Droida Bojowego B1 (Geonosis)</Polish>
+            <French>Châssis de droïde de combat B1 (Geonosis)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier">
             <English>B1 Battle Droid (Grenadier)</English>
             <Polish>Droid Bojowy B1 (Grenadier)</Polish>
+            <French>Droïde de combat B1 (grenadier)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavy">
             <English>B1 Battle Droid (Supper Gunner)</English>
             <Polish>Droid Bojowy B1 (Cięzki Strzelec)</Polish>
+            <French>Droïde de combat B1 (tireur lourd)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavyAA">
             <English>B1 Battle Droid (Missile AA)</English>
             <Polish>Droid Bojowy B1 (Przeciw-Lotniczy)</Polish>
+            <French>Droïde de combat B1 (missile AA)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavyAT">
             <English>B1 Battle Droid (Missile AT)</English>
             <Polish>Droid Bojowy B1 (Ciężki Przeciwpancerny)</Polish>
+            <French>Droïde de combat B1 (missile AC)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_helmet">
             <English>B1 Battle Droid Head</English>
             <Polish>Głowa Droida Bojowego B1</Polish>
+            <French>Tête de droïde de combat B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram_helmet">
             <English>B1 Battle Droid Head (Hologram)</English>
             <Polish>Głowa Droida Bojowego B1 (Hologram)</Polish>
+            <French>Tête de droïde de combat B1 (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram_uniform">
             <English>B1 Droid Chassis (Hologram)</English>
             <Polish>Korpus Droida Bojowego B1 (Hologram)</Polish>
+            <French>Châssis de droïde de combat B1 (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot_uniform">
             <English>OOM-Series Pilot Droid</English>
             <Polish>Droid Pilot Serii OOM</Polish>
+            <French>Droïde pilote série-OOM</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_saboteur_helmet">
             <English>B1 Battle Droid Head (Saboteur)</English>
             <Polish>Głowa Droida Bojowego B1 (Sabotażysta)</Polish>
+            <French>Tête de droïde de combat B1 (saboteur)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_saboteur_uniform">
             <English>B1 Droid Chassis (Saboteur)</English>
             <Polish>Korpus Droida Bojowego B1 (Sabotażysta)</Polish>
+            <French>Châssis de droïde de combat B1 (saboteur)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_security_helmet">
             <English>OOM-Series Security Droid Head</English>
             <Polish>Głowa Droida Ochrony Serii OOM</Polish>
+            <French>Tête de droïde de sécurité série-OOM</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_security_uniform">
             <English>OOM-Series Security Droid</English>
             <Polish>Droid Ochrony Klasy OOM</Polish>
+            <French>Droïde de sécurité série-OOM</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_sergeant">
             <English>B1 Battle Droid (Sergeant)</English>
             <Polish>Droid Bojowego B1 (Sierżant)</Polish>
+            <French>Droïde de combat B1 (sergent)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_simulation_helmet">
             <English>B1 Battle Droid Head (Simulation)</English>
             <Polish>Głowa Droida Bojowego B1 (Symulacja)</Polish>
+            <French>Tête de droïde de combat B1 (simulation)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_simulation_uniform">
             <English>B1 Droid Chassis (Simulation)</English>
             <Polish>Korpus Droida Bojowego B1 (Symulacja)</Polish>
+            <French>Châssis de droïde de combat B1 (simulation)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_sniper">
             <English>B1 Battle Droid (Sniper)</English>
             <Polish>Droid Bojowy B1 (Snajper)</Polish>
+            <French>Droïde de combat B1 (tireur d'élite)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_helmet">
             <English>B1 Battle Droid Head (Training)</English>
             <Polish>Głowa Droida Bojowego B1 (Trening)</Polish>
+            <French>Tête de droïde de combat B1 (entraînement)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_uniform">
             <English>B1 Droid Chassis (Training)</English>
             <Polish>Korpus Droida Bojowego B1 (Trening)</Polish>
+            <French>Châssis de droïde de combat B1 (entraînement)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_uniform">
             <English>B1 Droid Chassis</English>
             <Polish>Korpus Droida Bojowego B1</Polish>
+            <French>Châssis de droïde de combat B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b2">
             <English>B2 Battle Droid</English>
             <Polish>Droid Bojowy B2</Polish>
+            <French>Droïde de combat B2</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_hologram">
             <English>B2 Battle Droid (Hologram)</English>
             <Polish>Droid Bojowy B2 (Hologram)</Polish>
+            <French>Droïde de combat B2 (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_hologram_uniform">
             <English>B2 Droid Chassis (Hologram)</English>
             <Polish>Korpus Droida Bojowego B2 (Hologram)</Polish>
+            <French>Châssis de droïde de combat B2 (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_junkyard">
             <English>B2 Battle Droid (Junkyard)</English>
             <Polish>Droid Bojowy B2 (Złomowisko)</Polish>
+            <French>Droïde de combat B2 (décharge)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_junkyard_uniform">
             <English>B2 Droid Chassis (Junkyard)</English>
             <Polish>Korpus Droida Bojowego B2 (Złomowisko)</Polish>
+            <French>Châssis de droïde de combat B2 (décharge)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_simulation">
             <English>B2 Battle Droid (Simulation)</English>
             <Polish>Droid Bojowy B2 (Symulacja)</Polish>
+            <French>Droïde de combat B2 (simulation)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_simulation_uniform">
             <English>B2 Droid Chassis (Simulation)</English>
             <Polish>Korpus Droida Bojowego B2 (Symulacja)</Polish>
+            <French>Châssis de droïde de combat B2 (simulation)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_uniform">
             <English>B2 Droid Chassis</English>
             <Polish>Korpus Droida Bojowego B2</Polish>
+            <French>Châssis de droïde de combat B2</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx">
             <English>BX Commando Droid</English>
             <Polish>Droid Komandos BX</Polish>
+            <French>Droïde commando BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_assassain">
             <English>BX Assassain Droid</English>
             <Polish>Droid Zabójca BX</Polish>
+            <French>Droïde assassin BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_captain">
             <English>BX Commando Droid Captain</English>
             <Polish>Kapitan Droidów Komandosów BX</Polish>
+            <French>Capitaine droïde commando BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_captain_uniform">
             <English>BX Commando Droid Captain Chassis</English>
             <Polish>Korpus Droid Bojowy Kapitana BX</Polish>
+            <French>Châssis de capitaine droïde commando BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_cloneDisguise_phase1">
             <English>BX Commando Droid (Clone Disguise, P1)</English>
             <Polish>Droid Komandos BX (Przebranie Żołnierza Klona, P1)</Polish>
+            <French>Droïde commando BX (déguisé en clone, P1)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_cloneDisguise_phase2">
             <English>BX Commando Droid (Clone Disguise, P2)</English>
             <Polish>Droid Komandos BX (Przebranie Żołnierza Klona, P2)</Polish>
+            <French>Droïde commando BX (déguisé en clone, P2)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_diplomat">
             <English>BX Diplomat Droid</English>
             <Polish>Droid Komandos BX (Eskorta Dyplomatyczny)</Polish>
+            <French>Droïde diplomate BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_diplomat_uniform">
             <English>BX Diplomat Droid Chassis</English>
             <Polish>Korpus Droida Komandosa BX (Eskorta Dyplomatyczny)</Polish>
+            <French>Châssis de droïde diplomate BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_hologram">
             <English>BX Commando Droid (Hologram)</English>
             <Polish>Droid Komandos BX (Hologram)</Polish>
+            <French>Droïde commando BX (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_hologram_uniform">
             <English>BX Commando Droid Chassis (Hologram)</English>
             <Polish>Korpus Droida Komandosa BX (Hologram)</Polish>
+            <French>Châssis de droïde commando BX (hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_security">
             <English>BX Security Droid</English>
             <Polish>Droid Komandos BX (Hologram)</Polish>
+            <French>Droïde de sécurité BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_security_uniform">
             <English>BX Security Droid Chassis</English>
             <Polish>Droid Komandos BX (Ochrona)</Polish>
+            <French>Châssis de droïde de sécurité BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_simulation">
             <English>BX Commando Droid (Simulation)</English>
             <Polish>Droid Komandos BX (Symulacja)</Polish>
+            <French>Droïde commando BX (simulation)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_simulation_uniform">
             <English>BX Commando Droid Chassis (Simulation)</English>
             <Polish>Korpus Droida Komandosa BX (Symulacja)</Polish>
+            <French>Châssis de droïde commando BX (simulation)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_training">
             <English>BX Training Droid</English>
             <Polish>Droid Treningowy BX</Polish>
+            <French>Droïde d'entraînement BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_training_uniform">
             <English>BX Commando Droid Chassis (Training)</English>
             <Polish>Korpus Droida Komandosa BX (Trening)</Polish>
+            <French>Châssis de droïde d'entraînement BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_uniform">
             <English>BX Commando Droid Chassis</English>
             <Polish>Korpus Droida Komandosa BX</Polish>
+            <French>Châssis de droïde commando BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_vest">
             <English>BX Commando Plating</English>
             <Polish>Pancerz Droida Komandosa BX</Polish>
+            <French>Blindage de droïde commando BX</French>
         </Key>
         <Key ID="STR_ls_characters_droid_droideka">
             <English>Droideka</English>
             <Polish>Droideka</Polish>
+            <French>Droideka</French>
         </Key>
         <Key ID="STR_ls_characters_droid_droideka_junkyard">
             <English>Droideka (Junkyard)</English>
             <Polish>Droideka (Złomowisko)</Polish>
+            <French>Droideka (décharge)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_droideka_junkyard_noShield">
             <English>Droideka (Junkyard, No Shield)</English>
             <Polish>Droideka (Złomowisko, Bez Tarczy)</Polish>
+            <French>Droideka (décharge, sans bouclier)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_droideka_noShield">
             <English>Droideka (No shield)</English>
             <Polish>Droideka (Bez Tarczy)</Polish>
+            <French>Droideka (sans bouclier)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_droideka_uniform">
             <English>Droideka Armored Plating</English>
             <Polish>Pancerz Droideki</Polish>
+            <French>Blindage de Droideka</French>
         </Key>
         <Key ID="STR_ls_characters_droid_vest">
             <English>Droid Filtration System</English>
             <Polish>System Filtracyjny Droida</Polish>
+            <French>Système de filtration de droïde</French>
         </Key>
     </Package>
 </Project>

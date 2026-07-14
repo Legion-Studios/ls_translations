@@ -4,6 +4,7 @@
         <Key ID="STR_ls_dubbing_noVoice">
             <English>No Voice</English>
             <Polish>Brak Głosu</Polish>
+            <French>Pas de voix</French>
         </Key>
     </Package>
 </Project>

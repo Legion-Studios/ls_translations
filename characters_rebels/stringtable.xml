@@ -4,10 +4,12 @@
         <Key ID="STR_ls_characters_rebels_chestPouches">
             <English>Rebel Chest Pouches</English>
             <Polish>Rebelianckie Ładownice Piersiowe</Polish>
+            <French>Poches de Poitrine Rebelles</French>
         </Key>
         <Key ID="STR_ls_characters_rebels_honorGuard_uniform">
             <English>Rebel Honor Guard Fatigues</English>
             <Polish>Mundur Gwardii Honorowej Rebelii</Polish>
+            <French>Treillis de garde d'honneur rebel</French>
         </Key>
     </Package>
 </Project>
