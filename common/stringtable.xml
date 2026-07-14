@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="common">
+        <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L264-L281 -->
+        <Key ID="STR_ls_common_cancel">
+            <English>Cancel</English>
+            <Czech>Zrušit</Czech>
+            <French>Annuler</French>
+            <Spanish>Cancelar</Spanish>
+            <Italian>Annulla</Italian>
+            <Polish>Anuluj</Polish>
+            <Portuguese>Cancelar</Portuguese>
+            <Russian>Отмена</Russian>
+            <German>Abbrechen</German>
+            <Korean>취소</Korean>
+            <Japanese>中止</Japanese>
+            <Chinese>取消</Chinese>
+            <Chinesesimp>取消</Chinesesimp>
+            <Turkish>Iptal</Turkish>
+            <Hungarian>Mégse</Hungarian>
+            <Ukrainian>Скасування</Ukrainian>
+        </Key>
+        <Key ID="STR_ls_common_cancelled">
+            <English>Cancelled</English>
+        </Key>
         <Key ID="STR_ls_common_cis">
             <English>Confederacy of Independent Systems</English>
             <French>Confédération des Systèmes Indépendants</French>
             <Polish>Konfederacja Niezależnych Systemów</Polish>
+        </Key>
+        <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L568-L584 -->
+        <Key ID="STR_ls_common_confirm">
+            <English>Confirm</English>
+            <Czech>Potvrdit</Czech>
+            <French>Confirmer</French>
+            <Spanish>Confirmar</Spanish>
+            <Italian>Conferma</Italian>
+            <Polish>Potwierdź</Polish>
+            <Portuguese>Confirmar</Portuguese>
+            <Russian>Подтвердить</Russian>
+            <German>Bestätigen</German>
+            <Korean>확인</Korean>
+            <Japanese>確認</Japanese>
+            <Chinese>確認</Chinese>
+            <Chinesesimp>确认</Chinesesimp>
+            <Turkish>Onayla</Turkish>
+            <Ukrainian>Підтвердити</Ukrainian>
         </Key>
         <Key ID="STR_ls_common_csf">
             <English>Coruscant Security Force</English>
@@ -29,6 +69,102 @@
             <Turkish>Devre Dışı</Turkish>
             <Ukrainian>Вимкнено</Ukrainian>
         </Key>
+        <Key ID="STR_ls_common_edsubcat_chissAscendency">
+            <English>Chiss Ascendency</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_cloneTrooper_p1">
+            <English>Clone Trooper (Phase 1)</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_cloneTrooper_p2">
+            <English>Clone Trooper (Phase 2)</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_droids">
+            <English>Droids</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_electronics">
+            <English>Electronics</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_fob">
+            <English>FOB Components</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_hallways">
+            <English>Hallways</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_items">
+            <English>Items</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_itemsSmall">
+            <English>Items - Small</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_mirialan">
+            <English>Mirialan</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_nationalists">
+            <English>Nationalists</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_planes">
+            <English>Planes</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_randomSpecies">
+            <English>Random Species</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_repulsorliftArmor">
+            <English>Repulsorlift Armor</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_resupply">
+            <English>Resupply</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_screenshotSupport">
+            <English>Screenshot Support</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_shipParts">
+            <English>Ship Parts</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_ships">
+            <English>Ships</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_special">
+            <English>Special</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_specialOperations">
+            <English>Special Operations</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_speeders">
+            <English>Speeders</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_staticShipParts">
+            <English>Ship Parts</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_staticShips">
+            <English>Ships</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_structures">
+            <English>Structures</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_tibanna">
+            <English>Tibanna Platforms</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_units">
+            <English>Units</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_vehicles">
+            <English>Vehicles</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_weapons">
+            <English>Weapons</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_wrecks">
+            <English>Wrecks</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_zabrak">
+            <English>Zabrak</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_zelosian">
+            <English>Zelosian</English>
+        </Key>
+        <Key ID="STR_ls_common_edsubcat_zeltron">
+            <English>Zeltron</English>
+        </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L787-L803 -->
         <Key ID="STR_ls_common_enabled">
             <English>Enabled</English>
@@ -46,6 +182,12 @@
             <Chinesesimp>启用</Chinesesimp>
             <Turkish>Etkin</Turkish>
             <Ukrainian>Увімкнено</Ukrainian>
+        </Key>
+        <Key ID="STR_ls_common_finishedCollectingFuel">
+            <English>Finished collecting fuel</English>
+        </Key>
+        <Key ID="STR_ls_common_finishedRefueling">
+            <English>Finished refueling</English>
         </Key>
         <Key ID="STR_ls_common_galacticEmpire">
             <English>Galactic Empire</English>
@@ -113,13 +255,22 @@
         </Key>
         <Key ID="STR_ls_common_orsf">
             <English>Outland Regions Security Forces</English>
-            <French>Forces de Sécurité des Régions Exterieurs</French>
+            <French>Forces de Sécurité des Régions Extérieures</French>
             <Polish>Siły Obrone Regionów Zewnętrznych</Polish>
+        </Key>
+        <Key ID="STR_ls_common_pickUp">
+            <English>Pick up</English>
         </Key>
         <Key ID="STR_ls_common_pirates">
             <English>Pirates</English>
             <French>Pirates</French>
             <Polish>Piraci</Polish>
+        </Key>
+        <Key ID="STR_ls_common_placeItem">
+            <English>Place item</English>
+        </Key>
+        <Key ID="STR_ls_common_placingProgress">
+            <English>Placing %1...</English>
         </Key>
         <Key ID="STR_ls_common_rebelAlliance">
             <English>Rebel Alliance</English>
@@ -132,9 +283,84 @@
             <Polish>Zostałeś w pełni wyleczony</Polish>
         </Key>
         <Key ID="STR_ls_common_recievingTreatment">
-            <English>Recieving treatment...</English>
-            <French>Reception du traitement...</French>
+            <English>Receiving treatment...</English>
+            <French>Traitement en cours...</French>
             <Polish>Otrzymywanie opieki zdrowotnej...</Polish>
+        </Key>
+        <Key ID="STR_ls_common_refueling">
+            <English>Refueling...</English>
+        </Key>
+        <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
+        <Key ID="STR_ls_common_rotate">
+            <English>Rotate</English>
+            <Czech>Otočit</Czech>
+            <French>Tourner</French>
+            <Spanish>Girar</Spanish>
+            <Italian>Rotazione</Italian>
+            <Polish>Obrót</Polish>
+            <Portuguese>Rotaciona</Portuguese>
+            <Russian>Bращать</Russian>
+            <German>Drehen</German>
+            <Korean>회전</Korean>
+            <Japanese>回転</Japanese>
+            <Chinese>旋轉</Chinese>
+            <Chinesesimp>旋转</Chinesesimp>
+            <Turkish>Yönlendir</Turkish>
+            <Hungarian>Forgatás</Hungarian>
+            <Ukrainian>Обертати</Ukrainian>
+        </Key>
+        <Key ID="STR_ls_common_selectAreaToMap">
+            <English>Select an area to map.</English>
+        </Key>
+        <Key ID="STR_ls_common_skill_advanced">
+            <English>Advanced</English>
+            <French>Avancé</French>
+            <Polish>Zaawansowany</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_crewman_tooltip">
+            <English>Unit's skill in operating ground vehicles.</English>
+            <French>Compétence de l'unité dans la conduite de véhicules terrestres.</French>
+            <Polish>Umiejętność operowania pojazdami naziemnymi</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_engineer_tooltip">
+            <English>Unit's skill in servicing vehicles and equipment.</English>
+            <French>Compétence de l'unité dans la maintenance de véhicules et équipements.</French>
+            <Polish>Umiejętność naprawy pojazdów i ekwipunku</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_eod_tooltip">
+            <English>Unit's skill in locating, placing, and disarming explosives.</English>
+            <French>Compétence de l'unité dans la localisation, la pose et le désamorçage d'explosifs.</French>
+            <Polish>Umiejętność odnajdywania, umieszczania i rozbrajania ładunków wybuchowych</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_medic_tooltip">
+            <English>Unit's skill in treating patients.</English>
+            <French>Compétence de l'unité dans le traitement des patients.</French>
+            <Polish>Umiejętność leczenia pacjentów</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_pilot_tooltip">
+            <English>Unit's skill in operating aerial vehicles.</English>
+            <French>Compétence de l'unité dans la conduite de véhicules aériens.</French>
+            <Polish>Umiejętność operowania pojazdami awiacji</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_tech_name">
+            <English>Tech Specialist</English>
+            <French>Spécialiste Technique</French>
+            <Polish>Specjalista</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_tech_tooltip">
+            <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>
+            <French>Compétence de l'unité dans le piratage, le forçage et la manipulation de systèmes électroniques.</French>
+            <Polish>Umiejętność hakowania, przełamywania zabezpieczeń i pracy z elektronicznymi systemami</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_trained">
+            <English>Trained</English>
+            <French>Entraîné</French>
+            <Polish>Wytrenowany</Polish>
+        </Key>
+        <Key ID="STR_ls_common_skill_untrained">
+            <English>Untrained</English>
+            <French>Non formé</French>
+            <Polish>Bez treningu</Polish>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_yes">

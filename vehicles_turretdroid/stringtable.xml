@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="vehicles_turretdroid">
+        <Key ID="STR_ls_vehicles_turretdroid_displayName">
+            <English>Turret-droid</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_turretdroid_packed_description">
+            <English>A deployable Turret-droid</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_turretdroid_packed_displayName">
+            <English>Turret-droid (Packed)</English>
+        </Key>
+    </Package>
+</Project>

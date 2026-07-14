@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="vehicles">
+        <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_blue_displayName">
+            <English>6.5 mw 250Rnd Energy Cell (Blue)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_decriptionShort">
+            <English>Caliber: 6.5x39 mw &lt;br/&gt;Rounds: 250 &lt;br/&gt;Used in: Vehicles</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_green_displayName">
+            <English>6.5 mw 250Rnd Energy Cell (Green)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_red_displayName">
+            <English>6.5 mw 250Rnd Energy Cell (Red)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_yellow_displayName">
+            <English>6.5 mw 250Rnd Energy Cell (Yellow)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_blue_displayName">
+            <English>6.5 mw 500Rnd Energy Cell (Blue)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_decriptionShort">
+            <English>Caliber: 6.5x39 mw &lt;br/&gt;Rounds: 500 &lt;br/&gt;Used in: Vehicles</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_green_displayName">
+            <English>6.5 mw 500Rnd Energy Cell (Green)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_red_displayName">
+            <English>6.5 mw 500Rnd Energy Cell (Red)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_yellow_displayName">
+            <English>6.5 mw 500Rnd Energy Cell (Yellow)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_65x39_magazine_displayNameShort">
+            <English>6.5x39 mw</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_customHUDColor_description">
+            <English>Color used for the 'Custom' option in the HUD Color Switcher action for vehicles.</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_customHUDColor_name">
+            <English>Custom Hud Color</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_disableAutoVectoring_description">
+            <English>If enabled, auto-vectoring will be automatically disabled when entering a vehicle.</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_disableAutoVectoring_name">
+            <English>Disable Auto-Vectoring</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_hmg_65x39_displayName">
+            <!-- Potentially rename? -->
+            <English>Light Repeating Blaster</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_turretDroid_lifeTime_description">
+            <English>How long the Turret-droid will last before being destroyed. Only affects hand-deployed Turret-droids. 0 = Infinite</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_turretDroid_lifeTime_name">
+            <English>Turret-droid Lifetime</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_vivLoadingRange_description">
+            <English>The default range (in meters) for loading a vehicle with ViV.</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_vivLoadingRange_name">
+            <English>Default ViV Loading Range</English>
+        </Key>
+    </Package>
+</Project>
