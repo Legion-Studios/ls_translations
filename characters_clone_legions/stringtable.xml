@@ -243,81 +243,107 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaDikut">
             <English>Clone Commando (Aiwha [Di'kut])</English>
+            <French>Commando clone (Aiwha [Di'kut])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaSarge">
             <English>Clone Commando (Aiwha [Sarge])</English>
+            <French>Commando clone (Aiwha [Sarge])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaTyto">
             <English>Clone Commando (Aiwha [Tyto])</English>
+            <French>Commando clone (Aiwha [Tyto])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaZag">
             <English>Clone Commando (Aiwha [Zag])</English>
+            <French>Commando clone (Aiwha [Zag])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo2">
             <English>Clone Commando (Bravo [2])</English>
+            <French>Commando clone (Bravo [2])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo3">
             <English>Clone Commando (Bravo [3])</English>
+            <French>Commando clone (Bravo [3])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo4">
             <English>Clone Commando (Bravo [4])</English>
+            <French>Commando clone (Bravo [4])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravoRam">
             <English>Clone Commando (Bravo [Ram])</English>
+            <French>Commando clone (Bravo [Ram])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaBoss">
             <English>Clone Commando (Delta [Boss])</English>
+            <French>Commando clone (Delta [Boss])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaFixer">
             <English>Clone Commando (Delta [Fixer])</English>
+            <French>Commando clone (Delta [Fixer])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaScorch">
             <English>Clone Commando (Delta [Scorch])</English>
+            <French>Commando clone (Delta [Scorch])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaSev">
             <English>Clone Commando (Delta [Sev])</English>
+            <French>Commando clone (Delta [Sev])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_foxtrotGregor">
             <English>Clone Commando (Foxtrot [Gregor])</English>
+            <French>Commando clone (Foxtrot [Gregor])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_hodasalJungle">
             <English>Clone Commando (Hodasal Camo)</English>
+            <French>Commando clone (Hodasal Camo)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpGunner">
             <English>Clone Commando (Gunner)</English>
+            <French>Commando clone (Artilleur)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpMarksman">
             <English>Clone Commando (Marksman)</English>
+            <French>Commando clone (Tireur de précision)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpRecon">
             <English>Clone Commando (Recon)</English>
+            <French>Commando clone (Reconnaissance)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpStealth">
             <English>Clone Commando (Stealth)</English>
+            <French>Commando clone (Furtif)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaAtin">
             <English>Clone Commando (Omega [Atin])</English>
+            <French>Commando clone (Omega [Atin])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaDarman">
             <English>Clone Commando (Omega [Darman])</English>
+            <French>Commando clone (Omega [Darman])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaFi">
             <English>Clone Commando (Omega [Fi])</English>
+            <French>Commando clone (Omega [Fi])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaNiner">
             <English>Clone Commando (Omega [Niner])</English>
+            <French>Commando clone (Omega [Niner])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxCov">
             <English>Clone Commando (Yayax [Cov])</English>
+            <French>Commando clone (Yayax [Cov])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxDev">
             <English>Clone Commando (Yayax [Dev])</English>
+            <French>Commando clone (Yayax [Dev])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxJind">
             <English>Clone Commando (Yayax [Jind])</English>
+            <French>Commando clone (Yayax [Jind])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxYover">
             <English>Clone Commando (Yayax [Yover])</English>
+            <French>Commando clone (Yayax [Yover])</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_garLegions">
             <English>Grand Army of the Republic Legions</English>
