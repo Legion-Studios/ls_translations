@@ -287,6 +287,9 @@
             <French>Traitement en cours...</French>
             <Polish>Otrzymywanie opieki zdrowotnej...</Polish>
         </Key>
+        <Key ID="STR_ls_common_refueling">
+            <English>Refueling...</English>
+        </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
             <English>Rotate</English>
@@ -305,9 +308,6 @@
             <Turkish>Yönlendir</Turkish>
             <Hungarian>Forgatás</Hungarian>
             <Ukrainian>Обертати</Ukrainian>
-        </Key>
-        <Key ID="STR_ls_common_refueling">
-            <English>Refueling...</English>
         </Key>
         <Key ID="STR_ls_common_selectAreaToMap">
             <English>Select an area to map.</English>
