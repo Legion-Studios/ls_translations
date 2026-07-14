@@ -23,7 +23,7 @@
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_at">
             <English>Commando (AT)</English>
-            <French>Command (AC)</French>
+            <French>Commando (AC)</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
             <English>Nimbus Commando Backpack</English>
@@ -35,7 +35,7 @@
             <French>Commando (Démolition)</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier">
-            <English>Commando (Grenadier)</English>.
+            <English>Commando (Grenadier)</English>
             <French>Commando (Grenadier)</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier_helmet">
@@ -65,7 +65,8 @@
             <French>Commando (Fusil à pompe)</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_sniper">
-            <English>Commando (Tireur de précision)</English>
+            <English>Commando (Marksman)</English>
+            <French>Commando (Tireur de précision)</French>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_uniform">
             <English>Nimbus Commando Armor</English>
