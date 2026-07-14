@@ -249,53 +249,53 @@
         </Key>
         <Key ID="STR_ls_common_skill_advanced">
             <English>Advanced</English>
-            <Polish>Zaawansowany</Polish>
             <French>Avancé</French>
+            <Polish>Zaawansowany</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_crewman_tooltip">
             <English>Unit's skill in operating ground vehicles.</English>
-            <Polish>Umiejętność operowania pojazdami naziemnymi</Polish>
             <French>Compétence de l'unité dans la conduite de véhicules terrestres.</French>
+            <Polish>Umiejętność operowania pojazdami naziemnymi</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_engineer_tooltip">
             <English>Unit's skill in servicing vehicles and equipment.</English>
-            <Polish>Umiejętność naprawy pojazdów i ekwipunku</Polish>
             <French>Compétence de l'unité dans la maintenance de véhicules et équipements.</French>
+            <Polish>Umiejętność naprawy pojazdów i ekwipunku</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_eod_tooltip">
             <English>Unit's skill in locating, placing, and disarming explosives.</English>
-            <Polish>Umiejętność odnajdywania, umieszczania i rozbrajania ładunków wybuchowych</Polish>
             <French>Compétence de l'unité dans la localisation, la pose et le désamorçage d'explosifs.</French>
+            <Polish>Umiejętność odnajdywania, umieszczania i rozbrajania ładunków wybuchowych</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_medic_tooltip">
             <English>Unit's skill in treating patients.</English>
-            <Polish>Umiejętność leczenia pacjentów</Polish>
             <French>Compétence de l'unité dans le traitement des patients.</French>
+            <Polish>Umiejętność leczenia pacjentów</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_pilot_tooltip">
             <English>Unit's skill in operating aerial vehicles.</English>
-            <Polish>Umiejętność operowania pojazdami awiacji</Polish>
             <French>Compétence de l'unité dans la conduite de véhicules aériens.</French>
+            <Polish>Umiejętność operowania pojazdami awiacji</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_tech_name">
             <English>Tech Specialist</English>
-            <Polish>Specjalista</Polish>
             <French>Spécialiste Technique</French>
+            <Polish>Specjalista</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_tech_tooltip">
             <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>
-            <Polish>Umiejętność hakowania, przełamywania zabezpieczeń i pracy z elektronicznymi systemami</Polish>
             <French>Compétence de l'unité dans le piratage, le forçage et la manipulation de systèmes électroniques.</French>
+            <Polish>Umiejętność hakowania, przełamywania zabezpieczeń i pracy z elektronicznymi systemami</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_trained">
             <English>Trained</English>
-            <Polish>Wytrenowany</Polish>
             <French>Entraîné</French>
+            <Polish>Wytrenowany</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_untrained">
             <English>Untrained</English>
-            <Polish>Bez treningu</Polish>
             <French>Non formé</French>
+            <Polish>Bez treningu</Polish>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_yes">

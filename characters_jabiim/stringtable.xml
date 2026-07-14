@@ -3,31 +3,31 @@
     <Package name="characters_jabiim">
         <Key ID="STR_ls_characters_jabiim_nationalist_goggles">
             <English>Jabiimi Nationalist Goggles</English>
-            <Polish>Gogle Nacjonalistów z Jabiim</Polish>
             <French>Lunettes de Nationaliste Jabiimi</French>
+            <Polish>Gogle Nacjonalistów z Jabiim</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nationalist_goggles_raised">
             <English>Jabiimi Nationalist Goggles (Raised)</English>
-            <Polish>Gogle Nacjonalistów z Jabiim (Podniesione)</Polish>
             <French>Lunettes de Nationaliste Jabiimi (Levées)</French>
+            <Polish>Gogle Nacjonalistów z Jabiim (Podniesione)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nationalist_helmet">
             <English>Jabiimi Nationalist Helmet</English>
-            <Polish>Hełm Nacjonalistów z Jabiim</Polish>
             <French>Casque de Nationaliste Jabiimi</French>
+            <Polish>Hełm Nacjonalistów z Jabiim</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbusCommandos">
             <English>Nimbus Commandos</English>
-            <Polish>Komandosi Nimbus</Polish>
             <French>Commandos Nimbus</French>
+            <Polish>Komandosi Nimbus</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_at">
             <English>Commando (AT)</English>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
             <English>Nimbus Commando Backpack</English>
-            <Polish>Plecak Komandosa Nimbus</Polish>
             <French>Sac à Dos de Commando Nimbus</French>
+            <Polish>Plecak Komandosa Nimbus</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_demo">
             <English>Commando (Demo)</English>
@@ -37,8 +37,8 @@
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier_helmet">
             <English>Nimbus Grenadier Helmet</English>
-            <Polish>Hełm Grenadiera Nimbus</Polish>
             <French>Casque de Grenadier Nimbus</French>
+            <Polish>Hełm Grenadiera Nimbus</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_heavy">
             <English>Commando (Machine Gunner)</English>
@@ -51,8 +51,8 @@
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_helmet">
             <English>Nimbus Commando Helmet</English>
-            <Polish>Hełm Komandosa Nimbus</Polish>
             <French>Casque de Commando Nimbus</French>
+            <Polish>Hełm Komandosa Nimbus</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_shotgun">
             <English>Commando (Shotgun)</English>
@@ -62,8 +62,8 @@
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_uniform">
             <English>Nimbus Commando Armor</English>
-            <Polish>Zbroja Komandosa Nimbus</Polish>
             <French>Armure de Commando Nimbus</French>
+            <Polish>Zbroja Komandosa Nimbus</Polish>
         </Key>
     </Package>
 </Project>

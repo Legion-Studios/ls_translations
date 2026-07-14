@@ -3,68 +3,68 @@
     <Package name="characters_new_republic">
         <Key ID="STR_ls_characters_new_republic_chestRig_pouches_vest">
             <English>Chest Rig (Pouches, New Republic)</English>
-            <Polish>Ładownica Piersiowa (Kieszenie, Nowa Republika)</Polish>
             <French>Harnais de Poitrine (Poches, Nouvelle République)</French>
+            <Polish>Ładownica Piersiowa (Kieszenie, Nowa Republika)</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_chestRig_vest">
             <English>Chest Rig (New Republic)</English>
-            <Polish>Ładownica Piersiowa (Nowa Republika)</Polish>
             <French>Harnais de Poitrine (Nouvelle République)</French>
+            <Polish>Ładownica Piersiowa (Nowa Republika)</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_cqcm_helmet">
             <English>Close Quarters Combat Helmet (New Republic)</English>
-            <Polish>Hełm Szturmowy CQB (Nowa Republika)</Polish>
             <French>Casque de Combat Rapproché (Nouvelle République)</French>
+            <Polish>Hełm Szturmowy CQB (Nowa Republika)</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_cqcm_mask_helmet">
             <English>Close Quarters Combat Helmet (New Republic)</English>
-            <Polish>Hełm Szturmowy CQB (Nowa Republika)</Polish>
             <French>Casque de Combat Rapproché (Masque, Nouvelle République)</French>
+            <Polish>Hełm Szturmowy CQB (Nowa Republika)</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_cqcm_mask_visor_helmet">
             <English>Close Quarters Combat Helmet (Visor, New Republic)</English>
-            <Polish>Hełm Szturmowy CQB (Wizjer, Nowa Republika)</Polish>
             <French>Casque de Combat Rapproché (Masque, Visière, Nouvelle République)</French>
+            <Polish>Hełm Szturmowy CQB (Wizjer, Nowa Republika)</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_cqcm_visor_helmet">
             <English>Close Quarters Combat Helmet (Visor, New Republic)</English>
-            <Polish>Hełm Szturmowy CQB (Wizjer, Nowa Republika)</Polish>
             <French>Casque de Combat Rapproché (Visière, Nouvelle République)</French>
+            <Polish>Hełm Szturmowy CQB (Wizjer, Nowa Republika)</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_naval_alt1_uniform">
             <English>New Republic Naval Uniform (Alt 1)</English>
-            <Polish>Mundur Marynarki Nowej Republiki (Alternatywny 1)</Polish>
             <French>Uniforme de Marine de la Nouvelle République (Alt 1)</French>
+            <Polish>Mundur Marynarki Nowej Republiki (Alternatywny 1)</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_naval_alt2_uniform">
             <English>New Republic Naval Uniform (Alt 2)</English>
-            <Polish>Mundur Marynarki Nowej Republiki (Alternatywny 2)</Polish>
             <French>Uniforme de Marine de la Nouvelle République (Alt 2)</French>
+            <Polish>Mundur Marynarki Nowej Republiki (Alternatywny 2)</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_naval_heavy_vest">
             <English>New Republic Heavy Naval Armor</English>
-            <Polish>Ciężki Pancerz Marynarki Nowej Republiki</Polish>
             <French>Armure de Marine Lourde de la Nouvelle République</French>
+            <Polish>Ciężki Pancerz Marynarki Nowej Republiki</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_naval_light_vest">
             <English>New Republic Light Naval Armor</English>
-            <Polish>Lekki Pancerz Marynarki Nowej Republiki</Polish>
             <French>Armure de Marine Légère de la Nouvelle République</French>
+            <Polish>Lekki Pancerz Marynarki Nowej Republiki</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_naval_medium_vest">
             <English>New Republic Medium Naval Armor</English>
-            <Polish>Średni Pancerz Marynarki Nowej Republiki</Polish>
             <French>Armure de Marine Moyenne de la Nouvelle République</French>
+            <Polish>Średni Pancerz Marynarki Nowej Republiki</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_naval_uniform">
             <English>New Republic Naval Uniform</English>
-            <Polish>Mundur Marynarki Nowej Republiki</Polish>
             <French>Uniforme de Marine de la Nouvelle République</French>
+            <Polish>Mundur Marynarki Nowej Republiki</Polish>
         </Key>
         <Key ID="STR_ls_characters_new_republic_naval_vest">
             <English>New Republic Naval Armor</English>
-            <Polish>Zbroja Marynarki Nowej Republiki</Polish>
             <French>Armure de Marine de la Nouvelle République</French>
+            <Polish>Zbroja Marynarki Nowej Republiki</Polish>
         </Key>
     </Package>
 </Project>

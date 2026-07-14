@@ -3,39 +3,39 @@
     <Package name="vehicles_pkv5">
         <Key ID="STR_ls_vehicles_pkv5_aaa_displayName">
             <English>PK-V5 Medium Fighter Tank (AAA)</English>
-            <Polish>Średni Czołg Przechwytujący PK-V5 (Przeciwlotniczy)</Polish>
             <French>Tank de Combat Intermédiaire PK-V5 (AAA)</French>
+            <Polish>Średni Czołg Przechwytujący PK-V5 (Przeciwlotniczy)</Polish>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_displayName">
             <English>PK-V5 Medium Fighter Tank</English>
-            <Polish>Średni Czołg Przechwytujący PK-V5</Polish>
             <French>Tank de Combat Intermédiaire PK-V5</French>
+            <Polish>Średni Czołg Przechwytujący PK-V5</Polish>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mlrs_displayName">
             <English>PK-V5 Medium Fighter Tank (MLRS)</English>
-            <Polish>Średni Czołg Przechwytujący PK-V5 (System Rakietowy)</Polish>
             <French>Tank de Combat Intermédiaire PK-V5 (MLRS)</French>
+            <Polish>Średni Czołg Przechwytujący PK-V5 (System Rakietowy)</Polish>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mortar_displayName">
             <English>PK-V5 Medium Fighter Tank (Mortar)</English>
-            <Polish>Średni Czołg Przechwytujący PK-V5 (Moździerz)</Polish>
             <French>Tank de Combat Intermédiaire PK-V5 (Mortier)</French>
+            <Polish>Średni Czołg Przechwytujący PK-V5 (Moździerz)</Polish>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mp_displayName">
             <English>PK-V5 Medium Fighter Tank (MP)</English>
-            <Polish>Średni Czołg Przechwytujący PK-V5 (MP)</Polish>
             <French>Tank de Combat Intermédiaire PK-V5 (MP)</French>
+            <Polish>Średni Czołg Przechwytujący PK-V5 (MP)</Polish>
         </Key>
         <!-- Can probably be reused elsewhere -->
         <Key ID="STR_ls_vehicles_pkv5_standard">
             <English>Standard</English>
-            <Polish>Standardowy</Polish>
             <French>Standard</French>
+            <Polish>Standardowy</Polish>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_standard_logo">
             <English>Standard (Logo)</English>
-            <Polish>Standardowy (Logo)</Polish>
             <French>Standard (Logo)</French>
+            <Polish>Standardowy (Logo)</Polish>
         </Key>
     </Package>
 </Project>

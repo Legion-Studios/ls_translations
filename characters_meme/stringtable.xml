@@ -3,58 +3,58 @@
     <Package name="characters_meme">
         <Key ID="STR_ls_characters_meme_arcborne_helmet">
             <English>Clone ARCborne Helmet</English>
-            <Polish>Hełm Żołnierza Klona ARCBorne</Polish>
             <French>Casque de clone ARCBorne</French>
+            <Polish>Hełm Żołnierza Klona ARCBorne</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_blackbeard_vest">
             <English>Blackbeard's Vest</English>
-            <Polish>Kamizelka Czarnobrodego</Polish>
             <French>Gilet de Barbe Noir</French>
+            <Polish>Kamizelka Czarnobrodego</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_chad_helmet">
             <English>CT-6969 'Chadimus Maximus'</English>
-            <Polish>CT-6969 'Chadimus Maximus'</Polish>
             <French>CT-6969 'Chadimus Maximus'</French>
+            <Polish>CT-6969 'Chadimus Maximus'</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_killerRabbit">
             <English>The Killer Rabbit</English>
-            <Polish>Królik Zabójca</Polish>
             <French>Le Lapin Tueur</French>
+            <Polish>Królik Zabójca</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nut">
             <English>The Nut</English>
-            <Polish>Orzeszek</Polish>
             <French>La Cacahuète</French>
+            <Polish>Orzeszek</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased">
             <English>The Pleased Nut</English>
-            <Polish>Zadowolony Orzeszek</Polish>
             <French>La Cacahuète Heureuse</French>
+            <Polish>Zadowolony Orzeszek</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased_armed">
             <English>The Pleased Nut (Armed)</English>
-            <Polish>Zadowolony Orzeszek (z Ramionami)</Polish>
             <French>La Cacahuète Heureuse (Bras)</French>
+            <Polish>Zadowolony Orzeszek (z Ramionami)</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nutgotiator">
             <English>The Nugotiator</English>
-            <Polish>Orzechocjator</Polish>
             <French>La Cacahuète Négociatrice</French>
+            <Polish>Orzechocjator</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_nutgotiator_armed">
             <English>The Nugotiator (Armed)</English>
-            <Polish>Orzechocjator (z ramionami)</Polish>
             <French>La Cacahuète Négociatrice (Bras)</French>
+            <Polish>Orzechocjator (z ramionami)</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_splinterCell_nvg">
             <English>Clone SpecOp Trinocular Visor</English>
-            <Polish>Wizjer Trzyoptyczny Żołnierza Klona</Polish>
             <French>Lunettes trinoculaire de clone SpecOp</French>
+            <Polish>Wizjer Trzyoptyczny Żołnierza Klona</Polish>
         </Key>
         <Key ID="STR_ls_characters_meme_zygerrianDisguise">
             <English>Zygerrian Disguise</English>
-            <Polish>Przebranie Zygerrianina</Polish>
             <French>Déguisement de Zygerrian</French>
+            <Polish>Przebranie Zygerrianina</Polish>
         </Key>
     </Package>
 </Project>

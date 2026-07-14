@@ -44,8 +44,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_arc_cadet_vest">
             <English>Clone ARC Cadet Vest</English>
-            <Polish>Kamizelka Klona Kadeta ARC</Polish>
             <French>Gilet de cadet ARC</French>
+            <Polish>Kamizelka Klona Kadeta ARC</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_arc_helmet">
             <English>Clone ARC Helmet</English>
@@ -70,8 +70,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_atrtDriver_helmet">
             <English>Clone AT-RT Driver Helmet</English>
-            <Polish>Hełm Klona Kierowcy AT-RT</Polish>
             <French>Casque clone de pilote d'AT-RT</French>
+            <Polish>Hełm Klona Kierowcy AT-RT</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_backpack">
             <English>Clone Backpack</English>
@@ -81,8 +81,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_basic_vest">
             <English>Clone Trooper Vest</English>
-            <Polish>Kamizelka Żołnierza Klona</Polish>
             <French>Veste de soldat clone</French>
+            <Polish>Kamizelka Żołnierza Klona</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_beltbag">
             <English>Clone Belt Bag</English>
@@ -146,8 +146,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_kama_vest">
             <English>Clone Kama</English>
-            <Polish>Kama Żołnierza Klona</Polish>
             <French>Kama Clone</French>
+            <Polish>Kama Żołnierza Klona</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_katarn_helmet_interior">
             <English>Clone Commando Katarn I Helmet Interior</English>
@@ -157,8 +157,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_lieutenant_vest">
             <English>Clone Lieutenant Vest</English>
-            <Polish>Kamizelka Żołnierza Klona (Porucznik)</Polish>
             <French>Veste de lieutenant clone</French>
+            <Polish>Kamizelka Żołnierza Klona (Porucznik)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_marine">
             <English>Galactic Marine</English>
@@ -201,28 +201,28 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase1_helmet">
             <English>Clone Phase 1 Helmet</English>
-            <Polish>Hełm Żołnierza Klona Fazy 1</Polish>
             <French>Casque de clone phase 1</French>
+            <Polish>Hełm Żołnierza Klona Fazy 1</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_phase1_rangefinder">
             <English>Clone Phase 1 Rangefinder</English>
-            <Polish>Dalmierz Żołnierza Klona Fazy 1</Polish>
             <French>Télémètre de clone phase 1</French>
+            <Polish>Dalmierz Żołnierza Klona Fazy 1</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_phase1_visor">
             <English>Clone Phase 1 Visor</English>
-            <Polish>Wizjer Żołnierza Klona Fazy 1</Polish>
             <French>Visière de clone phase 1</French>
+            <Polish>Wizjer Żołnierza Klona Fazy 1</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_commander_visor">
             <English>Clone Phase 2 Commander Visor</English>
-            <Polish>Wizjer Żołnierza Komandora Klona Fazy 2</Polish>
             <French>Visière de commandant clone phase 2</French>
+            <Polish>Wizjer Żołnierza Komandora Klona Fazy 2</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_commander_visor_white">
             <English>Clone Phase 2 Commander Visor (White)</English>
-            <Polish>Wizjer Żołnierza Komandora Klona Fazy 2 (Biały)</Polish>
             <French>Visière de commandant clone phase 2 (Blanc)</French>
+            <Polish>Wizjer Żołnierza Komandora Klona Fazy 2 (Biały)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_grenadier">
             <English>Clone Phase 2 Grenadier</English>
@@ -247,8 +247,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_rangefinder">
             <English>Clone Phase 2 Rangefinder</English>
-            <Polish>Dalmierz Żołnierza Klona Fazy 2</Polish>
             <French>Télémètre de clone phase 2</French>
+            <Polish>Dalmierz Żołnierza Klona Fazy 2</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_rifleman">
             <English>Clone Phase 2 Rifleman</English>
@@ -264,8 +264,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_visor">
             <English>Clone Phase 2 Visor</English>
-            <Polish>Wizjer Żołnierza Klona Fazy 2 (Biały)</Polish>
             <French>Visière de clone phase 2</French>
+            <Polish>Wizjer Żołnierza Klona Fazy 2 (Biały)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_helmet">
             <English>Clone Pilot Phase 3 Helmet</English>
@@ -316,23 +316,23 @@
         </Key>
         <Key ID="STR_ls_characters_clone_scout_helmet">
             <English>Clone Scout Helmet</English>
-            <Polish>Hełm Żołnierza Klona Zwiadowcy</Polish>
             <French>Casque de clone éclaireur</French>
+            <Polish>Hełm Żołnierza Klona Zwiadowcy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_scout_undersuit_uniform">
             <English>Clone Scout Undersuit</English>
-            <Polish>Kombinezon Żołnierza Klona Zwiadowcy</Polish>
             <French>Combinaison de clone éclaireur</French>
+            <Polish>Kombinezon Żołnierza Klona Zwiadowcy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_scout_uniform">
             <English>Clone Scout Armor</English>
-            <Polish>Pancerz Żołnierza Klona Zwiadowcy</Polish>
             <French>Armure de clone éclaireur</French>
+            <Polish>Pancerz Żołnierza Klona Zwiadowcy</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_scout_vest">
             <English>Clone Scout Pouches</English>
-            <Polish>Ładownice Żołnierza Klona Zwiadowcy</Polish>
             <French>Sacoches de clone éclaireur</French>
+            <Polish>Ładownice Żołnierza Klona Zwiadowcy</Polish>
         </Key>
     </Package>
 </Project>

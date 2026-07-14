@@ -3,8 +3,8 @@
     <Package name="compat_ae3">
         <Key ID="STR_ls_compat_ae3_terminal_01">
             <English>Terminal 01 (AE3)</English>
-            <Polish>Terminal 01 (AE3)</Polish>
             <French>Terminal 01 (AE3)</French>
+            <Polish>Terminal 01 (AE3)</Polish>
         </Key>
     </Package>
 </Project>

@@ -3,98 +3,98 @@
     <Package name="characters">
         <Key ID="STR_ls_characters_chestRig_pouches_vest">
             <English>Chest Rig (Pouches)</English>
-            <Polish>Ładownica Piersiowa (Kieszenie)</Polish>
             <French>Harnais de poitrine (Poches)</French>
+            <Polish>Ładownica Piersiowa (Kieszenie)</Polish>
         </Key>
         <Key ID="STR_ls_characters_chestRig_vest">
             <English>Chest Rig</English>
-            <Polish>Ładownica Piersiowa</Polish>
             <French>Harnais de poitrine</French>
+            <Polish>Ładownica Piersiowa</Polish>
         </Key>
         <Key ID="STR_ls_characters_coif">
             <English>Coif</English>
-            <Polish>Kaptur</Polish>
             <French>Coiffe</French>
+            <Polish>Kaptur</Polish>
         </Key>
         <Key ID="STR_ls_characters_cqcm_helmet">
             <English>Close Quarters Combat Helmet</English>
-            <Polish>Hełm Szturmowy CQC</Polish>
             <French>Casque de combat rapproché</French>
+            <Polish>Hełm Szturmowy CQC</Polish>
         </Key>
         <Key ID="STR_ls_characters_cqcm_mask_helmet">
             <English>Close Quarters Combat Helmet</English>
-            <Polish>Hełm Szturmowy CQC</Polish>
             <French>Casque de combat rapproché</French>
+            <Polish>Hełm Szturmowy CQC</Polish>
         </Key>
         <Key ID="STR_ls_characters_cqcm_mask_visor_helmet">
             <English>Close Quarters Combat Helmet (Visor)</English>
-            <Polish>Hełm Szturmowy CQC (Wizjer)</Polish>
             <French>Casque de combat rapproché (Visière)</French>
+            <Polish>Hełm Szturmowy CQC (Wizjer)</Polish>
         </Key>
         <Key ID="STR_ls_characters_cqcm_visor_helmet">
             <English>Close Quarters Combat Helmet (Visor)</English>
-            <Polish>Hełm Szturmowy CQC (Wizjer)</Polish>
             <French>Casque de combat rapproché (Visière)</French>
+            <Polish>Hełm Szturmowy CQC (Wizjer)</Polish>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_brown_vest">
             <English>Flak Jacket (Brown)</English>
-            <Polish>Kamizelka Przeciwodłamkowa (Brązowa)</Polish>
             <French>Gilet tactique (Brun)</French>
+            <Polish>Kamizelka Przeciwodłamkowa (Brązowa)</Polish>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_open_vest">
             <English>Flak Jacket (Open)</English>
-            <Polish>Kamizelka Przeciwodłamkowa (Otwarta)</Polish>
             <French>Gilet tactique (Ouverte)</French>
+            <Polish>Kamizelka Przeciwodłamkowa (Otwarta)</Polish>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouchesAlt_brown_vest">
             <English>Flak Jacket (Pouches, Brown, Alt)</English>
-            <Polish>Kamizelka Przeciwodłamkowa (Ładownice, Brązowa Alternatywna)</Polish>
             <French>Gilet tactique (Poches, Brun, Alt)</French>
+            <Polish>Kamizelka Przeciwodłamkowa (Ładownice, Brązowa Alternatywna)</Polish>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouchesAlt_vest">
             <English>Flak Jacket (Pouches, Alt)</English>
-            <Polish>Kamizelka Przeciwodłamkowa (Ładownice, Alternatywna)</Polish>
             <French>Gilet tactique (Poches, Alt)</French>
+            <Polish>Kamizelka Przeciwodłamkowa (Ładownice, Alternatywna)</Polish>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouches_brown_vest">
             <English>Flak Jacket (Pouches, Brown)</English>
-            <Polish>Kamizelka Przeciwodłamkowa (Ładownice, Brązowa)</Polish>
             <French>Gilet tactique (Poches, Brun)</French>
+            <Polish>Kamizelka Przeciwodłamkowa (Ładownice, Brązowa)</Polish>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouches_vest">
             <English>Flak Jacket (Pouches)</English>
-            <Polish>Kamizelka Przeciwodłamkowa (Ładownice)</Polish>
             <French>Gilet tactique (Poches)</French>
+            <Polish>Kamizelka Przeciwodłamkowa (Ładownice)</Polish>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_vest">
             <English>Flak Jacket</English>
-            <Polish>Kamizelka Przeciwodłamkowa</Polish>
             <French>Gilet tactique</French>
+            <Polish>Kamizelka Przeciwodłamkowa</Polish>
         </Key>
         <Key ID="STR_ls_characters_goggles">
             <English>Goggles</English>
-            <Polish>Gogle</Polish>
             <French>Lunettes</French>
+            <Polish>Gogle</Polish>
         </Key>
         <Key ID="STR_ls_characters_goggles_blue">
             <English>Goggles (Blue)</English>
-            <Polish>Okulary Ochronne (Niebieskie)</Polish>
             <French>Lunettes (Bleues)</French>
+            <Polish>Okulary Ochronne (Niebieskie)</Polish>
         </Key>
         <Key ID="STR_ls_characters_goggles_green">
             <English>Goggles (Green)</English>
-            <Polish>Okulary Ochronne (Zielone)</Polish>
             <French>Lunettes (Vertes)</French>
+            <Polish>Okulary Ochronne (Zielone)</Polish>
         </Key>
         <Key ID="STR_ls_characters_goggles_orange">
             <English>Goggles (Orange)</English>
-            <Polish>Okulary Ochronne (Pomarańczowe)</Polish>
             <French>Lunettes (Oranges)</French>
+            <Polish>Okulary Ochronne (Pomarańczowe)</Polish>
         </Key>
         <Key ID="STR_ls_characters_goggles_white">
             <English>Goggles (White)</English>
-            <Polish>Okulary Ochronne (Białe)</Polish>
             <French>Lunettes (Blanches)</French>
+            <Polish>Okulary Ochronne (Białe)</Polish>
         </Key>
         <Key ID="STR_ls_characters_gunslinger_hat">
             <English>Gunslinger Hat</English>
@@ -116,23 +116,23 @@
         </Key>
         <Key ID="STR_ls_characters_holster_brown_vest">
             <English>Belt and Holster (Brown)</English>
-            <Polish>Pas i kabura (Brązowe)</Polish>
             <French>Ceinture et étui (Brun)</French>
+            <Polish>Pas i kabura (Brązowe)</Polish>
         </Key>
         <Key ID="STR_ls_characters_holster_maroon_vest">
             <English>Belt and Holster (Maroon)</English>
-            <Polish>Pas i kabura (Kasztanowe)</Polish>
             <French>Ceinture et étui (Marron)</French>
+            <Polish>Pas i kabura (Kasztanowe)</Polish>
         </Key>
         <Key ID="STR_ls_characters_holster_vest">
             <English>Belt and Holster</English>
-            <Polish>Pas i kabura</Polish>
             <French>Ceinture et étui</French>
+            <Polish>Pas i kabura</Polish>
         </Key>
         <Key ID="STR_ls_characters_honorGuardVisor">
             <English>Honor Guard Visor</English>
-            <Polish>Wizjer Gwardi Honorowej</Polish>
             <French>Visière de guarde d'honneur</French>
+            <Polish>Wizjer Gwardi Honorowej</Polish>
         </Key>
         <Key ID="STR_ls_characters_hood">
             <English>Hood</English>
@@ -142,138 +142,138 @@
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel0_helmet">
             <English>Invisible Helmet (Armor Level 0)</English>
-            <Polish>Niewidzialny Hełm (Poziom Ochrony 0)</Polish>
             <French>Casque invisible (Armure Niveau 0)</French>
+            <Polish>Niewidzialny Hełm (Poziom Ochrony 0)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel0_vest">
             <English>Invisible Vest (Armor Level 0)</English>
-            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 0)</Polish>
             <French>Gilet invisible (Armure Niveau 0)</French>
+            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 0)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel1_helmet">
             <English>Invisible Helmet (Armor Level 1)</English>
-            <Polish>Niewidzialny Hełm (Poziom Ochrony 1)</Polish>
             <French>Casque invisible (Armure Niveau 1)</French>
+            <Polish>Niewidzialny Hełm (Poziom Ochrony 1)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel1_vest">
             <English>Invisible Vest (Armor Level 1)</English>
-            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 1)</Polish>
             <French>Gilet invisible (Armure Niveau 1)</French>
+            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 1)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel2_helmet">
             <English>Invisible Helmet (Armor Level 2)</English>
-            <Polish>Niewidzialny Hełm (Poziom Ochrony 2)</Polish>
             <French>Casque invisible (Armure Niveau 2)</French>
+            <Polish>Niewidzialny Hełm (Poziom Ochrony 2)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel2_vest">
             <English>Invisible Vest (Armor Level 2)</English>
-            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 2)</Polish>
             <French>Gilet invisible (Armure Niveau 2)</French>
+            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 2)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel3_helmet">
             <English>Invisible Helmet (Armor Level 3)</English>
-            <Polish>Niewidzialny Hełm (Poziom Ochrony 3)</Polish>
             <French>Casque invisible (Armure Niveau 3)</French>
+            <Polish>Niewidzialny Hełm (Poziom Ochrony 3)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel3_vest">
             <English>Invisible Vest (Armor Level 3)</English>
-            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 3)</Polish>
             <French>Gilet invisible (Armure Niveau 3)</French>
+            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 3)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel4_helmet">
             <English>Invisible Helmet (Armor Level 4)</English>
-            <Polish>Niewidzialny Hełm (Poziom Ochrony 4)</Polish>
             <French>Casque invisible (Armure Niveau 4)</French>
+            <Polish>Niewidzialny Hełm (Poziom Ochrony 4)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel4_vest">
             <English>Invisible Vest (Armor Level 4)</English>
-            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 4)</Polish>
             <French>Gilet invisible (Armure Niveau 4)</French>
+            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 4)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel5_helmet">
             <English>Invisible Helmet (Armor Level 5)</English>
-            <Polish>Niewidzialny Hełm (Poziom Ochrony 5)</Polish>
             <French>Casque invisible (Armure Niveau 5)</French>
+            <Polish>Niewidzialny Hełm (Poziom Ochrony 5)</Polish>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel5_vest">
             <English>Invisible Vest (Armor Level 5)</English>
-            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 5)</Polish>
             <French>Gilet invisible (Armure Niveau 5)</French>
+            <Polish>Niewidzialna Kamizelka (Poziom Ochrony 5)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jockey_goggles_helmet">
             <English>Jockey (Goggles)</English>
-            <Polish>Hełm "Jockey" (Okulary Ochronne)</Polish>
             <French>Casquette jockey (Lunettes)</French>
+            <Polish>Hełm "Jockey" (Okulary Ochronne)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jockey_helmet">
             <English>Jockey</English>
-            <Polish>Hełm "Jockey"</Polish>
             <French>Casquette jockey</French>
+            <Polish>Hełm "Jockey"</Polish>
         </Key>
         <Key ID="STR_ls_characters_jockey_navy_goggles_helmet">
             <English>Jockey (Navy, Goggles)</English>
-            <Polish>Hełm "Jockey" (Granatowy, Okulary Ochronne)</Polish>
             <French>Casquette jockey (Bleu Marine, Lunettes)</French>
+            <Polish>Hełm "Jockey" (Granatowy, Okulary Ochronne)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jockey_navy_helmet">
             <English>Jockey (Navy)</English>
-            <Polish>Hełm "Jockey" (Granatowy)</Polish>
             <French>Casquette jockey (Bleu Marine)</French>
+            <Polish>Hełm "Jockey" (Granatowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_m1_helmet">
             <English>M1 Helmet</English>
-            <Polish>Hełm M1</Polish>
             <French>Casque M1</French>
+            <Polish>Hełm M1</Polish>
         </Key>
         <Key ID="STR_ls_characters_m1_light_helmet">
             <English>M1 Light Helmet</English>
-            <Polish>Hełm Lekki M1</Polish>
             <French>Casque léger M1</French>
+            <Polish>Hełm Lekki M1</Polish>
         </Key>
         <Key ID="STR_ls_characters_naval_uniform">
             <English>Naval Uniform</English>
-            <Polish>Mundur Marynarki</Polish>
             <French>Uniforme de la marine</French>
+            <Polish>Mundur Marynarki</Polish>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_brown_rolled_uniform">
             <English>Pathfinder Fatigues (Brown, Rolled)</English>
-            <Polish>Mundur Polowy Zwiadowcy (Brązowy, Podwinięty)</Polish>
             <French>Treillis d'éclaireur (Brun, Retroussé)</French>
+            <Polish>Mundur Polowy Zwiadowcy (Brązowy, Podwinięty)</Polish>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_brown_uniform">
             <English>Pathfinder Fatigues (Brown)</English>
-            <Polish>Mundur Polowy Zwiadowcy (Brązowy)</Polish>
             <French>Treillis d'éclaireur (Brun)</French>
+            <Polish>Mundur Polowy Zwiadowcy (Brązowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navyAlt_rolled_uniform">
             <English>Pathfinder Fatigues (Navy Alt, Rolled)</English>
-            <Polish>Mundur Polowy Zwiadowcy (Granatowy Alternatywny, Podwinięty)</Polish>
             <French>Treillis d'éclaireur (Bleu Marine Alt, Retroussé)</French>
+            <Polish>Mundur Polowy Zwiadowcy (Granatowy Alternatywny, Podwinięty)</Polish>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navyAlt_uniform">
             <English>Pathfinder Fatigues (Navy Alt)</English>
-            <Polish>Mundur Polowy Zwiadowcy (Granatowy Aleternatywny)</Polish>
             <French>Treillis d'éclaireur (Bleu Marine Alt)</French>
+            <Polish>Mundur Polowy Zwiadowcy (Granatowy Aleternatywny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navy_rolled_uniform">
             <English>Pathfinder Fatigues (Navy, Rolled)</English>
-            <Polish>Mundur Polowy Zwiadowcy (Granatowy, Podwinięty)</Polish>
             <French>Treillis d'éclaireur (Bleu Marine, Retroussé)</French>
+            <Polish>Mundur Polowy Zwiadowcy (Granatowy, Podwinięty)</Polish>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_navy_uniform">
             <English>Pathfinder Fatigues (Navy)</English>
-            <Polish>Mundur Polowy Zwiadowcy (Granatowy)</Polish>
             <French>Treillis d'éclaireur (Bleu Marine)</French>
+            <Polish>Mundur Polowy Zwiadowcy (Granatowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_rolled_uniform">
             <English>Pathfinder Fatigues (Rolled)</English>
-            <Polish>Mundur Polowy Zwiadowcy (Podwinięty)</Polish>
             <French>Treillis d'éclaireur (Retroussé)</French>
+            <Polish>Mundur Polowy Zwiadowcy (Podwinięty)</Polish>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_uniform">
             <English>Pathfinder Fatigues</English>
-            <Polish>Mundur Polowy Zwiadowcy</Polish>
             <French>Treillis d'éclaireur</French>
+            <Polish>Mundur Polowy Zwiadowcy</Polish>
         </Key>
         <Key ID="STR_ls_characters_poncho">
             <English>Poncho</English>
@@ -337,13 +337,13 @@
         </Key>
         <Key ID="STR_ls_characters_reinforcedService_coif_helmet">
             <English>Reinforced Service Helmet (Coif)</English>
-            <Polish>Wzmocniony Hełm Służbowy (Kaptur)</Polish>
             <French>Casque renforcé de service (Coiffe)</French>
+            <Polish>Wzmocniony Hełm Służbowy (Kaptur)</Polish>
         </Key>
         <Key ID="STR_ls_characters_reinforcedService_helmet">
             <English>Reinforced Service Helmet</English>
-            <Polish>Wzmocniony Hełm Służbowy</Polish>
             <French>Casque renforcé de service</French>
+            <Polish>Wzmocniony Hełm Służbowy</Polish>
         </Key>
         <Key ID="STR_ls_characters_scarf">
             <English>Scarf</English>
@@ -389,78 +389,78 @@
         </Key>
         <Key ID="STR_ls_characters_service_brown_helmet">
             <English>Service Helmet (Brown)</English>
-            <Polish>Hełm Służbowy (Brązowy)</Polish>
             <French>Casque de service (Brun)</French>
+            <Polish>Hełm Służbowy (Brązowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_service_comlink_brown_helmet">
             <English>Service Helmet (Comlink, Brown)</English>
-            <Polish>Hełm Służbowy (Komunikator, Brązowy)</Polish>
             <French>Casque de service (Comlink, Brun)</French>
+            <Polish>Hełm Służbowy (Komunikator, Brązowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_service_comlink_helmet">
             <English>Service Helmet (Comlink)</English>
-            <Polish>Hełm Służbowy (Komunikator)</Polish>
             <French>Casque de service (Comlink)</French>
+            <Polish>Hełm Służbowy (Komunikator)</Polish>
         </Key>
         <Key ID="STR_ls_characters_service_helmet">
             <English>Service Helmet</English>
-            <Polish>Hełm Służbowy</Polish>
             <French>Casque de service</French>
+            <Polish>Hełm Służbowy</Polish>
         </Key>
         <Key ID="STR_ls_characters_shoulderPouch">
             <English>Shoulder Pouch</English>
-            <Polish>Ładownica Naramienna</Polish>
             <French>Poches d'épaule</French>
+            <Polish>Ładownica Naramienna</Polish>
         </Key>
         <Key ID="STR_ls_characters_spacer_alt_uniform">
             <English>Spacer Fatigues (Alt)</English>
-            <Polish>Ubiór Załoganta (Alternatywny)</Polish>
             <French>Treillis spatial (Alt)</French>
+            <Polish>Ubiór Załoganta (Alternatywny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_spacer_brownAlt_uniform">
             <English>Spacer Fatigues (Brown, Alt)</English>
-            <Polish>Ubiór Załoganta (Brązowy Alternatywny)</Polish>
             <French>Treillis spatial (Brun, Alt)</French>
+            <Polish>Ubiór Załoganta (Brązowy Alternatywny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_spacer_brown_uniform">
             <English>Spacer Fatigues (Brown)</English>
-            <Polish>Ubiór Załoganta (Brązowy)</Polish>
             <French>Treillis spatial (Brun)</French>
+            <Polish>Ubiór Załoganta (Brązowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_spacer_holster_vest">
             <English>Spacer Vest (Holster)</English>
-            <Polish>Kamizelka Załoganta (Kabura)</Polish>
             <French>Treillis spatial (Étui)</French>
+            <Polish>Kamizelka Załoganta (Kabura)</Polish>
         </Key>
         <Key ID="STR_ls_characters_spacer_uniform">
             <English>Spacer Fatigues</English>
-            <Polish>Ubiór Załoganta</Polish>
             <French>Treillis spatial</French>
+            <Polish>Ubiór Załoganta</Polish>
         </Key>
         <Key ID="STR_ls_characters_spacer_vest">
             <English>Spacer Vest</English>
-            <Polish>Kamizelka Załoganta</Polish>
             <French>Gilet spatial</French>
+            <Polish>Kamizelka Załoganta</Polish>
         </Key>
         <Key ID="STR_ls_characters_technician_brown_helmet">
             <English>Technician Helmet (Brown)</English>
-            <Polish>Hełm Inżyniera (Brązowy)</Polish>
             <French>Casque de technicien (Brun)</French>
+            <Polish>Hełm Inżyniera (Brązowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_technician_comlink_brown_helmet">
             <English>Technician Helmet (Comlink, Brown)</English>
-            <Polish>Hełm Inżyniera (Komunikator, Brązowy)</Polish>
             <French>Casque de technicien (ComLink, Brun)</French>
+            <Polish>Hełm Inżyniera (Komunikator, Brązowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_technician_comlink_helmet">
             <English>Technician Helmet (Comlink)</English>
-            <Polish>Hełm Inżyniera (Komunikator)</Polish>
             <French>Casque de technicien (ComLink)</French>
+            <Polish>Hełm Inżyniera (Komunikator)</Polish>
         </Key>
         <Key ID="STR_ls_characters_technician_helmet">
             <English>Technician Helmet</English>
-            <Polish>Hełm Inżyniera</Polish>
             <French>Casque de technicien</French>
+            <Polish>Hełm Inżyniera</Polish>
         </Key>
     </Package>
 </Project>

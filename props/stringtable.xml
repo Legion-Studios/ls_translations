@@ -3,38 +3,38 @@
     <Package name="props">
         <Key ID="STR_ls_props_acceptance">
             <English>Acceptance</English>
-            <Polish>Akceptacja</Polish>
             <French>Acceptation</French>
+            <Polish>Akceptacja</Polish>
         </Key>
         <Key ID="STR_ls_props_blank">
             <English>Blank</English>
-            <Polish>Pusty</Polish>
             <French>Vierge</French>
+            <Polish>Pusty</Polish>
         </Key>
         <Key ID="STR_ls_props_bloodPools">
             <English>Blood Pools</English>
-            <Polish>Kałuże Krwi</Polish>
             <French>Mare de sang</French>
+            <Polish>Kałuże Krwi</Polish>
         </Key>
         <Key ID="STR_ls_props_bsod">
             <English>Blue Screen</English>
-            <Polish>Niebieski Ekran</Polish>
             <French>Écran bleu</French>
+            <Polish>Niebieski Ekran</Polish>
         </Key>
         <Key ID="STR_ls_props_commandPosts">
             <English>Command Posts</English>
-            <Polish>Punkt Dowodzenia</Polish>
             <French>Postes de commandement</French>
+            <Polish>Punkt Dowodzenia</Polish>
         </Key>
         <Key ID="STR_ls_props_crash">
             <English>Crash</English>
-            <Polish>Awaria</Polish>
             <French>Crash</French>
+            <Polish>Awaria</Polish>
         </Key>
         <Key ID="STR_ls_props_ironmouse">
             <English>Ironmouse</English>
-            <Polish>Ironmouse</Polish>
             <French>Ironmouse</French>
+            <Polish>Ironmouse</Polish>
         </Key>
         <Key ID="STR_ls_props_resupply_cis_droid">
             <English>CIS Droid Resupply</English>
@@ -83,28 +83,28 @@
         </Key>
         <Key ID="STR_ls_props_terminal">
             <English>Terminal</English>
-            <Polish>Terminal</Polish>
             <French>Terminal</French>
+            <Polish>Terminal</Polish>
         </Key>
         <Key ID="STR_ls_props_terminal_01">
             <English>Terminal 01</English>
-            <Polish>Terminal 01</Polish>
             <French>Terminal 01</French>
+            <Polish>Terminal 01</Polish>
         </Key>
         <Key ID="STR_ls_props_terminal_reinsert">
             <English>Reinsert Terminal</English>
-            <Polish>Terminal Ponownego Rozmieszczenia</Polish>
             <French>Réinsérer terminal</French>
+            <Polish>Terminal Ponownego Rozmieszczenia</Polish>
         </Key>
         <Key ID="STR_ls_props_terminals">
             <English>Terminals</English>
-            <Polish>Terminale</Polish>
             <French>Terminaux</French>
+            <Polish>Terminale</Polish>
         </Key>
         <Key ID="STR_ls_props_windowsXp">
             <English>Windows XP</English>
-            <Polish>Windows XP</Polish>
             <French>Windows XP</French>
+            <Polish>Windows XP</Polish>
         </Key>
     </Package>
 </Project>
