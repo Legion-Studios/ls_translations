@@ -37,7 +37,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_breacher">
             <English>B1 Battle Droid (Breacher)</English>
-            <French>Droïde de combat B1 (sapeur)</French>
+            <French>Droïde de combat B1 (Sapeur)</French>
             <Polish>Droid Bojowy B1 (Wyważający)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander">
@@ -201,7 +201,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_helmet">
             <English>B1 Droid Head</English>
-             <French>Tête de droïde B1</French>
+            <French>Tête de droïde B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram">
             <English>B1 Battle Droid (Hologram)</English>
@@ -209,7 +209,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram_backpack">
             <English>B1 Comlink Booster (Hologram)</English>
-             <French>Amplificateur Comlink B1 (Hologramme)</French>
+            <French>Amplificateur Comlink B1 (Hologramme)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram_helmet">
             <English>B1 Droid Head (Hologram)</English>
@@ -386,22 +386,22 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b2_junkyard">
             <English>B2 Battle Droid (Junkyard)</English>
-            <French>Droïde de combat B2 (décharge)</French>
+            <French>Droïde de combat B2 (Décharge)</French>
             <Polish>Droid Bojowy B2 (Złomowisko)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_junkyard_uniform">
             <English>B2 Droid Chassis (Junkyard)</English>
-            <French>Châssis de droïde de combat B2 (décharge)</French>
+            <French>Châssis de droïde de combat B2 (Décharge)</French>
             <Polish>Korpus Droida Bojowego B2 (Złomowisko)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_simulation">
             <English>B2 Battle Droid (Simulation)</English>
-            <French>Droïde de combat B2 (simulation)</French>
+            <French>Droïde de combat B2 (Simulation)</French>
             <Polish>Droid Bojowy B2 (Symulacja)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_simulation_uniform">
             <English>B2 Droid Chassis (Simulation)</English>
-            <French>Châssis de droïde de combat B2 (simulation)</French>
+            <French>Châssis de droïde de combat B2 (Simulation)</French>
             <Polish>Korpus Droida Bojowego B2 (Symulacja)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_uniform">
