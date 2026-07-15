@@ -31,5 +31,11 @@
             <French>Le pourcentage d'intégrité maximale auquel le bouclier du Droideka se régénérera.</French>
             <Polish>Jaki procent maksymalnej ilości życia tarczy droideki zostanie zregenerowany.</Polish>
         </Key>
+        <Key ID="STR_ls_droids_droidekaShieldTargetsEnabled_name">
+            <English>Droideka - Create Shield Targets</English>
+        </Key>
+        <Key ID="STR_ls_droids_droidekaShieldTargetsEnabled_tooltip">
+            <English>If enabled, the Droideka's shield will create dummy targets for AI targeting. The targets are necessary for enemy AI to shoot the Droideka but can cause pathfinding issues for it\nEnabled by default in Singleplayer, disabled by default in Multiplayer.</English>
+        </Key>
     </Package>
 </Project>
