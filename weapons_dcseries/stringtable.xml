@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_dcseries">
+        <Key ID="STR_ls_weapons_dcseries_dc15a_displayName">
+            <English>DC-15A</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15a_ugl_displayName">
+            <English>DC-15A GL</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15a_wooden_displayName">
+            <English>DC-15A (Wooden Stock)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15ac_displayName">
+            <English>DC-15AC</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15br_displayName">
+            <English>DC-15BR</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15br_wooden_displayName">
+            <English>DC-15BR (Wooden Stock)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15leMuzzle_displayName">
+            <English>DC-15LE Plasma Accelerator</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15leScope_displayName">
+            <English>DC-15LE Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15le_displayName">
+            <English>DC-15LE</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15s_displayName">
+            <English>DC-15S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15sa_displayName">
+            <English>DC-15SA</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15saw_displayName">
+            <English>DC-15SAW</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15saw_wooden_displayName">
+            <English>DC-15SAW (Wooden Stock)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15xScope_displayName">
+            <English>DC-15X Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15x_displayName">
+            <English>DC-15X</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17mMuzzle_antiArmor_displayName">
+            <English>DC-17M Anti-Armor Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17mMuzzle_blaster_displayName">
+            <English>DC-17M Blaster Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17mMuzzle_sniper_displayName">
+            <English>DC-17M Sniper Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17mScope_displayName">
+            <English>DC-17M Sniper Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_antiArmor_displayName">
+            <English>DC-17M (Anti-Armor)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_descriptionShort">
+            <English>DC-17M Interchangable Weapon System&lt;br/&gt;Loading a magazine will convert the weapon to a different modes.</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_displayName">
+            <English>DC-17M</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_displayName">
+            <English>DC-17M (Sniper)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_displayName">
+            <English>DC-17S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_dual_displayName">
+            <English>DC-17S Dual Wield</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_fordo_displayName">
+            <English>DC-17S (Fordo)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dp20_displayName">
+            <English>DP-20</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_flashlight_displayName">
+            <English>DC-FL Flashlight</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_gyroscope_descriptionShort">
+            <English>Improves weapon stability using an internal gyroscope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_gyroscope_displayName">
+            <English>DC-GS Gyroscope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_laserFlash_displayName">
+            <English>DC-FL/LP</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_laserPointer_displayName">
+            <English>DC-LP Laser Pointer</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_redDot_displayName">
+            <English>DC-RD Red Dot Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_reflex_displayName">
+            <English>DC-RF Reflex Scope</English>
+        </Key>
+    </Package>
+</Project>
