@@ -421,9 +421,11 @@
         </Key>
         <Key ID="STR_ls_characters_droid_bx_bountyHunter">
             <English>BX Commando Droid (Bounty Hunter)</English>
+            <French>Droïde commando BX (Chasseur de primes)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_bountyHunter_uniform">
             <English>BX Commando Droid Chassis (Bounty Hunter)</English>
+            <French>Châssis de Droïde commando BX (Chasseur de primes)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_captain">
             <English>BX Commando Droid Captain</English>
@@ -467,12 +469,16 @@
         </Key>
         <Key ID="STR_ls_characters_droid_bx_impostor">
             <English>BX Commando Droid (Impostor)</English>
+            <French>Droïde commando BX (Imposteur)</French>
+
         </Key>
         <Key ID="STR_ls_characters_droid_bx_junkyard">
             <English>BX Commando Droid (Junkyard)</English>
+            <French>Droïde commando BX (Décharge)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_junkyard_uniform">
             <English>BX Commando Droid Chassis (Junkyard)</English>
+            <French>Châssis de droïde commando BX (Décharge)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_security">
             <English>BX Security Droid</English>
