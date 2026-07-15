@@ -226,7 +226,7 @@
         </Key>
         <Key ID="STR_ls_common_galacticEmpire">
             <English>Galactic Empire</English>
-            <French>Empire Galactique</French>
+            <French>Empire galactique</French>
             <Polish>Imperium Galaktyczne</Polish>
         </Key>
         <Key ID="STR_ls_common_gar">
@@ -312,7 +312,7 @@
         </Key>
         <Key ID="STR_ls_common_rebelAlliance">
             <English>Rebel Alliance</English>
-            <French>Alliance Rebelle</French>
+            <French>Alliance rebelle</French>
             <Polish>Rebelianci</Polish>
         </Key>
         <Key ID="STR_ls_common_recievedTreatment">
