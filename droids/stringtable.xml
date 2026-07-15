@@ -33,9 +33,11 @@
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldTargetsEnabled_name">
             <English>Droideka - Create Shield Targets</English>
+            <French>Droideka - Créer les cibles du bouclier</French>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldTargetsEnabled_tooltip">
             <English>If enabled, the Droideka's shield will create dummy targets for AI targeting. The targets are necessary for enemy AI to shoot the Droideka but can cause pathfinding issues for it\nEnabled by default in Singleplayer, disabled by default in Multiplayer.</English>
+            <French>Si cette option est activée, les boucliers du Droideka créeront des cibles factices pour le ciblage de l'IA. Ces cibles sont nécessaires pour que l'IA ennemie puisse tirer sur le Droideka. Cependant, elles peuvent provoquer des problèmes de pathfinding.\nActivée par défaut en solo, désactivée par défaut en multijoueur.</French>
         </Key>
     </Package>
 </Project>
