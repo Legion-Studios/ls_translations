@@ -22,6 +22,7 @@
         </Key>
         <Key ID="STR_ls_common_cancelled">
             <English>Cancelled</English>
+            <French>Annulé</French>
         </Key>
         <Key ID="STR_ls_common_cis">
             <English>Confederacy of Independent Systems</English>
@@ -71,99 +72,131 @@
         </Key>
         <Key ID="STR_ls_common_edsubcat_chissAscendency">
             <English>Chiss Ascendency</English>
+            <French>Ascendance Chiss</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p1">
             <English>Clone Trooper (Phase 1)</English>
+            <French>Soldat clone (Phase 1)</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p2">
             <English>Clone Trooper (Phase 2)</English>
+            <French>Soldat clone (Phase 2)</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_droids">
             <English>Droids</English>
+            <French>Droïdes</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_electronics">
             <English>Electronics</English>
+            <French>Électroniques</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_fob">
             <English>FOB Components</English>
+            <French>Composants de FOB</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_hallways">
             <English>Hallways</English>
+            <French>Couloirs</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_items">
             <English>Items</English>
+            <French>Objets</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_itemsSmall">
             <English>Items - Small</English>
+            <French>Objets - Petits</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_mirialan">
             <English>Mirialan</English>
+            <French>Mirialan</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_nationalists">
             <English>Nationalists</English>
+            <French>Nationalistes</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_planes">
             <English>Planes</English>
+            <French>Avions</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_randomSpecies">
             <English>Random Species</English>
+            <French>Espèces aléatoires</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_repulsorliftArmor">
             <English>Repulsorlift Armor</English>
+            <French>Blindé à répulsion</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_resupply">
             <English>Resupply</English>
+            <French>Ravitaillement</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_screenshotSupport">
             <English>Screenshot Support</English>
+            <French>Support de capture d'écran</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_shipParts">
             <English>Ship Parts</English>
+            <French>Pièces de vaisseau</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_ships">
             <English>Ships</English>
+            <French>Vaisseaux</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_special">
             <English>Special</English>
+            <French>Spécial</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_specialOperations">
             <English>Special Operations</English>
+            <French>Opérations spéciales</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_speeders">
             <English>Speeders</English>
+            <French>Speeders</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_staticShipParts">
             <English>Ship Parts</English>
+            <French>Pièces de vaisseau</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_staticShips">
             <English>Ships</English>
+            <French>Vaisseaux</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_structures">
             <English>Structures</English>
+            <French>Structures</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_tibanna">
             <English>Tibanna Platforms</English>
+            <French>Plateformes de Tibanna</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_units">
             <English>Units</English>
+            <French>Unités</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_vehicles">
             <English>Vehicles</English>
+            <French>Véhicules</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_weapons">
             <English>Weapons</English>
+            <French>Armes</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_wrecks">
             <English>Wrecks</English>
+            <French>Épaves</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zabrak">
             <English>Zabrak</English>
+            <French>Zabrak</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zelosian">
             <English>Zelosian</English>
+            <French>Zélosien</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zeltron">
             <English>Zeltron</English>
+            <French>Zeltron</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L787-L803 -->
         <Key ID="STR_ls_common_enabled">
@@ -185,13 +218,15 @@
         </Key>
         <Key ID="STR_ls_common_finishedCollectingFuel">
             <English>Finished collecting fuel</English>
+            <French>Récupération de carburant terminée</French>
         </Key>
         <Key ID="STR_ls_common_finishedRefueling">
             <English>Finished refueling</English>
+            <French>Ravitaillement en carburant terminé</French>
         </Key>
         <Key ID="STR_ls_common_galacticEmpire">
             <English>Galactic Empire</English>
-            <French>Empire Galactique</French>
+            <French>Empire galactique</French>
             <Polish>Imperium Galaktyczne</Polish>
         </Key>
         <Key ID="STR_ls_common_gar">
@@ -201,7 +236,7 @@
         </Key>
         <Key ID="STR_ls_common_invalidValue">
             <English>Invalid value</English>
-            <French>Valeur Invalide</French>
+            <French>Valeur invalide</French>
             <Polish>Nieprawidłowa Wartość</Polish>
         </Key>
         <Key ID="STR_ls_common_jabiim">
@@ -211,7 +246,7 @@
         </Key>
         <Key ID="STR_ls_common_jediOrder">
             <English>Jedi Order</English>
-            <French>Ordre des Jedis</French>
+            <French>Ordre Jedi</French>
             <Polish>Zakon Jedi</Polish>
         </Key>
         <Key ID="STR_ls_common_mandalorians">
@@ -260,6 +295,7 @@
         </Key>
         <Key ID="STR_ls_common_pickUp">
             <English>Pick up</English>
+            <French>Ramasser</French>
         </Key>
         <Key ID="STR_ls_common_pirates">
             <English>Pirates</English>
@@ -268,13 +304,15 @@
         </Key>
         <Key ID="STR_ls_common_placeItem">
             <English>Place item</English>
+            <French>Placer l'objet</French>
         </Key>
         <Key ID="STR_ls_common_placingProgress">
             <English>Placing %1...</English>
+            <French>Placement de %1...</French>
         </Key>
         <Key ID="STR_ls_common_rebelAlliance">
             <English>Rebel Alliance</English>
-            <French>Alliance Rebelle</French>
+            <French>Alliance rebelle</French>
             <Polish>Rebelianci</Polish>
         </Key>
         <Key ID="STR_ls_common_recievedTreatment">
@@ -289,6 +327,7 @@
         </Key>
         <Key ID="STR_ls_common_refueling">
             <English>Refueling...</English>
+            <French>Ravitaillement...</French>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
@@ -311,6 +350,7 @@
         </Key>
         <Key ID="STR_ls_common_selectAreaToMap">
             <English>Select an area to map.</English>
+            <French>Sélectionner une zone à cartographier.</French>
         </Key>
         <Key ID="STR_ls_common_skill_advanced">
             <English>Advanced</English>
@@ -344,7 +384,7 @@
         </Key>
         <Key ID="STR_ls_common_skill_tech_name">
             <English>Tech Specialist</English>
-            <French>Spécialiste Technique</French>
+            <French>Spécialiste technique</French>
             <Polish>Specjalista</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_tech_tooltip">
@@ -359,7 +399,7 @@
         </Key>
         <Key ID="STR_ls_common_skill_untrained">
             <English>Untrained</English>
-            <French>Non formé</French>
+            <French>Non entraîné</French>
             <Polish>Bez treningu</Polish>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->

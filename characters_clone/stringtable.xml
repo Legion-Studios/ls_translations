@@ -21,13 +21,13 @@
         </Key>
         <Key ID="STR_ls_characters_clone_MiniLR_attachment">
             <English>Mini Long Range Attachment</English>
-            <French>Mini Accessoire longue portée</French>
+            <French>Mini accessoire longue portée</French>
             <Polish>Mały Dodatek Dalekiego Zasięgu</Polish>
             <Russian>Мини-крепеж с радиостанцией (ВАР)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_airborne_helmet">
             <English>Clone Airborne Helmet</English>
-            <French>Casque clone aéroporté (Airborne)</French>
+            <French>Casque clone aéroporté</French>
             <Polish>Hełm Klona Spadochroniarza</Polish>
             <Russian>Шлем десантника (ВАР)</Russian>
         </Key>
@@ -61,6 +61,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_arf">
             <English>Clone ARF Trooper</English>
+            <French>Soldat clone ARF</French>
         </Key>
         <Key ID="STR_ls_characters_clone_arf_helmet">
             <English>Clone ARF Helmet</English>
@@ -81,7 +82,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_basic_vest">
             <English>Clone Trooper Vest</English>
-            <French>Veste de soldat clone</French>
+            <French>Gilet de soldat clone</French>
             <Polish>Kamizelka Żołnierza Klona</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_beltbag">
@@ -137,16 +138,17 @@
         </Key>
         <Key ID="STR_ls_characters_clone_jediCommander_uniform">
             <English>Jedi Commander Armor</English>
-            <French>Armure de commandant jedi</French>
+            <French>Armure de commandant Jedi</French>
             <Polish>Zbroja Komandora Jedi</Polish>
             <Russian>Броня джедай-коммандера (ВАР)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_jedi_commander">
             <English>Jedi Commander</English>
+            <French>Commandant Jedi</French>
         </Key>
         <Key ID="STR_ls_characters_clone_kama_vest">
             <English>Clone Kama</English>
-            <French>Kama Clone</French>
+            <French>Kama clone</French>
             <Polish>Kama Żołnierza Klona</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_katarn_helmet_interior">
@@ -157,11 +159,12 @@
         </Key>
         <Key ID="STR_ls_characters_clone_lieutenant_vest">
             <English>Clone Lieutenant Vest</English>
-            <French>Veste de lieutenant clone</French>
+            <French>Gilet de lieutenant clone</French>
             <Polish>Kamizelka Żołnierza Klona (Porucznik)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_marine">
             <English>Galactic Marine</English>
+            <French>Marine galactique</French>
         </Key>
         <Key ID="STR_ls_characters_clone_medic_backpack">
             <English>Clone Medic Backpack</English>
@@ -177,7 +180,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_p1_headlamp">
             <English>Clone Phase 1 Headlamp</English>
-            <French>Lampe frontale de clone Phase 1</French>
+            <French>Lampe frontale de clone phase 1</French>
             <Polish>Latarka Hełmowa Fazy 1</Polish>
             <Russian>Налобный фонарь (Клона, 1-й фазы)</Russian>
         </Key>
@@ -226,22 +229,25 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_grenadier">
             <English>Clone Phase 2 Grenadier</English>
+            <French>Grenadier clone phase 2</French>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_helmet">
             <English>Clone Phase 2 Helmet</English>
-            <French>Casque clone phase 2</French>
+            <French>Casque de clone phase 2</French>
             <Polish>Hełm Klona Fazy 2</Polish>
             <Russian>Шлем клона (2-й фазы)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_marksman">
             <English>Clone Phase 2 Marksman</English>
+            <French>Tireur de précision clone phase 2</French>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_medic">
             <English>Clone Phase 2 Medic</English>
+            <French>Médecin clone phase 2</French>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
             <English>Clone Pilot Phase 2 Helmet</English>
-            <French>Casque clone pilote phase 2</French>
+            <French>Casque de clone pilote phase 2</French>
             <Polish>Hełm Klona Pilota Fazy 2</Polish>
             <Russian>Шлем пилота (2-й фазы)</Russian>
         </Key>
@@ -252,9 +258,11 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_rifleman">
             <English>Clone Phase 2 Rifleman</English>
+            <French>Fusilier clone phase 2</French>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_sniper">
             <English>Clone Phase 2 Sniper</English>
+            <French>Sniper clone phase 2</French>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_uniform">
             <English>Clone Phase 2 Armor</English>
@@ -269,7 +277,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_helmet">
             <English>Clone Pilot Phase 3 Helmet</English>
-            <French>Casque clone pilote phase 3</French>
+            <French>Casque de clone pilote phase 3</French>
             <Polish>Hełm Klona Pilota Fazy 3</Polish>
             <Russian>Шлем пилота (3-й фаза)</Russian>
         </Key>
@@ -287,7 +295,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_vwing">
             <English>Republic Phase 3 Pilot (Vwing) [NV/TI]</English>
-            <French>République pilote phase 3 (Vwing) [NV/TI]</French>
+            <French>Pilote républicain phase 3 (Vwing) [NV/TI]</French>
             <Polish>Klon Pilot Republiki Fazy 3 (Vwing) [NV/TI]</Polish>
             <Russian>Визор республиканского пилота  (V-wing, 3-й фазы)</Russian>
         </Key>
@@ -311,7 +319,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_scout">
             <English>Clone Scout Trooper</English>
-            <French>Clone soldat (Scout)</French>
+            <French>Soldat clone éclaireur</French>
             <Polish>Żołnierz Klon (Zwiadowca)</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_scout_helmet">
