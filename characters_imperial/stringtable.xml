@@ -3,7 +3,7 @@
     <Package name="characters_imperial">
         <Key ID="STR_ls_characters_imperial_army">
             <English>Imperial Army</English>
-            <French>Armée Impériale</French>
+            <French>Armée impériale</French>
             <Polish>Armia Imperium</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_at">
