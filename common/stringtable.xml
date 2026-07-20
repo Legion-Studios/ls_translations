@@ -81,9 +81,6 @@
         <Key ID="STR_ls_common_edsubcat_droids">
             <English>Droids</English>
         </Key>
-        <Key ID="STR_ls_common_edsubcat_electronics">
-            <English>Electronics</English>
-        </Key>
         <Key ID="STR_ls_common_edsubcat_fob">
             <English>FOB Components</English>
         </Key>
@@ -102,9 +99,6 @@
         <Key ID="STR_ls_common_edsubcat_nationalists">
             <English>Nationalists</English>
         </Key>
-        <Key ID="STR_ls_common_edsubcat_planes">
-            <English>Planes</English>
-        </Key>
         <Key ID="STR_ls_common_edsubcat_randomSpecies">
             <English>Random Species</English>
         </Key>
@@ -117,15 +111,6 @@
         <Key ID="STR_ls_common_edsubcat_screenshotSupport">
             <English>Screenshot Support</English>
         </Key>
-        <Key ID="STR_ls_common_edsubcat_shipParts">
-            <English>Ship Parts</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_ships">
-            <English>Ships</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_special">
-            <English>Special</English>
-        </Key>
         <Key ID="STR_ls_common_edsubcat_specialOperations">
             <English>Special Operations</English>
         </Key>
@@ -133,28 +118,10 @@
             <English>Speeders</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_staticShipParts">
-            <English>Ship Parts</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_staticShips">
-            <English>Ships</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_structures">
-            <English>Structures</English>
+            <English>Static Ship Parts</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_tibanna">
             <English>Tibanna Platforms</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_units">
-            <English>Units</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_vehicles">
-            <English>Vehicles</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_weapons">
-            <English>Weapons</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_wrecks">
-            <English>Wrecks</English>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zabrak">
             <English>Zabrak</English>

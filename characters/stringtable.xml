@@ -22,14 +22,10 @@
             <Polish>Hełm Szturmowy CQC</Polish>
         </Key>
         <Key ID="STR_ls_characters_cqcm_mask_helmet">
-            <English>Close Quarters Combat Helmet</English>
-            <French>Casque de combat rapproché</French>
-            <Polish>Hełm Szturmowy CQC</Polish>
+            <English>Close Quarters Combat Helmet (Mask)</English>
         </Key>
         <Key ID="STR_ls_characters_cqcm_mask_visor_helmet">
-            <English>Close Quarters Combat Helmet (Visor)</English>
-            <French>Casque de combat rapproché (Visière)</French>
-            <Polish>Hełm Szturmowy CQC (Wizjer)</Polish>
+            <English>Close Quarters Combat Helmet (Mask, Visor)</English>
         </Key>
         <Key ID="STR_ls_characters_cqcm_visor_helmet">
             <English>Close Quarters Combat Helmet (Visor)</English>

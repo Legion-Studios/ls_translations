@@ -361,9 +361,6 @@
             <French>Gilet tactique moyen de l'Armée Impériale</French>
             <Polish>Średnia Kamizelka Armii Imperialnej</Polish>
         </Key>
-        <Key ID="STR_ls_characters_imperial_army_mudtrooper_damaged_vest">
-            <English>Imperial Army Vest (Mudtrooper, Damaged)</English>
-        </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_helmet">
             <English>Imperial Army Helmet (Mudtrooper)</English>
             <French>Casque de l'Armée Impériale (Mudtrooper)</French>
