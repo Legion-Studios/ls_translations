@@ -146,6 +146,7 @@
         </Key>
         <Key ID="STR_ls_modules_onlyConscious">
             <English>Unit must be conscious</English>
+            <French>L'unité doit être consciente.</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1605-L1620 -->
         <Key ID="STR_ls_modules_onlyInfantry">
