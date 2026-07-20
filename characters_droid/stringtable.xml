@@ -8,12 +8,15 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_advanced_backpack">
             <English>B1 Comlink Booster (Advanced)</English>
+            <French>Amplificateur Comlink B1 (Avancé)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_advanced_helmet">
             <English>B1 Droid Head (Advanced)</English>
+            <French>Tête de droïde B1 (Avancée)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_advanced_uniform">
             <English>B1 Droid Chassis (Advanced)</English>
+            <French>Châssis de droïde B1 (Avancé)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_backpack">
             <English>B1 Antenna Array</English>
@@ -55,9 +58,11 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_advanced_helmet">
             <English>B1 Commander Droid Head (Advanced)</English>
+            <French>Tête de commandant droïde B1 (Avancée)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_advanced_uniform">
             <English>B1 Droid Chassis (Commander, Advanced)</English>
+            <French>Châssis de droïde commandant B1 (Commandant, Avancé)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_geonosis_helmet">
             <English>B1 Commander Droid Head (Geonosis)</English>
