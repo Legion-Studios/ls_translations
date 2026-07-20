@@ -461,7 +461,7 @@
         </Key>
         <Key ID="STR_ls_characters_imperial_army_riot">
             <English>Riot Control</English>
-            <French>Anti-Émeute</French>
+            <French>Anti-émeute</French>
             <Polish>Kontrola Tłumu</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_black_uniform">
@@ -506,62 +506,62 @@
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_black_helmet">
             <English>Imperial Kepi (Black)</English>
-            <French>Képi Impérial (noir)</French>
+            <French>Képi impérial (noir)</French>
             <Polish>Czapka Imperialnej Armii (Czarna)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_black_helmet">
             <English>Imperial Kepi (Goggles, Black)</English>
-            <French>Képi Impérial (lunettes, noir)</French>
+            <French>Képi impérial (lunettes, noir)</French>
             <Polish>Czapka Imperialnej Armii (Okulary Ochronne, Czarna)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_helmet">
             <English>Imperial Kepi (Goggles)</English>
-            <French>Képi Impérial (lunettes)</French>
+            <French>Képi impérial (lunettes)</French>
             <Polish>Czapka Imperialnej Armii (Okulary Ochronne)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_isb_helmet">
             <English>Imperial Kepi (Goggles, ISB)</English>
-            <French>Képi Impérial (lunettes, BSI)</French>
+            <French>Képi impérial (lunettes, BSI)</French>
             <Polish>Czapka Imperialnej Armii (Okulary Ochronne, ISB)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_goggles_mudtrooper_helmet">
             <English>Imperial Kepi (Goggles, Mudtrooper)</English>
-            <French>Képi Impérial (lunettes, Mudtrooper)</French>
+            <French>Képi impérial (lunettes, Mudtrooper)</French>
             <Polish>Czapka Imperialnej Armii (Okulary Ochronne, Żołnierz Błotny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_helmet">
             <English>Imperial Kepi</English>
-            <French>Képi Impérial</French>
+            <French>Képi impérial</French>
             <Polish>Czapka Imperialnej Armii</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_isb_helmet">
             <English>Imperial Kepi (ISB)</English>
-            <French>Képi Impérial (BSI)</French>
+            <French>Képi impérial (BSI)</French>
             <Polish>Czapka Imperialnej Armii (ISB)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_kepi_mudtrooper_helmet">
             <English>Imperial Kepi (Mudtrooper)</English>
-            <French>Képi Impérial (Mudtrooper)</French>
+            <French>Képi impérial (Mudtrooper)</French>
             <Polish>Czapka Imperialnej Armii (Żołnierz Błotny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather">
             <English>Imperial Rebreather</English>
-            <French>Recycleur Impérial</French>
+            <French>Recycleur impérial</French>
             <Polish>Imperialny Aparat Oddechowy</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_black">
             <English>Imperial Rebreather (Black)</English>
-            <French>Recycleur Impérial (noir)</French>
+            <French>Recycleur impérial (noir)</French>
             <Polish>Imperialny Aparat Oddechowy (Czarny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_isb">
             <English>Imperial Rebreather (ISB)</English>
-            <French>Recycleur Impérial (BSI)</French>
+            <French>Recycleur impérial (BSI)</French>
             <Polish>Imperialny Aparat Oddechowy (ISB)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_rebreather_mudtrooper">
             <English>Imperial Rebreather (Mudtrooper)</English>
-            <French>Recycleur Impérial (Mudtrooper)</French>
+            <French>Recycleur impérial (Mudtrooper)</French>
             <Polish>Imperialny Aparat Oddechowy (Żołnierz Błotny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_satchel">
@@ -576,7 +576,7 @@
         </Key>
         <Key ID="STR_ls_characters_imperial_shoulderPouch">
             <English>Imperial Shoulder Pouch</English>
-            <French>Poches d'épaule Impériales</French>
+            <French>Poches d'épaule impériales</French>
             <Polish>Imperialna Kieszeń Naramienna</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_stormtrooper_pauldron_captain">
