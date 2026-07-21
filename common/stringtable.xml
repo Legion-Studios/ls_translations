@@ -41,6 +41,9 @@
             <Turkish>Onayla</Turkish>
             <Ukrainian>Підтвердити</Ukrainian>
         </Key>
+        <Key ID="STR_ls_common_couldntFit">
+            <English>Could not fit items into container, check nearby on the ground</English>
+        </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
             <English>Disabled</English>
@@ -246,6 +249,9 @@
         <Key ID="STR_ls_common_finishedRefueling">
             <English>Finished refueling</English>
             <French>Ravitaillement en carburant terminé</French>
+        </Key>
+        <Key ID="STR_ls_common_invalidValue">
+            <English>Invalid value</English>
         </Key>
         <Key ID="STR_ls_common_invalidValue">
             <English>Invalid value</English>
