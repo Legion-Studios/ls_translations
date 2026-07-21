@@ -51,7 +51,7 @@
         </Key>
         <Key ID="STR_ls_vehicles_customHUDColor_name">
             <English>Custom Hud Color</English>
-            <French> Couleur personnalisée du HUD</French>
+            <French>Couleur personnalisée du HUD</French>
         </Key>
         <Key ID="STR_ls_vehicles_disableAutoVectoring_description">
             <English>If enabled, auto-vectoring will be automatically disabled when entering a vehicle.</English>

@@ -38,7 +38,7 @@
         </Key>
         <Key ID="STR_ls_props_resupply_cis_droid">
             <English>CIS Droid Resupply</English>
-            <French>Ravitaillement CSI Droïde </French>
+            <French>Ravitaillement CSI Droïde</French>
         </Key>
         <Key ID="STR_ls_props_resupply_cis_e60r">
             <English>CIS E60-R Resupply</English>
@@ -54,19 +54,19 @@
         </Key>
         <Key ID="STR_ls_props_resupply_republic_assault">
             <English>Republic Assault Resupply</English>
-            <French>Ravitaillement républicain d'assaut </French>
+            <French>Ravitaillement républicain d'assaut</French>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_commando">
             <English>Republic Commando Resupply</English>
-            <French>Ravitaillement républicain Commando </French>
+            <French>Ravitaillement républicain Commando</French>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_dc15a">
             <English>Republic DC-15A Resupply</English>
-            <French>Ravitaillement républicain DC-15A </French>
+            <French>Ravitaillement républicain DC-15A</French>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_dc15s">
             <English>Republic DC-15S Resupply</English>
-            <French>Ravitaillement républicain DC-15S </French>
+            <French>Ravitaillement républicain DC-15S</French>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_general">
             <English>Republic Resupply</English>
@@ -74,19 +74,19 @@
         </Key>
         <Key ID="STR_ls_props_resupply_republic_grenade">
             <English>Republic Grenade Resupply</English>
-            <French>Ravitaillement républicain grenade </French>
+            <French>Ravitaillement républicain grenade</French>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_plx1">
             <English>Republic PLX-1 Resupply</English>
-            <French>Ravitaillement républicain PLX-1 </French>
+            <French>Ravitaillement républicain PLX-1</French>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_rocket">
             <English>Republic Rocket Resupply</English>
-            <French>Ravitaillement républicain roquette </French>
+            <French>Ravitaillement républicain roquette</French>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_rps6">
             <English>Republic RPS-6 Resupply</English>
-            <French>Ravitaillement républicain RPS-6 </French>
+            <French>Ravitaillement républicain RPS-6</French>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_specOps">
             <English>Republic Special Operations Resupply</English>
@@ -94,7 +94,7 @@
         </Key>
         <Key ID="STR_ls_props_resupply_republic_z6">
             <English>Republic Z-6 Resupply</English>
-            <French>Ravitaillement républicain Z-6 </French>
+            <French>Ravitaillement républicain Z-6</French>
         </Key>
         <Key ID="STR_ls_props_terminal">
             <English>Terminal</English>
