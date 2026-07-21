@@ -3,12 +3,15 @@
     <Package name="vehicles_turretdroid">
         <Key ID="STR_ls_vehicles_turretdroid_displayName">
             <English>Turret-droid</English>
+            <French>Tourelle droïde</French>
         </Key>
         <Key ID="STR_ls_vehicles_turretdroid_packed_description">
             <English>A deployable Turret-droid</English>
+            <French>Une tourelle droïde déployable.</French>
         </Key>
         <Key ID="STR_ls_vehicles_turretdroid_packed_displayName">
             <English>Turret-droid (Packed)</English>
+            <French>Tourelle droïde (Empaqueté)</French>
         </Key>
     </Package>
 </Project>
