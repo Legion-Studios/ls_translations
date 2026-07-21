@@ -38,13 +38,17 @@
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
             <English>Select what group will be spawned by the droid dispenser when it activates</English>
-            <French>Sélectinonez quel groupe sera créé par le distributeur de droïdes lors son activation</French>
+            <French>Sélectionnez quel groupe sera créé par le distributeur de droïdes lors de son activation</French>
             <Polish>Wybierz jaka grupa zostanie utworzona przez zasobnik droidów w momencie jego uruchomienia</Polish>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_noGroup">
             <English>No group selected!</English>
             <French>Groupe non sélectionné</French>
             <Polish>Nie wybrano grupy!</Polish>
+        </Key>
+        <Key ID="STR_ls_modules_dispenser_description">
+            <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
+            <French>Lorsqu'il est activé par un déclencheur, fait apparaître un distributeur de droïdes qui tombe du ciel. Les unités commenceront à être déployées après que le distributeur aura touché le sol et qu'un court délai se sera écoulé.&lt;br/&gt;L'impact du distributeur au sol inflige des dégâts.</French>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
@@ -68,11 +72,16 @@
         </Key>
         <Key ID="STR_ls_modules_moduleBreachDoor">
             <English>Breach Door</English>
+            <Polish>Wyważ Drzwi</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleDeleteGroups">
             <English>Delete Empty Groups</English>
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
+        </Key>
+        <Key ID="STR_ls_modules_moduleSetSkills">
+            <English>Set Skills</English>
+            <Polish>Ustaw Umiejętności</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo">
             <English>Toggle Active Camo</English>
@@ -83,15 +92,6 @@
             <English>No closed door found!</English>
             <French>Aucune porte fermée trouvée</French>
             <Polish>Nie znaleziono zamkniętych drzwi!</Polish>
-        </Key>
-        <Key ID="STR_ls_modules_noDoorFound">
-            <English>No door found!</English>
-            <French>Aucune porte trouvée</French>
-            <Polish>Nie znaleziono drzwi!</Polish>
-        </Key>
-        <Key ID="STR_ls_modules_noOpenDoorFound">
-            <English>No open door found!</English>
-            <French>Aucune porte ouverte trouvée</French>
         </Key>
         <Key ID="STR_ls_modules_noPlayer">
             <English>Unit must not be a player</English>
@@ -134,6 +134,10 @@
             <Turkish>Birliğin yaşaması gerekiyor</Turkish>
             <Hungarian>Csak élő egységeken használni</Hungarian>
         </Key>
+        <Key ID="STR_ls_modules_onlyConscious">
+            <English>Unit must be conscious</English>
+            <French>L'unité doit être consciente.</French>
+        </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1605-L1620 -->
         <Key ID="STR_ls_modules_onlyInfantry">
             <English>Unit must be infantry</English>
@@ -158,13 +162,17 @@
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
-            <French>Limite de d'apparition</French>
+            <French>Limite d'apparition</French>
             <Polish>Limit Jednostek</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_tooltip">
             <English>Stops after spawning X units.\n-1 = unlimited</English>
             <French>Arrête de créer après X unités.\n-1 = illimité</French>
             <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
+        </Key>
+        <Key ID="STR_ls_modules_updatedSkills">
+            <English>Updated skills for %1</English>
+            <Polish>Zaktualizowano umiejętności dla %1</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
@@ -218,7 +226,7 @@
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeCount_tooltip">
             <English>The number of debris objects to spawn</English>
-            <French>Le nombre de objets de débris à créer</French>
+            <French>Le nombre d'objets de débris à créer</French>
             <Polish>Ilość szczątków do rozmieszczenia</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_name">
@@ -231,26 +239,6 @@
             <French>Ne pas modifier directement !\nContient les données de position et de rotation</French>
             <Polish>Nie edytuj bezpośrednio!\nZawiera informacje o pozycji i obrocie odłamków</Polish>
         </Key>
-        <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_name">
-            <English>Drift Direction</English>
-            <French>Direction de dérive</French>
-            <Polish>Kierunek Dryftu</Polish>
-        </Key>
-        <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_tooltip">
-            <English>Specifies the direction for the objects to drift in</English>
-            <French>Spécifie la direction dans laquelle les objets dérivent</French>
-            <Polish>Określa kierunek w którym dryftują objekty</Polish>
-        </Key>
-        <Key ID="STR_lsb_modules_spaceDebris_AttributeDrifting_name">
-            <English>Drifting</English>
-            <French>Dérive</French>
-            <Polish>Dryft</Polish>
-        </Key>
-        <Key ID="STR_lsb_modules_spaceDebris_AttributeDrifting_tooltip">
-            <English>If enabled, spawned objects will slowly drift in a specified direction</English>
-            <French>Si activé, les objets créés dériveront lentement dans une direction spécifiée</French>
-            <Polish>Jeśli włączono to rozmieszczone objekty będą powoli przemieszczały się w określonym kierunku</Polish>
-        </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeParamsOld_name">
             <English>Space Debris Parameters</English>
             <French>Paramètres de Débris Spatiaux</French>
@@ -258,7 +246,7 @@
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_description">
             <English>Spawns a number of space debris objects floating in a random area around the module. The objects are created locally on each player's machine.</English>
-            <French>Créer un nombre de débris spatiaux flottants dans un zone aléatoire autour le module. Les objets sont créés sur chaque machine de joueur.</French>
+            <French>Créer un nombre de débris spatiaux flottants dans une zone aléatoire autour du module. Les objets sont créés sur chaque machine de chaque joueur.</French>
             <Polish>Rozmieszcza określoną liczbę Szczątków wiszących w losowych pozycjach dookoła modułu. Obiekty są lokalne na maszynach graczy.</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_name">
