@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="modules">
-        <Key ID="STR_ls_modules_DroidDispenser_description">
-            <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
-        </Key>
         <Key ID="STR_ls_modules_activeCamo_cannotActivate">
             <English>Object cannot activate active camo</English>
             <French>L'objet ne peut pas activer le camouflage actif</French>
@@ -49,6 +46,9 @@
             <French>Groupe non sélectionné</French>
             <Polish>Nie wybrano grupy!</Polish>
         </Key>
+        <Key ID="STR_ls_modules_dispenser_description">
+            <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
+        </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
             <French>Serrure de Porte</French>
@@ -91,16 +91,6 @@
             <English>No closed door found!</English>
             <French>Aucune porte fermée trouvée</French>
             <Polish>Nie znaleziono zamkniętych drzwi!</Polish>
-        </Key>
-        <Key ID="STR_ls_modules_noDoorFound">
-            <English>No door found!</English>
-            <French>Aucune porte trouvée</French>
-            <Polish>Nie znaleziono drzwi!</Polish>
-        </Key>
-        <Key ID="STR_ls_modules_noOpenDoorFound">
-            <English>No open door found!</English>
-            <French>Aucune porte ouverte trouvée</French>
-            <Polish>Nie znaleziono otwartych drzwi!</Polish>
         </Key>
         <Key ID="STR_ls_modules_noPlayer">
             <English>Unit must not be a player</English>
@@ -246,26 +236,6 @@
             <English>Do not edit directly!\nContains position and rotation data</English>
             <French>Ne pas modifier directement !\nContient les données de position et de rotation</French>
             <Polish>Nie edytuj bezpośrednio!\nZawiera informacje o pozycji i obrocie odłamków</Polish>
-        </Key>
-        <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_name">
-            <English>Drift Direction</English>
-            <French>Direction de dérive</French>
-            <Polish>Kierunek Dryftu</Polish>
-        </Key>
-        <Key ID="STR_lsb_modules_spaceDebris_AttributeDriftDirection_tooltip">
-            <English>Specifies the direction for the objects to drift in</English>
-            <French>Spécifie la direction dans laquelle les objets dérivent</French>
-            <Polish>Określa kierunek w którym dryftują objekty</Polish>
-        </Key>
-        <Key ID="STR_lsb_modules_spaceDebris_AttributeDrifting_name">
-            <English>Drifting</English>
-            <French>Dérive</French>
-            <Polish>Dryft</Polish>
-        </Key>
-        <Key ID="STR_lsb_modules_spaceDebris_AttributeDrifting_tooltip">
-            <English>If enabled, spawned objects will slowly drift in a specified direction</English>
-            <French>Si activé, les objets créés dériveront lentement dans une direction spécifiée</French>
-            <Polish>Jeśli włączono to rozmieszczone objekty będą powoli przemieszczały się w określonym kierunku</Polish>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeParamsOld_name">
             <English>Space Debris Parameters</English>

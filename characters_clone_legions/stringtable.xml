@@ -319,10 +319,5 @@
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxYover">
             <English>Clone Commando (Yayax [Yover])</English>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_garLegions">
-            <English>Grand Army of the Republic Legions</English>
-            <French>Légions de la Grande Armée de la République</French>
-            <Polish>Legiony Wielkiej Armii Republiki</Polish>
-        </Key>
     </Package>
 </Project>

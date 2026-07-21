@@ -188,6 +188,16 @@
         <Key ID="STR_ls_characters_droid_b1_marine_uniform">
             <English>B1 Droid Chassis (Marine)</English>
         </Key>
+        <Key ID="STR_ls_characters_droid_b1_marksman">
+            <English>B1 Battle Droid (Sniper)</English>
+            <French>Droïde de combat B1 (tireur d'élite)</French>
+            <Polish>Droid Bojowy B1 (Snajper)</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_pilot">
+            <English>OOM-Series Pilot Droid</English>
+            <French>Droïde pilote série-OOM</French>
+            <Polish>Droid Pilot Serii OOM</Polish>
+        </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot_backpack">
             <English>B1 Comlink Booster (Pilot)</English>
         </Key>
@@ -199,11 +209,6 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot_uniform">
             <English>B1 Droid Chassis (Pilot)</English>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_pilot">
-            <English>OOM-Series Pilot Droid</English>
-            <French>Droïde pilote série-OOM</French>
-            <Polish>Droid Pilot Serii OOM</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_saboteur">
             <English>B1 Battle Droid (Saboteur)</English>
@@ -269,11 +274,6 @@
             <English>B1 Droid Chassis (Simulation)</English>
             <French>Châssis de droïde de combat B1 (simulation)</French>
             <Polish>Korpus Droida Bojowego B1 (Symulacja)</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_marksman">
-            <English>B1 Battle Droid (Sniper)</English>
-            <French>Droïde de combat B1 (tireur d'élite)</French>
-            <Polish>Droid Bojowy B1 (Snajper)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_backpack">
             <English>B1 Comlink Booster (Training)</English>
