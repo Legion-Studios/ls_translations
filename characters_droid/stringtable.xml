@@ -336,11 +336,6 @@
             <English>B1 Droid Chassis (Security)</English>
             <French>Châssis de droïde B1 (sécurité)</French>
         </Key>
-        <Key ID="STR_ls_characters_droid_b1_sergeant">
-            <English>B1 Battle Droid (Sergeant)</English>
-            <French>Droïde B1 (sergent)</French>
-            <Polish>Droid Bojowego B1 (Sierżant)</Polish>
-        </Key>
         <Key ID="STR_ls_characters_droid_b1_simulation">
             <English>B1 Battle Droid (Simulation)</English>
             <French>Droïde B1 (simulation)</French>
@@ -363,9 +358,10 @@
             <French>Droïde B1 (tireur d'élite)</French>
             <Polish>Droid Bojowy B1 (Snajper)</Polish>
         </Key>
-        <Key ID="STR_ls_characters_droid_b1_squadLead">
-            <English>B1 Battle Droid (Squad Lead)</English>
-            <French>Droïde B1 (chef d'escouade)</French>
+        <Key ID="STR_ls_characters_droid_b1_squadLeader">
+            <English>B1 Battle Droid (Sergeant)</English>
+            <French>Droïde B1 (sergent)</French>
+            <Polish>Droid Bojowego B1 (Sierżant)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_backpack">
             <English>B1 Comlink Booster (Training)</English>
