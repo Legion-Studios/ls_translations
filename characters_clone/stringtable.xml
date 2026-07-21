@@ -59,10 +59,6 @@
             <Polish>Kamizelka Klona ARC</Polish>
             <Russian>Жилет ARC-клона (ВАР)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_arf">
-            <English>Clone ARF Trooper</English>
-            <French>Soldat clone ARF</French>
-        </Key>
         <Key ID="STR_ls_characters_clone_arf_helmet">
             <English>Clone ARF Helmet</English>
             <French>Casque clone ARF</French>
@@ -162,10 +158,6 @@
             <French>Gilet de lieutenant clone</French>
             <Polish>Kamizelka Żołnierza Klona (Porucznik)</Polish>
         </Key>
-        <Key ID="STR_ls_characters_clone_marine">
-            <English>Galactic Marine</English>
-            <French>Marine galactique</French>
-        </Key>
         <Key ID="STR_ls_characters_clone_medic_backpack">
             <English>Clone Medic Backpack</English>
             <French>Sac à dos médical de clone</French>
@@ -227,23 +219,11 @@
             <French>Visière de commandant clone phase 2 (Blanc)</French>
             <Polish>Wizjer Żołnierza Komandora Klona Fazy 2 (Biały)</Polish>
         </Key>
-        <Key ID="STR_ls_characters_clone_phase2_grenadier">
-            <English>Clone Phase 2 Grenadier</English>
-            <French>Grenadier clone phase 2</French>
-        </Key>
         <Key ID="STR_ls_characters_clone_phase2_helmet">
             <English>Clone Phase 2 Helmet</English>
             <French>Casque de clone phase 2</French>
             <Polish>Hełm Klona Fazy 2</Polish>
             <Russian>Шлем клона (2-й фазы)</Russian>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_marksman">
-            <English>Clone Phase 2 Marksman</English>
-            <French>Tireur de précision clone phase 2</French>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_medic">
-            <English>Clone Phase 2 Medic</English>
-            <French>Médecin clone phase 2</French>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
             <English>Clone Pilot Phase 2 Helmet</English>
@@ -255,14 +235,6 @@
             <English>Clone Phase 2 Rangefinder</English>
             <French>Télémètre de clone phase 2</French>
             <Polish>Dalmierz Żołnierza Klona Fazy 2</Polish>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_rifleman">
-            <English>Clone Phase 2 Rifleman</English>
-            <French>Fusilier clone phase 2</French>
-        </Key>
-        <Key ID="STR_ls_characters_clone_phase2_sniper">
-            <English>Clone Phase 2 Sniper</English>
-            <French>Sniper clone phase 2</French>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_uniform">
             <English>Clone Phase 2 Armor</English>

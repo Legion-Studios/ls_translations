@@ -5,7 +5,7 @@
             <English>6.5 mw 250Rnd Energy Cell (Blue)</English>
             <French>Cellule d'énergie 6,5 mW 250 charges (Bleue)</French>
         </Key>
-        <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_decriptionShort">
+        <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw &lt;br/&gt;Rounds: 250 &lt;br/&gt;Used in: Vehicles</English>
             <French>Calibre : 6.5x39 mW &lt;br/&gt;Charges: 250 &lt;br/&gt;Utilisé sur: Véhicules</French>
         </Key>
@@ -25,7 +25,7 @@
             <English>6.5 mw 500Rnd Energy Cell (Blue)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Bleue)</French>
         </Key>
-        <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_decriptionShort">
+        <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw &lt;br/&gt;Rounds: 500 &lt;br/&gt;Used in: Vehicles</English>
             <French>Calibre : 6.5x39 mW &lt;br/&gt;Charges: 500 &lt;br/&gt;Utilisé sur: Véhicules</French>
         </Key>
@@ -65,6 +65,9 @@
             <!-- Potentially rename? -->
             <English>Light Repeating Blaster</English>
             <French>Blaster léger à répétition</French>
+        </Key>
+        <Key ID="STR_ls_vehicles_showHatchback">
+            <English>Show hatchback</English>
         </Key>
         <Key ID="STR_ls_vehicles_turretDroid_lifeTime_description">
             <English>How long the Turret-droid will last before being destroyed. Only affects hand-deployed Turret-droids. 0 = Infinite</English>
