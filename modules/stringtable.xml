@@ -81,6 +81,7 @@
         </Key>
         <Key ID="STR_ls_modules_moduleSetSkills">
             <English>Set Skills</English>
+            <French>Définir les compétences</French>
             <Polish>Ustaw Umiejętności</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo">
@@ -172,6 +173,7 @@
         </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
+            <French>Compétences actualisées pour %1</French>
             <Polish>Zaktualizowano umiejętności dla %1</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">

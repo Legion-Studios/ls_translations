@@ -22,6 +22,7 @@
         </Key>
         <Key ID="STR_ls_common_cancelled">
             <English>Cancelled</English>
+            <French>Annulé</French>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L568-L584 -->
         <Key ID="STR_ls_common_confirm">
@@ -125,6 +126,7 @@
         </Key>
         <Key ID="STR_ls_common_edsubcat_staticShipParts">
             <English>Static Ship Parts</English>
+            <French>Pièces de vaisseaux statiques</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_tibanna">
             <English>Tibanna Platforms</English>
@@ -254,6 +256,7 @@
         </Key>
         <Key ID="STR_ls_common_pickUp">
             <English>Pick up</English>
+            <French>Ramasser</French>
         </Key>
         <Key ID="STR_ls_common_placeItem">
             <English>Place item</English>
