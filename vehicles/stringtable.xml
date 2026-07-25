@@ -68,6 +68,7 @@
         </Key>
         <Key ID="STR_ls_vehicles_showHatchback">
             <English>Show hatchback</English>
+            <French>Afficher hayon</French>
         </Key>
         <Key ID="STR_ls_vehicles_turretDroid_lifeTime_description">
             <English>How long the Turret-droid will last before being destroyed. Only affects hand-deployed Turret-droids. 0 = Infinite</English>

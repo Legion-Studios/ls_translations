@@ -3,6 +3,7 @@
     <Package name="vehicles_v35">
         <Key ID="STR_ls_vehicles_v35_courier_displayName">
             <English>V-35 Courier</English>
+            <French>V-35 Courrier</French>
         </Key>
     </Package>
 </Project>
