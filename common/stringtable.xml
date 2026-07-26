@@ -25,11 +25,7 @@
         </Key>
         <Key ID="STR_ls_common_cancelled">
             <English>Cancelled</English>
-        </Key>
-        <Key ID="STR_ls_common_cis">
-            <English>Confederacy of Independent Systems</English>
-            <French>Confédération des Systèmes Indépendants</French>
-            <Polish>Konfederacja Niezależnych Systemów</Polish>
+            <French>Annulé</French>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L568-L584 -->
         <Key ID="STR_ls_common_confirm">
@@ -48,11 +44,6 @@
             <Chinesesimp>确认</Chinesesimp>
             <Turkish>Onayla</Turkish>
             <Ukrainian>Підтвердити</Ukrainian>
-        </Key>
-        <Key ID="STR_ls_common_csf">
-            <English>Coruscant Security Force</English>
-            <French>Forces de Sécurité de Coruscant</French>
-            <Polish>Siły Bezpieczeństwa Coruscant</Polish>
         </Key>
         <Key ID="STR_ls_common_deactivateShield">
             <English>Deactivate shield</English>
@@ -77,99 +68,87 @@
         </Key>
         <Key ID="STR_ls_common_edsubcat_chissAscendency">
             <English>Chiss Ascendency</English>
+            <French>Ascendance Chiss</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p1">
             <English>Clone Trooper (Phase 1)</English>
+            <French>Soldat clone (Phase 1)</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p2">
             <English>Clone Trooper (Phase 2)</English>
+            <French>Soldat clone (Phase 2)</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_droids">
             <English>Droids</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_electronics">
-            <English>Electronics</English>
+            <French>Droïdes</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_fob">
             <English>FOB Components</English>
+            <French>Composants de FOB</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_hallways">
             <English>Hallways</English>
+            <French>Couloirs</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_items">
             <English>Items</English>
+            <French>Objets</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_itemsSmall">
             <English>Items - Small</English>
+            <French>Objets - Petits</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_mirialan">
             <English>Mirialan</English>
+            <French>Mirialan</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_nationalists">
             <English>Nationalists</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_planes">
-            <English>Planes</English>
+            <French>Nationalistes</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_randomSpecies">
             <English>Random Species</English>
+            <French>Espèces aléatoires</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_repulsorliftArmor">
             <English>Repulsorlift Armor</English>
+            <French>Blindé à répulsion</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_resupply">
             <English>Resupply</English>
+            <French>Ravitaillement</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_screenshotSupport">
             <English>Screenshot Support</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_shipParts">
-            <English>Ship Parts</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_ships">
-            <English>Ships</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_special">
-            <English>Special</English>
+            <French>Support de capture d'écran</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_specialOperations">
             <English>Special Operations</English>
+            <French>Opérations spéciales</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_speeders">
             <English>Speeders</English>
+            <French>Speeders</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_staticShipParts">
-            <English>Ship Parts</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_staticShips">
-            <English>Ships</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_structures">
-            <English>Structures</English>
+            <English>Static Ship Parts</English>
+            <French>Pièces de vaisseaux statiques</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_tibanna">
             <English>Tibanna Platforms</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_units">
-            <English>Units</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_vehicles">
-            <English>Vehicles</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_weapons">
-            <English>Weapons</English>
-        </Key>
-        <Key ID="STR_ls_common_edsubcat_wrecks">
-            <English>Wrecks</English>
+            <French>Plateformes de Tibanna</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zabrak">
             <English>Zabrak</English>
+            <French>Zabrak</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zelosian">
             <English>Zelosian</English>
+            <French>Zélosien</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zeltron">
             <English>Zeltron</English>
+            <French>Zeltron</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L787-L803 -->
         <Key ID="STR_ls_common_enabled">
@@ -189,99 +168,109 @@
             <Turkish>Etkin</Turkish>
             <Ukrainian>Увімкнено</Ukrainian>
         </Key>
+        <Key ID="STR_ls_common_faction_cis">
+            <English>[LS] Confederacy of Independent Systems</English>
+            <French>[LS] Confédération des Systèmes Indépendants</French>
+            <Polish>[LS] Konfederacja Niezależnych Systemów</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_civilians">
+            <English>[LS] Civilians</English>
+            <Czech>[LS] Civilisté</Czech>
+            <Spanish>[LS] Civiles</Spanish>
+            <Italian>[LS] Civili</Italian>
+            <Polish>[LS] Cywile</Polish>
+            <Russian>[LS] Гражданские</Russian>
+            <German>[LS] Zivilisten</German>
+        </Key>
+        <Key ID="STR_ls_common_faction_csf">
+            <English>[LS] Coruscant Security Force</English>
+            <French>[LS] Forces de Sécurité de Coruscant</French>
+            <Polish>[LS] Siły Bezpieczeństwa Coruscant</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_galacticEmpire">
+            <English>[LS] Galactic Empire</English>
+            <French>[LS] Empire Galactique</French>
+            <Polish>[LS] Imperium Galaktyczne</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_gar">
+            <English>[LS] Grand Army of the Republic</English>
+            <French>[LS] Grande Armée de la République</French>
+            <Polish>[LS] Wielka Armia Republiki</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_garLegions">
+            <English>[LS] Grand Army of the Republic Legions</English>
+            <French>[LS] Légions de la Grande Armée de la République</French>
+            <Polish>[LS] Legiony Wielkiej Armii Republiki</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_jabiim">
+            <English>[LS] Jabiim</English>
+            <French>[LS] Jabiim</French>
+            <Polish>[LS] Jabiim</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_jediOrder">
+            <English>[LS] Jedi Order</English>
+            <French>[LS] Ordre des Jedis</French>
+            <Polish>[LS] Zakon Jedi</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_mandalorians">
+            <English>[LS] Mandalorians</English>
+            <French>[LS] Mandaloriens</French>
+            <Polish>[LS] Mandalorianie</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_memefor">
+            <English>[LS] Memefor</English>
+            <French>[LS] Memefor</French>
+            <Polish>[LS] Memefor</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_mercenaries">
+            <English>[LS] Mercenaries</English>
+            <French>[LS] Mercenaires</French>
+            <Polish>[LS] Najemnicy</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_newRepublic">
+            <English>[LS] New Republic</English>
+            <French>[LS] Nouvelle République</French>
+            <Polish>[LS] Nowa Republika</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_orsf">
+            <English>[LS] Outland Regions Security Forces</English>
+            <French>[LS] Forces de Sécurité des Régions Extérieures</French>
+            <Polish>[LS] Siły Obrone Regionów Zewnętrznych</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_pirates">
+            <English>[LS] Pirates</English>
+            <French>[LS] Pirates</French>
+            <Polish>[LS] Piraci</Polish>
+        </Key>
+        <Key ID="STR_ls_common_faction_rebelAlliance">
+            <English>[LS] Rebel Alliance</English>
+            <French>[LS] Alliance Rebelle</French>
+            <Polish>[LS] Rebelianci</Polish>
+        </Key>
         <Key ID="STR_ls_common_finishedCollectingFuel">
             <English>Finished collecting fuel</English>
+            <French>Récupération de carburant terminée</French>
         </Key>
         <Key ID="STR_ls_common_finishedRefueling">
             <English>Finished refueling</English>
-        </Key>
-        <Key ID="STR_ls_common_galacticEmpire">
-            <English>Galactic Empire</English>
-            <French>Empire Galactique</French>
-            <Polish>Imperium Galaktyczne</Polish>
-        </Key>
-        <Key ID="STR_ls_common_gar">
-            <English>Grand Army of the Republic</English>
-            <French>Grande Armée de la République</French>
-            <Polish>Wielka Armia Republiki</Polish>
+            <French>Ravitaillement en carburant terminé</French>
         </Key>
         <Key ID="STR_ls_common_invalidValue">
             <English>Invalid value</English>
-            <French>Valeur Invalide</French>
+            <French>Valeur invalide</French>
             <Polish>Nieprawidłowa Wartość</Polish>
-        </Key>
-        <Key ID="STR_ls_common_jabiim">
-            <English>Jabiim</English>
-            <French>Jabiim</French>
-            <Polish>Jabiim</Polish>
-        </Key>
-        <Key ID="STR_ls_common_jediOrder">
-            <English>Jedi Order</English>
-            <French>Ordre des Jedis</French>
-            <Polish>Zakon Jedi</Polish>
-        </Key>
-        <Key ID="STR_ls_common_mandalorians">
-            <English>Mandalorians</English>
-            <French>Mandaloriens</French>
-            <Polish>Mandalorianie</Polish>
-        </Key>
-        <Key ID="STR_ls_common_memefor">
-            <English>Memefor</English>
-            <French>Memefor</French>
-            <Polish>Memefor</Polish>
-        </Key>
-        <Key ID="STR_ls_common_mercenaries">
-            <English>Mercenaries</English>
-            <French>Mercenaires</French>
-            <Polish>Najemnicy</Polish>
-        </Key>
-        <Key ID="STR_ls_common_newRepublic">
-            <English>New Republic</English>
-            <French>Nouvelle République</French>
-            <Polish>Nowa Republika</Polish>
-        </Key>
-        <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
-        <Key ID="STR_ls_common_no">
-            <English>No</English>
-            <Czech>Ne</Czech>
-            <French>Non</French>
-            <Spanish>No</Spanish>
-            <Italian>No</Italian>
-            <Polish>Nie</Polish>
-            <Portuguese>Não</Portuguese>
-            <Russian>Нет</Russian>
-            <German>Nein</German>
-            <Korean>아니오</Korean>
-            <Japanese>いいえ</Japanese>
-            <Chinese>否</Chinese>
-            <Chinesesimp>否</Chinesesimp>
-            <Turkish>Hayır</Turkish>
-            <Hungarian>Nem</Hungarian>
-            <Ukrainian>Ні</Ukrainian>
-        </Key>
-        <Key ID="STR_ls_common_orsf">
-            <English>Outland Regions Security Forces</English>
-            <French>Forces de Sécurité des Régions Extérieures</French>
-            <Polish>Siły Obrone Regionów Zewnętrznych</Polish>
         </Key>
         <Key ID="STR_ls_common_pickUp">
             <English>Pick up</English>
-        </Key>
-        <Key ID="STR_ls_common_pirates">
-            <English>Pirates</English>
-            <French>Pirates</French>
-            <Polish>Piraci</Polish>
+            <French>Ramasser</French>
         </Key>
         <Key ID="STR_ls_common_placeItem">
             <English>Place item</English>
+            <French>Placer l'objet</French>
         </Key>
         <Key ID="STR_ls_common_placingProgress">
             <English>Placing %1...</English>
-        </Key>
-        <Key ID="STR_ls_common_rebelAlliance">
-            <English>Rebel Alliance</English>
-            <French>Alliance Rebelle</French>
-            <Polish>Rebelianci</Polish>
+            <French>Placement de %1...</French>
         </Key>
         <Key ID="STR_ls_common_recievedTreatment">
             <English>You have been fully healed</English>
@@ -295,6 +284,7 @@
         </Key>
         <Key ID="STR_ls_common_refueling">
             <English>Refueling...</English>
+            <French>Ravitaillement...</French>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
@@ -317,6 +307,7 @@
         </Key>
         <Key ID="STR_ls_common_selectAreaToMap">
             <English>Select an area to map.</English>
+            <French>Sélectionner une zone à cartographier.</French>
         </Key>
         <Key ID="STR_ls_common_skill_advanced">
             <English>Advanced</English>
@@ -350,7 +341,7 @@
         </Key>
         <Key ID="STR_ls_common_skill_tech_name">
             <English>Tech Specialist</English>
-            <French>Spécialiste Technique</French>
+            <French>Spécialiste technique</French>
             <Polish>Specjalista</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_tech_tooltip">
@@ -365,27 +356,8 @@
         </Key>
         <Key ID="STR_ls_common_skill_untrained">
             <English>Untrained</English>
-            <French>Non formé</French>
+            <French>Non entraîné</French>
             <Polish>Bez treningu</Polish>
-        </Key>
-        <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
-        <Key ID="STR_ls_common_yes">
-            <English>Yes</English>
-            <Czech>Ano</Czech>
-            <French>Oui</French>
-            <Spanish>Si</Spanish>
-            <Italian>Si</Italian>
-            <Polish>Tak</Polish>
-            <Portuguese>Sim</Portuguese>
-            <Russian>Да</Russian>
-            <German>Ja</German>
-            <Korean>예</Korean>
-            <Japanese>はい</Japanese>
-            <Chinese>是</Chinese>
-            <Chinesesimp>是</Chinesesimp>
-            <Turkish>Evet</Turkish>
-            <Hungarian>Igen</Hungarian>
-            <Ukrainian>Так</Ukrainian>
         </Key>
     </Package>
 </Project>

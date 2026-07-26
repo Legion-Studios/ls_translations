@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="identities">
+        <Key ID="STR_ls_identities_activeCamoFace">
+            <English>Active Camoflauge</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male1_blue">
+            <English>Chiss Male 1 (Blue)</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male1_ice">
+            <English>Chiss Male 1 (Ice)</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male1_purple">
+            <English>Chiss Male 1 (Purple)</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male2_blue">
+            <English>Chiss Male 2 (Blue)</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male2_ice">
+            <English>Chiss Male 2 (Ice)</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male2_purple">
+            <English>Chiss Male 2 (Purple)</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male3_blue">
+            <English>Chiss Male 3 (Blue)</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male3_ice">
+            <English>Chiss Male 3 (Ice)</English>
+        </Key>
+        <Key ID="STR_ls_identities_chiss_male3_purple">
+            <English>Chiss Male 3 (Purple)</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneCommunity_lance">
+            <English>Clone Purge Trooper - Lance</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneCommunity_painmace">
+            <English>Clone Purge Trooper - Painmace</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneCommunity_vaelin">
+            <English>Clone - Vaelin</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneDeveloper_dutch">
+            <English>Clone Developer - Dutch</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneDeveloper_gambit">
+            <English>Clone Developer - Gambit</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneDeveloper_khaos">
+            <English>Clone Developer - Khaos</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneDeveloper_marco">
+            <English>Clone Developer - Marco</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneDeveloper_n3rf">
+            <English>Clone Developer - All Father N3rf</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneDeveloper_shiv">
+            <English>Clone Developer - Shiv</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneDeveloper_whiplash">
+            <English>Clone Developer - Whiplash</English>
+        </Key>
+        <Key ID="STR_ls_identities_cloneDeveloper_zany">
+            <English>Clone Developer - Zany</English>
+        </Key>
+        <Key ID="STR_ls_identities_clonePurge_a">
+            <English>Clone Purge Trooper A</English>
+        </Key>
+        <Key ID="STR_ls_identities_clone_a">
+            <English>Clone Trooper A</English>
+        </Key>
+        <Key ID="STR_ls_identities_clone_b">
+            <English>Clone Trooper B</English>
+        </Key>
+        <Key ID="STR_ls_identities_clone_c">
+            <English>Clone Trooper C</English>
+        </Key>
+        <Key ID="STR_ls_identities_clone_d">
+            <English>Clone Trooper D</English>
+        </Key>
+        <Key ID="STR_ls_identities_clone_e">
+            <English>Clone Trooper E</English>
+        </Key>
+        <Key ID="STR_ls_identities_clone_f">
+            <English>Clone Trooper F</English>
+        </Key>
+        <Key ID="STR_ls_identities_clone_g">
+            <English>Clone Trooper G</English>
+        </Key>
+        <Key ID="STR_ls_identities_clone_h">
+            <English>Clone Trooper H</English>
+        </Key>
+        <Key ID="STR_ls_identities_hideHead">
+            <English>Hide Head</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male1_green">
+            <English>Mirialan Male 1 (Green)</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male1_sand">
+            <English>Mirialan Male 1 (Sand)</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male1_yellow">
+            <English>Mirialan Male 1 (Yellow)</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male2_green">
+            <English>Mirialan Male 2 (Green)</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male2_sand">
+            <English>Mirialan Male 2 (Sand)</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male2_yellow">
+            <English>Mirialan Male 2 (Yellow)</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male3_green">
+            <English>Mirialan Male 3 (Green)</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male3_sand">
+            <English>Mirialan Male 3 (Sand)</English>
+        </Key>
+        <Key ID="STR_ls_identities_mirialan_male3_yellow">
+            <English>Mirialan Male 3 (Yellow)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t0_base">
+            <English>Zabrak Male Base 1 (Tattoo 0)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t0_orange">
+            <English>Zabrak Male Orange 1 (Tattoo 0)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t0_pale">
+            <English>Zabrak Male Pale 1 (Tattoo 0)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t0_red">
+            <English>Zabrak Male Red 1 (Tattoo 0)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t1_base">
+            <English>Zabrak Male Base 1 (Tattoo 1)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t1_orange">
+            <English>Zabrak Male Orange 1 (Tattoo 1)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t1_pale">
+            <English>Zabrak Male Pale 1 (Tattoo 1)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t1_red">
+            <English>Zabrak Male Red 1 (Tattoo 1)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t2_base">
+            <English>Zabrak Male Base 1 (Tattoo 2)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t2_orange">
+            <English>Zabrak Male Orange 1 (Tattoo 2)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t2_pale">
+            <English>Zabrak Male Pale 1 (Tattoo 2)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t2_red">
+            <English>Zabrak Male Red 1 (Tattoo 2)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t3_base">
+            <English>Zabrak Male Base 1 (Tattoo 3)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t3_orange">
+            <English>Zabrak Male Orange 1 (Tattoo 3)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t3_pale">
+            <English>Zabrak Male Pale 1 (Tattoo 3)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male1t3_red">
+            <English>Zabrak Male Red 1 (Tattoo 3)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t0_base">
+            <English>Zabrak Male Base 2 (Tattoo 0)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t0_orange">
+            <English>Zabrak Male Orange 2 (Tattoo 0)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t0_pale">
+            <English>Zabrak Male Pale 2 (Tattoo 0)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t0_red">
+            <English>Zabrak Male Red 2 (Tattoo 0)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t1_base">
+            <English>Zabrak Male Base 2 (Tattoo 1)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t1_orange">
+            <English>Zabrak Male Orange 2 (Tattoo 1)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t1_pale">
+            <English>Zabrak Male Pale 2 (Tattoo 1)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t1_red">
+            <English>Zabrak Male Red 2 (Tattoo 1)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t2_base">
+            <English>Zabrak Male Base 2 (Tattoo 2)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t2_orange">
+            <English>Zabrak Male Orange 2 (Tattoo 2)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t2_pale">
+            <English>Zabrak Male Pale 2 (Tattoo 2)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t2_red">
+            <English>Zabrak Male Red 2 (Tattoo 2)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t3_base">
+            <English>Zabrak Male Base 2 (Tattoo 3)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t3_orange">
+            <English>Zabrak Male Orange 2 (Tattoo 3)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t3_pale">
+            <English>Zabrak Male Pale 2 (Tattoo 3)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zabrak_male2t3_red">
+            <English>Zabrak Male Red 2 (Tattoo 3)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zelosian_male1">
+            <English>Zelosian Male 1</English>
+        </Key>
+        <Key ID="STR_ls_identities_zelosian_male2">
+            <English>Zelosian Male 2</English>
+        </Key>
+        <Key ID="STR_ls_identities_zelosian_male3">
+            <English>Zelosian Male 3</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male1_crimson">
+            <English>Zeltron Male 1 (Crimson)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male1_pink">
+            <English>Zeltron Male 1 (Pink)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male1_red">
+            <English>Zeltron Male 1 (Red)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male2_crimson">
+            <English>Zeltron Male 2 (Crimson)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male2_pink">
+            <English>Zeltron Male 2 (Pink)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male2_red">
+            <English>Zeltron Male 2 (Red)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male3_crimson">
+            <English>Zeltron Male 3 (Crimson)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male3_pink">
+            <English>Zeltron Male 3 (Pink)</English>
+        </Key>
+        <Key ID="STR_ls_identities_zeltron_male3_red">
+            <English>Zeltron Male 3 (Red)</English>
+        </Key>
+    </Package>
+</Project>
