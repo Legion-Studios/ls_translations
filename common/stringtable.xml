@@ -286,6 +286,9 @@
             <English>Refueling...</English>
             <French>Ravitaillement...</French>
         </Key>
+        <Key ID="STR_ls_common_repairShield">
+            <English>Repair shield</English>
+        </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
             <English>Rotate</English>

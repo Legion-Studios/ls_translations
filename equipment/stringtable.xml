@@ -19,6 +19,12 @@
         <Key ID="STR_ls_equipment_squadShieldHealth_tooltip">
             <English>The max health of the squad shield's shield.</English>
         </Key>
+        <Key ID="STR_ls_equipment_squadShield_broken_displayName">
+            <English>Squad Shield (Broken)</English>
+        </Key>
+        <Key ID="STR_ls_equipment_squadShield_broken_packed_descriptionShort">
+            <English>A broken squad shield, place and repair with a Toolkit</English>
+        </Key>
         <Key ID="STR_ls_equipment_squadShield_displayName">
             <English>Squad Shield</English>
         </Key>
