@@ -13,6 +13,12 @@
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_tooltip">
             <English>If enabled, nvgs can configure a display to show interactive elements when turning on the nvgs.</English>
         </Key>
+        <Key ID="STR_ls_equipment_repairKit_descriptionShort">
+            <English>A light repair kit, capable of repairing simple equipment</English>
+        </Key>
+        <Key ID="STR_ls_equipment_repairKit_displayName">
+            <English>Repair Kit</English>
+        </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_name">
             <English>Squad Shield - Health</English>
         </Key>
