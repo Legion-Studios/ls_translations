@@ -436,6 +436,21 @@
             <French>Châssis de droïde B2</French>
             <Polish>Korpus Droida Bojowego B2</Polish>
         </Key>
+        <Key ID="STR_ls_characters_droid_battledroids">
+            <English>Battledroids</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids_advanced">
+            <English>Battledroids (Advanced)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids_geonosis">
+            <English>Battledroids (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids_oom">
+            <English>OOM-Series Droids</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids_training">
+            <English>Battledroids (Training)</English>
+        </Key>
         <Key ID="STR_ls_characters_droid_bx">
             <English>BX Commando Droid</English>
             <French>Droïde commando BX</French>
