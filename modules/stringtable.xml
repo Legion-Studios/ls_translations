@@ -72,6 +72,7 @@
         </Key>
         <Key ID="STR_ls_modules_moduleBreachDoor">
             <English>Breach Door</English>
+            <French>Forcer la porte</French>
             <Polish>Wyważ Drzwi</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleDeleteGroups">
