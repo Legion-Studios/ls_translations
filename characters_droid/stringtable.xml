@@ -191,6 +191,18 @@
             <English>B1 Droid Chassis (Grenadier)</English>
             <French>Châssis de droïde B1 (grenadier)</French>
         </Key>
+        <Key ID="STR_ls_characters_droid_b1_headlamp">
+            <English>B1 Headlamp</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_headlamp_geonosis">
+            <English>B1 Headlamp (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_headlamp_saboteur">
+            <English>B1 Headlamp (Saboteur)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_headlamp_training">
+            <English>B1 Headlamp (Training)</English>
+        </Key>
         <Key ID="STR_ls_characters_droid_b1_heavy">
             <English>B1 Battle Droid (Supper Gunner)</English>
             <French>Droïde B1 (tireur lourd)</French>
@@ -243,6 +255,15 @@
             <French>Châssis de droïde B1 (hologramme)</French>
             <Polish>Korpus Droida Bojowego B1 (Hologram)</Polish>
         </Key>
+        <Key ID="STR_ls_characters_droid_b1_jetpack_backpack">
+            <English>B1 Jetpack</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_jetpack_geonosis_backpack">
+            <English>B1 Jetpack (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_jetpack_saboteur_backpack">
+            <English>B1 Jetpack (Saboteur)</English>
+        </Key>
         <Key ID="STR_ls_characters_droid_b1_marine">
             <English>B1 Battle Droid (Marine)</English>
             <French>Droïde B1 (marine)</French>
@@ -259,6 +280,12 @@
             <English>B1 Battle Droid (Sniper)</English>
             <French>Droïde de combat B1 (tireur d'élite)</French>
             <Polish>Droid Bojowy B1 (Snajper)</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_pauldrons_electrostaff_vest">
+            <English>B1 Pauldrons (Electrostaff)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_pauldrons_vest">
+            <English>B1 Pauldrons</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot">
             <English>OOM-Series Pilot Droid</English>
@@ -398,6 +425,9 @@
             <English>B2 Droid Chassis (Hologram)</English>
             <French>Châssis de droïde B2 (hologramme)</French>
             <Polish>Korpus Droida Bojowego B2 (Hologram)</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b2_jetpack">
+            <English>B2-RP Jetpack</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_junkyard">
             <English>B2 Battle Droid (Junkyard)</English>
