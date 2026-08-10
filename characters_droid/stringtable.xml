@@ -188,7 +188,7 @@
             <French>Tête de droïde B1 (grenadier)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_nvg">
-            <English>MNC-LG</English>
+            <English>B1 MNC-LG</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_uniform">
             <English>B1 Droid Chassis (Grenadier)</English>
@@ -392,10 +392,10 @@
             <Polish>Droid Bojowy B1 (Snajper)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_sniper_nvg">
-            <English>1C-U</English>
+            <English>B1 1C-U</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_sniper_training_nvg">
-            <English>1C-U (Training)</English>
+            <English>B1 1C-U (Training)</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_squadLeader">
             <English>B1 Battle Droid (Sergeant)</English>
@@ -403,13 +403,13 @@
             <Polish>Droid Bojowego B1 (Sierżant)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_tech_geonosis_nvg">
-            <English>MNC-LT (Geonosis)</English>
+            <English>B1 MNC-LT (Geonosis)</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_tech_nvg">
-            <English>MNC-LT</English>
+            <English>B1 MNC-LT</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_tech_nvg_description">
-            <English>Monocular Neuro Combat Lattice</English>
+            <English>B1 Battledroid Monocular Neuro Combat Lattice</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_backpack">
             <English>B1 Comlink Booster (Training)</English>
