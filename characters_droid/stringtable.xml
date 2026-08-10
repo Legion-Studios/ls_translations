@@ -565,5 +565,8 @@
             <French>Système de filtration de droïde</French>
             <Polish>System Filtracyjny Droida</Polish>
         </Key>
+        <Key ID="STR_ls_characters_droid_vest_trenchcoat">
+            <English>Droid Trenchcoat</English>
+        </Key>
     </Package>
 </Project>
