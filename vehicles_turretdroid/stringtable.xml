@@ -9,9 +9,5 @@
             <English>A deployable Turret-droid</English>
             <French>Une tourelle droïde déployable.</French>
         </Key>
-        <Key ID="STR_ls_vehicles_turretdroid_packed_displayName">
-            <English>Turret-droid (Packed)</English>
-            <French>Tourelle droïde (Empaqueté)</French>
-        </Key>
     </Package>
 </Project>

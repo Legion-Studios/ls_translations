@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="common">
+        <Key ID="STR_ls_common_activateShield">
+            <English>Activate shield</English>
+        </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L264-L281 -->
         <Key ID="STR_ls_common_cancel">
             <English>Cancel</English>
@@ -22,6 +25,7 @@
         </Key>
         <Key ID="STR_ls_common_cancelled">
             <English>Cancelled</English>
+            <French>Annulé</French>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L568-L584 -->
         <Key ID="STR_ls_common_confirm">
@@ -40,6 +44,9 @@
             <Chinesesimp>确认</Chinesesimp>
             <Turkish>Onayla</Turkish>
             <Ukrainian>Підтвердити</Ukrainian>
+        </Key>
+        <Key ID="STR_ls_common_deactivateShield">
+            <English>Deactivate shield</English>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
@@ -125,6 +132,7 @@
         </Key>
         <Key ID="STR_ls_common_edsubcat_staticShipParts">
             <English>Static Ship Parts</English>
+            <French>Pièces de vaisseaux statiques</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_tibanna">
             <English>Tibanna Platforms</English>
@@ -171,6 +179,7 @@
         <Key ID="STR_ls_common_faction_civilians">
             <English>[LS] Civilians</English>
             <Czech>[LS] Civilisté</Czech>
+            <French>[LS] Civils</French>
             <Spanish>[LS] Civiles</Spanish>
             <Italian>[LS] Civili</Italian>
             <Polish>[LS] Cywile</Polish>
@@ -257,6 +266,7 @@
         </Key>
         <Key ID="STR_ls_common_pickUp">
             <English>Pick up</English>
+            <French>Ramasser</French>
         </Key>
         <Key ID="STR_ls_common_placeItem">
             <English>Place item</English>
@@ -279,6 +289,9 @@
         <Key ID="STR_ls_common_refueling">
             <English>Refueling...</English>
             <French>Ravitaillement...</French>
+        </Key>
+        <Key ID="STR_ls_common_repairShield">
+            <English>Repair shield</English>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
