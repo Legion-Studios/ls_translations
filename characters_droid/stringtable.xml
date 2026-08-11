@@ -20,6 +20,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_advanced_backpack">
             <English>B1 Antenna Array (Advanced)</English>
+            <French>Réseau d'antennes B1 (avancé)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_backpack">
             <English>B1 Antenna Array</English>
@@ -266,6 +267,17 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_jetpack_saboteur_backpack">
             <English>B1 Jetpack (Saboteur)</English>
+        <Key ID="STR_ls_characters_droid_b1_junkyard">
+            <English>B1 Battle Droid (Junkyard)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_junkyard_backpack">
+            <English>B1 Comlink Booster (Junkyard)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_junkyard_helmet">
+            <English>B1 Droid Head (Junkyard)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_b1_junkyard_uniform">
+            <English>B1 Droid Chassis (Junkyard)</English>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_marine">
             <English>B1 Battle Droid (Marine)</English>
@@ -471,6 +483,21 @@
             <English>B2 Droid Chassis</English>
             <French>Châssis de droïde B2</French>
             <Polish>Korpus Droida Bojowego B2</Polish>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids">
+            <English>Battledroids</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids_advanced">
+            <English>Battledroids (Advanced)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids_geonosis">
+            <English>Battledroids (Geonosis)</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids_oom">
+            <English>OOM-Series Droids</English>
+        </Key>
+        <Key ID="STR_ls_characters_droid_battledroids_training">
+            <English>Battledroids (Training)</English>
         </Key>
         <Key ID="STR_ls_characters_droid_bx">
             <English>BX Commando Droid</English>
