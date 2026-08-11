@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="vehicles_atrt">
+        <Key ID="STR_ls_vehicles_atrt_atrt">
+            <English>AT-RT</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_atrt_uniform">
+            <English>AT-RT Chassis</English>
+        </Key>
+    </Package>
+</Project>

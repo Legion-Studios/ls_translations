@@ -138,6 +138,9 @@
             <English>Tibanna Platforms</English>
             <French>Plateformes de Tibanna</French>
         </Key>
+        <Key ID="STR_ls_common_edsubcat_walkers">
+            <English>Walkers</English>
+        </Key>
         <Key ID="STR_ls_common_edsubcat_zabrak">
             <English>Zabrak</English>
             <French>Zabrak</French>
