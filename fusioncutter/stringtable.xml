@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="fusioncutter">
+        <Key ID="STR_ls_fusioncutter_bf2_displayName">
+            <English>F-B2 Fusion Cutter</English>
+        </Key>
+        <Key ID="STR_ls_fusioncutter_descriptionShort">
+            <English>A versatile tool for slicing, repairing, welding, and cutting.</English>
+        </Key>
+        <Key ID="STR_ls_fusioncutter_f187_displayName">
+            <English>F-187 Fusion Cutter</English>
+        </Key>
+        <Key ID="STR_ls_fusioncutter_magazine_weld_displayName">
+            <English></English>
+        </Key>
+        <Key ID="STR_ls_fusioncutter_magazine_weld_displayNameShort">
+            <English>Welding Mode</English>
+        </Key>
+        <Key ID="STR_ls_fusioncutter_magazine_weld_descriptionShort">
+            <English>F-187 Fusion Cutter</English>
+        </Key>
+    </Package>
+</Project>
