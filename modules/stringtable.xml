@@ -48,6 +48,7 @@
         </Key>
         <Key ID="STR_ls_modules_dispenser_description">
             <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
+            <French>Lorsqu'il est activé par un déclencheur, fait apparaître un distributeur de droïdes qui tombe du ciel. Les unités commenceront à être déployées après que le distributeur aura touché le sol et qu'un court délai se sera écoulé.&lt;br/&gt;L'impact du distributeur au sol inflige des dégâts.</French>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
@@ -71,6 +72,7 @@
         </Key>
         <Key ID="STR_ls_modules_moduleBreachDoor">
             <English>Breach Door</English>
+            <French>Forcer la porte</French>
             <Polish>Wyważ Drzwi</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleDeleteGroups">
@@ -80,6 +82,7 @@
         </Key>
         <Key ID="STR_ls_modules_moduleSetSkills">
             <English>Set Skills</English>
+            <French>Définir les compétences</French>
             <Polish>Ustaw Umiejętności</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo">
@@ -135,6 +138,7 @@
         </Key>
         <Key ID="STR_ls_modules_onlyConscious">
             <English>Unit must be conscious</English>
+            <French>L'unité doit être consciente.</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1605-L1620 -->
         <Key ID="STR_ls_modules_onlyInfantry">
@@ -170,6 +174,7 @@
         </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
+            <French>Compétences actualisées pour %1</French>
             <Polish>Zaktualizowano umiejętności dla %1</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
