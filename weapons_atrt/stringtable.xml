@@ -2,7 +2,13 @@
 <Project name="Legion Studios">
     <Package name="weapons_atrt">
         <Key ID="STR_ls_weapons_atrt_laserCannon_displayName">
-            <English>AT-RT Laser Cannon</English>
+            <English>MAAD-38 Laser Cannon</English>
+        </Key>
+        <Key ID="STR_ls_weapons_atrt_laserCannon_magazine_descriptionShort">
+            <English>Caliber: ???&lt;br /&gt;Rounds: 100&lt;br/&gt;Used in: MAAD-38 Laser Cannon</English>
+        </Key>
+        <Key ID="STR_ls_weapons_atrt_laserCannon_magazine_displayName">
+            <English>MAAD-38 Charge Pack</English>
         </Key>
     </Package>
 </Project>
