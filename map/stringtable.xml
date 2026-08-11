@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="map">
+        <Key ID="STR_ls_map_attributeObjectMarkerEnabled_name">
+            <English>Map - Show Object Marker</English>
+        </Key>
+        <Key ID="STR_ls_map_attributeObjectMarkerEnabled_tooltip">
+            <English>If enabled, shows custom map icons for configured objects. Mostly used for large structures like capital ships</English>
+        </Key>
+        <Key ID="STR_ls_map_attributeObjectMarkerShowName_name">
+            <English>Map - Show Object Name</English>
+        </Key>
+        <Key ID="STR_ls_map_attributeObjectMarkerShowName_tooltip">
+            <English>If enabled, displays the name of the object on the map. Requires object marker to be enabled.</English>
+        </Key>
+        <Key ID="STR_ls_map_objectMarkersEnabled_name">
+            <English>Object Markers - Enabled</English>
+        </Key>
+        <Key ID="STR_ls_map_objectMarkersEnabled_tooltip">
+            <English>If enabled, shows custom map icons for configured objects. Mostly used for large structures like capital ships.</English>
+        </Key>
+        <Key ID="STR_ls_map_objectMarkersShowName_name">
+            <English>Object Markers - Show Names</English>
+        </Key>
+        <Key ID="STR_ls_map_objectMarkersShowName_tooltip">
+            <English>If enabled, shows names for objects.</English>
+        </Key>
+    </Package>
+</Project>
