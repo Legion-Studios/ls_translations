@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="common">
+        <Key ID="STR_ls_common_activateShield">
+            <English>Activate shield</English>
+        </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L264-L281 -->
         <Key ID="STR_ls_common_cancel">
             <English>Cancel</English>
@@ -41,6 +44,9 @@
             <Chinesesimp>确认</Chinesesimp>
             <Turkish>Onayla</Turkish>
             <Ukrainian>Підтвердити</Ukrainian>
+        </Key>
+        <Key ID="STR_ls_common_deactivateShield">
+            <English>Deactivate shield</English>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
@@ -280,6 +286,9 @@
         <Key ID="STR_ls_common_refueling">
             <English>Refueling...</English>
             <French>Ravitaillement...</French>
+        </Key>
+        <Key ID="STR_ls_common_repairShield">
+            <English>Repair shield</English>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
