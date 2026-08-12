@@ -19,15 +19,23 @@
         </Key>
         <Key ID="STR_ls_map_objectMarkersEnabled_name">
             <English>Object Markers - Enabled</English>
-            <French>Marqueurs d'objets - Activés</French>
+            <French>Marqueurs d'objets - activés</French>
         </Key>
         <Key ID="STR_ls_map_objectMarkersEnabled_tooltip">
             <English>If enabled, shows custom map icons for configured objects. Mostly used for large structures like capital ships.</English>
             <French>Si activé, affiche des icônes de carte personnalisées pour les objets configurés. Souvent utilisé pour les grandes structures comme les vaisseaux capitaux.</French>
         </Key>
+        <Key ID="STR_ls_map_objectMarkersOpacity_name">
+            <English>Object Markers - Opacity</English>
+            <French>Marqueurs d'objets - opacité</French>
+        </Key>
+        <Key ID="STR_ls_map_objectMarkersOpacity_tooltip">
+            <English>Opacity of object markers.</English>
+            <French>L'opacité des marqueurs d'objets.</French>
+        </Key>
         <Key ID="STR_ls_map_objectMarkersShowName_name">
             <English>Object Markers - Show Names</English>
-            <French>Marqueurs d'objets - Afficher les noms</French>
+            <French>Marqueurs d'objets - afficher les noms</French>
         </Key>
         <Key ID="STR_ls_map_objectMarkersShowName_tooltip">
             <English>If enabled, shows names for objects.</English>
