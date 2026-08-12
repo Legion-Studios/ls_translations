@@ -3,6 +3,7 @@
     <Package name="common">
         <Key ID="STR_ls_common_activateShield">
             <English>Activate shield</English>
+            <French>Activer le bouclier</French>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L264-L281 -->
         <Key ID="STR_ls_common_cancel">
@@ -47,6 +48,7 @@
         </Key>
         <Key ID="STR_ls_common_deactivateShield">
             <English>Deactivate shield</English>
+            <French>Désactiver le bouclier</French>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
@@ -140,6 +142,7 @@
         </Key>
         <Key ID="STR_ls_common_edsubcat_walkers">
             <English>Walkers</English>
+            <French>Marcheurs</French>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zabrak">
             <English>Zabrak</English>
@@ -292,6 +295,7 @@
         </Key>
         <Key ID="STR_ls_common_repairShield">
             <English>Repair shield</English>
+            <French>Réparer le bouclier</French>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
