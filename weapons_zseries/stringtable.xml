@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_zseries">
+        <Key ID="STR_ls_weapons_zseries_z6_displayName">
+            <English>Z-6</English>
+        </Key>
+        <Key ID="STR_ls_weapons_zseries_z6_hammer_descriptionShort">
+            <English>Rotary blaster cannon&lt;br/&gt;Commander Thorn's personal Z-6, nicknamed 'Hammer'</English>
+        </Key>
+        <Key ID="STR_ls_weapons_zseries_z6_hammer_displayName">
+            <English>Z-6 'Hammer'</English>
+        </Key>
+        <Key ID="STR_ls_weapons_zseries_z6_magazine_descriptionShort">
+            <English>Caliber: 12.7x108 mw &lt;br/&gt;Rounds: 125 &lt;br/&gt;Used in: Z-6s</English>
+        </Key>
+        <Key ID="STR_ls_weapons_zseries_z6_magazine_displayName">
+            <English>Z-6 Charge Pack</English>
+        </Key>
+        <Key ID="STR_ls_weapons_zseries_zSeries_magazine_descriptionShort">
+            <English>Caliber: 6.5x39 mw &lt;br/&gt;Rounds: 300 &lt;br/&gt;Used in: Z-Series Weapons</English>
+        </Key>
+        <Key ID="STR_ls_weapons_zseries_zSeries_magazine_displayName">
+            <English>Z-Series Charge Pack</English>
+        </Key>
+    </Package>
+</Project>

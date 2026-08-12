@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="weapons">
-        <Key ID="STR_ls_weapons_laserCannon_displayName">
-            <English>MAAD-38 Laser Cannon</English>
+        <Key ID="STR_ls_weapons_blasterCannon">
+            <English>Blaster cannon</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterCarbine">
+            <English>Blaster carbine</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterPistol">
+            <English>Blaster pistol</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterRifle">
+            <English>Blaster rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapons_highEnergy">
+            <English>High energy</English>
+        </Key>
+        <Key ID="STR_ls_weapons_rotaryBlasterCannon">
+            <English>Rotary Blaster Cannon</English>
+        </Key>
+        <Key ID="STR_ls_weapons_standardEnergy">
+            <English>Standard energy</English>
         </Key>
     </Package>
 </Project>
