@@ -44,7 +44,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_at">
             <English>B1 Battle Droid (AT)</English>
-            <French>Droïde B1 (AC)</French>
+            <French>Droïde de combat B1 (AC)</French>
             <Polish>Droid Bojowy B1 (Przeciwpancerny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_backpack">
@@ -53,7 +53,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_breacher">
             <English>B1 Battle Droid (Breacher)</English>
-            <French>Droïde B1 (sapeur)</French>
+            <French>Droïde de combat B1 (sapeur)</French>
             <Polish>Droid Bojowy B1 (Wyważający)</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander">
@@ -212,7 +212,7 @@
             <French>Lampe frontale B1 (entraînement)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavy">
-            <English>B1 Battle Droid (Supper Gunner)</English>
+            <English>B1 Battle Droid (Support Gunner)</English>
             <French>Droïde de combat B1 (tireur lourd)</French>
             <Polish>Droid Bojowy B1 (Cięzki Strzelec)</Polish>
         </Key>
@@ -530,7 +530,7 @@
             <Polish>Droid Komandos BX</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_assassain">
-            <English>BX Assassain Droid</English>
+            <English>BX Assassin Droid</English>
             <French>Droïde assassin BX</French>
             <Polish>Droid Zabójca BX</Polish>
         </Key>
