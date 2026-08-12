@@ -33,12 +33,6 @@
             <English>Opacity of object markers.</English>
             <French>L'opacité des marqueurs d'objets.</French>
         </Key>
-        <Key ID="STR_ls_map_objectMarkersOpacity_name">
-            <English>Object Markers - Opacity</English>
-        </Key>
-        <Key ID="STR_ls_map_objectMarkersOpacity_tooltip">
-            <English>Opacity of object markers.</English>
-        </Key>
         <Key ID="STR_ls_map_objectMarkersShowName_name">
             <English>Object Markers - Show Names</English>
             <French>Marqueurs d'objets - afficher les noms</French>
