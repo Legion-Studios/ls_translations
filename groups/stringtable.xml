@@ -3,29 +3,37 @@
     <Package name="groups">
         <Key ID="STR_ls_groups_citadelGuard">
             <English>Citadel Guard</English>
+            <Russian>Охрана Цитадели</Russian>
         </Key>
         <Key ID="STR_ls_groups_diplomaticEscort">
             <English>Diplomatic Escort</English>
+            <Russian>Эскорт дипломатов</Russian>
         </Key>
         <Key ID="STR_ls_groups_droidekaTeam">
             <English>Droideka Team</English>
+            <Russian>Расчет дроидек</Russian>
         </Key>
         <Key ID="STR_ls_groups_heavyInfantry">
             <English>Heavy Infantry</English>
+            <Russian>Тяжелая пехота</Russian>
         </Key>
         <Key ID="STR_ls_groups_patrol">
             <English>Patrol</English>
+            <English>Патруль</English>
         </Key>
         <Key ID="STR_ls_groups_raptorPack">
             <English>Raptor Pack</English>
+            <Russian>Стайка Рапторов</Russian>
         </Key>
         <Key ID="STR_ls_groups_securityTeam">
             <English>Security Team</English>
+            <Russian>Отряд охраны</Russian>
         </Key>
         <Key ID="STR_ls_groups_supportGunnerTeam">
             <English>Support Gunner Team</English>
             <French>Équipe de Tireurs de Soutien</French>
             <Polish>Zespół Strzelców Wsparcia</Polish>
+            <Russian>Отряд огневой поддержки</Russian>
         </Key>
     </Package>
 </Project>

@@ -3,39 +3,51 @@
     <Package name="equipment">
         <Key ID="STR_ls_equipment_createEquipmentCategory_name">
             <English>Create Arsenal Category</English>
+            <Russian>Создать категорию в арсенале</Russian>
         </Key>
         <Key ID="STR_ls_equipment_createEquipmentCategory_tooltip">
             <English>If enabled, creates a custom category in the ACE Arsenal for special equipment items.</English>
+            <Russian>Если включено, показывает кастомную категорию в АСЕ арсенале для определенных элементов снаряжения.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_name">
             <English>Rangefinder Overlay - Enabled</English>
+            <Russian>Оверлей дальномера - Включен</Russian>
         </Key>
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_tooltip">
             <English>If enabled, nvgs can configure a display to show interactive elements when turning on the nvgs.</English>
+            <Russian>Если включено, ПНВ могут настроить дисплей для отображения интерактивных элментов при использовании.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_repairKit_descriptionShort">
             <English>A light repair kit, capable of repairing simple equipment</English>
+            <Russian>Небольшой набор инструментов, способный к починке простого снаряжения</Russian>
         </Key>
         <Key ID="STR_ls_equipment_repairKit_displayName">
             <English>Repair Kit</English>
+            <Russian>Набор инструментов</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_name">
             <English>Squad Shield - Health</English>
+            <Russian>Сквад-шилд - Здоровье</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_tooltip">
             <English>The max health of the squad shield's shield.</English>
+            <Russian>Максимальное здоровье щита сквад-шилда.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_broken_displayName">
             <English>Squad Shield (Broken)</English>
+            <Russian>Сквад-шилд(Сломан)</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_broken_packed_descriptionShort">
             <English>A broken squad shield, place and repair with a Toolkit</English>
+            <Russian>Сломанный сквад-шилд. Разместите и почините набором инструментов</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_displayName">
             <English>Squad Shield</English>
+            <Russian>Сквад-шилд</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_packed_descriptionShort">
             <English>A deployable squad shield</English>
+            <Russian>Размещаемый сквад-шилд</Russian>
         </Key>
     </Package>
 </Project>

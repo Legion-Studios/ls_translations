@@ -313,25 +313,25 @@
             <English>Poncho (Sidestripe, Blue)</English>
             <French>Poncho (rayure, bleue)</French>
             <Polish>Ponczo (Paski, Niebieski)</Polish>
-            <Russian>Пончо (Параллель, Синий)</Russian>
+            <Russian>Пончо (Окантовка, Синий)</Russian>
         </Key>
         <Key ID="STR_ls_characters_poncho_sidestripeBrown">
             <English>Poncho (Sidestripe, Brown)</English>
             <French>Poncho (rayure, marron)</French>
             <Polish>Ponczo (Paski, Brązowy)</Polish>
-            <Russian>Пончо (Параллель, Коричневый)</Russian>
+            <Russian>Пончо (Окантовка, Коричневый)</Russian>
         </Key>
         <Key ID="STR_ls_characters_poncho_sidestripeRed">
             <English>Poncho (Sidestripe, Red)</English>
             <French>Poncho (rayure, rouge)</French>
             <Polish>Ponczo (Paski, Czerwony)</Polish>
-            <Russian>Пончо (Параллель, Красный)</Russian>
+            <Russian>Пончо (Окантовка, Красный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_poncho_sidestripeWhite">
             <English>Poncho (Sidestripe, White)</English>
             <French>Poncho (rayure, blanche)</French>
             <Polish>Ponczo (Paski, Biały)</Polish>
-            <Russian>Пончо (Параллель, Белый)</Russian>
+            <Russian>Пончо (Окантовка, Белый)</Russian>
         </Key>
         <Key ID="STR_ls_characters_reinforcedService_coif_helmet">
             <English>Reinforced Service Helmet (Coif)</English>

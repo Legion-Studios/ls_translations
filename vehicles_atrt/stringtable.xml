@@ -3,9 +3,11 @@
     <Package name="vehicles_atrt">
         <Key ID="STR_ls_vehicles_atrt_atrt">
             <English>AT-RT</English>
+            <Russian>АТ-РТ</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_atrt_uniform">
             <English>AT-RT Chassis</English>
+            <Russian>Шасси АТ-РТ</Russian>
         </Key>
     </Package>
 </Project>

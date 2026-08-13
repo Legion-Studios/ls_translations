@@ -3,6 +3,7 @@
     <Package name="weapons_atrt">
         <Key ID="STR_ls_weapons_atrt_laserCannon_displayName">
             <English>AT-RT Laser Cannon</English>
+            <Russian>Лаз-пушка АТ-РТ</Russian>
         </Key>
     </Package>
 </Project>
