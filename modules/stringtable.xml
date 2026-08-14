@@ -53,7 +53,7 @@
             <English>No group selected!</English>
             <French>Groupe non sélectionné</French>
             <Polish>Nie wybrano grupy!</Polish>
-            <Polish>Никакая группа не выбрана!</Polish>
+            <Russian>Никакая группа не выбрана!</Russian>
         </Key>
         <Key ID="STR_ls_modules_dispenser_description">
             <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
