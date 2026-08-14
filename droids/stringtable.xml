@@ -5,39 +5,47 @@
             <English>Droideka - Shield Cooldown</English>
             <French>Droideka - Temps de récupération du bouclier</French>
             <Polish>Droideka - Czas Odnowienia Tarczy</Polish>
+            <Russian>Дроидека - Кулдаун щита</Russian>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldCooldown_tooltip">
             <English>The amount of time that the droideka's shield will be disabled for after being fully destroyed.</English>
             <French>La durée pendant laquelle le bouclier du Droideka sera désactivé après avoir été complètement détruit.</French>
             <Polish>Czas przez jaki tarcza droideki będzie wyłączona po jej całkowitym zniszczeniu.</Polish>
+            <Russian>Время, в течении которого щит дроидеки будет отключен после полного уничтожения.</Russian>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldHealth_name">
             <English>Droideka - Shield Health</English>
             <French>Droideka - Intégrité du Bouclier</French>
             <Polish>Droideka - Życie Tarczy</Polish>
+            <Russian>Дроидека - Здоровье щита</Russian>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldHealth_tooltip">
             <English>The max health of the droideka's shield\n0 = Disable droideka shields</English>
             <French>L'intégrité maximale du bouclier du Droideka\n0 = Désactiver les boucliers du Droideka</French>
             <Polish>Maksymalna wartość życia tarczy\n0 = Wyłączenie tarczy</Polish>
+            <Russian>Максимальное здоровье щита дроидеки\n0 = отключить щит</Russian>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldRegen_name">
             <English>Droideka - Shield Regen</English>
             <French>Droideka - Régénération du bouclier</French>
             <Polish>Droideka - Odnowienie Tarczy</Polish>
+            <Russian>Дроидека - Регенерация щита</Russian>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldRegen_tooltip">
             <English>The percentage of maximum health that the droideka's shield will regenerate.</English>
             <French>Le pourcentage d'intégrité maximale auquel le bouclier du Droideka se régénérera.</French>
             <Polish>Jaki procent maksymalnej ilości życia tarczy droideki zostanie zregenerowany.</Polish>
+            <Russian>Процент от максимального здоровья, которое будет отрегенирировано щитом дроидеки.</Russian>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldTargetsEnabled_name">
             <English>Droideka - Create Shield Targets</English>
             <French>Droideka - Créer les cibles du bouclier</French>
+            <Russian>Дроидека - Создать ИИ цели на щите</Russian>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldTargetsEnabled_tooltip">
             <English>If enabled, the Droideka's shield will create dummy targets for AI targeting. The targets are necessary for enemy AI to shoot the Droideka but can cause pathfinding issues for it\nEnabled by default in Singleplayer, disabled by default in Multiplayer.</English>
             <French>Si cette option est activée, les boucliers du Droideka créeront des cibles factices pour le ciblage de l'IA. Ces cibles sont nécessaires pour que l'IA ennemie puisse tirer sur le Droideka. Cependant, elles peuvent provoquer des problèmes de pathfinding.\nActivée par défaut en solo, désactivée par défaut en multijoueur.</French>
+            <Russian>Если включено, щит дроидеки создаст на себе мишени для ботов, в которые те могут стрелять. Могут приводить к проблемам с навигацией ботов. Обычно включено в одиночной, и отключено для мультиплеерной игры</Russian>
         </Key>
     </Package>
 </Project>
