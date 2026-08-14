@@ -11,25 +11,25 @@
             <English>Droid Dispenser (B2)</English>
             <French>Distributeur de Droïdes (B2)</French>
             <Polish>Zasobnik Droidów (B2)</Polish>
-			<Russian>Дроппод дроидов (B2)</Russian>
+            <Russian>Дроппод дроидов (B2)</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_BX_displayName">
             <English>Droid Dispenser (BX)</English>
             <French>Distributeur de Droïdes (BX)</French>
             <Polish>Zasobnik Droidów (BX)</Polish>
-			<Russian>Дроппод дроидов (BХ)</Russian>
+            <Russian>Дроппод дроидов (BХ)</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_activate">
             <English>Activate Dispenser</English>
             <French>Activer le Distributeur</French>
             <Polish>Aktywuj Zasobnik</Polish>
-			<Russian>Активировать Дроппод</Russian>
+            <Russian>Активировать Дроппод</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_deactivate">
             <English>Deactivate Dispenser</English>
             <French>Désactiver le Distributeur</French>
             <Polish>Dezktywuj Zasobnik</Polish>
-			<Russian>Деактивировать Дроппод</Russian>
+            <Russian>Деактивировать Дроппод</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_description">
             <English>A roughly cylindrical container, that could transport, dispense and possibly construct battle droids, used by the Trade Federation and later more predominantly by the Confederacy of Independent Systems during the Clone Wars to continually dispense a supply of battle droids.</English>
@@ -53,13 +53,13 @@
             <English>Open Hatch 2</English>
             <French>Ouvrir Trappe 2</French>
             <Polish>Otwórz Luk 2</Polish>
-			<Russian>Открыть люк 2</Russian>
+            <Russian>Открыть люк 2</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_openHatch3">
             <English>Open Hatch 3</English>
             <French>Ouvrir Trappe 3</French>
             <Polish>Otwórz Luk 3</Polish>
-			<Russian>Открыть люк 3</Russian>
+            <Russian>Открыть люк 3</Russian>
         </Key>
     </Package>
 </Project>

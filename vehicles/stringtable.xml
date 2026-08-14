@@ -14,42 +14,42 @@
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_green_displayName">
             <English>6.5 mw 250Rnd Energy Cell (Green)</English>
             <French>Cellule d'énergie 6,5 mW 250 charges (Verte)</French>
-			<Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Зел)</Russian>
+            <Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Зел)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_red_displayName">
             <English>6.5 mw 250Rnd Energy Cell (Red)</English>
             <French>Cellule d'énergie 6,5 mW 250 charges (Rouge)</French>
-			<Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Красн)</Russian>
+            <Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Красн)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_yellow_displayName">
             <English>6.5 mw 250Rnd Energy Cell (Yellow)</English>
             <French>Cellule d'énergie 6,5 mW 250 charges (Jaune)</French>
-			<Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Желт)</Russian>
+            <Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Желт)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_blue_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Blue)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Bleue)</French>
-			<Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Син)</Russian>
+            <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Син)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw &lt;br/&gt;Rounds: 500 &lt;br/&gt;Used in: Vehicles</English>
             <French>Calibre : 6.5x39 mW &lt;br/&gt;Charges: 500 &lt;br/&gt;Utilisé sur: Véhicules</French>
-			<Russian>Мощность : 6.5x39 МВт &lt;br/&gt;Зарядов: 500 &lt;br/&gt;Используется в: Технике</Russian>
+            <Russian>Мощность : 6.5x39 МВт &lt;br/&gt;Зарядов: 500 &lt;br/&gt;Используется в: Технике</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_green_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Green)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Verte)</French>
-			<Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Зел)</Russian>
+            <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Зел)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_red_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Red)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Rouge)</French>
-			<Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Крас)</Russian>
+            <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Крас)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_yellow_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Yellow)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Jaune)</French>
-			<Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Желт)</Russian>
+            <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Желт)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_magazine_displayNameShort">
             <English>6.5x39 mw</English>
