@@ -142,6 +142,7 @@
         <Key ID="STR_ls_characters_clone_legions_clone_atrtDriver">
             <English>Clone AT-RT Driver</English>
             <Russian>Мехвод AT-RT</Russian>
+            <French>Pilote clone d'AT-RT</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_bravoSquad">
             <English>Bravo Squad</English>

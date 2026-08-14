@@ -28,10 +28,35 @@
         <Key ID="STR_ls_groups_securityTeam">
             <English>Security Team</English>
             <Russian>Отряд охраны</Russian>
+            <French>Garde de la citadelle</French>
+        </Key>
+        <Key ID="STR_ls_groups_diplomaticEscort">
+            <English>Diplomatic Escort</English>
+            <French>Escorte diplomatique</French>
+        </Key>
+        <Key ID="STR_ls_groups_droidekaTeam">
+            <English>Droideka Team</English>
+            <French>Équipe de droïdekas</French>
+        </Key>
+        <Key ID="STR_ls_groups_heavyInfantry">
+            <English>Heavy Infantry</English>
+            <French>Infanterie lourde</French>
+        </Key>
+        <Key ID="STR_ls_groups_patrol">
+            <English>Patrol</English>
+            <French>Patrouille</French>
+        </Key>
+        <Key ID="STR_ls_groups_raptorPack">
+            <English>Raptor Pack</English>
+            <French>Meute de Raptors</French>
+        </Key>
+        <Key ID="STR_ls_groups_securityTeam">
+            <English>Security Team</English>
+            <French>Équipe de sécurité</French>
         </Key>
         <Key ID="STR_ls_groups_supportGunnerTeam">
             <English>Support Gunner Team</English>
-            <French>Équipe de Tireurs de Soutien</French>
+            <French>Équipe de tireurs de soutien</French>
             <Polish>Zespół Strzelców Wsparcia</Polish>
             <Russian>Отряд огневой поддержки</Russian>
         </Key>
