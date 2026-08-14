@@ -16,6 +16,9 @@
             <French>Ajout d'une action de réinsertion à l'objet</French>
             <Polish>Dodano akcje ponownego rozmieszczenia do obieku</Polish>
         </Key>
+        <Key ID="STR_ls_modules_alreadyRidingATRT">
+            <English>Unit is already riding an AT-RT</English>
+        </Key>
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
             <French>Suppression de %1 groupes locaux vides</French>
@@ -83,6 +86,9 @@
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
         </Key>
+        <Key ID="STR_ls_modules_moduleDismountATRT">
+            <English>Dismount AT-RT</English>
+        </Key>
         <Key ID="STR_ls_modules_moduleMountATRT">
             <English>Mount AT-RT</English>
         </Key>
@@ -95,6 +101,9 @@
             <English>Toggle Active Camo</English>
             <French>Basculé Camouflage Actif</French>
             <Polish>Zmień Stan kamuflażu Optycznego</Polish>
+        </Key>
+        <Key ID="STR_ls_modules_noATRTFound">
+            <English>No AT-RT found</English>
         </Key>
         <Key ID="STR_ls_modules_noClosedDoorFound">
             <English>No closed door found!</English>
@@ -162,6 +171,12 @@
             <Chinese>單位必須是步兵</Chinese>
             <Chinesesimp>单位必须是步兵</Chinesesimp>
             <Hungarian>Csak járműben kívül lévő egységeken használni</Hungarian>
+        </Key>
+        <Key ID="STR_ls_modules_onlyATRTorRider">
+            <English>Unit must be an AT-RT or riding an AT-RT</English>
+        </Key>
+        <Key ID="STR_ls_modules_onlyATRT">
+            <English>Unit must be an AT-RT or riding an AT-RT</English>
         </Key>
         <Key ID="STR_ls_modules_radius_tooltip">
             <English>Search radius in meters</English>
