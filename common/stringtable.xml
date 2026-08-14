@@ -386,49 +386,49 @@
             <English>Unit's skill in servicing vehicles and equipment.</English>
             <French>Compétence de l'unité dans la maintenance de véhicules et équipements.</French>
             <Polish>Umiejętność naprawy pojazdów i ekwipunku</Polish>
-            <Russiann>Навык юнита в обслуживании техники и снаряжения</Russiann>
+            <Russian>Навык юнита в обслуживании техники и снаряжения</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_eod_tooltip">
             <English>Unit's skill in locating, placing, and disarming explosives.</English>
             <French>Compétence de l'unité dans la localisation, la pose et le désamorçage d'explosifs.</French>
             <Polish>Umiejętność odnajdywania, umieszczania i rozbrajania ładunków wybuchowych</Polish>
-            <Russiann>Навык юнита в обнаружении, установки и обезвреживании взрывчатки</Russiann>
+            <Russian>Навык юнита в обнаружении, установки и обезвреживании взрывчатки</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_medic_tooltip">
             <English>Unit's skill in treating patients.</English>
             <French>Compétence de l'unité dans le traitement des patients.</French>
             <Polish>Umiejętność leczenia pacjentów</Polish>
-            <Russiann>Навык юнита в лечении пациентов</Russiann>
+            <Russian>Навык юнита в лечении пациентов</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_pilot_tooltip">
             <English>Unit's skill in operating aerial vehicles.</English>
             <French>Compétence de l'unité dans la conduite de véhicules aériens.</French>
             <Polish>Umiejętność operowania pojazdami awiacji</Polish>
-            <Russiann>Навык юнита в управлении воздушной техники</Russiann>
+            <Russian>Навык юнита в управлении воздушной техники</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_tech_name">
             <English>Tech Specialist</English>
             <French>Spécialiste technique</French>
             <Polish>Specjalista</Polish>
-            <Russiann>Тех. специалист</Russiann>
+            <Russian>Тех. специалист</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_tech_tooltip">
             <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>
             <French>Compétence de l'unité dans le piratage, le forçage et la manipulation de systèmes électroniques.</French>
             <Polish>Umiejętność hakowania, przełamywania zabezpieczeń i pracy z elektronicznymi systemami</Polish>
-            <Russiann>Навык юнита в взломе и работы над электронными системами</Russiann>
+            <Russian>Навык юнита в взломе и работы над электронными системами</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_trained">
             <English>Trained</English>
             <French>Entraîné</French>
             <Polish>Wytrenowany</Polish>
-            <Russiann>Тренирован</Russiann>
+            <Russian>Тренирован</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_untrained">
             <English>Untrained</English>
             <French>Non entraîné</French>
             <Polish>Bez treningu</Polish>
-            <Russiann>Необучен</Russiann>
+            <Russian>Необучен</Russian>
         </Key>
     </Package>
 </Project>

@@ -248,26 +248,16 @@
         <Key ID="STR_ls_characters_droid_b1_headlamp_geonosis">
             <English>B1 Headlamp (Geonosis)</English>
             <Russian>Наголовный фонарь B1(Геонозис)</Russian>
+			<French>Lampe frontale B1 (Geonosis)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_headlamp_saboteur">
             <English>B1 Headlamp (Saboteur)</English>
             <Russian>Наголовный фонарь B1(Диверсант)</Russian>
+			<French>Lampe frontale B1 (saboteur)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_headlamp_training">
             <English>B1 Headlamp (Training)</English>
             <Russian>Наголовный фонарь B1(Тренировочный)</Russian>
-            <French>Lampe frontale B1</French>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_headlamp_geonosis">
-            <English>B1 Headlamp (Geonosis)</English>
-            <French>Lampe frontale B1 (Geonosis)</French>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_headlamp_saboteur">
-            <English>B1 Headlamp (Saboteur)</English>
-            <French>Lampe frontale B1 (saboteur)</French>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_headlamp_training">
-            <English>B1 Headlamp (Training)</English>
             <French>Lampe frontale B1 (entraînement)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavy">
@@ -315,7 +305,6 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram">
             <English>B1 Battle Droid (Hologram)</English>
-            <French>Droïde B1 (hologramme)</French>
             <Russian>Голова дроида B1(Голограма)</Russian>
             <French>Droïde de combat B1 (hologramme)</French>
         </Key>
@@ -342,7 +331,7 @@
         <Key ID="STR_ls_characters_droid_b1_jetpack_geonosis_backpack">
             <English>B1 Jetpack (Geonosis)</English>
             <Russian>Джетпак B1(Геонозис)</Russian>
-			 <French>Jetpack B1 (Geonosis)</French>
+			<French>Jetpack B1 (Geonosis)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_jetpack_saboteur_backpack">
             <English>B1 Jetpack (Saboteur)</English>
@@ -397,10 +386,6 @@
         <Key ID="STR_ls_characters_droid_b1_pauldrons_vest">
             <English>B1 Pauldrons</English>
             <Russian>Наплечники B1</Russian>
-            <French>Épaulières B1 (bâton électrique)</French>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_pauldrons_vest">
-            <English>B1 Pauldrons</English>
             <French>Épaulières B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot">
@@ -535,11 +520,11 @@
         <Key ID="STR_ls_characters_droid_b1_sniper_training_nvg">
             <English>B1 1C-U (Training)</English>
             <Russian>B1 1C-U (Тренировочный)</Russian>
-            <French>1C-U B1</French>
+			<French>1C-U B1 (entraînement)</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_sniper_training_nvg">
             <English>B1 1C-U (Training)</English>
-            <French>1C-U B1 (entraînement)</French>
+            
         </Key>
         <Key ID="STR_ls_characters_droid_b1_squadLeader">
             <English>B1 Battle Droid (Sergeant)</English>
@@ -554,18 +539,11 @@
         <Key ID="STR_ls_characters_droid_b1_tech_nvg">
             <English>B1 MNC-LT</English>
             <Russian>B1 MNC-LT</Russian>
+			<French>MNC-LT B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_tech_nvg_description">
             <English>B1 Battledroid Monocular Neuro Combat Lattice</English>
             <Russian>Плата-монокуляр боевого дроида B1</Russian>
-            <French>MNC-LT B1 (Geonosis)</French>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_tech_nvg">
-            <English>B1 MNC-LT</English>
-            <French>MNC-LT B1</French>
-        </Key>
-        <Key ID="STR_ls_characters_droid_b1_tech_nvg_description">
-            <English>B1 Battledroid Monocular Neuro Combat Lattice</English>
             <French>Maillage neuronal de combat monoculaire B1</French>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_backpack">
@@ -686,7 +664,6 @@
         </Key>
         <Key ID="STR_ls_characters_droid_bx_bountyHunter_uniform">
             <English>BX Commando Droid Chassis (Bounty Hunter)</English>
-            <French>Châssis de Droïde commando BX (chasseur de primes)</French>
             <Russian>Шасси дроида коммандос BX (Охотник за головами)</Russian>
             <French>Châssis de droïde commando BX (chasseur de primes)</French>
         </Key>

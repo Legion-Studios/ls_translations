@@ -332,7 +332,7 @@
             <English>Imperial Army Light Vest (ISB)</English>
             <French>Gilet tactique léger de l'armée impériale (BSI)</French>
             <Polish>Lekka Kamizelka Armii Imperialnej (Czarna)</Polish>
-			<Russian>Легкий Жилет Имперской армии(ИСБ)</Russian>
+            <Russian>Легкий Жилет Имперской армии(ИСБ)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_holster_vest">
             <English>Imperial Army Light Vest (Mudtrooper, Holster)</English>
@@ -452,7 +452,7 @@
             <English>Imperial Army Vest (Mudtrooper, Holster)</English>
             <French>Gilet tactique de l'armée impériale (Mudtrooper, étui)</French>
             <Polish>Kamizelka Armii Imperialnej (Żołnierz Błotny, Kabura)</Polish>
-			<Russian>Жилет Имперской армии(Грязетруппер, Кобура)</Russian>
+            <Russian>Жилет Имперской армии(Грязетруппер, Кобура)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_mudtrooper_tacbelt">
             <English>Imperial Tacbelt (Mudtrooper)</English>
@@ -488,13 +488,13 @@
             <English>Imperial Army Officer Vest (Black)</English>
             <French>Gilet tactique d'officier de l'armée impériale (noir)</French>
             <Polish>Kamizelka Oficera Armii Imperialnej (Czarna)</Polish>
-			<Russian>Офицерский жилет Имперской армии (Черный)</Russian>
+            <Russian>Офицерский жилет Имперской армии (Черный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_damaged_vest">
             <English>Imperial Army Officer Vest (Damaged)</English>
             <French>Gilet tactique d'officier de l'armée impériale (endommagé)</French>
             <Polish>Kamizelka Oficera Armii Imperialnej (Uszkodzona)</Polish>
-			<Russian>Офицерский жилет Имперской армии (Поврежденный)</Russian>
+            <Russian>Офицерский жилет Имперской армии (Поврежденный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_officer_holster_vest">
             <English>Imperial Army Officer Vest (Holster)</English>
