@@ -16,8 +16,14 @@
         <Key ID="STR_ls_weapons_highEnergy">
             <English>High energy</English>
         </Key>
+        <Key ID="STR_ls_weapons_lowEnergy">
+            <English>Low energy</English>
+        </Key>
         <Key ID="STR_ls_weapons_rotaryBlasterCannon">
-            <English>Rotary Blaster Cannon</English>
+            <English>Rotary blaster cannon</English>
+        </Key>
+        <Key ID="STR_ls_weapons_scatterGun">
+            <English>Scatter gun</English>
         </Key>
         <Key ID="STR_ls_weapons_standardEnergy">
             <English>Standard energy</English>
