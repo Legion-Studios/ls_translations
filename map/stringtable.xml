@@ -35,7 +35,7 @@
         </Key>
         <Key ID="STR_ls_map_objectMarkersShowName_name">
             <English>Object Markers - Show Names</English>
-            <English>Метка объекта - Показать имя</English>
+            <Russian>Метка объекта - Показать имя</Russian>
         </Key>
         <Key ID="STR_ls_map_objectMarkersShowName_tooltip">
             <English>If enabled, shows names for objects.</English>

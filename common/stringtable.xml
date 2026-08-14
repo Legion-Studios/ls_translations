@@ -72,7 +72,7 @@
         <Key ID="STR_ls_common_edsubcat_chissAscendency">
             <English>Chiss Ascendency</English>
             <French>Ascendance Chiss</French>
-            <Russiann>Господа Чиссы</Russiann>
+            <Russian>Господа Чиссы</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p1">
             <English>Clone Trooper (Phase 1)</English>
@@ -370,7 +370,7 @@
             <English>Advanced</English>
             <French>Avancé</French>
             <Polish>Zaawansowany</Polish>
-            <Polish>Высокий</Polish>
+            <Russian>Высокий</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_crewman_tooltip">
             <English>Unit's skill in operating ground vehicles.</English>

@@ -23,13 +23,13 @@
             <English>PK-V5 Medium Fighter Tank (Mortar)</English>
             <French>Tank de Combat Intermédiaire PK-V5 (Mortier)</French>
             <Polish>Średni Czołg Przechwytujący PK-V5 (Moździerz)</Polish>
-            <Polish>Среднебронированный танк ПК-В5 (Минометный)</Polish>
+            <Russian>Среднебронированный танк ПК-В5 (Минометный)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_pkv5_mp_displayName">
             <English>PK-V5 Medium Fighter Tank (MP)</English>
             <French>Tank de Combat Intermédiaire PK-V5 (MP)</French>
             <Polish>Średni Czołg Przechwytujący PK-V5 (MP)</Polish>
-            <Polish>Среднебронированный танк ПК-В5 (Мнг.Задач.)</Polish>
+            <Russian>Среднебронированный танк ПК-В5 (Мнг.Задач.)</Russian>
         </Key>
         <!-- Can probably be reused elsewhere -->
         <Key ID="STR_ls_vehicles_pkv5_standard">

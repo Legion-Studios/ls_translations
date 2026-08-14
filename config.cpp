@@ -8,7 +8,8 @@ class CfgPatches {
             "DartRuffian",
             "Bragg",
             "Vdoh",
-            "Ks00908"
+            "Ks00908",
+			"4sh1r"
         };
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;

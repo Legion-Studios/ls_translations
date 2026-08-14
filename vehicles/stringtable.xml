@@ -54,7 +54,7 @@
         <Key ID="STR_ls_vehicles_65x39_magazine_displayNameShort">
             <English>6.5x39 mw</English>
             <French>6,5x39 mW</French>
-            <French>6,5x39 МВт</French>
+            <Russian>6,5x39 МВт</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_customHUDColor_description">
             <English>Color used for the 'Custom' option in the HUD Color Switcher action for vehicles.</English>

@@ -40,17 +40,17 @@
         <Key ID="STR_ls_characters_droid_b1_antenna_hologram_backpack">
             <English>B1 Antenna Array (Hologram)</English>
             <French>Réseau d'antennes B1 (hologramme)</French>
-            <French>Комплекс антенн B1 (Голограмма)</French>
+            <Russian>Комплекс антенн B1 (Голограмма)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_simulation_backpack">
             <English>B1 Antenna Array (Simulation)</English>
             <French>Réseau d'antennes B1 (simulation)</French>
-            <French>Комплекс антенн B1 (Симуляционный)</French>
+            <Russian>Комплекс антенн B1 (Симуляционный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_training_backpack">
             <English>B1 Antenna Array (Training)</English>
             <French>Réseau d'antennes B1 (entraînement)</French>
-            <French>Комплекс антенн B1 (Тренировочный)</French>
+            <Russian>Комплекс антенн B1 (Тренировочный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_at">
             <English>B1 Battle Droid (AT)</English>
@@ -82,13 +82,13 @@
         <Key ID="STR_ls_characters_droid_b1_commander_advanced_uniform">
             <English>B1 Droid Chassis (Commander, Advanced)</English>
             <French>Châssis de droïde B1 (commandant, avancé)</French>
-            <French>Шасси дроида B1 (Коммандер, Улучшенный)</French>
+            <Russian>Шасси дроида B1 (Коммандер, Улучшенный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_geonosis_helmet">
             <English>B1 Commander Droid Head (Geonosis)</English>
             <French>Tête de commandant droïde B1 (Geonosis)</French>
             <Polish>Głowa Droida Dowódcy B1 (Geonosis)</Polish>
-            <Polish>Голова дроида коммандера B1 (Геонозис)</Polish>
+            <Russian>Голова дроида коммандера B1 (Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_geonosis_uniform">
             <English>B1 Droid Chassis (Commander, Geonosis)</English>
@@ -154,7 +154,7 @@
         <Key ID="STR_ls_characters_droid_b1_engineer_geonosis_backpack">
             <English>B1 Comlink Booster (Engineer, Geonosis)</English>
             <French>Amplificateur Comlink B1 (ingénieur, Geonosis)</French>
-            <French>Усилитель коммлинка B1 (Инженер, Геонозис)</French>
+            <Russian>Усилитель коммлинка B1 (Инженер, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_engineer_geonosis_uniform">
             <English>B1 Droid Chassis (Engineer, Geonosis)</English>
@@ -164,7 +164,7 @@
         <Key ID="STR_ls_characters_droid_b1_engineer_uniform">
             <English>B1 Droid Chassis (Engineer)</English>
             <French>Châssis de droïde B1 (ingénieur)</French>
-            <French>Шасси дроида B1 (Инженер)</French>
+            <Russian>Шасси дроида B1 (Инженер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_firefighter">
             <English>B1 Battle Droid (Firefighter)</English>
@@ -189,12 +189,12 @@
         <Key ID="STR_ls_characters_droid_b1_geonosis_backpack">
             <English>B1 Comlink Booster (Geonosis)</English>
             <French>Amplificateur Comlink B1 (Geonosis)</French>
-            <French>Усилитель дроида B1 (Геонозис)</French>
+            <Russian>Усилитель дроида B1 (Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_geonosis_helmet">
             <English>B1 Droid Head (Geonosis)</English>
             <French>Tête de droïde B1 (Geonosis)</French>
-            <French>Голова дроида B1 (Геонозис)</French>
+            <Russian>Голова дроида B1 (Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_geonosis_uniform">
             <English>B1 Droid Chassis (Geonosis)</English>

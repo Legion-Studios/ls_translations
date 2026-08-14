@@ -137,13 +137,13 @@
             <English>Mandalorian Elite Helmet</English>
             <French>Casque d'Élite Mandalorien</French>
             <Polish>Hełm Elitarnego Mandalorianina</Polish>
-            <Polish>Шлем мандолорской элиты</Polish>
+            <Russian>Шлем мандолорской элиты</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_executioner_helmet">
             <English>Mandalorian Executioner Helmet</English>
             <French>Casque d'Exécuteur Mandalorien</French>
             <Polish>Hełm Mandaloriańskiego Egzekutora</Polish>
-            <Polish>Шлем мандолорского палача</Polish>
+            <Russian>Шлем мандолорского палача</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_heavy_backpack">
             <English>Mandalorian Heavy Backpack</English>
@@ -161,7 +161,7 @@
             <English>Mandalorian Medic Daypack</English>
             <French>Sac à Dos Léger Médical Mandalorien</French>
             <Polish>Lekki Plecak Mandaloriańskiego Medyka</Polish>
-            <Polish>Мандолорский рюкзак медика</Polish>
+            <Russian>Мандолорский рюкзак медика</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_nightowl_helmet">
             <English>Mandalorian Nightowl Helmet</English>
@@ -203,7 +203,7 @@
             <English>Mandalorian Pouches (Masculine)</English>
             <French>Poches de Mandalorien (Masculin)</French>
             <Polish>Mandaloriańska Ładownica (Męska)</Polish>
-            <Polish>Мандолорские подсумки (Мускул.)</Polish>
+            <Russian>Мандолорские подсумки (Мускул.)</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_protector_masculine_slim_vest">
             <English>Mandalorian Protector Armor (Masculine, Slim)</English>
@@ -215,7 +215,7 @@
             <English>Mandalorian Protector Armor (Masculine)</English>
             <French>Armure de Protecteur Mandalorien (Masculin)</French>
             <Polish>Pancerz Protektora Mandalorian (Męski)</Polish>
-            <Polish>Броня мандолорского защитника(Мускул.)</Polish>
+            <Russian>Броня мандолорского защитника(Мускул.)</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_protector_masculine_vest">
             <English>Mandalorian Protector Vest (Masculine)</English>

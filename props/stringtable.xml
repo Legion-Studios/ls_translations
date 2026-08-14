@@ -111,12 +111,12 @@
         <Key ID="STR_ls_props_resupply_republic_specOps">
             <English>Republic Special Operations Resupply</English>
             <French>Ravitaillement républicain opérations spéciales</French>
-            <French>Ящик пополнения ССО Республики</French>
+            <Russian>Ящик пополнения ССО Республики</Russian>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_z6">
             <English>Republic Z-6 Resupply</English>
             <French>Ravitaillement républicain Z-6</French>
-            <French>Ящик пополнения Z-6</French>
+            <Russian>Ящик пополнения Z-6</Russian>
         </Key>
         <Key ID="STR_ls_props_terminal">
             <English>Terminal</English>
