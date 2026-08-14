@@ -300,7 +300,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaSarge">
             <English>Clone Commando (Aiwha [Sarge])</English>
-            <French>Клон коммандос (Айхва [Сардж])</French>
+            <French>Commando clone (Aiwha [Sarge])</French>
+            <Russian>Клон коммандос (Айхва [Сардж])</Russian> 
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaTyto">
             <English>Clone Commando (Aiwha [Tyto])</English>

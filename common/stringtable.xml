@@ -14,7 +14,7 @@
             <Italian>Annulla</Italian>
             <Polish>Anuluj</Polish>
             <Portuguese>Cancelar</Portuguese>
-            <Russiann>Отмена</Russiann>
+            <Russian>Отмена</Russian>
             <German>Abbrechen</German>
             <Korean>취소</Korean>
             <Japanese>中止</Japanese>
@@ -187,7 +187,7 @@
             <Italian>Attivato</Italian>
             <Polish>Włączone</Polish>
             <Portuguese>Ativado</Portuguese>
-            <Russiann>Включено</Russiann>
+            <Russian>Включено</Russian>
             <German>Aktiviert</German>
             <Korean>활성화</Korean>
             <Japanese>有効化</Japanese>
@@ -209,7 +209,7 @@
             <Spanish>[LS] Civiles</Spanish>
             <Italian>[LS] Civili</Italian>
             <Polish>[LS] Cywile</Polish>
-            <Russiann>[LS] Гражданские</Russiann>
+            <Russian>[LS] Гражданские</Russian>
             <German>[LS] Zivilisten</German>
         </Key>
         <Key ID="STR_ls_common_faction_csf">
@@ -351,7 +351,7 @@
             <Italian>Rotazione</Italian>
             <Polish>Obrót</Polish>
             <Portuguese>Rotaciona</Portuguese>
-            <Russiann>Bращать</Russiann>
+            <Russian>Bращать</Russian>
             <German>Drehen</German>
             <Korean>회전</Korean>
             <Japanese>回転</Japanese>
