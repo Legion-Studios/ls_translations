@@ -5,100 +5,120 @@
             <English>Object cannot activate active camo</English>
             <French>L'objet ne peut pas activer le camouflage actif</French>
             <Polish>Obiekt nie może aktywować kamuflażu optyczego</Polish>
+            <Russian>Объект не может использовать активный камуфляж</Russian>
         </Key>
         <Key ID="STR_ls_modules_activeCamo_cannotDeactivate">
             <English>Object cannot deactivate active camo</English>
             <French>L'objet ne peut pas désactiver le camouflage actif</French>
             <Polish>Obiekt nie może dezaktywować kamuflażu optycznego</Polish>
+            <Russian>Объект не может отключить активный камуфляж</Russian>
         </Key>
         <Key ID="STR_ls_modules_addedReinsertAction">
             <English>Added reinsert action to object</English>
             <French>Ajout d'une action de réinsertion à l'objet</French>
             <Polish>Dodano akcje ponownego rozmieszczenia do obieku</Polish>
+            <Russian>Добавлено действие "Переустановки" для объекта</Russian>
         </Key>
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
             <French>Suppression de %1 groupes locaux vides</French>
             <Polish>Usunięto %1 pustych grup lokalnych</Polish>
+            <Russian>Удалено %1 пустых локальных групп</Russian>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_label">
             <English>Custom Group</English>
             <French>Groupe Personnalisé</French>
             <Polish>Własna Grupa</Polish>
+            <Russian>Кастомная группа</Russian>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_tooltip">
             <English>Overwrites dispenser group if defined, takes array of unit class names.\nUse commas to separate classes, do not include spaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</English>
             <French>Si défini, remplace groupe de distributeurs, accepte une table de noms de classes d'unités.\nUtilisez des virgules pour séparer les éléments, ne pas inclure d'espaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</French>
             <Polish>Nadpisuje grupę rozmieszczaną przez zasobnik, przyjmuje wartość typu array zawierającą klasy jednostek.\nUżyj przecinków aby separować klasy, nie wykorzystuj spacji.\nNp. ['ls_droid_b1','ls_droid_b2']</Polish>
+            <Russian>Перезаписывает группу дроппода если объявлена, берет список класснеймов юнитов.\nИспользуйте запятые для разделения классов, без пробелов.\nПример : ['ls_droid_b1','ls_droid_b2']</Russian>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_label">
             <English>Group</English>
             <French>Groupe</French>
             <Polish>Grupa</Polish>
+            <Russian>Группа</Russian>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
             <English>Select what group will be spawned by the droid dispenser when it activates</English>
             <French>Sélectionnez quel groupe sera créé par le distributeur de droïdes lors de son activation</French>
             <Polish>Wybierz jaka grupa zostanie utworzona przez zasobnik droidów w momencie jego uruchomienia</Polish>
+            <Russian>Выбрать, какая группа будет заспавнена когда дроппод дроидов будет активирован</Russian>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_noGroup">
             <English>No group selected!</English>
             <French>Groupe non sélectionné</French>
             <Polish>Nie wybrano grupy!</Polish>
+            <Russian>Никакая группа не выбрана!</Russian>
         </Key>
         <Key ID="STR_ls_modules_dispenser_description">
             <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
             <French>Lorsqu'il est activé par un déclencheur, fait apparaître un distributeur de droïdes qui tombe du ciel. Les unités commenceront à être déployées après que le distributeur aura touché le sol et qu'un court délai se sera écoulé.&lt;br/&gt;L'impact du distributeur au sol inflige des dégâts.</French>
+            <Russian>При активации триггера спавнит дроппод дроидов в небе. Юниты начнут спавниться через некоторое время после приземления дроппода.&lt;br/&gt;Удар дроппода о землю наносит урон.</Russian>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
             <French>Serrure de Porte</French>
             <Polish>Status blokady drzwi</Polish>
+            <Russian>Статус блокировки двери</Russian>
         </Key>
         <Key ID="STR_ls_modules_lockState_tooltip">
             <English>Door locked state to search for</English>
             <French>État de la porte verrouillée pour la recherche</French>
             <Polish>Jakiego statusu blokady drzwi szukać</Polish>
+            <Russian>Поиск дверей в закрытом состоянии</Russian>
         </Key>
         <Key ID="STR_ls_modules_moduleAddReinsertAction">
             <English>Add Reinsert Action</English>
             <French>Ajouter une action de réinsertion</French>
             <Polish>Dodaj akcję ponownego rozmieszczenia</Polish>
+            <Russian>Добавить действие "Восстановления"</Russian>
         </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal">
             <English>Area Heal</English>
             <French>Soignez la zone</French>
             <Polish>Leczenie w obszarze</Polish>
+            <Russian>Зона лечения</Russian>
         </Key>
         <Key ID="STR_ls_modules_moduleBreachDoor">
             <English>Breach Door</English>
             <French>Forcer la porte</French>
             <Polish>Wyważ Drzwi</Polish>
+            <Russian>Взломать дверь</Russian>
         </Key>
         <Key ID="STR_ls_modules_moduleDeleteGroups">
             <English>Delete Empty Groups</English>
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
+            <Russian>Удалить пустые группы</Russian>
         </Key>
         <Key ID="STR_ls_modules_moduleSetSkills">
             <English>Set Skills</English>
             <French>Définir les compétences</French>
             <Polish>Ustaw Umiejętności</Polish>
+            <Russian>Установить навыки</Russian>
         </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo">
             <English>Toggle Active Camo</English>
             <French>Basculé Camouflage Actif</French>
             <Polish>Zmień Stan kamuflażu Optycznego</Polish>
+            <Russian>Переключить активный камуфляж</Russian>
         </Key>
         <Key ID="STR_ls_modules_noClosedDoorFound">
             <English>No closed door found!</English>
             <French>Aucune porte fermée trouvée</French>
             <Polish>Nie znaleziono zamkniętych drzwi!</Polish>
+            <Russian>Закрытые двери не найдены!</Russian>
         </Key>
         <Key ID="STR_ls_modules_noPlayer">
             <English>Unit must not be a player</English>
             <French>L'unité ne doit pas être un joueur</French>
             <Polish>Jednostka nie może być graczem</Polish>
+            <Russian>Юнит не должен быть игроком</Russian>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1556-L1572 -->
         <Key ID="STR_ls_modules_nothingSelected">
@@ -139,6 +159,7 @@
         <Key ID="STR_ls_modules_onlyConscious">
             <English>Unit must be conscious</English>
             <French>L'unité doit être consciente.</French>
+            <Russian>Юнит должен быть в сознании.</Russian>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1605-L1620 -->
         <Key ID="STR_ls_modules_onlyInfantry">
@@ -161,101 +182,121 @@
             <English>Search radius in meters</English>
             <French>Rayon de recherche en mètres</French>
             <Polish>Średnica obszaru poszukiwania w metrach</Polish>
+            <Russian>Радиус поиска в метрах</Russian>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
             <French>Limite d'apparition</French>
             <Polish>Limit Jednostek</Polish>
+            <Russian>Лимит спавна</Russian>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_tooltip">
             <English>Stops after spawning X units.\n-1 = unlimited</English>
             <French>Arrête de créer après X unités.\n-1 = illimité</French>
             <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
+            <Russian>Остановка после спавна X юнитов.\n-1 = Без лимита</Russian>
         </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
             <French>Compétences actualisées pour %1</French>
             <Polish>Zaktualizowano umiejętności dla %1</Polish>
+            <Russian>Установлены скиллы для %1</Russian>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
             <French>Gaussien</French>
             <Polish>Gaussowski</Polish>
+            <Russian>Гауссово</Russian>
         </Key>
         <Key ID="STR_lsb_common_distribution_name">
             <English>Distribution</English>
             <French>Distribution</French>
             <Polish>Rozmieszczenie</Polish>
+            <Russian>Размещение</Russian>
         </Key>
         <Key ID="STR_lsb_common_distribution_randomArea">
             <English>Random Area</English>
             <French>Zone Aléatoire</French>
             <Polish>Losowy Obszar</Polish>
+            <Russian>Случайная зона</Russian>
         </Key>
         <Key ID="STR_lsb_common_distribution_tooltip">
             <English>Set what distribution formula to use</English>
             <French>Sélectionner la formule de distribution</French>
             <Polish>Wybierz rodzaj formuły rozmieszczenia</Polish>
+            <Russian>Выбор формулы размещения к использованию</Russian>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_asteroids">
             <English>Asteroids</English>
             <French>Astéroïdes</French>
             <Polish>Asteroidy</Polish>
+            <Russian>Астероиды</Russian>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_asteroidsSmall">
             <English>Small Asteroids</English>
             <French>Petits Astéroïdes</French>
             <Polish>Małe Asteroidy</Polish>
+            <Russian>Малые Астероиды</Russian>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_name">
             <English>Debris Preset</English>
             <French>Préréglage de Débris</French>
             <Polish>Zestaw Szczątków</Polish>
+            <Russian>Пресет обломков</Russian>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_shipDebris">
             <English>Ship Debris</English>
             <French>Débris de Vaisseau</French>
             <Polish>Szczątki Statków</Polish>
+            <Polish>Обломки корабля</Polish>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_tooltip">
             <English>Set what group of objects to use</English>
             <French>Sélectionner le groupe d'objets à utiliser</French>
             <Polish>Wybierz grupę obiektów do użycia</Polish>
+            <Russian>Установить, какую группу объектов использовать</Russian>
         </Key>
         <Key ID="STR_lsb_modules_AttributeCount_name">
             <English>Count</English>
             <French>Total</French>
             <Polish>Liczba</Polish>
+            <Russian>Количество</Russian>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeCount_tooltip">
             <English>The number of debris objects to spawn</English>
             <French>Le nombre d'objets de débris à créer</French>
             <Polish>Ilość szczątków do rozmieszczenia</Polish>
+            <Russian>Количество пропов-обломков для спавна</Russian>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_name">
             <English>Debris Data</English>
             <French>Données sur les débris</French>
             <Polish>Informacje O Odłamkach</Polish>
+            <Russian>Данные об обломках</Russian>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_tooltip">
             <English>Do not edit directly!\nContains position and rotation data</English>
             <French>Ne pas modifier directement !\nContient les données de position et de rotation</French>
             <Polish>Nie edytuj bezpośrednio!\nZawiera informacje o pozycji i obrocie odłamków</Polish>
+            <Russian>Не редактировать напрямую!\nИмеет информацию о позиции и поворотах</Russian>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeParamsOld_name">
             <English>Space Debris Parameters</English>
             <French>Paramètres de Débris Spatiaux</French>
             <Polish>Parametry Szczątków</Polish>
+            <Russian>Параметры космических обломков</Russian>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_description">
             <English>Spawns a number of space debris objects floating in a random area around the module. The objects are created locally on each player's machine.</English>
             <French>Créer un nombre de débris spatiaux flottants dans une zone aléatoire autour du module. Les objets sont créés sur chaque machine de chaque joueur.</French>
             <Polish>Rozmieszcza określoną liczbę Szczątków wiszących w losowych pozycjach dookoła modułu. Obiekty są lokalne na maszynach graczy.</Polish>
+            <Russian>Спавнит определенное число парящих космических обломков в случайной зоне рядом с модулем. Объекты создаются локально на каждом клиенте</Russian>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_name">
             <English>Space Debris</English>
             <French>Débris Spatiaux</French>
             <Polish>Szczątki Kosmiczne</Polish>
+            <Russian>Космические Обломки</Russian>
         </Key>
     </Package>
 </Project>

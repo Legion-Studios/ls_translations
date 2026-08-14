@@ -5,16 +5,19 @@
             <English>Breacher</English>
             <French>Sapeur</French>
             <Polish>Wyważacz</Polish>
+            <Russian>Сапер</Russian>
         </Key>
         <Key ID="STR_ls_units_medic">
             <English>Medic</English>
             <French>Médecin</French>
             <Polish>Medyk</Polish>
+            <Russian>Медик</Russian>
         </Key>
         <Key ID="STR_ls_units_rto">
             <English>Radio Operator</English>
             <French>Opérateur Radio</French>
             <Polish>Operator Radiotelefonu</Polish>
+            <Russian>Связист</Russian>
         </Key>
     </Package>
 </Project>

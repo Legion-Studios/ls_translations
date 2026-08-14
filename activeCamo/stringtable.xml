@@ -11,7 +11,7 @@
             <English>Camouflage Coefficient</English>
             <French>Coefficient de camouflage</French>
             <Polish>Wspólczynnik kamuflażu</Polish>
-            <Russian>Коэффициент камуфляжности</Russian>
+            <Russian>Коэффициент камуфляжа</Russian>
         </Key>
         <Key ID="STR_ls_activeCamo_deactivate">
             <English>Deactivate Active Camo</English>
