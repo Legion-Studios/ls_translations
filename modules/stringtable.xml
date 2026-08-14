@@ -66,38 +66,41 @@
             <French>État de la porte verrouillée pour la recherche</French>
             <Polish>Jakiego statusu blokady drzwi szukać</Polish>
         </Key>
-        <Key ID="STR_ls_modules_moduleAddReinsertAction">
+        <Key ID="STR_ls_modules_moduleAddReinsertAction_displayName">
             <English>Add Reinsert Action</English>
             <French>Ajouter une action de réinsertion</French>
             <Polish>Dodaj akcję ponownego rozmieszczenia</Polish>
         </Key>
-        <Key ID="STR_ls_modules_moduleAreaHeal">
+        <Key ID="STR_ls_modules_moduleAreaHeal_description">
+            <English>Fully heal players that enter the module's area.</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleAreaHeal_displayName">
             <English>Area Heal</English>
             <French>Soignez la zone</French>
             <Polish>Leczenie w obszarze</Polish>
         </Key>
-        <Key ID="STR_ls_modules_moduleBreachDoor">
+        <Key ID="STR_ls_modules_moduleBreachDoor_displayName">
             <English>Breach Door</English>
             <French>Forcer la porte</French>
             <Polish>Wyważ Drzwi</Polish>
         </Key>
-        <Key ID="STR_ls_modules_moduleDeleteGroups">
+        <Key ID="STR_ls_modules_moduleDeleteGroups_displayName">
             <English>Delete Empty Groups</English>
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
         </Key>
-        <Key ID="STR_ls_modules_moduleDismountATRT">
+        <Key ID="STR_ls_modules_moduleDismountATRT_displayName">
             <English>Dismount AT-RT</English>
         </Key>
-        <Key ID="STR_ls_modules_moduleMountATRT">
+        <Key ID="STR_ls_modules_moduleMountATRT_displayName">
             <English>Mount AT-RT</English>
         </Key>
-        <Key ID="STR_ls_modules_moduleSetSkills">
+        <Key ID="STR_ls_modules_moduleSetSkills_displayName">
             <English>Set Skills</English>
             <French>Définir les compétences</French>
             <Polish>Ustaw Umiejętności</Polish>
         </Key>
-        <Key ID="STR_ls_modules_moduleToggleCamo">
+        <Key ID="STR_ls_modules_moduleToggleCamo_displayName">
             <English>Toggle Active Camo</English>
             <French>Basculé Camouflage Actif</French>
             <Polish>Zmień Stan kamuflażu Optycznego</Polish>
@@ -132,6 +135,12 @@
             <Chinesesimp>放置在一个单位上</Chinesesimp>
             <Turkish>Bir birim yerleştir</Turkish>
             <Hungarian>Semmi sincs az egér alatt</Hungarian>
+        </Key>
+        <Key ID="STR_ls_modules_onlyATRT">
+            <English>Unit must be an AT-RT or riding an AT-RT</English>
+        </Key>
+        <Key ID="STR_ls_modules_onlyATRTorRider">
+            <English>Unit must be an AT-RT or riding an AT-RT</English>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1573-L1589 -->
         <Key ID="STR_ls_modules_onlyAlive">
@@ -171,12 +180,6 @@
             <Chinese>單位必須是步兵</Chinese>
             <Chinesesimp>单位必须是步兵</Chinesesimp>
             <Hungarian>Csak járműben kívül lévő egységeken használni</Hungarian>
-        </Key>
-        <Key ID="STR_ls_modules_onlyATRTorRider">
-            <English>Unit must be an AT-RT or riding an AT-RT</English>
-        </Key>
-        <Key ID="STR_ls_modules_onlyATRT">
-            <English>Unit must be an AT-RT or riding an AT-RT</English>
         </Key>
         <Key ID="STR_ls_modules_radius_tooltip">
             <English>Search radius in meters</English>
