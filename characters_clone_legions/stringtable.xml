@@ -5,269 +5,324 @@
             <English>104th Wolfpack Battalion</English>
             <French>104e bataillon "Wolfpack"</French>
             <Polish>104-ty Batalion "Wolfpack"</Polish>
+            <Russian>104ый батальон "Волчья Стая"</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_13th">
             <English>13th Iron Battalion</English>
             <French>13e bataillon "Iron"</French>
             <Polish>13-ty Batalion "Iron"</Polish>
+            <Russian>13ый "Железный" батальон</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_187th">
             <English>187th Legion</English>
             <French>187e Légion</French>
             <Polish>187-my Legion</Polish>
+            <Russian>187ой Легион</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_212th">
             <English>212th Attack Batallion</English>
             <French>212e bataillon d'assaut</French>
             <Polish>212-ty Batalion Szturmowy</Polish>
+            <Russian>212ый ударный батальон</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_21st">
             <English>21st Nova Corps</English>
             <French>21e Nova Corps</French>
             <Polish>21-szy Korpus</Polish>
+            <Russian>21ый Нова Корпус</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_327th">
             <English>327th Sky Corps</English>
             <French>327e Corps d'armée stellaire</French>
             <Polish>327-my Korpus Gwiezdny</Polish>
+            <Russian>327ой Десантный Корпус</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_332nd">
             <English>332nd Legion</English>
             <French>332e Légion</French>
             <Polish>332-gi Legion</Polish>
+            <Russian>332ой Легион</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_34th">
             <English>34th Clone Assassins</English>
             <French>34e assassins</French>
             <Polish>34-ci Zamachowcy</Polish>
+            <Russian>34ый Клонов-Ассасинов</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_38th">
             <English>38th Armored Division</English>
             <French>38e division blindée</French>
             <Polish>38-ma Dywizja Pancerna</Polish>
+            <Russian>38ая Танковая Дивизия</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_41st">
             <English>41st Elite Corps</English>
             <French>41e corps d'élite</French>
             <Polish>41-szy Korpus Elitarny</Polish>
+            <Russian>41ый Элитный корпус</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_41stRb">
             <English>41st Ranger Battalion</English>
             <French>41e bataillon de rangers</French>
             <Polish>41-szy Batalion Desantowy</Polish>
+            <Russian>41ый батальон рейнджеров</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_41stgc">
             <English>41st Green Company</English>
             <French>41e compagnie verte</French>
             <Polish>41-sza Kompania "Zielona"</Polish>
+            <Russian>41ая "Зеленая" рота</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_442nd">
             <English>442nd Siege Battalion</English>
             <French>442e bataillon d'assiégé</French>
             <Polish>442-gi Batalion Oblężniczy</Polish>
+            <Russian>442ой Осадный Батальон</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_501st">
             <English>501st Legion</English>
             <French>501e Légion</French>
             <Polish>501-sza Legion</Polish>
+            <Russian>501ый Легион</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_5th">
             <English>5th Security Fleet</English>
             <French>5e flotte de sécurité</French>
             <Polish>5-ta Grupa Ochrony Floty</Polish>
+            <Russian>5ый Оборонный Флот</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_612th">
             <English>612th Attack Battalion</English>
             <French>612e bataillon d'assaut</French>
             <Polish>612-ty Batalion Szturmowy</Polish>
+            <Russian>612ый Ударный Батальон</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_74th">
             <English>74th Legion</English>
             <French>74e Légion</French>
             <Polish>74-ta Legion</Polish>
+            <Russian>74ый Легион</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_91st">
             <English>91st Recon Corps</English>
             <French>91e corps de reconnaissance</French>
             <Polish>91-szy Korpus Zwiadowczy</Polish>
+            <Russian>91ый Развед. Корпус</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_9th">
             <English>9th Assault Corps</English>
             <French>9e corps d'assaut</French>
             <Polish>9-ty Korpus Szturmowy</Polish>
+            <Russian>9ый Штурмовой Корпус</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_AT">
             <English>Clone Trooper (AT)</English>
             <French>Clone soldat (AT)</French>
             <Polish>Żołnierz Klon (Przeciw-Pancerny)</Polish>
+            <Russian>Солдат-клон (Противотанкист)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_DC15S">
             <English>Clone Trooper (DC-15S)</English>
             <French>Clone soldat (DC-15S)</French>
             <Polish>Żołnierz Klon (DC-15S)</Polish>
+            <Russian>Солдат-клон (DC-15S)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_aiwhaSquad">
             <English>Aiwha Squad</English>
             <French>Escouade Aiwha</French>
             <Polish>Oddział Aiwha</Polish>
+            <Russian>Отряд 'Айва'</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_arcPilot">
             <English>Clone Pilot (ARC-170)</English>
             <French>Clone pilote (ARC-170)</French>
             <Polish>Klon Pilot (ARC-170)</Polish>
+            <Russian>Клон-летчик (ARC-170)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_atrtDriver">
             <English>Clone AT-RT Driver</English>
+            <Russian>Мехвод AT-RT</Russian>
             <French>Pilote clone d'AT-RT</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_bravoSquad">
             <English>Bravo Squad</English>
             <French>Escouade Bravo</French>
             <Polish>Oddział Bravo</Polish>
+            <Russian>Отряд Браво</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_breacher">
             <English>Clone Trooper (Breacher)</English>
             <French>Clone soldat (briseur)</French>
             <Polish>Żołnierz Klon (Wyważający)</Polish>
+            <Russian>Солдат Клон (Сапер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_captain">
             <English>Clone Captain</English>
             <French>Clone capitaine</French>
             <Polish>Klon Kapitan</Polish>
+            <Russian>Клон Капитан</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_commander">
             <English>Clone Commander</English>
             <French>Commandant clone</French>
             <Polish>Klon Komandor</Polish>
+            <Russian>Клон коммандер</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_coruscantGuard">
             <English>Coruscant Guard</English>
             <French>Garde de Coruscant</French>
             <Polish>Gwardia Coruscant</Polish>
+            <Russian>Корусантская Гвардия</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_deltaSquad">
             <English>Delta Squad</English>
             <French>Escouade Delta</French>
             <Polish>Oddział Delta</Polish>
+            <Russian>Отряд Дельта</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_demo">
             <English>Clone Demolitions Expert</English>
             <French>Clone expert en démolitions</French>
             <Polish>Żołnierz Klon (Saper)</Polish>
+            <Russian>Солдат клон (Взрывотехник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_du">
             <English>Doom's Unit</English>
             <French>Unité "Doom"</French>
             <Polish>Jednostka "Doom"</Polish>
+            <Russian>"Адское" подразделение</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_heavyAA">
             <English>Clone Trooper (Missile AA)</English>
             <French>Soldat Clone (missile AA)</French>
             <Polish>Żołnierz Klon (Przeciw-Lotniczy)</Polish>
+            <Russian>Солдат-клон (ПЗРК)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_heavyAT">
             <English>Clone Trooper (Missile AT)</English>
             <French>Soldat Clone (missile AT)</French>
             <Polish>Żołnierz Klon (Ciężki Przeciw-Pancerny)</Polish>
+            <Russian>Солдат-клон (ПТРК)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_hornCompany">
             <English>Horn Company</English>
             <French>Compagnie "Horn"</French>
             <Polish>Kompania "Horn"</Polish>
+            <Russian>Рота "Хорн"</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_kCompany">
             <English>327th K Company</English>
             <French>327e Compagnie K</French>
             <Polish>327-ma Kompania K</Polish>
+            <Russian>Рота "Кей" 327го</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_lieutenant">
             <English>Clone Lieutenant</English>
             <French>Clone lieutenant</French>
             <Polish>Klon Porucznik</Polish>
+            <Russian>Клон лейтенант</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_medic">
             <English>Clone Medic</English>
             <French>Clone médecin</French>
             <Polish>Klon Medyk</Polish>
+            <Russian>Клон Санитар</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_misc">
             <English>Miscellaneous</English>
             <French>Divers</French>
             <Polish>Różne</Polish>
+            <Russian>Разное</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_mpSkins">
             <English>Multiplayer Skins</English>
             <French>Costumes multijoueur</French>
             <Polish>Skórki trybu Wieloosobowego</Polish>
+            <Russian>Скины Мультиплеера</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_omegaSquad">
             <English>Omega Squad</English>
             <French>Escouade Omega</French>
             <Polish>Oddział Omega</Polish>
+            <Russian>Отряд Омега</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_pilot">
             <English>Clone Pilot</English>
             <French>Pilote clone</French>
             <Polish>Klon Pilot</Polish>
+            <Russian>Клон Летчик</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_rancor">
             <English>RANCOR Battalion</English>
             <French>Bataillon "RANCOR"</French>
             <Polish>Batalion "RANCOR"</Polish>
+            <Russian>Батальон "Ранкор"</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_rto">
             <English>Clone Trooper (RTO)</English>
             <French>Soldat clone (RTO)</French>
             <Polish>Żołnierz Klon (Radiotelefon)</Polish>
+            <Russian>Солдат-клон (Связист)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_sergeant">
             <English>Clone Sergeant</English>
             <French>Sergent clone</French>
             <Polish>Klon Sierżant</Polish>
+            <Russian>Клон-Сержант</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_sniper">
             <English>Clone Sniper</English>
             <French>Sniper clone</French>
             <Polish>Klon Snajper</Polish>
+            <Russian>Клон снайпер</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_supportGunner">
             <English>Clone Support Gunner</English>
             <French>Tireur de soutien clone</French>
             <Polish>Klon Wsparcia Ogniowego</Polish>
+            <Russian>Клон огневой поддержки</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_vwingPilot">
             <English>Clone Pilot (V-Wing)</English>
             <French>Pilote clone (V-Wing)</French>
             <Polish>Klon Pilot (V-Wing)</Polish>
+            <Russian>Клон летчик (V-Wing)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_yayaxSquad">
             <English>Yayax Squad</English>
             <French>Escouade "Yayax"</French>
             <Polish>Oddział "Yayax"</Polish>
+            <Russian>Отряд "Аякс"</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaDikut">
             <English>Clone Commando (Aiwha [Di'kut])</English>
             <French>Commando clone (Aiwha [Di'kut])</French>
+            <Russian>Клон коммандос (Айхва [Ди'Кут])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaSarge">
             <English>Clone Commando (Aiwha [Sarge])</English>
             <French>Commando clone (Aiwha [Sarge])</French>
+            <Russian>Клон коммандос (Айхва [Сардж])</Russian> 
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaTyto">
             <English>Clone Commando (Aiwha [Tyto])</English>
             <French>Commando clone (Aiwha [Tyto])</French>
+            <Russian>Клон Коммандос (Айхва [Тито])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaZag">
             <English>Clone Commando (Aiwha [Zag])</English>
             <French>Commando clone (Aiwha [Zag])</French>
+            <Russian>Клон коммандос (Айхва [Заг])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo2">
             <English>Clone Commando (Bravo [2])</English>
             <French>Commando clone (Bravo [2])</French>
+            <Russian>Клон коммандов (Браво [2])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo3">
             <English>Clone Commando (Bravo [3])</English>
             <French>Commando clone (Bravo [3])</French>
+            <Russian>Клон коммандо (Браво [3])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo4">
             <English>Clone Commando (Bravo [4])</English>
@@ -276,78 +331,97 @@
         <Key ID="STR_ls_characters_clone_legions_commando_bravoRam">
             <English>Clone Commando (Bravo [Ram])</English>
             <French>Commando clone (Bravo [Ram])</French>
+            <Russian>Клон Коммандо (Браво [Рам])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaBoss">
             <English>Clone Commando (Delta [Boss])</English>
             <French>Commando clone (Delta [Boss])</French>
+            <Russian>Клон коммандос (Дельта [Босс])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaFixer">
             <English>Clone Commando (Delta [Fixer])</English>
             <French>Commando clone (Delta [Fixer])</French>
+            <Russian>Клон коммандос (Дельта [Фиксер])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaScorch">
             <English>Clone Commando (Delta [Scorch])</English>
             <French>Commando clone (Delta [Scorch])</French>
+            <Russian>Клон коммандос (Дельта [Скорч])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaSev">
             <English>Clone Commando (Delta [Sev])</English>
             <French>Commando clone (Delta [Sev])</French>
+            <Russian>Клон коммандос (Дельта [Сев])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_foxtrotGregor">
             <English>Clone Commando (Foxtrot [Gregor])</English>
             <French>Commando clone (Foxtrot [Gregor])</French>
+            <Russian>Клон коммандос(Фокстрот [Грегор])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_hodasalJungle">
             <English>Clone Commando (Hodasal Camo)</English>
             <French>Commando clone (Hodasal Camo)</French>
+            <Russian>Клон коммандос (Камуфляж "Ходасал")</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpGunner">
             <English>Clone Commando (Gunner)</English>
             <French>Commando clone (Artilleur)</French>
+            <Russian>Клон коммандос (Стрелок-оператор)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpMarksman">
             <English>Clone Commando (Marksman)</English>
             <French>Commando clone (Tireur de précision)</French>
+            <Russian>Клон коммандос (Марксман)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpRecon">
             <English>Clone Commando (Recon)</English>
             <French>Commando clone (Reconnaissance)</French>
+            <Russian>Клон коммандос (Разведчик)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpStealth">
             <English>Clone Commando (Stealth)</English>
             <French>Commando clone (Furtif)</French>
+            <Russian>Клон коммандос (Фортиф)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaAtin">
             <English>Clone Commando (Omega [Atin])</English>
             <French>Commando clone (Omega [Atin])</French>
+            <Russian>Клон коммандос (Омега [Атин])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaDarman">
             <English>Clone Commando (Omega [Darman])</English>
             <French>Commando clone (Omega [Darman])</French>
+            <Russian>Клон коммандос (Омега [Дарман])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaFi">
             <English>Clone Commando (Omega [Fi])</English>
             <French>Commando clone (Omega [Fi])</French>
+            <Russian>Клон коммандос (Омега [Фай])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaNiner">
             <English>Clone Commando (Omega [Niner])</English>
             <French>Commando clone (Omega [Niner])</French>
+            <Russian>Клон коммандос (Омега [Найнер])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxCov">
             <English>Clone Commando (Yayax [Cov])</English>
             <French>Commando clone (Yayax [Cov])</French>
+            <Russian>Клон коммандос (Аякс [Ков])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxDev">
             <English>Clone Commando (Yayax [Dev])</English>
             <French>Commando clone (Yayax [Dev])</French>
+            <Russian>Клон коммандос (Аякс [Дэв])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxJind">
             <English>Clone Commando (Yayax [Jind])</English>
             <French>Commando clone (Yayax [Jind])</French>
+            <Russian>Клон коммандос (Аякс [Джинд])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxYover">
             <English>Clone Commando (Yayax [Yover])</English>
             <French>Commando clone (Yayax [Yover])</French>
+            <Russian>Клон коммандос (Аякс [Йовер])</Russian>
         </Key>
     </Package>
 </Project>

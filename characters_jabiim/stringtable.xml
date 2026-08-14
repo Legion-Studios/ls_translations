@@ -5,73 +5,89 @@
             <English>Jabiimi Nationalist Goggles</English>
             <French>Lunettes de Nationaliste Jabiimi</French>
             <Polish>Gogle Nacjonalistów z Jabiim</Polish>
+            <Russian>Очки джабиимских националистов</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nationalist_goggles_raised">
             <English>Jabiimi Nationalist Goggles (Raised)</English>
             <French>Lunettes de Nationaliste Jabiimi (Levées)</French>
             <Polish>Gogle Nacjonalistów z Jabiim (Podniesione)</Polish>
+            <Russian>Очки джабиимских националистов (Подняты)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nationalist_helmet">
             <English>Jabiimi Nationalist Helmet</English>
             <French>Casque de Nationaliste Jabiimi</French>
             <Polish>Hełm Nacjonalistów z Jabiim</Polish>
+            <Russian>Шлем джабиимских националистов</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbusCommandos">
             <English>Nimbus Commandos</English>
             <French>Commandos Nimbus</French>
             <Polish>Komandosi Nimbus</Polish>
+            <Russian>Коммандос Нимбуса</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_at">
             <English>Commando (AT)</English>
             <French>Commando (AC)</French>
+            <Russian>Коммандо (ПТ)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
             <English>Nimbus Commando Backpack</English>
             <French>Sac à Dos de Commando Nimbus</French>
             <Polish>Plecak Komandosa Nimbus</Polish>
+            <Russian>Рюкзак Нимбус коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_demo">
             <English>Commando (Demo)</English>
             <French>Commando (Démolition)</French>
+            <Russian>Коммандо (Сапер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier">
             <English>Commando (Grenadier)</English>
             <French>Commando (Grenadier)</French>
+            <Russian>Коммандо (Гренадер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier_helmet">
             <English>Nimbus Grenadier Helmet</English>
             <French>Casque de Grenadier Nimbus</French>
             <Polish>Hełm Grenadiera Nimbus</Polish>
+            <Russian>Шлем Нимбус гренадера</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_heavy">
             <English>Commando (Machine Gunner)</English>
             <French>Commando (Mitrailleur)</French>
+            <Russian>Коммандо (Лучеметчик)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_heavyAA">
             <English>Commando (Missile AA)</English>
             <French>Commando (Missile AA)</French>
+            <Russian>Коммандо (ПЗРК)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_heavyAT">
             <English>Commando (Missile AT)</English>
             <French>Commando (Missile AC)</French>
+            <Russian>Коммандо (ПТРК)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_helmet">
             <English>Nimbus Commando Helmet</English>
             <French>Casque de Commando Nimbus</French>
             <Polish>Hełm Komandosa Nimbus</Polish>
+            <Russian>Шлем Нимбус коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_shotgun">
             <English>Commando (Shotgun)</English>
             <French>Commando (Fusil à pompe)</French>
+            <Russian>Коммандо (Дробовик)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_sniper">
             <English>Commando (Marksman)</English>
             <French>Commando (Tireur de précision)</French>
+            <Russian>Коммандо (Марксман)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_uniform">
             <English>Nimbus Commando Armor</English>
             <French>Armure de Commando Nimbus</French>
             <Polish>Zbroja Komandosa Nimbus</Polish>
+            <Russian>Броня Нибус коммандо</Russian>
         </Key>
     </Package>
 </Project>

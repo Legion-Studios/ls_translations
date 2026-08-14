@@ -5,11 +5,13 @@
             <English>Rebel Chest Pouches</English>
             <French>Poches de Poitrine Rebelles</French>
             <Polish>Rebelianckie Ładownice Piersiowe</Polish>
+            <Russian>Нагрудные подсумки повстанцев</Russian>
         </Key>
         <Key ID="STR_ls_characters_rebels_honorGuard_uniform">
             <English>Rebel Honor Guard Fatigues</English>
             <French>Treillis de garde d'honneur rebel</French>
             <Polish>Mundur Gwardii Honorowej Rebelii</Polish>
+            <Russian>Костюм почетной гвардии повстанцев</Russian>
         </Key>
     </Package>
 </Project>

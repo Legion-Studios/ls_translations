@@ -6,6 +6,7 @@
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_displayName">
             <English>MAAD-38 Laser Cannon</English>
+            <Russian>Лаз-пушка MAAD-38</Russian>
             <French>Canon laser MAAD-38 d'AT-RT</French>
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_magazine_descriptionShort">
