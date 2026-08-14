@@ -6,8 +6,8 @@
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_displayName">
             <English>MAAD-38 Laser Cannon</English>
-            <Russian>Лаз-пушка MAAD-38</Russian>
             <French>Canon laser MAAD-38 d'AT-RT</French>
+            <Russian>Лаз-пушка MAAD-38</Russian>
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_magazine_descriptionShort">
             <English>Caliber: 20mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: MAAD-38 Laser Cannon</English>

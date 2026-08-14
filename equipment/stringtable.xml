@@ -7,58 +7,58 @@
         </Key>
         <Key ID="STR_ls_equipment_createEquipmentCategory_tooltip">
             <English>If enabled, creates a custom category in the ACE Arsenal for special equipment items.</English>
-            <Russian>Если включено, показывает кастомную категорию в АСЕ арсенале для определенных элементов снаряжения.</Russian>
             <French>Si activé, crée une catégorie personnalisée dans l'arsenal ACE pour des objets d'équipement spéciaux.</French>
+            <Russian>Если включено, показывает кастомную категорию в АСЕ арсенале для определенных элементов снаряжения.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_name">
             <English>Rangefinder Overlay - Enabled</English>
-            <Russian>Оверлей дальномера - Включен</Russian>
             <French>Calque télémètre - Activé</French>
+            <Russian>Оверлей дальномера - Включен</Russian>
         </Key>
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_tooltip">
             <English>If enabled, nvgs can configure a display to show interactive elements when turning on the nvgs.</English>
-            <Russian>Если включено, ПНВ могут настроить дисплей для отображения интерактивных элементов при использовании.</Russian>
             <French>Si activé, les LVN peuvent afficher les éléments interactifs quand elles sont activées.</French>
+            <Russian>Если включено, ПНВ могут настроить дисплей для отображения интерактивных элементов при использовании.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_repairKit_descriptionShort">
             <English>A light repair kit, capable of repairing simple equipment</English>
-            <Russian>Небольшой набор инструментов, способный к починке простого снаряжения</Russian>
             <French>Un kit de réparation léger, capable de réparer les équipements simples.</French>
+            <Russian>Небольшой набор инструментов, способный к починке простого снаряжения</Russian>
         </Key>
         <Key ID="STR_ls_equipment_repairKit_displayName">
             <English>Repair Kit</English>
-            <Russian>Набор инструментов</Russian>
             <French>Kit de réparation</French>
+            <Russian>Набор инструментов</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_name">
             <English>Squad Shield - Health</English>
-            <Russian>Сквад-шилд - Здоровье</Russian>
             <French>Bouclier d'escouade - Vie</French>
+            <Russian>Сквад-шилд - Здоровье</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_tooltip">
             <English>The max health of the squad shield's shield.</English>
-            <Russian>Максимальное здоровье щита сквад-шилда.</Russian>
             <French>La vie maximale du bouclier d'escouade.</French>
+            <Russian>Максимальное здоровье щита сквад-шилда.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_broken_displayName">
             <English>Squad Shield (Broken)</English>
-            <Russian>Сквад-шилд(Сломан)</Russian>
             <French>Bouclier d'escouade (cassé)</French>
+            <Russian>Сквад-шилд(Сломан)</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_broken_packed_descriptionShort">
             <English>A broken squad shield, place and repair with a Toolkit</English>
-            <Russian>Сломанный сквад-шилд. Разместите и почините набором инструментов</Russian>
             <French>Un bouclier d'escouade cassé, à placer et réparer avec un kit de réparation.</French>
+            <Russian>Сломанный сквад-шилд. Разместите и почините набором инструментов</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_displayName">
             <English>Squad Shield</English>
-            <Russian>Сквад-шилд</Russian>
             <French>Bouclier d'escouade</French>
+            <Russian>Сквад-шилд</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_packed_descriptionShort">
             <English>A deployable squad shield</English>
-            <Russian>Размещаемый сквад-шилд</Russian>
             <French>Un bouclier d'escouade déployable.</French>
+            <Russian>Размещаемый сквад-шилд</Russian>
         </Key>
     </Package>
 </Project>
