@@ -33,7 +33,8 @@
         <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
             <English>Nimbus Commando Backpack</English>
             <French>Sac à Dos de Commando Nimbus</French>
-            <Polish>Рюкзак Нимбус коммандо</Polish>
+            <Polish>Plecak Komandosa Nimbus</Polish>
+            <Russian>Рюкзак Нимбус коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_demo">
             <English>Commando (Demo)</English>

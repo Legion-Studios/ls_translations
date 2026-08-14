@@ -28,8 +28,8 @@
         <Key ID="STR_ls_characters_meme_nut">
             <English>The Nut</English>
             <French>La Cacahuète</French>
-            <Polish>Orzeszek</Russian>
-            <Russian>Орешек</Polish>
+            <Polish>Orzeszek</Polish>
+            <Russian>Орешек</Russian>
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased">
             <English>The Pleased Nut</English>

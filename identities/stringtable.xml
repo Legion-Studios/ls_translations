@@ -281,7 +281,7 @@
             <French>Homme zabrak rouge 1 (tatouage 3)</French>
 			<Russian>Забрак муж. крас. 1 (Тату 3)</Russian>
         </Key>
-       <Key ID="STR_ls_identities_zabrak_male2t0_base">
+        <Key ID="STR_ls_identities_zabrak_male2t0_base">
             <English>Zabrak Male Base 2 (Tattoo 0)</English>
             <French>Homme zabrak 2 (tatouage 0)</French>
 			<Russian>Забрак муж. 2 (Тату 0)</Russian>
@@ -307,9 +307,9 @@
 			<Russian>Забрак муж. 2 (Тату 1)</Russian>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t1_orange">
-            <English>Zabrak Male Orange 2 (Tattoo 2)</English>
-            <French>Homme zabrak orange 2 (tatouage 2)</French>
-			<Russian>Забрак муж. оранж. 2 (Тату 2)</Russian>
+            <English>Zabrak Male Orange 2 (Tattoo 1)</English>
+            <French>Homme zabrak orange 2 (tatouage 1)</French>
+			<Russian>Забрак муж. оранж. 2 (Тату 1)</Russian>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t1_pale">
             <English>Zabrak Male Pale 2 (Tattoo 1)</English>
