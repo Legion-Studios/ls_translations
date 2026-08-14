@@ -18,8 +18,30 @@ import xml.etree.ElementTree as ET
 PROJECT_NAME = "Legion Studios"
 MOD_PREFIX = "ls"
 
+SUPPORTED_LANGUAGES: list[str] = [
+    "English",
+    "Czech",
+    "French",
+    "Spanish",
+    "Italian",
+    "Polish",
+    "Portuguese",
+    "Russian",
+    "German",
+    "Korean",
+    "Japanese",
+    "Chinese",
+    "Chinesesimp",
+    "Turkish",
+    "Slovak",
+    "Ukrainian",
+    "Latin",
+    "Bulgarian",
+    "Hungarian"
+]
 
-def check_stringtable(filepath):
+
+def check_stringtable(filepath: str):
     try:
         tree = ET.parse(filepath)
     except Exception as e:
@@ -67,14 +89,14 @@ def check_stringtable(filepath):
         for container in package.findall("Container"):
             keys.extend(container.findall("Key"))
 
-        key_ids = []
+        key_ids: list[str] = []
         key_prefix = "STR_{}_{}_".format(MOD_PREFIX, package_name)
 
         for key in keys:
-            key_id = key.get("ID")
+            key_id: str = key.get("ID", "")
 
             # Verify that the key has a valid ID attribute
-            if key_id is None:
+            if key_id == "":
                 print("  ERROR: Key '{}' had no ID attribute.".format(key_id))
                 errors += 1
             elif key_id.find(key_prefix) != 0:
@@ -108,14 +130,32 @@ def check_stringtable(filepath):
                         "  ERROR: Key '{}' does not have its English translation listed first.".format(key_id))
                     errors += 1
 
+                for entry in entries:
+                    text = entry.text
+                    if not text:
+                        print(
+                            f"  ERROR: Key '{key_id}' empty translation.")
+                        errors += 1
+                        continue
+
+                    if text != text.strip():
+                        print(
+                            f"  ERROR: Key '{key_id}' has leading or trailing whitespace.")
+                        errors += 1
+
                 languages = list(map(lambda l: l.tag, entries))
 
                 for language in set(languages):
                     count = languages.count(language)
 
+                    if language not in SUPPORTED_LANGUAGES:
+                        print(
+                            f"  ERROR: Key '{key_id}' has unsupported language '{language}'.\n    Supported languages: {', '.join(SUPPORTED_LANGUAGES)}")
+                        errors += 1
+
                     if count > 1:
-                        print("  ERROR: Key '{}' has {} {} translations.".format(
-                            key_id, count, language))
+                        print(
+                            f"  ERROR: Key '{key_id}' has {count} {language} translations.")
                         errors += 1
 
         # Verify that key IDs are unique
@@ -161,7 +201,7 @@ def main():
     root_dir = "."
 
     # Check all stringtable.xml files in the project directory
-    stringtable_files = []
+    stringtable_files: list[str] = []
 
     for root, _, files in os.walk(root_dir):
         for file in fnmatch.filter(files, "stringtable.xml"):
