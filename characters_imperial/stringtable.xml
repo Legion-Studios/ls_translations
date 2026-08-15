@@ -536,7 +536,7 @@
             <English>Riot Control</English>
             <French>Anti-émeute</French>
             <Polish>Kontrola Tłumu</Polish>
-            <Russian>Контр-мятежники</Russian> <!-- Same meaning as the Riot Control but understandable for RUS-->
+            <Russian>Контр-мятежники</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_rolled_black_uniform">
             <English>Imperial Army Fatigues (Rolled, Black)</English>

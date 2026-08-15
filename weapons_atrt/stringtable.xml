@@ -3,8 +3,8 @@
     <Package name="weapons_atrt">
         <Key ID="STR_ls_weapons_atrt_laserCannon_displayName">
             <English>AT-RT Laser Cannon</English>
-            <Russian>Лаз-пушка MAAD-38</Russian>
             <French>Canon laser MAAD-38 d'AT-RT</French>
+            <Russian>Лаз-пушка MAAD-38</Russian>
         </Key>
     </Package>
 </Project>
