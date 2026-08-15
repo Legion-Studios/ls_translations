@@ -7,33 +7,33 @@
         </Key>
         <Key ID="STR_ls_groups_diplomaticEscort">
             <English>Diplomatic Escort</English>
-            <Russian>Эскорт дипломатов</Russian>
             <French>Escorte diplomatique</French>
+            <Russian>Эскорт дипломатов</Russian>
         </Key>
         <Key ID="STR_ls_groups_droidekaTeam">
             <English>Droideka Team</English>
-            <Russian>Расчет дроидек</Russian>
             <French>Équipe de droïdekas</French>
+            <Russian>Расчет дроидек</Russian>
         </Key>
         <Key ID="STR_ls_groups_heavyInfantry">
             <English>Heavy Infantry</English>
-            <Russian>Тяжелая пехота</Russian>
             <French>Infanterie lourde</French>
+            <Russian>Тяжелая пехота</Russian>
         </Key>
         <Key ID="STR_ls_groups_patrol">
             <English>Patrol</English>
-            <Russian>Патруль</Russian>
             <French>Patrouille</French>
+            <Russian>Патруль</Russian>
         </Key>
         <Key ID="STR_ls_groups_raptorPack">
             <English>Raptor Pack</English>
-            <Russian>Стайка Рапторов</Russian>
             <French>Meute de Raptors</French>
+            <Russian>Стайка Рапторов</Russian>
         </Key>
         <Key ID="STR_ls_groups_securityTeam">
             <English>Security Team</English>
-            <Russian>Отряд охраны</Russian>
             <French>Équipe de sécurité</French>
+            <Russian>Отряд охраны</Russian>
         </Key>
         <Key ID="STR_ls_groups_supportGunnerTeam">
             <English>Support Gunner Team</English>

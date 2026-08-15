@@ -7,48 +7,48 @@
         </Key>
         <Key ID="STR_ls_map_attributeObjectMarkerEnabled_tooltip">
             <English>If enabled, shows custom map icons for configured objects. Mostly used for large structures like capital ships</English>
-            <Russian>Если включено, показывает кастомные иконки карты для настроенных объектов. Обычно используется для огромных объектов, по типу звездолетов</Russian>
             <French>Si activé, affiche des icônes de carte personnalisées pour les objets configurés. Souvent utilisé pour les grandes structures comme les vaisseaux capitaux.</French>
+            <Russian>Если включено, показывает кастомные иконки карты для настроенных объектов. Обычно используется для огромных объектов, по типу звездолетов</Russian>
         </Key>
         <Key ID="STR_ls_map_attributeObjectMarkerShowName_name">
             <English>Map - Show Object Name</English>
-            <Russian>Карта - Показать имя объекта</Russian>
             <French>Carte - Afficher le nom de l'objet</French>
+            <Russian>Карта - Показать имя объекта</Russian>
         </Key>
         <Key ID="STR_ls_map_attributeObjectMarkerShowName_tooltip">
             <English>If enabled, displays the name of the object on the map. Requires object marker to be enabled.</English>
-            <Russian>Если включено, показывает имя объекта на карте. Требуется включить метку объекта!</Russian>
             <French>Si activé, affiche le nom de l'objet sur la carte. Exige que le marqueur de l'objet soit activé.</French>
+            <Russian>Если включено, показывает имя объекта на карте. Требуется включить метку объекта!</Russian>
         </Key>
         <Key ID="STR_ls_map_objectMarkersEnabled_name">
             <English>Object Markers - Enabled</English>
-            <Russian>Метка объекта - Включена</Russian>
             <French>Marqueurs d'objets - activés</French>
+            <Russian>Метка объекта - Включена</Russian>
         </Key>
         <Key ID="STR_ls_map_objectMarkersEnabled_tooltip">
             <English>If enabled, shows custom map icons for configured objects. Mostly used for large structures like capital ships.</English>
-            <Russian>Если включено, показывает кастомные иконки карты для настроенных объектов. Обычно используется для огромных объектов, по типу звездолетов</Russian>
             <French>Si activé, affiche des icônes de carte personnalisées pour les objets configurés. Souvent utilisé pour les grandes structures comme les vaisseaux capitaux.</French>
+            <Russian>Если включено, показывает кастомные иконки карты для настроенных объектов. Обычно используется для огромных объектов, по типу звездолетов</Russian>
         </Key>
         <Key ID="STR_ls_map_objectMarkersOpacity_name">
             <English>Object Markers - Opacity</English>
-            <Russian>Метка объекта - Непрозрачность</Russian>
             <French>Marqueurs d'objets - opacité</French>
+            <Russian>Метка объекта - Непрозрачность</Russian>
         </Key>
         <Key ID="STR_ls_map_objectMarkersOpacity_tooltip">
             <English>Opacity of object markers.</English>
-            <Russian>Непрозрачность меток объектов.</Russian>
             <French>L'opacité des marqueurs d'objets.</French>
+            <Russian>Непрозрачность меток объектов.</Russian>
         </Key>
         <Key ID="STR_ls_map_objectMarkersShowName_name">
             <English>Object Markers - Show Names</English>
-            <Russian>Метка объекта - Показать имя</Russian>
             <French>Marqueurs d'objets - afficher les noms</French>
+            <Russian>Метка объекта - Показать имя</Russian>
         </Key>
         <Key ID="STR_ls_map_objectMarkersShowName_tooltip">
             <English>If enabled, shows names for objects.</English>
-            <Russian>Если включено, показывает имена объектов.</Russian>
             <French>Si activé, affiche les noms des objets.</French>
+            <Russian>Если включено, показывает имена объектов.</Russian>
         </Key>
     </Package>
 </Project>

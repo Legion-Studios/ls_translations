@@ -141,8 +141,8 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_atrtDriver">
             <English>Clone AT-RT Driver</English>
-            <Russian>Мехвод AT-RT</Russian>
             <French>Pilote clone d'AT-RT</French>
+            <Russian>Мехвод AT-RT</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_bravoSquad">
             <English>Bravo Squad</English>
@@ -302,7 +302,7 @@
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaSarge">
             <English>Clone Commando (Aiwha [Sarge])</English>
             <French>Commando clone (Aiwha [Sarge])</French>
-            <Russian>Клон коммандос (Айхва [Сардж])</Russian> 
+            <Russian>Клон коммандос (Айхва [Сардж])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaTyto">
             <English>Clone Commando (Aiwha [Tyto])</English>

@@ -248,7 +248,7 @@
             <English>Ship Debris</English>
             <French>Débris de Vaisseau</French>
             <Polish>Szczątki Statków</Polish>
-            <Polish>Обломки корабля</Polish>
+            <Russian>Обломки корабля</Russian>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_tooltip">
             <English>Set what group of objects to use</English>
