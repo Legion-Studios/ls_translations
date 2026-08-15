@@ -3,6 +3,8 @@
     <Package name="common">
         <Key ID="STR_ls_common_activateShield">
             <English>Activate shield</English>
+            <French>Activer le bouclier</French>
+            <Russian>Активировать щит</Russian>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L264-L281 -->
         <Key ID="STR_ls_common_cancel">
@@ -26,6 +28,7 @@
         <Key ID="STR_ls_common_cancelled">
             <English>Cancelled</English>
             <French>Annulé</French>
+            <Russian>Отмененное</Russian>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L568-L584 -->
         <Key ID="STR_ls_common_confirm">
@@ -47,6 +50,8 @@
         </Key>
         <Key ID="STR_ls_common_deactivateShield">
             <English>Deactivate shield</English>
+            <French>Désactiver le bouclier</French>
+            <Russian>Деактивировать щит</Russian>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
@@ -69,89 +74,112 @@
         <Key ID="STR_ls_common_edsubcat_chissAscendency">
             <English>Chiss Ascendency</English>
             <French>Ascendance Chiss</French>
+            <Russian>Господа Чиссы</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p1">
             <English>Clone Trooper (Phase 1)</English>
             <French>Soldat clone (Phase 1)</French>
+            <Russian>Солдат-клоны (Фаза 1)</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p2">
             <English>Clone Trooper (Phase 2)</English>
             <French>Soldat clone (Phase 2)</French>
+            <Russian>Солдат-клоны (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_droids">
             <English>Droids</English>
             <French>Droïdes</French>
+            <Russian>Дроиды</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_fob">
             <English>FOB Components</English>
             <French>Composants de FOB</French>
+            <Russian>Компоненты ФОБа</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_hallways">
             <English>Hallways</English>
             <French>Couloirs</French>
+            <Russian>Коридоры</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_items">
             <English>Items</English>
             <French>Objets</French>
+            <Russian>Предметы</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_itemsSmall">
             <English>Items - Small</English>
             <French>Objets - Petits</French>
+            <Russian>Предметы - Малые</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_mirialan">
             <English>Mirialan</English>
             <French>Mirialan</French>
+            <Russian>Мириалан</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_nationalists">
             <English>Nationalists</English>
             <French>Nationalistes</French>
+            <Russian>Националисты</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_randomSpecies">
             <English>Random Species</English>
             <French>Espèces aléatoires</French>
+            <Russian>Случайные виды</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_repulsorliftArmor">
             <English>Repulsorlift Armor</English>
             <French>Blindé à répulsion</French>
+            <Russian>Репульсорная броня</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_resupply">
             <English>Resupply</English>
             <French>Ravitaillement</French>
+            <Russian>Пополнение</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_screenshotSupport">
             <English>Screenshot Support</English>
             <French>Support de capture d'écran</French>
+            <Russian>Помощь Скриншотам</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_specialOperations">
             <English>Special Operations</English>
             <French>Opérations spéciales</French>
+            <Russian>Спец. операции</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_speeders">
             <English>Speeders</English>
             <French>Speeders</French>
+            <Russian>Спидеры</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_staticShipParts">
             <English>Static Ship Parts</English>
             <French>Pièces de vaisseaux statiques</French>
+            <Russian>Статичные части кораблей</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_tibanna">
             <English>Tibanna Platforms</English>
             <French>Plateformes de Tibanna</French>
+            <Russian>Платформы тибана</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_walkers">
             <English>Walkers</English>
+            <French>Marcheurs</French>
+            <Russian>Шагоходы</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zabrak">
             <English>Zabrak</English>
             <French>Zabrak</French>
+            <Russian>Забрак</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zelosian">
             <English>Zelosian</English>
             <French>Zélosien</French>
+            <Russian>Зелосиан</Russian>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zeltron">
             <English>Zeltron</English>
             <French>Zeltron</French>
+            <Russian>Цельтрон</Russian>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L787-L803 -->
         <Key ID="STR_ls_common_enabled">
@@ -175,6 +203,7 @@
             <English>[LS] Confederacy of Independent Systems</English>
             <French>[LS] Confédération des Systèmes Indépendants</French>
             <Polish>[LS] Konfederacja Niezależnych Systemów</Polish>
+            <Russian>[LS] Конфедерация Независимых Систем</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_civilians">
             <English>[LS] Civilians</English>
@@ -190,74 +219,89 @@
             <English>[LS] Coruscant Security Force</English>
             <French>[LS] Forces de Sécurité de Coruscant</French>
             <Polish>[LS] Siły Bezpieczeństwa Coruscant</Polish>
+            <Russian>[LS] Силы обороны Корусанта</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_galacticEmpire">
             <English>[LS] Galactic Empire</English>
             <French>[LS] Empire Galactique</French>
             <Polish>[LS] Imperium Galaktyczne</Polish>
+            <Russian>[LS] Галактическая Империя</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_gar">
             <English>[LS] Grand Army of the Republic</English>
             <French>[LS] Grande Armée de la République</French>
             <Polish>[LS] Wielka Armia Republiki</Polish>
+            <Russian>[LS] Великая Армия Республики</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_garLegions">
             <English>[LS] Grand Army of the Republic Legions</English>
             <French>[LS] Légions de la Grande Armée de la République</French>
             <Polish>[LS] Legiony Wielkiej Armii Republiki</Polish>
+            <Russian>[LS] Легионы Великой Армии Республики</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_jabiim">
             <English>[LS] Jabiim</English>
             <French>[LS] Jabiim</French>
             <Polish>[LS] Jabiim</Polish>
+            <Russian>[LS] Джабиим</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_jediOrder">
             <English>[LS] Jedi Order</English>
             <French>[LS] Ordre des Jedis</French>
             <Polish>[LS] Zakon Jedi</Polish>
+            <Russian>[LS] Орден Джедаев</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_mandalorians">
             <English>[LS] Mandalorians</English>
             <French>[LS] Mandaloriens</French>
             <Polish>[LS] Mandalorianie</Polish>
+            <Russian>[LS] Мандолорцы</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_memefor">
             <English>[LS] Memefor</English>
             <French>[LS] Memefor</French>
             <Polish>[LS] Memefor</Polish>
+            <Russian>[LS] Мемвойска</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_mercenaries">
             <English>[LS] Mercenaries</English>
             <French>[LS] Mercenaires</French>
             <Polish>[LS] Najemnicy</Polish>
+            <Russian>[LS] Наемники</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_newRepublic">
             <English>[LS] New Republic</English>
             <French>[LS] Nouvelle République</French>
             <Polish>[LS] Nowa Republika</Polish>
+            <Russian>[LS] Новая Республика</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_orsf">
             <English>[LS] Outland Regions Security Forces</English>
             <French>[LS] Forces de Sécurité des Régions Extérieures</French>
             <Polish>[LS] Siły Obrone Regionów Zewnętrznych</Polish>
+            <Russian>[LS] Силы защиты Внешнего кольца</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_pirates">
             <English>[LS] Pirates</English>
             <French>[LS] Pirates</French>
             <Polish>[LS] Piraci</Polish>
+            <Russian>[LS] Пираты</Russian>
         </Key>
         <Key ID="STR_ls_common_faction_rebelAlliance">
             <English>[LS] Rebel Alliance</English>
             <French>[LS] Alliance Rebelle</French>
             <Polish>[LS] Rebelianci</Polish>
+            <Russian>[LS] Альянс Повстанцев</Russian>
         </Key>
         <Key ID="STR_ls_common_finishedCollectingFuel">
             <English>Finished collecting fuel</English>
             <French>Récupération de carburant terminée</French>
+            <Russian>Сбор топлива окончен</Russian>
         </Key>
         <Key ID="STR_ls_common_finishedRefueling">
             <English>Finished refueling</English>
             <French>Ravitaillement en carburant terminé</French>
+            <Russian>Заправка окончена</Russian>
         </Key>
         <Key ID="STR_ls_common_instant">
             <English>Instant</English>
@@ -266,6 +310,7 @@
             <English>Invalid value</English>
             <French>Valeur invalide</French>
             <Polish>Nieprawidłowa Wartość</Polish>
+            <Russian>Некорректное значение</Russian>
         </Key>
         <Key ID="STR_ls_common_no">
             <English>No</English>
@@ -288,31 +333,39 @@
         <Key ID="STR_ls_common_pickUp">
             <English>Pick up</English>
             <French>Ramasser</French>
+            <Russian>Поднять</Russian>
         </Key>
         <Key ID="STR_ls_common_placeItem">
             <English>Place item</English>
             <French>Placer l'objet</French>
+            <Russian>Поставить предмет</Russian>
         </Key>
         <Key ID="STR_ls_common_placingProgress">
             <English>Placing %1...</English>
             <French>Placement de %1...</French>
+            <Russian>Ставим %1...</Russian>
         </Key>
         <Key ID="STR_ls_common_recievedTreatment">
             <English>You have been fully healed</English>
             <French>Vous avez été complètement soigné</French>
             <Polish>Zostałeś w pełni wyleczony</Polish>
+            <Russian>Вы полностью вылечены</Russian>
         </Key>
         <Key ID="STR_ls_common_recievingTreatment">
             <English>Receiving treatment...</English>
             <French>Traitement en cours...</French>
             <Polish>Otrzymywanie opieki zdrowotnej...</Polish>
+            <Russian>Получаем лечение...</Russian>
         </Key>
         <Key ID="STR_ls_common_refueling">
             <English>Refueling...</English>
             <French>Ravitaillement...</French>
+            <Russian>Заправляем...</Russian>
         </Key>
         <Key ID="STR_ls_common_repairShield">
             <English>Repair shield</English>
+            <French>Réparer le bouclier</French>
+            <Russian>Починить щит</Russian>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
@@ -336,56 +389,67 @@
         <Key ID="STR_ls_common_selectAreaToMap">
             <English>Select an area to map.</English>
             <French>Sélectionner une zone à cartographier.</French>
+            <Russian>Выбрать зону на карте.</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_advanced">
             <English>Advanced</English>
             <French>Avancé</French>
             <Polish>Zaawansowany</Polish>
+            <Russian>Высокий</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_crewman_tooltip">
             <English>Unit's skill in operating ground vehicles.</English>
             <French>Compétence de l'unité dans la conduite de véhicules terrestres.</French>
             <Polish>Umiejętność operowania pojazdami naziemnymi</Polish>
+            <Russian>Навык юнита в использовании наземной техники</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_engineer_tooltip">
             <English>Unit's skill in servicing vehicles and equipment.</English>
             <French>Compétence de l'unité dans la maintenance de véhicules et équipements.</French>
             <Polish>Umiejętność naprawy pojazdów i ekwipunku</Polish>
+            <Russian>Навык юнита в обслуживании техники и снаряжения</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_eod_tooltip">
             <English>Unit's skill in locating, placing, and disarming explosives.</English>
             <French>Compétence de l'unité dans la localisation, la pose et le désamorçage d'explosifs.</French>
             <Polish>Umiejętność odnajdywania, umieszczania i rozbrajania ładunków wybuchowych</Polish>
+            <Russian>Навык юнита в обнаружении, установки и обезвреживании взрывчатки</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_medic_tooltip">
             <English>Unit's skill in treating patients.</English>
             <French>Compétence de l'unité dans le traitement des patients.</French>
             <Polish>Umiejętność leczenia pacjentów</Polish>
+            <Russian>Навык юнита в лечении пациентов</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_pilot_tooltip">
             <English>Unit's skill in operating aerial vehicles.</English>
             <French>Compétence de l'unité dans la conduite de véhicules aériens.</French>
             <Polish>Umiejętność operowania pojazdami awiacji</Polish>
+            <Russian>Навык юнита в управлении воздушной техники</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_tech_name">
             <English>Tech Specialist</English>
             <French>Spécialiste technique</French>
             <Polish>Specjalista</Polish>
+            <Russian>Тех. специалист</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_tech_tooltip">
             <English>Unit's skill in hacking, slicing, and working with electronic systems.</English>
             <French>Compétence de l'unité dans le piratage, le forçage et la manipulation de systèmes électroniques.</French>
             <Polish>Umiejętność hakowania, przełamywania zabezpieczeń i pracy z elektronicznymi systemami</Polish>
+            <Russian>Навык юнита в взломе и работы над электронными системами</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_trained">
             <English>Trained</English>
             <French>Entraîné</French>
             <Polish>Wytrenowany</Polish>
+            <Russian>Тренирован</Russian>
         </Key>
         <Key ID="STR_ls_common_skill_untrained">
             <English>Untrained</English>
             <French>Non entraîné</French>
             <Polish>Bez treningu</Polish>
+            <Russian>Необучен</Russian>
         </Key>
         <Key ID="STR_ls_common_yes">
             <English>Yes</English>
