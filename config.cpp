@@ -9,7 +9,7 @@ class CfgPatches {
             "Bragg",
             "Vdoh",
             "Ks00908",
-			"4sh1r"
+            "4sh1r"
         };
         name = COMPONENT_NAME;
         requiredVersion = REQUIRED_VERSION;
