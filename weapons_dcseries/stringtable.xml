@@ -91,6 +91,12 @@
         <Key ID="STR_ls_weapons_dcseries_dc17s_dual_displayName">
             <English>DC-17S Dual Wield</English>
         </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_fordo_descriptionShort">
+            <English>Blaster pistol&lt;br/&gt;Captain Fordo's personal DC-17S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_fordo_displayName">
+            <English>DC-17S (Fordo)</English>
+        </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_highPower_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 5&lt;br/&gt;Used in: DC-17S</English>
         </Key>
@@ -98,7 +104,7 @@
             <English>DC-17S High Power Energy Cell</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_magazine_descriptionShort">
-            <English>Caliber: 9x21 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: DC-17S</English>
+            <English>Caliber: .45 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: DC-17S</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_magazine_displayName">
             <English>DC-17S Energy Cell</English>
