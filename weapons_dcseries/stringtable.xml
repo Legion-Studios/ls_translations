@@ -50,13 +50,31 @@
             <English>DC-17M Anti-Armor Grenade</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_blaster_magazine_descriptionShort">
-            <English>Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: DC-17M</English>
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 60&lt;br/&gt;Used in: DC-17M</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_blaster_magazine_displayName">
             <English>DC-17M Blaster Energy Cell</English>
         </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_descriptionShort">
+            <English>Interchangeable weapon system</English>
+        </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_displayName">
             <English>DC-17M</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_muzzle_antiArmor_displayName">
+            <English>DC-17M Anti-Armor Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_muzzle_blaster_displayName">
+            <English>DC-17M Blaster Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_muzzle_sniper_displayName">
+            <English>DC-17M Sniper Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_optic_sniper_descriptionShort">
+            <English>Holographic sniper scope&lt;br/&gt;Maginification: ???x-???x</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_optic_sniper_displayName">
+            <English>DC-17M Sniper Scope</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_displayName">
             <English>DC-17M (Sniper)</English>
