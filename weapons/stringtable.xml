@@ -25,6 +25,9 @@
         <Key ID="STR_ls_weapons_scatterGun">
             <English>Scatter gun</English>
         </Key>
+        <Key ID="STR_ls_weapons_sniperBlasterRifle">
+            <English>Sniper blaster rifle</English>
+        </Key>
         <Key ID="STR_ls_weapons_standardEnergy">
             <English>Standard energy</English>
         </Key>
