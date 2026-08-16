@@ -44,7 +44,7 @@
             <English>DC-17M (Anti-Armor)</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_antiArmor_magazine_descriptionShort">
-            <English>Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: DC-17M</English>
+            <English>Caliber: 40 mw HEAT&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: DC-17M</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_antiArmor_magazine_displayName">
             <English>DC-17M Anti-Armor Grenade</English>
@@ -80,7 +80,7 @@
             <English>DC-17M (Sniper)</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_magazine_descriptionShort">
-            <English>Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: DC-17M</English>
+            <English>Caliber: .408 mw&lt;br/&gt;Rounds: 5&lt;br/&gt;Used in: DC-17M</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_magazine_displayName">
             <English>DC-17M Sniper Energy Cell</English>
