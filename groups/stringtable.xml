@@ -4,36 +4,43 @@
         <Key ID="STR_ls_groups_citadelGuard">
             <English>Citadel Guard</English>
             <Russian>Охрана Цитадели</Russian>
+            <Polish>Gwardia Cytadeli</Polish>
         </Key>
         <Key ID="STR_ls_groups_diplomaticEscort">
             <English>Diplomatic Escort</English>
             <French>Escorte diplomatique</French>
             <Russian>Эскорт дипломатов</Russian>
+            <Polish>Eskorta Dyplomatyczna</Polish>
         </Key>
         <Key ID="STR_ls_groups_droidekaTeam">
             <English>Droideka Team</English>
             <French>Équipe de droïdekas</French>
             <Russian>Расчет дроидек</Russian>
+            <Polish>Zespół Droidek</Polish>
         </Key>
         <Key ID="STR_ls_groups_heavyInfantry">
             <English>Heavy Infantry</English>
             <French>Infanterie lourde</French>
             <Russian>Тяжелая пехота</Russian>
+            <Polish>Ciężka Piechota</Polish>
         </Key>
         <Key ID="STR_ls_groups_patrol">
             <English>Patrol</English>
             <French>Patrouille</French>
             <Russian>Патруль</Russian>
+            <Polish>Patrol</Polish>
         </Key>
         <Key ID="STR_ls_groups_raptorPack">
             <English>Raptor Pack</English>
             <French>Meute de Raptors</French>
             <Russian>Стайка Рапторов</Russian>
+            <Polish>Sekcja Raptorów</Polish>
         </Key>
         <Key ID="STR_ls_groups_securityTeam">
             <English>Security Team</English>
             <French>Équipe de sécurité</French>
             <Russian>Отряд охраны</Russian>
+            <Polish>Zespół Ochrony</Polish>
         </Key>
         <Key ID="STR_ls_groups_supportGunnerTeam">
             <English>Support Gunner Team</English>

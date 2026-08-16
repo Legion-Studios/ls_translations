@@ -5,421 +5,505 @@
             <English>Active Camouflage</English>
             <French>Camouflage actif</French>
             <Russian>Активный Камуфляж</Russian>
+            <Polish>Aktywny Kamuflaż</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male1_blue">
             <English>Chiss Male 1 (Blue)</English>
             <French>Homme chiss 1 (bleu)</French>
             <Russian>Чисс муж. 1 (Син)</Russian>
+            <Polish>Mężczyzna Chiss 1 (Niebieski)</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male1_ice">
             <English>Chiss Male 1 (Ice)</English>
             <French>Homme chiss 1 (glace)</French>
             <Russian>Чисс муж. 1 (Лед)</Russian>
+            <Polish>Mężczyzna Chiss 1 (Lód)</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male1_purple">
             <English>Chiss Male 1 (Purple)</English>
             <French>Homme chiss 1 (violet)</French>
             <Russian>Чисс муж. 1 (Фиол.)</Russian>
+            <Polish>Mężczyzna Chiss 1 (Fioletowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male2_blue">
             <English>Chiss Male 2 (Blue)</English>
             <French>Homme chiss 2 (bleu)</French>
             <Russian>Чисс муж. 2 (Син)</Russian>
+            <Polish>Mężczyzna Chiss 2 (Niebieski)</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male2_ice">
             <English>Chiss Male 2 (Ice)</English>
             <French>Homme chiss 2 (glace)</French>
             <Russian>Чисс муж. 2 (Лед)</Russian>
+            <Polish>Mężczyzna Chiss 2 (Lód)</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male2_purple">
             <English>Chiss Male 2 (Purple)</English>
             <French>Homme chiss 2 (violet)</French>
             <Russian>Чисс муж. 2 (Фиол.)</Russian>
+            <Polish>Mężczyzna Chiss 2 (Fioletowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male3_blue">
             <English>Chiss Male 3 (Blue)</English>
             <French>Homme chiss 3 (bleu)</French>
             <Russian>Чисс муж. 3 (Син)</Russian>
+            <Polish>Mężczyzna Chiss 3 (Niebieski)</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male3_ice">
             <English>Chiss Male 3 (Ice)</English>
             <French>Homme chiss 3 (glace)</French>
             <Russian>Чисс муж. 3 (Лед)</Russian>
+            <Polish>Mężczyzna Chiss 3 (Lód)</Polish>
         </Key>
         <Key ID="STR_ls_identities_chiss_male3_purple">
             <English>Chiss Male 3 (Purple)</English>
             <French>Homme chiss 3 (violet)</French>
             <Russian>Чисс муж. 3 (Фиол.)</Russian>
+            <Polish>Mężczyzna Chiss 3 (Fioletowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneCommunity_lance">
             <English>Clone Purge Trooper - Lance</English>
             <French>Clone Purge Trooper - Lance</French>
             <Russian>Солдат-клон охотник - Лэнс</Russian>
+            <Polish>Klon Czystki - Lance</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneCommunity_painmace">
             <English>Clone Purge Trooper - Painmace</English>
             <French>Clone Purge Trooper - Painmace</French>
             <Russian>Солдат-клон охотник - Пейнмейс</Russian>
+            <Polish>Klon Czystki - Painmace</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneCommunity_vaelin">
             <English>Clone - Vaelin</English>
             <French>Clone - Vaelin</French>
             <Russian>Клон - Вейлин</Russian>
+            <Polish>Klon - Vaelin</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneDeveloper_dutch">
             <English>Clone Developer - Dutch</English>
             <French>Développeur clone - Dutch</French>
             <Russian>Клон-разработчик - Датч</Russian>
+            <Polish>Klon Deweloper - Dutch</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneDeveloper_gambit">
             <English>Clone Developer - Gambit</English>
             <French>Développeur clone - Gambit</French>
             <Russian>Клон-разработчик - Гамбит</Russian>
+            <Polish>Klon Deweloper - Gambit</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneDeveloper_khaos">
             <English>Clone Developer - Khaos</English>
             <French>Développeur clone - Khaos</French>
             <Russian>Клон-разработчик - Хаос</Russian>
+            <Polish>Klon Deweloper - Khaos</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneDeveloper_marco">
             <English>Clone Developer - Marco</English>
             <French>Développeur clone - Marco</French>
             <Russian>Клон-разработчик - Марко</Russian>
+            <Polish>Klon Deweloper - Marco</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneDeveloper_n3rf">
             <English>Clone Developer - All Father N3rf</English>
             <French>Développeur clone - All Father N3rf</French>
             <Russian>Клон-разработчик - Всеотец Н3рф</Russian>
+            <Polish>Klon Deweloper - All Father N3rf</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneDeveloper_shiv">
             <English>Clone Developer - Shiv</English>
             <French>Développeur clone - Shiv</French>
             <Russian>Клон-разработчик - Шив</Russian>
+            <Polish>Klon Deweloper - Shiv</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneDeveloper_whiplash">
             <English>Clone Developer - Whiplash</English>
             <French>Développeur clone - Whiplash</French>
             <Russian>Клон-разработчик - Виплеш</Russian>
+            <Polish>Klon Deweloper - Whiplash</Polish>
         </Key>
         <Key ID="STR_ls_identities_cloneDeveloper_zany">
             <English>Clone Developer - Zany</English>
             <French>Développeur clone - Zany</French>
             <Russian>Клон-разработчик - Зэни</Russian>
+            <Polish>Klon Deweloper - Zany</Polish>
         </Key>
         <Key ID="STR_ls_identities_clonePurge_a">
             <English>Clone Purge Trooper A</English>
             <French>Clone Purge Trooper A</French>
             <Russian>Солдат-клон охотник A</Russian>
+            <Polish>Klon Czystki A</Polish>
         </Key>
         <Key ID="STR_ls_identities_clone_a">
             <English>Clone Trooper A</English>
             <French>Soldat clone A</French>
             <Russian>Солдат-клон A</Russian>
+            <Polish>Żołnierz Klon A</Polish>
         </Key>
         <Key ID="STR_ls_identities_clone_b">
             <English>Clone Trooper B</English>
             <French>Soldat clone B</French>
             <Russian>Солдат-клон B</Russian>
+            <Polish>Żołnierz Klon B</Polish>
         </Key>
         <Key ID="STR_ls_identities_clone_c">
             <English>Clone Trooper C</English>
             <French>Soldat clone C</French>
             <Russian>Солдат-клон C</Russian>
+            <Polish>Żołnierz Klon C</Polish>
         </Key>
         <Key ID="STR_ls_identities_clone_d">
             <English>Clone Trooper D</English>
             <French>Soldat clone D</French>
             <Russian>Солдат-клон D</Russian>
+            <Polish>Żołnierz Klon D</Polish>
         </Key>
         <Key ID="STR_ls_identities_clone_e">
             <English>Clone Trooper E</English>
             <French>Soldat clone E</French>
             <Russian>Солдат-клон E</Russian>
+            <Polish>Żołnierz Klon E</Polish>
         </Key>
         <Key ID="STR_ls_identities_clone_f">
             <English>Clone Trooper F</English>
             <French>Soldat clone F</French>
             <Russian>Солдат-клон F</Russian>
+            <Polish>Żołnierz Klon F</Polish>
         </Key>
         <Key ID="STR_ls_identities_clone_g">
             <English>Clone Trooper G</English>
             <French>Soldat clone G</French>
             <Russian>Солдат-клон G</Russian>
+            <Polish>Żołnierz Klon G</Polish>
         </Key>
         <Key ID="STR_ls_identities_clone_h">
             <English>Clone Trooper H</English>
             <French>Soldat clone H</French>
             <Russian>Солдат-клон H</Russian>
+            <Polish>Żołnierz Klon H</Polish>
         </Key>
         <Key ID="STR_ls_identities_hideHead">
             <English>Hide Head</English>
             <French>Cacher la tête</French>
             <Russian>Спрятанная голова</Russian>
+            <Polish>Ukryj Głowę</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male1_green">
             <English>Mirialan Male 1 (Green)</English>
             <French>Homme mirialan 1 (vert)</French>
             <Russian>Мириалан муж. 1 (Зел)</Russian>
+            <Polish>Mężczyzna Mirialan 1 (Zielony)</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male1_sand">
             <English>Mirialan Male 1 (Sand)</English>
             <French>Homme mirialan 1 (sable)</French>
             <Russian>Мириалан муж. 1 (Песоч.)</Russian>
+            <Polish>Mężczyzna Mirialan 1 (Piaskowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male1_yellow">
             <English>Mirialan Male 1 (Yellow)</English>
             <French>Homme mirialan 1 (jaune)</French>
             <Russian>Мириалан муж. 1 (Желт)</Russian>
+            <Polish>Mężczyzna Mirialan 1 (Żółty)</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male2_green">
             <English>Mirialan Male 2 (Green)</English>
             <French>Homme mirialan 2 (vert)</French>
             <Russian>Мириалан муж. 2 (Зел)</Russian>
+            <Polish>Mężczyzna Mirialan 2 (Zielony)</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male2_sand">
             <English>Mirialan Male 2 (Sand)</English>
             <French>Homme mirialan 2 (sable)</French>
             <Russian>Мириалан муж. 2 (Песоч)</Russian>
+            <Polish>Mężczyzna Mirialan 2 (Piaskowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male2_yellow">
             <English>Mirialan Male 2 (Yellow)</English>
             <French>Homme mirialan 2 (jaune)</French>
             <Russian>Мириалан муж. 2 (Желт)</Russian>
+            <Polish>Mężczyzna Mirialan 2 (Żółty)</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male3_green">
             <English>Mirialan Male 3 (Green)</English>
             <French>Homme mirialan 3 (vert)</French>
             <Russian>Мириалан муж. 3 (Зел)</Russian>
+            <Polish>Mężczyzna Mirialan 3 (Zielony)</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male3_sand">
             <English>Mirialan Male 3 (Sand)</English>
             <French>Homme mirialan 3 (sable)</French>
             <Russian>Мириалан муж. 3 (Песоч)</Russian>
+            <Polish>Mężczyzna Mirialan 3 (Piaskowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_mirialan_male3_yellow">
             <English>Mirialan Male 3 (Yellow)</English>
             <French>Homme mirialan 3 (jaune)</French>
             <Russian>Мириалан муж. 3 (Желт)</Russian>
+            <Polish>Mężczyzna Mirialan 3 (Żółty)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t0_base">
             <English>Zabrak Male Base 1 (Tattoo 0)</English>
             <French>Homme zabrak 1 (tatouage 0)</French>
             <Russian>Забрак муж. 1 (Тату 0)</Russian>
+            <Polish>Mężczyzna Zabrak 1 (Tatuaż 0)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t0_orange">
             <English>Zabrak Male Orange 1 (Tattoo 0)</English>
             <French>Homme zabrak orange 1 (tatouage 0)</French>
             <Russian>Забрак муж. оранж. 1 (Тату 0)</Russian>
+            <Polish>Mężczyzna Zabrak Pomarańczowy 1 (Tatuaż 0)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t0_pale">
             <English>Zabrak Male Pale 1 (Tattoo 0)</English>
             <French>Homme zabrak pâle 1 (tatouage 0)</French>
             <Russian>Забрак муж. бледный 1 (Тату 0)</Russian>
+            <Polish>Mężczyzna Zabrak blady 1 (Tatuaż 0)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t0_red">
             <English>Zabrak Male Red 1 (Tattoo 0)</English>
             <French>Homme zabrak rouge 1 (tatouage 0)</French>
             <Russian>Забрак муж. Крас. 1 (Тату 0)</Russian>
+            <Polish>Mężczyzna Zabrak Czerwony 1 (Tatuaż 0)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t1_base">
             <English>Zabrak Male Base 1 (Tattoo 1)</English>
             <French>Homme zabrak 1 (tatouage 1)</French>
             <Russian>Забрак муж. 1 (Тату 1)</Russian>
+            <Polish>Mężczyzna Zabrak 1 (Tatuaż 1)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t1_orange">
             <English>Zabrak Male Orange 1 (Tattoo 1)</English>
             <French>Homme zabrak orange 1 (tatouage 1)</French>
             <Russian>Забрак муж. оранж. 1 (Тату 1)</Russian>
+            <Polish>Mężczyzna Zabrak Pomarańczowy 1 (Tatuaż 1)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t1_pale">
             <English>Zabrak Male Pale 1 (Tattoo 1)</English>
             <French>Homme zabrak pâle 1 (tatouage 1)</French>
             <Russian>Забрак муж. бледный 1 (Тату 1)</Russian>
+            <Polish>Mężczyzna Zabrak Blady 1 (Tatuaż 1)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t1_red">
             <English>Zabrak Male Red 1 (Tattoo 1)</English>
             <French>Homme zabrak rouge 1 (tatouage 1)</French>
             <Russian>Забрак муж. крас. 1 (Тату 1)</Russian>
+            <Polish>Mężczyzna Zabrak Czerwony 1 (Tatuaż 1)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t2_base">
             <English>Zabrak Male Base 1 (Tattoo 2)</English>
             <French>Homme zabrak 1 (tatouage 2)</French>
             <Russian>Забрак муж. 1 (Тату 2)</Russian>
+            <Polish>Mężczyzna Zabrak 1 (Tatuaż 2)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t2_orange">
             <English>Zabrak Male Orange 1 (Tattoo 2)</English>
             <French>Homme zabrak orange 1 (tatouage 2)</French>
             <Russian>Забрак муж. оранж. 1 (Тату 2)</Russian>
+            <Polish>Mężczyzna Zabrak Pomarańczowy 1 (Tatuaż 2)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t2_pale">
             <English>Zabrak Male Pale 1 (Tattoo 2)</English>
             <French>Homme zabrak pâle 1 (tatouage 2)</French>
             <Russian>Забрак муж. бледный 1 (Тату 2)</Russian>
+            <Polish>Mężczyzna Zabrak Blady 1 (Tatuaż 2)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t2_red">
             <English>Zabrak Male Red 1 (Tattoo 2)</English>
             <French>Homme zabrak rouge 1 (tatouage 2)</French>
             <Russian>Забрак муж. крас. 1 (Тату 2)</Russian>
+            <Polish>Mężczyzna Zabrak Czerwony 1 (Tatuaż 2)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t3_base">
             <English>Zabrak Male Base 1 (Tattoo 3)</English>
             <French>Homme zabrak 1 (tatouage 3)</French>
             <Russian>Забрак муж. 1 (Тату 3)</Russian>
+            <Polish>Mężczyzna Zabrak 1 (Tatuaż 3)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t3_orange">
             <English>Zabrak Male Orange 1 (Tattoo 3)</English>
             <French>Homme zabrak orange 1 (tatouage 3)</French>
             <Russian>Забрак муж. оранж. 1 (Тату 3)</Russian>
+            <Polish>Mężczyzna Zabrak Pomarańczowy 1 (Tatuaż 3)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t3_pale">
             <English>Zabrak Male Pale 1 (Tattoo 3)</English>
             <French>Homme zabrak pâle 1 (tatouage 3)</French>
             <Russian>Забрак муж. блендый 1 (Тату 3)</Russian>
+            <Polish>Mężczyzna Zabrak Blady 1 (Tatuaż 3)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male1t3_red">
             <English>Zabrak Male Red 1 (Tattoo 3)</English>
             <French>Homme zabrak rouge 1 (tatouage 3)</French>
             <Russian>Забрак муж. крас. 1 (Тату 3)</Russian>
+            <Polish>Mężczyzna Zabrak Czerwony 1 (Tatuaż 3)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t0_base">
             <English>Zabrak Male Base 2 (Tattoo 0)</English>
             <French>Homme zabrak 2 (tatouage 0)</French>
             <Russian>Забрак муж. 2 (Тату 0)</Russian>
+            <Polish>Mężczyzna Zabrak 2 (Tatuaż 0)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t0_orange">
             <English>Zabrak Male Orange 2 (Tattoo 0)</English>
             <French>Homme zabrak orange 2 (tatouage 0)</French>
             <Russian>Забрак муж. оранж. 2 (Тату 0)</Russian>
+            <Polish>Mężczyzna Zabrak Pomarańczowy 2 (Tatuaż 0)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t0_pale">
             <English>Zabrak Male Pale 2 (Tattoo 0)</English>
             <French>Homme zabrak pâle 2 (tatouage 0)</French>
             <Russian>Забрак муж. бледный 2 (Тату 0)</Russian>
+            <Polish>Mężczyzna Zabrak Blady 2 (Tatuaż 0)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t0_red">
             <English>Zabrak Male Red 2 (Tattoo 0)</English>
             <French>Homme zabrak rouge 2 (tatouage 0)</French>
             <Russian>Забрак муж. Крас. 2 (Тату 0)</Russian>
+            <Polish>Mężczyzna Zabrak Czerwony 2 (Tatuaż 0)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t1_base">
             <English>Zabrak Male Base 2 (Tattoo 1)</English>
             <French>Homme zabrak 2 (tatouage 1)</French>
             <Russian>Забрак муж. 2 (Тату 1)</Russian>
+            <Polish>Mężczyzna Zabrak 2 (Tatuaż 1)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t1_orange">
             <English>Zabrak Male Orange 2 (Tattoo 1)</English>
             <French>Homme zabrak orange 2 (tatouage 1)</French>
             <Russian>Забрак муж. оранж. 2 (Тату 1)</Russian>
+            <Polish>Mężczyzna Zabrak Pomarańczowy 2 (Tatuaż 1)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t1_pale">
             <English>Zabrak Male Pale 2 (Tattoo 1)</English>
             <French>Homme zabrak pâle 2 (tatouage 1)</French>
             <Russian>Забрак муж. бледный 2 (Тату 1)</Russian>
+            <Polish>Mężczyzna Zabrak Blady 2 (Tatuaż 1)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t1_red">
             <English>Zabrak Male Red 2 (Tattoo 1)</English>
             <French>Homme zabrak rouge 2 (tatouage 1)</French>
             <Russian>Забрак муж. крас. 2 (Тату 1)</Russian>
+            <Polish>Mężczyzna Zabrak Czerwony 2 (Tatuaż 1)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t2_base">
             <English>Zabrak Male Base 2 (Tattoo 2)</English>
             <French>Homme zabrak 2 (tatouage 2)</French>
             <Russian>Забрак муж. 2 (Тату 2)</Russian>
+            <Polish>Mężczyzna Zabrak 2 (Tatuaż 2)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t2_orange">
             <English>Zabrak Male Orange 2 (Tattoo 2)</English>
             <French>Homme zabrak orange 2 (tatouage 2)</French>
             <Russian>Забрак муж. оранж. 2 (Тату 2)</Russian>
+            <Polish>Mężczyzna Zabrak Pomarańczowy 2 (Tatuaż 2)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t2_pale">
             <English>Zabrak Male Pale 2 (Tattoo 2)</English>
             <French>Homme zabrak pâle 2 (tatouage 2)</French>
             <Russian>Забрак муж. бледный 2 (Тату 2)</Russian>
+            <Polish>Mężczyzna Zabrak Blady 2 (Tatuaż 2)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t2_red">
             <English>Zabrak Male Red 2 (Tattoo 2)</English>
             <French>Homme zabrak rouge 2 (tatouage 2)</French>
             <Russian>Забрак муж. крас. 2 (Тату 2)</Russian>
+            <Polish>Mężczyzna Zabrak Czerwony 2 (Tatuaż 2)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t3_base">
             <English>Zabrak Male Base 2 (Tattoo 3)</English>
             <French>Homme zabrak 2 (tatouage 3)</French>
             <Russian>Забрак муж. 2 (Тату 3)</Russian>
+            <Polish>Mężczyzna Zabrak 2 (Tatuaż 3)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t3_orange">
             <English>Zabrak Male Orange 2 (Tattoo 3)</English>
             <French>Homme zabrak orange 2 (tatouage 3)</French>
             <Russian>Забрак муж. оранж. 2 (Тату 3)</Russian>
+            <Polish>Mężczyzna Zabrak Pomarańczowy 2 (Tatuaż 3)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t3_pale">
             <English>Zabrak Male Pale 2 (Tattoo 3)</English>
             <French>Homme zabrak pâle 2 (tatouage 3)</French>
             <Russian>Забрак муж. блендый 2 (Тату 3)</Russian>
+            <Polish>Mężczyzna Zabrak Blady 2 (Tatuaż 3)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zabrak_male2t3_red">
             <English>Zabrak Male Red 2 (Tattoo 3)</English>
             <French>Homme zabrak rouge 2 (tatouage 3)</French>
             <Russian>Забрак муж. крас. 2 (Тату 3)</Russian>
+            <Polish>Mężczyzna Zabrak Czerwony 2 (Tatuaż 3)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zelosian_male1">
             <English>Zelosian Male 1</English>
             <French>Homme zélosien 1</French>
             <Russian>Зелосиан муж. 1</Russian>
+            <Polish>Mężczyzna Zelosian 1</Polish>
         </Key>
         <Key ID="STR_ls_identities_zelosian_male2">
             <English>Zelosian Male 2</English>
             <French>Homme zélosien 2</French>
             <Russian>Зелосиан муж. 2</Russian>
+            <Polish>Mężczyzna Zelosian 2</Polish>
         </Key>
         <Key ID="STR_ls_identities_zelosian_male3">
             <English>Zelosian Male 3</English>
             <French>Homme zélosien 3</French>
             <Russian>Зелосиан муж. 3</Russian>
+            <Polish>Mężczyzna Zelosian 3</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male1_crimson">
             <English>Zeltron Male 1 (Crimson)</English>
             <French>Homme zeltron 1 (pourpre)</French>
             <Russian>Цельтрон 1(Кримзон)</Russian>
+            <Polish>Mężczyzna Zeltron 1 (Purpurowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male1_pink">
             <English>Zeltron Male 1 (Pink)</English>
             <French>Homme zeltron 1 (rose)</French>
             <Russian>Цельтрон 1(Розовый)</Russian>
+            <Polish>Mężczyzna Zeltron 1 (Różowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male1_red">
             <English>Zeltron Male 1 (Red)</English>
             <French>Homme zeltron 1 (rouge)</French>
             <Russian>Цельтрон 1(Красный)</Russian>
+            <Polish>Mężczyzna Zeltron 1 (Czerwony)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male2_crimson">
             <English>Zeltron Male 2 (Crimson)</English>
             <French>Homme zeltron 2 (pourpre)</French>
             <Russian>Цельтрон 2(Кримзон)</Russian>
+            <Polish>Mężczyzna Zeltron 2 (Purpurowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male2_pink">
             <English>Zeltron Male 2 (Pink)</English>
             <French>Homme zeltron 2 (rose)</French>
             <Russian>Цельтрон 2(Розовый)</Russian>
+            <Polish>Mężczyzna Zeltron 2 (Różowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male2_red">
             <English>Zeltron Male 2 (Red)</English>
             <French>Homme zeltron 2 (rouge)</French>
             <Russian>Цельтрон 2(Красный)</Russian>
+            <Polish>Mężczyzna Zeltron 2 (Czerwony)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male3_crimson">
             <English>Zeltron Male 3 (Crimson)</English>
             <French>Homme zeltron 3 (pourpre)</French>
             <Russian>Цельтрон 3(Кримзон)</Russian>
+            <Polish>Mężczyzna Zeltron 3 (Purpurowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male3_pink">
             <English>Zeltron Male 3 (Pink)</English>
             <French>Homme zeltron 3 (rose)</French>
             <Russian>Цельтрон 3(Розовый)</Russian>
+            <Polish>Mężczyzna Zeltron 3 (Różowy)</Polish>
         </Key>
         <Key ID="STR_ls_identities_zeltron_male3_red">
             <English>Zeltron Male 3 (Red)</English>
             <French>Homme zeltron 3 (rouge)</French>
             <Russian>Цельтрон 3(Красный)</Russian>
+            <Polish>Mężczyzna Zeltron 3 (Czerwony)</Polish>
         </Key>
     </Package>
 </Project>
