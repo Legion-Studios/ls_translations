@@ -89,7 +89,10 @@
             <English>DC-17S</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_dual_displayName">
-            <English>DC-17S Dual Wield</English>
+            <English>DC-17S (Dual Wield)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_dual_fordo_displayName">
+            <English>DC-17S (Dual Wield, Fordo)</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_fordo_descriptionShort">
             <English>Blaster pistol&lt;br/&gt;Captain Fordo's personal DC-17S</English>
