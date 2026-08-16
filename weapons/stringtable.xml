@@ -16,8 +16,14 @@
         <Key ID="STR_ls_weapons_highEnergy">
             <English>High energy</English>
         </Key>
-        <Key ID="STR_ls_weapons_lowEnergy">
+        <Key ID="STR_ls_weapons_leftHand">
+            <English>Left hand</English>
+        </Key>
+        <Key ID="STRw_ls_weapons_lowEnergy">
             <English>Low energy</English>
+        </Key>
+        <Key ID="STR_ls_weapons_rightHand">
+            <English>Right hand</English>
         </Key>
         <Key ID="STR_ls_weapons_rotaryBlasterCannon">
             <English>Rotary blaster cannon</English>
