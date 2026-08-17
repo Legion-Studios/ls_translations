@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="meme">
+        <Key ID="STR_ls_meme_8ball_1">
+            <English>I find your lack of faith disturbing.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_10">
+            <English>Many of the truths that we cling to depend on our viewpoint.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_11">
+            <English>Be careful not to choke on your aspirations.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_12">
+            <English>I got a bad feeling about this.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_13">
+            <English>This is the way.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_2">
+            <English>Do or do not. There is no try.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_3">
+            <English>Your eyes can deceive you, don't trust them.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_4">
+            <English>Great, kid. Don't get cocky.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_5">
+            <English>It's a trap!</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_6">
+            <English>Yes.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_7">
+            <English>No.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_8">
+            <English>Maybe.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_9">
+            <English>Difficult to see; always in motion is the future.</English>
+        </Key>
+        <Key ID="STR_ls_meme_8ball_thinking">
+            <English>Thinking...</English>
+        </Key>
+        <Key ID="STR_ls_meme_favoritesOfTheForce_descriptionShort">
+            <English>Sold by secretive Rebel Alliance Confectioners</English>
+        </Key>
+        <Key ID="STR_ls_meme_favoritesOfTheForce_displayName">
+            <English>Favorites of the Force</English>
+        </Key>
+        <Key ID="STR_ls_meme_goose_descriptionShort">
+            <English>Honk!</English>
+        </Key>
+        <Key ID="STR_ls_meme_goose_displayName">
+            <English>GOOSE</English>
+        </Key>
+        <Key ID="STR_ls_meme_graciousGovernmentMix_descriptionShort">
+            <English>A box of chocolates issued from Palpatine himself...</English>
+        </Key>
+        <Key ID="STR_ls_meme_graciousGovernmentMix_displayName">
+            <English>Palpatine's 'Gracious Government Mix'</English>
+        </Key>
+        <Key ID="STR_ls_meme_graciousGovernmentMix_healActionName">
+            <English>Eat</English>
+        </Key>
+        <Key ID="STR_ls_meme_graciousGovernmentMix_localMessage">
+            <English>You can feel Palpatine's approval for you. You feel emboldened and healed by this.</English>
+        </Key>
+        <!-- %1 = Player name -->
+        <Key ID="STR_ls_meme_graciousGovernmentMix_zeusMessage">
+            <English>%1 has accepted Palpatine's gift and has consumed a Gracious Government Mix. They have been healed of all wounds.</English>
+        </Key>
+    </Package>
+</Project>
