@@ -44,13 +44,13 @@
             <English>Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_displayName">
-            <English>E-60R AT Missile</English>
-        </Key>
-        <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_displayName">
             <English>E-60R AP Missile</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_at_magazine_descriptionShort">
             <English>Type: Anti-Tank&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_at_magazine_displayName">
+            <English>E-60R AT Missile</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_universal_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most E-Series Weapons</English>
