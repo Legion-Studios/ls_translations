@@ -2,7 +2,7 @@
 <Project name="Legion Studios">
     <Package name="weapons_eseries">
         <Key ID="STR_ls_weapons_eseries_e11_magazine_descriptionShort">
-            <English>Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: Most E-11</English>
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 45&lt;br/&gt;Used in: E-11</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_magazine_displayName">
             <English>E-11 Energy Cell</English>
@@ -10,14 +10,11 @@
         <Key ID="STR_ls_weapons_eseries_e5_displayName">
             <English>E-5</English>
         </Key>
-        <Key ID="STR_ls_weapons_eseries_e5c_magazine_descriptionShort">
-            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most E-Series Weapons</English>
+        <Key ID="STR_ls_weapons_eseries_e5c_displayName">
+            <English>E-5C</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5c_magazine_descriptionShort">
-            <English>Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: Most E-5C</English>
-        </Key>
-        <Key ID="STR_ls_weapons_eseries_e5c_magazine_displayName">
-            <English>E-Series Universal Energy Cell</English>
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 200&lt;br/&gt;Used in: E-5C</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5c_magazine_displayName">
             <English>E-5C Energy Cell</English>
