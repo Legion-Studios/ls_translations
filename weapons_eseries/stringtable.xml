@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_eseries">
+        <Key ID="STR_ls_weapons_eseries_e11_magazine_descriptionShort">
+            <English>Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: Most E-11</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e11_magazine_displayName">
+            <English>E-11 Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e5_displayName">
+            <English>E-5</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e5c_magazine_descriptionShort">
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most E-Series Weapons</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e5c_magazine_descriptionShort">
+            <English>Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: Most E-5C</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e5c_magazine_displayName">
+            <English>E-Series Universal Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e5c_magazine_displayName">
+            <English>E-5C Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_aa_magazine_descriptionShort">
+            <English>Type: Anti-Air&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_aa_magazine_displayName">
+            <English>E-60R AA Missile</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_descriptionShort">
+            <English>Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_displayName">
+            <English>E-60R AT Missile</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_displayName">
+            <English>E-60R AP Missile</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_at_magazine_descriptionShort">
+            <English>Type: Anti-Tank&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_universal_magazine_descriptionShort">
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most E-Series Weapons</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_universal_magazine_displayName">
+            <English>E-Series Universal Energy Cell</English>
+        </Key>
+    </Package>
+</Project>
