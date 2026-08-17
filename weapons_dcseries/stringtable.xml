@@ -116,13 +116,13 @@
             <English>DP-23</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dp23_magazine_descriptionShort">
-            <English>Scatter-plasma&lt;br/&gt;Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: DP-23</English>
+            <English>Scatter-plasma&lt;br/&gt;Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: DP-23</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dp23_magazine_displayName">
             <English>DP-23 Scatter Energy Cell</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dp23_slug_magazine_descriptionShort">
-            <English>Caliber: ??? mw&lt;br/&gt;Rounds: ???&lt;br/&gt;Used in: DP-23</English>
+            <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 5&lt;br/&gt;Used in: DP-23</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dp23_slug_magazine_displayName">
             <English>DP-23 Energy Cell</English>
