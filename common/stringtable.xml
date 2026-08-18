@@ -5,6 +5,7 @@
             <English>Activate shield</English>
             <French>Activer le bouclier</French>
             <Russian>Активировать щит</Russian>
+            <Polish>Aktywuj tarcze</Polish>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L264-L281 -->
         <Key ID="STR_ls_common_cancel">
@@ -29,6 +30,7 @@
             <English>Cancelled</English>
             <French>Annulé</French>
             <Russian>Отмененное</Russian>
+            <Polish>Anulowano</Polish>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L568-L584 -->
         <Key ID="STR_ls_common_confirm">
@@ -52,6 +54,7 @@
             <English>Deactivate shield</English>
             <French>Désactiver le bouclier</French>
             <Russian>Деактивировать щит</Russian>
+            <Polish>Dezaktywuj tarcze</Polish>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L623-L639 -->
         <Key ID="STR_ls_common_disabled">
@@ -75,111 +78,133 @@
             <English>Chiss Ascendency</English>
             <French>Ascendance Chiss</French>
             <Russian>Господа Чиссы</Russian>
+            <Polish>Dynastia Chissów</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p1">
             <English>Clone Trooper (Phase 1)</English>
             <French>Soldat clone (Phase 1)</French>
             <Russian>Солдат-клоны (Фаза 1)</Russian>
+            <Polish>Żołnierz Klon (Faza 1)</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_cloneTrooper_p2">
             <English>Clone Trooper (Phase 2)</English>
             <French>Soldat clone (Phase 2)</French>
             <Russian>Солдат-клоны (Фаза 2)</Russian>
+            <Polish>Żołnierz Klon (Faza 2)</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_droids">
             <English>Droids</English>
             <French>Droïdes</French>
             <Russian>Дроиды</Russian>
+            <Polish>Droidy</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_fob">
             <English>FOB Components</English>
             <French>Composants de FOB</French>
             <Russian>Компоненты ФОБа</Russian>
+            <Polish>Komponenty WBO</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_hallways">
             <English>Hallways</English>
             <French>Couloirs</French>
             <Russian>Коридоры</Russian>
+            <Polish>Korytarze</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_items">
             <English>Items</English>
             <French>Objets</French>
             <Russian>Предметы</Russian>
+            <Polish>Przedmioty</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_itemsSmall">
             <English>Items - Small</English>
             <French>Objets - Petits</French>
             <Russian>Предметы - Малые</Russian>
+            <Polish>Obiekty - Małe</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_mirialan">
             <English>Mirialan</English>
             <French>Mirialan</French>
             <Russian>Мириалан</Russian>
+            <Polish>Mirialan</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_nationalists">
             <English>Nationalists</English>
             <French>Nationalistes</French>
             <Russian>Националисты</Russian>
+            <Polish>Nacjonaliści</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_randomSpecies">
             <English>Random Species</English>
             <French>Espèces aléatoires</French>
             <Russian>Случайные виды</Russian>
+            <Polish>Losowa Rasa</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_repulsorliftArmor">
             <English>Repulsorlift Armor</English>
             <French>Blindé à répulsion</French>
             <Russian>Репульсорная броня</Russian>
+            <Polish>Pojazdy Pancerne (Repulsor)</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_resupply">
             <English>Resupply</English>
             <French>Ravitaillement</French>
             <Russian>Пополнение</Russian>
+            <Polish>Zaopatrzenie</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_screenshotSupport">
             <English>Screenshot Support</English>
             <French>Support de capture d'écran</French>
             <Russian>Помощь Скриншотам</Russian>
+            <Polish>Wsparcie Zrzutów Ekranu</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_specialOperations">
             <English>Special Operations</English>
             <French>Opérations spéciales</French>
             <Russian>Спец. операции</Russian>
+            <Polish>Siły Specjalne</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_speeders">
             <English>Speeders</English>
             <French>Speeders</French>
             <Russian>Спидеры</Russian>
+            <Polish>Skuter Repulsorowy</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_staticShipParts">
             <English>Static Ship Parts</English>
             <French>Pièces de vaisseaux statiques</French>
             <Russian>Статичные части кораблей</Russian>
+            <Polish>Statyczne Elementy Statków Kosmicznych</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_tibanna">
             <English>Tibanna Platforms</English>
             <French>Plateformes de Tibanna</French>
             <Russian>Платформы тибана</Russian>
+            <Polish>Platformy Gazu Tibanna</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_walkers">
             <English>Walkers</English>
             <French>Marcheurs</French>
             <Russian>Шагоходы</Russian>
+            <Polish>Łaziki Kroczące</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zabrak">
             <English>Zabrak</English>
             <French>Zabrak</French>
             <Russian>Забрак</Russian>
+            <Polish>Zabrak</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zelosian">
             <English>Zelosian</English>
             <French>Zélosien</French>
             <Russian>Зелосиан</Russian>
+            <Polish>Zelosian</Polish>
         </Key>
         <Key ID="STR_ls_common_edsubcat_zeltron">
             <English>Zeltron</English>
             <French>Zeltron</French>
             <Russian>Цельтрон</Russian>
+            <Polish>Zeltron</Polish>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L787-L803 -->
         <Key ID="STR_ls_common_enabled">
@@ -297,11 +322,13 @@
             <English>Finished collecting fuel</English>
             <French>Récupération de carburant terminée</French>
             <Russian>Сбор топлива окончен</Russian>
+            <Polish>Zakończono zbieranie paliwa</Polish>
         </Key>
         <Key ID="STR_ls_common_finishedRefueling">
             <English>Finished refueling</English>
             <French>Ravitaillement en carburant terminé</French>
             <Russian>Заправка окончена</Russian>
+            <Polish>Zakończono tankowanie</Polish>
         </Key>
         <Key ID="STR_ls_common_invalidValue">
             <English>Invalid value</English>
@@ -313,16 +340,19 @@
             <English>Pick up</English>
             <French>Ramasser</French>
             <Russian>Поднять</Russian>
+            <Polish>Podnieś</Polish>
         </Key>
         <Key ID="STR_ls_common_placeItem">
             <English>Place item</English>
             <French>Placer l'objet</French>
             <Russian>Поставить предмет</Russian>
+            <Polish>Połóż przedmiot</Polish>
         </Key>
         <Key ID="STR_ls_common_placingProgress">
             <English>Placing %1...</English>
             <French>Placement de %1...</French>
             <Russian>Ставим %1...</Russian>
+            <Polish>Ustawianie %1...</Polish>
         </Key>
         <Key ID="STR_ls_common_recievedTreatment">
             <English>You have been fully healed</English>
@@ -340,11 +370,13 @@
             <English>Refueling...</English>
             <French>Ravitaillement...</French>
             <Russian>Заправляем...</Russian>
+            <Polish>Tankowanie...</Polish>
         </Key>
         <Key ID="STR_ls_common_repairShield">
             <English>Repair shield</English>
             <French>Réparer le bouclier</French>
             <Russian>Починить щит</Russian>
+            <Polish>Napraw tarcze</Polish>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/fortify/stringtable.xml#L294-L311 -->
         <Key ID="STR_ls_common_rotate">
@@ -369,6 +401,7 @@
             <English>Select an area to map.</English>
             <French>Sélectionner une zone à cartographier.</French>
             <Russian>Выбрать зону на карте.</Russian>
+            <Polish>Wybierz obszar do zmapowania</Polish>
         </Key>
         <Key ID="STR_ls_common_skill_advanced">
             <English>Advanced</English>
