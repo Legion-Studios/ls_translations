@@ -37,7 +37,7 @@
         <Key ID="STR_ls_weapons_standardEnergy">
             <English>Standard energy</English>
         </Key>
-        <Key ID="STRw_ls_weapons_lowEnergy">
+        <Key ID="STR_ls_weapons_lowEnergy">
             <English>Low energy</English>
         </Key>
     </Package>
