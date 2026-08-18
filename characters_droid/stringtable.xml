@@ -273,6 +273,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_nvg">
             <English>B1 MNC-LG</English>
+            <French>MNC-LG B1</French>
             <Polish>B1 MNC-LG</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_uniform">
@@ -283,6 +284,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_headlamp">
             <English>B1 Headlamp</English>
+            <French>Lampe frontale B1</French>
             <Polish>Latarka Droida B1</Polish>
             <Russian>Наголовный фонарь B1</Russian>
         </Key>
@@ -378,6 +380,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_jetpack_backpack">
             <English>B1 Jetpack</English>
+            <French>Jetpack B1</French>
             <Polish>Plecak Odrzutowy Droida B1</Polish>
             <Russian>Джетпак B1</Russian>
         </Key>
@@ -443,6 +446,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pauldrons_electrostaff_vest">
             <English>B1 Pauldrons (Electrostaff)</English>
+            <French>Épaulières B1 (Bâton Électrique)</French>
             <Polish>Naramiennik Droida B1 (Elektrolaska)</Polish>
             <Russian>Наплечники B1 ()</Russian>
         </Key>
@@ -598,6 +602,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_sniper_nvg">
             <English>B1 1C-U</English>
+            <French>1C-U B1</French>
             <Polish>B1 1C-U</Polish>
             <Russian>B1 1C-U</Russian>
         </Key>
@@ -710,6 +715,7 @@
         </Key>
         <Key ID="STR_ls_characters_droid_battledroids">
             <English>Battledroids</English>
+            <French>Droïdes de combat</French>
             <Polish>Droidy Bojowe</Polish>
             <Russian>Боевые дроиды</Russian>
         </Key>
