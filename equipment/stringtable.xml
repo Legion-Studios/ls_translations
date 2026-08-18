@@ -3,61 +3,73 @@
     <Package name="equipment">
         <Key ID="STR_ls_equipment_createEquipmentCategory_name">
             <English>Create Arsenal Category</English>
+            <Polish>Stwórz Kategorie Arsenału</Polish>
             <Russian>Создать категорию в арсенале</Russian>
         </Key>
         <Key ID="STR_ls_equipment_createEquipmentCategory_tooltip">
             <English>If enabled, creates a custom category in the ACE Arsenal for special equipment items.</English>
             <French>Si activé, crée une catégorie personnalisée dans l'arsenal ACE pour des objets d'équipement spéciaux.</French>
+            <Polish>Jeśli włączone, tworzy własną kategorię w arsenale ACE dla specjalnego ekwipunku.</Polish>
             <Russian>Если включено, показывает кастомную категорию в АСЕ арсенале для определенных элементов снаряжения.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_name">
             <English>Rangefinder Overlay - Enabled</English>
             <French>Calque télémètre - Activé</French>
+            <Polish>Nakładka Dalmierza</Polish>
             <Russian>Оверлей дальномера - Включен</Russian>
         </Key>
         <Key ID="STR_ls_equipment_enableRangefinderOverlay_tooltip">
             <English>If enabled, nvgs can configure a display to show interactive elements when turning on the nvgs.</English>
             <French>Si activé, les LVN peuvent afficher les éléments interactifs quand elles sont activées.</French>
+            <Polish>Jeśli włączone, niektóre noktowizory będą wyświetlać interaktywne elementy w momencie kiedy są włączone.</Polish>
             <Russian>Если включено, ПНВ могут настроить дисплей для отображения интерактивных элементов при использовании.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_repairKit_descriptionShort">
             <English>A light repair kit, capable of repairing simple equipment</English>
             <French>Un kit de réparation léger, capable de réparer les équipements simples.</French>
+            <Polish>Lekki zestaw naprawczy, może naprawić proste przyrządy</Polish>
             <Russian>Небольшой набор инструментов, способный к починке простого снаряжения</Russian>
         </Key>
         <Key ID="STR_ls_equipment_repairKit_displayName">
             <English>Repair Kit</English>
             <French>Kit de réparation</French>
+            <Polish>Zestaw Naprawczy</Polish>
             <Russian>Набор инструментов</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_name">
             <English>Squad Shield - Health</English>
             <French>Bouclier d'escouade - Vie</French>
+            <Polish>Tarcza Oddziałowa - Życie</Polish>
             <Russian>Сквад-шилд - Здоровье</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShieldHealth_tooltip">
             <English>The max health of the squad shield's shield.</English>
             <French>La vie maximale du bouclier d'escouade.</French>
+            <Polish>Maksymalna ilość życia tarczy oddziałowej.</Polish>
             <Russian>Максимальное здоровье щита сквад-шилда.</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_broken_displayName">
             <English>Squad Shield (Broken)</English>
             <French>Bouclier d'escouade (cassé)</French>
+            <Polish>Tarcza Oddziałowa (Uszkodzona)</Polish>
             <Russian>Сквад-шилд(Сломан)</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_broken_packed_descriptionShort">
             <English>A broken squad shield, place and repair with a Toolkit</English>
             <French>Un bouclier d'escouade cassé, à placer et réparer avec un kit de réparation.</French>
+            <Polish>Uszkodzona tarcza oddziałowa - Rozmieść i napraw używając Zestawu Naprawczego</Polish>
             <Russian>Сломанный сквад-шилд. Разместите и почините набором инструментов</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_displayName">
             <English>Squad Shield</English>
             <French>Bouclier d'escouade</French>
+            <Polish>Tarcza Oddziałowa</Polish>
             <Russian>Сквад-шилд</Russian>
         </Key>
         <Key ID="STR_ls_equipment_squadShield_packed_descriptionShort">
             <English>A deployable squad shield</English>
             <French>Un bouclier d'escouade déployable.</French>
+            <Polish>Rozstawialna tarcza oddziałowa.</Polish>
             <Russian>Размещаемый сквад-шилд</Russian>
         </Key>
     </Package>

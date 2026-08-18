@@ -10,46 +10,55 @@
         <Key ID="STR_ls_characters_droid_b1_advanced_backpack">
             <English>B1 Comlink Booster (Advanced)</English>
             <French>Amplificateur Comlink B1 (avancé)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Zaawansowany)</Polish>
             <Russian>Усилитель коммлинка B1(Улучшенный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_advanced_helmet">
             <English>B1 Droid Head (Advanced)</English>
             <French>Tête de droïde B1 (avancée)</French>
+            <Polish>Głowa Droida Bojowego B1 (Zaawansowana)</Polish>
             <Russian>Голова дроида B1 (Улучшенная)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_advanced_uniform">
             <English>B1 Droid Chassis (Advanced)</English>
             <French>Châssis de droïde B1 (avancé)</French>
+            <Polish>Korpus Droida Bojowego B1 (Zaawansowany)</Polish>
             <Russian>Шасси Дроида B1 (Улучшенное)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_advanced_backpack">
             <English>B1 Antenna Array (Advanced)</English>
             <French>Réseau d'antennes B1 (avancé)</French>
+            <Polish>Zestaw Antenowy Droida B1 (Zaawansowany)</Polish>
             <Russian>Комплекс Антенн B1 (Улучшенный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_backpack">
             <English>B1 Antenna Array</English>
             <French>Réseau d'antennes B1</French>
+            <Polish>Zestaw Antenowy Droida B1</Polish>
             <Russian>Комплекс антенн B1</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_geonosis_backpack">
             <English>B1 Antenna Array (Geonosis)</English>
             <French>Réseau d'antennes B1 (Geonosis)</French>
+            <Polish>Zestaw Antenowy Droida B1 (Geonosis)</Polish>
             <Russian>Комплекс антенн B1 (Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_hologram_backpack">
             <English>B1 Antenna Array (Hologram)</English>
             <French>Réseau d'antennes B1 (hologramme)</French>
+            <Polish>Zestaw Antenowy Droida B1 (Hologram)</Polish>
             <Russian>Комплекс антенн B1 (Голограмма)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_simulation_backpack">
             <English>B1 Antenna Array (Simulation)</English>
             <French>Réseau d'antennes B1 (simulation)</French>
+            <Polish>Zestaw Antenowy Droida B1 (Symulacja)</Polish>
             <Russian>Комплекс антенн B1 (Симуляционный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_antenna_training_backpack">
             <English>B1 Antenna Array (Training)</English>
             <French>Réseau d'antennes B1 (entraînement)</French>
+            <Polish>Zestaw Antenowy Droida B1 (Trening)</Polish>
             <Russian>Комплекс антенн B1 (Тренировочный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_at">
@@ -61,6 +70,7 @@
         <Key ID="STR_ls_characters_droid_b1_backpack">
             <English>B1 Comlink Booster</English>
             <French>Amplificateur Comlink B1</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1</Polish>
             <Russian>Усилитель коммлинка B1</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_breacher">
@@ -72,16 +82,19 @@
         <Key ID="STR_ls_characters_droid_b1_commander">
             <English>B1 Commander Droid</English>
             <French>Droïde commandant B1</French>
+            <Polish>Droid Dowódca B1</Polish>
             <Russian>Дроид Коммандер B1</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_advanced_helmet">
             <English>B1 Commander Droid Head (Advanced)</English>
             <French>Tête de commandant droïde B1 (avancée)</French>
+            <Polish>Głowa Droida Dowódcy B1 (Zaawansowana)</Polish>
             <Russian>Голова Дроида коммандера B1 (Улучшенный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_advanced_uniform">
             <English>B1 Droid Chassis (Commander, Advanced)</English>
             <French>Châssis de droïde B1 (commandant, avancé)</French>
+            <Polish>Korpus Droida B1 (Dowódca, Zaawansowany)</Polish>
             <Russian>Шасси дроида B1 (Коммандер, Улучшенный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_geonosis_helmet">
@@ -93,6 +106,7 @@
         <Key ID="STR_ls_characters_droid_b1_commander_geonosis_uniform">
             <English>B1 Droid Chassis (Commander, Geonosis)</English>
             <French>Châssis de droïde B1 (commandant, Geonosis)</French>
+            <Polish>Korpus Droida B1 (Dowódca, Geonosis)</Polish>
             <Russian>Шасси дроида B1 (Коммандер, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_commander_helmet">
@@ -104,96 +118,115 @@
         <Key ID="STR_ls_characters_droid_b1_commander_uniform">
             <English>B1 Droid Chassis (Commander)</English>
             <French>Châssis de droïde B1 (commandant)</French>
+            <Polish>Korpus Droida B1 (Dowódca)</Polish>
             <Russian>Шасси дроида B1 (Коммандер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew">
             <English>B1 Battle Droid (Crew)</English>
             <French>Droïde B1 (équipage)</French>
+            <Polish>Droid Bojowy B1 (Załogant)</Polish>
             <Russian>Боевой дроид B1 (Экипажник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew_backpack">
             <English>B1 Comlink Booster (Crew)</English>
             <French>Amplificateur Comlink B1 (équipage)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Załogant)</Polish>
             <Russian>Усилитель коммлинка B1 (Экипажник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew_geonosis_backpack">
             <English>B1 Comlink Booster (Crew, Geonosis)</English>
             <French>Amplificateur Comlink B1 (équipage, Geonosis)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Załogant, Geonosis)</Polish>
             <Russian>Усилитель коммлинка B1 (Экипажник, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew_geonosis_helmet">
             <English>B1 Droid Head (Crew, Geonosis)</English>
             <French>Tête de droïde B1 (équipage, Geonosis)</French>
+            <Polish>Głowa Droida B1 (Załogant, Geonosis)</Polish>
             <Russian>Голова дроида B1 (Экипажник, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew_geonosis_uniform">
             <English>B1 Droid Chassis (Crew, Geonosis)</English>
             <French>Châssis de droïde B1 (équipage, Geonosis)</French>
+            <Polish>Korpus Droida B1 (Załogant, Geonosis)</Polish>
             <Russian>Шасси дроида B1 (Экипаж, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew_helmet">
             <English>B1 Droid Head (Crew)</English>
             <French>Tête de droïde B1 (équipage)</French>
+            <Polish>Głowa Droida B1 (Załogant)</Polish>
             <Russian>Голова дроида B1 (Экипажник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_crew_uniform">
             <English>B1 Droid Chassis (Crew)</English>
             <French>Châssis de droïde B1 (équipage)</French>
+            <Polish>Korpus Droida B1 (Załogant)</Polish>
             <Russian>Шасси дроида B1 (Экипажник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_engineer">
             <English>B1 Battle Droid (Engineer)</English>
             <French>Droïde B1 (ingénieur)</French>
+            <Polish>Droid Bojowy B1 (Inżynier)</Polish>
             <Russian>Боевой дроид B1 (Инженер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_engineer_backpack">
             <English>B1 Comlink Booster (Engineer)</English>
             <French>Amplificateur Comlink B1 (ingénieur)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Inżynier)</Polish>
             <Russian>Усилитель коммлинка B1 (Инженер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_engineer_geonosis_backpack">
             <English>B1 Comlink Booster (Engineer, Geonosis)</English>
             <French>Amplificateur Comlink B1 (ingénieur, Geonosis)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Inżynier, Geonosis)</Polish>
             <Russian>Усилитель коммлинка B1 (Инженер, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_engineer_geonosis_uniform">
             <English>B1 Droid Chassis (Engineer, Geonosis)</English>
             <French>Châssis de droïde B1 (ingénieur, Geonosis)</French>
+            <Polish>Korpus Droida B1 (Inżynier, Geonosis)</Polish>
             <Russian>Шасси дроида B1 (Инженер, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_engineer_uniform">
             <English>B1 Droid Chassis (Engineer)</English>
             <French>Châssis de droïde B1 (ingénieur)</French>
+            <Polish>Korpus Droida Bojowego B1 (Inżynier)</Polish>
             <Russian>Шасси дроида B1 (Инженер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_firefighter">
             <English>B1 Battle Droid (Firefighter)</English>
             <French>Droïde B1 (pompier)</French>
+            <Polish>Droid Bojowy B1 (Strażak)</Polish>
             <Russian>Боевой дроид B1 (Пожарник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_firefighter_backpack">
             <English>B1 Comlink Booster (Firefighter)</English>
             <French>Amplificateur Comlink B1 (pompier)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Strażak)</Polish>
             <Russian>Усилитель коммлинка B1 (Пожарник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_firefighter_helmet">
             <English>B1 Droid Head (Firefighter)</English>
             <French>Tête de droïde B1 (pompier)</French>
+            <Polish>Głowa Droida B1 (Strażak)</Polish>
             <Russian>Голова дроида B1 (пожарник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_firefighter_uniform">
             <English>B1 Droid Chassis (Firefighter)</English>
             <French>Châssis de droïde B1 (pompier)</French>
+            <Polish>Korpus Droida B1 (Strażak)</Polish>
             <Russian>Шасси дроида B1 (Пожарник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_geonosis_backpack">
             <English>B1 Comlink Booster (Geonosis)</English>
             <French>Amplificateur Comlink B1 (Geonosis)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Geonosis)</Polish>
             <Russian>Усилитель дроида B1 (Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_geonosis_helmet">
             <English>B1 Droid Head (Geonosis)</English>
             <French>Tête de droïde B1 (Geonosis)</French>
+            <Polish>Głowa Droida B1 (Geonosis)</Polish>
             <Russian>Голова дроида B1 (Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_geonosis_uniform">
@@ -211,59 +244,70 @@
         <Key ID="STR_ls_characters_droid_b1_grenadier_backpack">
             <English>B1 Comlink Booster (Grenadier)</English>
             <French>Amplificateur Comlink B1 (grenadier)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Grenadier)</Polish>
             <Russian>Усилитель коммлинка B1 (Гренадер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_geonosis_backpack">
             <English>B1 Comlink Booster (Grenadier, Geonosis)</English>
             <French>Amplificateur Comlink B1 (grenadier, Geonosis)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Grenadier, Geonosis)</Polish>
             <Russian>Усилитель коммлинка B1 (Гренадер, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_geonosis_helmet">
             <English>B1 Droid Head (Grenadier, Geonosis)</English>
             <French>Tête de droïde B1 (grenadier, Geonosis)</French>
+            <Polish>Głowa Droida B1 (Grenadier, Geonosis)</Polish>
             <Russian>Голова дроида B1 (Гренадер, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_geonosis_uniform">
             <English>B1 Droid Chassis (Grenadier, Geonosis)</English>
             <French>Châssis de droïde B1 (grenadier, Geonosis)</French>
+            <Polish>Korpus Droida B1 (Grenadier, Geonosis)</Polish>
             <Russian>Шасси дроида B1 (Гренадер, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_helmet">
             <English>B1 Droid Head (Grenadier)</English>
             <French>Tête de droïde B1 (grenadier)</French>
+            <Polish>Głowa Droida B1 (Grenadier)</Polish>
             <Russian>Голова дроида B1 (Гренадер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_nvg">
             <English>B1 MNC-LG</English>
+            <Polish>B1 MNC-LG</Polish>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_grenadier_uniform">
             <English>B1 Droid Chassis (Grenadier)</English>
             <French>Châssis de droïde B1 (grenadier)</French>
+            <Polish>Korpus Droida B1 (Grenadier)</Polish>
             <Russian>Шасси дроида B1 (Гренадер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_headlamp">
             <English>B1 Headlamp</English>
+            <Polish>Latarka Droida B1</Polish>
             <Russian>Наголовный фонарь B1</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_headlamp_geonosis">
             <English>B1 Headlamp (Geonosis)</English>
             <French>Lampe frontale B1 (Geonosis)</French>
+            <Polish>Latarka Droida B1 (Geonosis)</Polish>
             <Russian>Наголовный фонарь B1(Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_headlamp_saboteur">
             <English>B1 Headlamp (Saboteur)</English>
             <French>Lampe frontale B1 (saboteur)</French>
+            <Polish>Latarka Droida B1 (Sabotażysta)</Polish>
             <Russian>Наголовный фонарь B1(Диверсант)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_headlamp_training">
             <English>B1 Headlamp (Training)</English>
             <French>Lampe frontale B1 (entraînement)</French>
+            <Polish>Latarka Droida B1 (Trening)</Polish>
             <Russian>Наголовный фонарь B1(Тренировочный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavy">
             <English>B1 Battle Droid (Support Gunner)</English>
             <French>Droïde de combat B1 (tireur lourd)</French>
-            <Polish>Droid Bojowy B1 (Cięzki Strzelec)</Polish>
+            <Polish>Droid Bojowy B1 (Ciężki Strzelec)</Polish>
             <Russian>Боевой дроид B1(Супер стрелок)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavyAA">
@@ -281,41 +325,49 @@
         <Key ID="STR_ls_characters_droid_b1_heavy_backpack">
             <English>B1 Comlink Booster (Heavy)</English>
             <French>Amplificateur Comlink B1 (lourd)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Ciężki Strzelec)</Polish>
             <Russian>Усилитель коммлинка B1(Тяжелый)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavy_geonosis_backpack">
             <English>B1 Comlink Booster (Heavy, Geonosis)</English>
             <French>Amplificateur Comlink B1 (lourd, Geonosis)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Ciężki Strzelec, Geonosis)</Polish>
             <Russian>Усилитель коммлинка B1(Тяжелый, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavy_geonosis_uniform">
             <English>B1 Droid Chassis (Heavy, Geonosis)</English>
             <French>Châssis de droïde B1 (lourd, Geonosis)</French>
+            <Polish>Korpus Droida B1 (Ciężki Strzelec, Geonosis)</Polish>
             <Russian>Шасси дроида B1(Тяжелый, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_heavy_uniform">
             <English>B1 Droid Chassis (Heavy)</English>
             <French>Châssis de droïde B1 (lourd)</French>
+            <Polish>Korpus Droida B1 (Ciężki Strzelec)</Polish>
             <Russian>Шасси дроида B1(Тяжелый)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_helmet">
             <English>B1 Droid Head</English>
             <French>Tête de droïde B1</French>
+            <Polish>Głowa Droida B1</Polish>
             <Russian>Голова дроида B1</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram">
             <English>B1 Battle Droid (Hologram)</English>
             <French>Droïde de combat B1 (hologramme)</French>
+            <Polish>Droid Bojowy B1 (Hologram)</Polish>
             <Russian>Голова дроида B1(Голограма)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram_backpack">
             <English>B1 Comlink Booster (Hologram)</English>
             <French>Amplificateur Comlink B1 (hologramme)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Hologram)</Polish>
             <Russian>Усилитель коммлинка B1(Голограма)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram_helmet">
             <English>B1 Droid Head (Hologram)</English>
             <French>Tête de droïde B1 (hologramme)</French>
+            <Polish>Głowa Droida B1 (Hologram)</Polish>
             <Russian>Голова дроида B1(Голограма)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_hologram_uniform">
@@ -326,51 +378,61 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_jetpack_backpack">
             <English>B1 Jetpack</English>
+            <Polish>Plecak Odrzutowy Droida B1</Polish>
             <Russian>Джетпак B1</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_jetpack_geonosis_backpack">
             <English>B1 Jetpack (Geonosis)</English>
             <French>Jetpack B1 (Geonosis)</French>
+            <Polish>Plecak Odrzutowy Droida B1 (Geonosis)</Polish>
             <Russian>Джетпак B1(Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_jetpack_saboteur_backpack">
             <English>B1 Jetpack (Saboteur)</English>
             <French>Jetpack B1 (saboteur)</French>
+            <Polish>Plecak Odrzutowy Droida B1 (Sabotażysta)</Polish>
             <Russian>Джетпак B1(Диверсант)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_junkyard">
             <English>B1 Battle Droid (Junkyard)</English>
             <French>Droïde de combat B1 (décharge)</French>
+            <Polish>Droid Bojowy B1 (Złomowisko)</Polish>
             <Russian>Боевой дроид B1(Мусорный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_junkyard_backpack">
             <English>B1 Comlink Booster (Junkyard)</English>
             <French>Amplificateur Comlink B1 (décharge)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Złomowisko)</Polish>
             <Russian>Усилитель коммлинка B1(Мусорный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_junkyard_helmet">
             <English>B1 Droid Head (Junkyard)</English>
             <French>Tête de droïde B1 (décharge)</French>
+            <Polish>Głowa Droida B1 (Złomowisko)</Polish>
             <Russian>Голова дроида B1(Мусорная)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_junkyard_uniform">
             <English>B1 Droid Chassis (Junkyard)</English>
             <French>Châssis de droïde B1 (décharge)</French>
+            <Polish>Korpus Droida B1 (Złomowisko)</Polish>
             <Russian>Шасси дроида B1(Мусорное)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_marine">
             <English>B1 Battle Droid (Marine)</English>
             <French>Droïde B1 (marine)</French>
+            <Polish>Droid Bojowy B1 (Piechota Kosmiczna)</Polish>
             <Russian>Боевой дроид B1(Марин)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_marine_backpack">
             <English>B1 Comlink Booster (Marine)</English>
             <French>Amplificateur Comlink B1 (marine)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Piechota Kosmiczna)</Polish>
             <Russian>Усилитель коммлинка B1(Марин)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_marine_uniform">
             <English>B1 Droid Chassis (Marine)</English>
             <French>Châssis de droïde B1 (marine)</French>
+            <Polish>Korpus Droida B1 (Piechota Kosmiczna)</Polish>
             <Russian>Шасси дроида B1(Марин)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_marksman">
@@ -381,11 +443,13 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pauldrons_electrostaff_vest">
             <English>B1 Pauldrons (Electrostaff)</English>
+            <Polish>Naramiennik Droida B1 (Elektrolaska)</Polish>
             <Russian>Наплечники B1 ()</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pauldrons_vest">
             <English>B1 Pauldrons</English>
             <French>Épaulières B1</French>
+            <Polish>Naramienniki Droidów B1</Polish>
             <Russian>Наплечники B1</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot">
@@ -397,36 +461,43 @@
         <Key ID="STR_ls_characters_droid_b1_pilot_backpack">
             <English>B1 Comlink Booster (Pilot)</English>
             <French>Amplificateur Comlink B1 (pilote)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Pilot)</Polish>
             <Russian>Усилитель коммлинка B1 (Пилот)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot_geonosis_backpack">
             <English>B1 Comlink Booster (Pilot, Geonosis)</English>
             <French>Amplificateur Comlink B1 (pilote, Geonosis)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Pilot, Geonosis)</Polish>
             <Russian>Усилитель коммлинка B1 (Пилот, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot_geonosis_uniform">
             <English>B1 Droid Chassis (Pilot, Geonosis)</English>
             <French>Châssis de droïde B1 (pilote, Geonosis)</French>
+            <Polish>Korpus Droida B1 (Pilot, Geonosis)</Polish>
             <Russian>Шасси дроида B1 (Пилот, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_pilot_uniform">
             <English>B1 Droid Chassis (Pilot)</English>
             <French>Châssis de droïde B1 (pilote)</French>
+            <Polish>Korpus Droida B1 (Pilot)</Polish>
             <Russian>Шасси дроида B1 (Пилот)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_saboteur">
             <English>B1 Battle Droid (Saboteur)</English>
             <French>Droïde B1 (saboteur)</French>
+            <Polish>Droid Bojowy B1 (Sabotażysta)</Polish>
             <Russian>Боевой Дроид B1 (Диверсант)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_saboteur_backpack">
             <English>B1 Comlink Booster (Saboteur)</English>
             <French>Amplificateur Comlink B1 (saboteur)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Sabotażysta)</Polish>
             <Russian>Усилитель коммлинка B1 (Диверсант)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_saboteur_helmet">
             <English>B1 Droid Head (Saboteur)</English>
             <French>Tête de droïde B1 (saboteur)</French>
+            <Polish>Głowa Droida B1 (Sabotażysta)</Polish>
             <Russian>Голова дроида B1 (Диверсант)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_saboteur_uniform">
@@ -438,26 +509,31 @@
         <Key ID="STR_ls_characters_droid_b1_scout">
             <English>B1 Battle Droid (Scout)</English>
             <French>Droïde B1 (éclaireur)</French>
+            <Polish>Droid Bojowy B1 (Zwiadowca)</Polish>
             <Russian>Боевой дроид B1 (Разведчик)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_scout_geonosis_helmet">
             <English>B1 Droid Head (Scout, Geonosis)</English>
             <French>Tête de droïde B1 (éclaireur, Geonosis)</French>
+            <Polish>Głowa Droida B1 (Zwiadowca, Geonosis)</Polish>
             <Russian>Голова дроида B1 (Разведчик, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_scout_geonosis_uniform">
             <English>B1 Droid Chassis (Scout, Geonosis)</English>
             <French>Châssis de droïde B1 (éclaireur, Geonosis)</French>
+            <Polish>Korpus Droida B1 (Zwiadowca, Geonosis)</Polish>
             <Russian>Шасси дроида B1 (Разведчик, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_scout_helmet">
             <English>B1 Droid Head (Scout)</English>
             <French>Tête de droïde B1 (éclaireur)</French>
+            <Polish>Głowa Droida B1 (Zwiadowca)</Polish>
             <Russian>Голова дроида B1 (Разведчик)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_scout_uniform">
             <English>B1 Droid Chassis (Scout)</English>
             <French>Châssis de droïde B1 (éclaireur)</French>
+            <Polish>Korpus Droida B1 (Zwiadowca)</Polish>
             <Russian>Шасси дроида B1 (Разведчик)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_security">
@@ -469,36 +545,43 @@
         <Key ID="STR_ls_characters_droid_b1_security_backpack">
             <English>B1 Comlink Booster (Security)</English>
             <French>Amplificateur Comlink B1 (sécurité)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Ochrona)</Polish>
             <Russian>Усилитель коммлинка B1 (Охранник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_security_geonosis_backpack">
             <English>B1 Comlink Booster (Security, Geonosis)</English>
             <French>Amplificateur Comlink B1 (sécurité, Geonosis)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Ochrona, Geonosis)</Polish>
             <Russian>Усилитель коммлинка B1 (Охранник, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_security_geonosis_uniform">
             <English>B1 Droid Chassis (Security, Geonosis)</English>
             <French>Châssis de droïde B1 (sécurité, Geonosis)</French>
+            <Polish>Korpus Droida B1 (Ochrona, Geonosis)</Polish>
             <Russian>Шасси дроида B1 (Охранник, Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_security_uniform">
             <English>B1 Droid Chassis (Security)</English>
             <French>Châssis de droïde B1 (sécurité)</French>
+            <Polish>Korpus Droida B1 (Ochrona)</Polish>
             <Russian>Шасси дроида B1 (Охранник)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_simulation">
             <English>B1 Battle Droid (Simulation)</English>
             <French>Droïde B1 (simulation)</French>
+            <Polish>Droid Bojowy B1 (Symulacja)</Polish>
             <Russian>Боевой дроида B1 (Симуляционный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_simulation_backpack">
             <English>B1 Comlink Booster (Simulation)</English>
             <French>Amplificateur Comlink B1 (simulation)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Symulacja)</Polish>
             <Russian>Усилитель коммлинка B1 (Симуляционный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_simulation_helmet">
             <English>B1 Droid Head (Simulation)</English>
             <French>Tête de droïde B1 (simulation)</French>
+            <Polish>Głowa Droida B1 (Symulacja)</Polish>
             <Russian>Голова дроида B1 (Симуляционный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_simulation_uniform">
@@ -515,11 +598,13 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_sniper_nvg">
             <English>B1 1C-U</English>
+            <Polish>B1 1C-U</Polish>
             <Russian>B1 1C-U</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_sniper_training_nvg">
             <English>B1 1C-U (Training)</English>
             <French>1C-U B1 (entraînement)</French>
+            <Polish>B1 1C-U (Trening)</Polish>
             <Russian>B1 1C-U (Тренировочный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_squadLeader">
@@ -530,26 +615,31 @@
         </Key>
         <Key ID="STR_ls_characters_droid_b1_tech_geonosis_nvg">
             <English>B1 MNC-LT (Geonosis)</English>
+            <Polish>B1 MNC-LT (Geonosis)</Polish>
             <Russian>B1 MNC-LT (Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_tech_nvg">
             <English>B1 MNC-LT</English>
             <French>MNC-LT B1</French>
+            <Polish>B1 MNC-LT</Polish>
             <Russian>B1 MNC-LT</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_tech_nvg_description">
             <English>B1 Battledroid Monocular Neuro Combat Lattice</English>
             <French>Maillage neuronal de combat monoculaire B1</French>
+            <Polish>Monoklarna Neurobojowa Matryca Droida Bojowego B1</Polish>
             <Russian>Плата-монокуляр боевого дроида B1</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_backpack">
             <English>B1 Comlink Booster (Training)</English>
             <French>Amplificateur Comlink B1 (entraînement)</French>
+            <Polish>Wzmacniacz Komunikatora Droida B1 (Trening)</Polish>
             <Russian>Усилитель коммлинка B1 (Тренировочный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_helmet">
             <English>B1 Droid Head (Training)</English>
             <French>Tête de droïde B1 (entraînement)</French>
+            <Polish>Głowa Droida B1 (Trening)</Polish>
             <Russian>Голова дроида B1 (Тренировочный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b1_training_uniform">
@@ -585,6 +675,7 @@
         <Key ID="STR_ls_characters_droid_b2_jetpack">
             <English>B2-RP Jetpack</English>
             <French>Jetpack B2-RP</French>
+            <Polish>Plecak Odrzutowy B2-RP</Polish>
             <Russian>Джетпак B2-RP</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_b2_junkyard">
@@ -619,26 +710,31 @@
         </Key>
         <Key ID="STR_ls_characters_droid_battledroids">
             <English>Battledroids</English>
+            <Polish>Droidy Bojowe</Polish>
             <Russian>Боевые дроиды</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_battledroids_advanced">
             <English>Battledroids (Advanced)</English>
             <French>Droïdes de combat (avancés)</French>
+            <Polish>Droidy Bojowe (Zaawansowane)</Polish>
             <Russian>Боевые дроиды (Улучшенные)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_battledroids_geonosis">
             <English>Battledroids (Geonosis)</English>
             <French>Droïdes de combat (Geonosis)</French>
+            <Polish>Droidy Bojowe (Geonosis)</Polish>
             <Russian>Боевые дроиды (Геонозис)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_battledroids_oom">
             <English>OOM-Series Droids</English>
             <French>Droïdes de série OOM</French>
+            <Polish>Droidy Serii OOM</Polish>
             <Russian>Дроиды серии OOМ</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_battledroids_training">
             <English>Battledroids (Training)</English>
             <French>Droïdes de combat (entraînement)</French>
+            <Polish>Droidy Bojowe (Trening)</Polish>
             <Russian>Боевые дроиды (Тренировочные)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx">
@@ -656,11 +752,13 @@
         <Key ID="STR_ls_characters_droid_bx_bountyHunter">
             <English>BX Commando Droid (Bounty Hunter)</English>
             <French>Droïde commando BX (chasseur de primes)</French>
+            <Polish>Droid Komandos BX (Łowca Nagród)</Polish>
             <Russian>Дроид коммандос BX (Охотник за головами)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_bountyHunter_uniform">
             <English>BX Commando Droid Chassis (Bounty Hunter)</English>
             <French>Châssis de droïde commando BX (chasseur de primes)</French>
+            <Polish>Korpus Droida Komandosa BX (Łowca Nagród)</Polish>
             <Russian>Шасси дроида коммандос BX (Охотник за головами)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_captain">
@@ -672,7 +770,7 @@
         <Key ID="STR_ls_characters_droid_bx_captain_uniform">
             <English>BX Commando Droid Captain Chassis</English>
             <French>Châssis de capitaine droïde commando BX</French>
-            <Polish>Korpus Droid Bojowy Kapitana BX</Polish>
+            <Polish>Korpus Droida Komandosa Kapitana BX</Polish>
             <Russian>Шасси капитана дроида коммандос BX</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_cloneDisguise_phase1">
@@ -690,13 +788,13 @@
         <Key ID="STR_ls_characters_droid_bx_diplomat">
             <English>BX Diplomat Droid</English>
             <French>Droïde diplomate BX</French>
-            <Polish>Droid Komandos BX (Eskorta Dyplomatyczny)</Polish>
+            <Polish>Droid Komandos BX (Eskorta Dyplomatyczna)</Polish>
             <Russian>Дроид дипломат BX</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_diplomat_uniform">
             <English>BX Diplomat Droid Chassis</English>
             <French>Châssis de droïde diplomate BX</French>
-            <Polish>Korpus Droida Komandosa BX (Eskorta Dyplomatyczny)</Polish>
+            <Polish>Korpus Droida Komandosa BX (Eskorta Dyplomatyczna)</Polish>
             <Russian>Шасси дроида дипломата BX</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_hologram">
@@ -714,28 +812,31 @@
         <Key ID="STR_ls_characters_droid_bx_impostor">
             <English>BX Commando Droid (Impostor)</English>
             <French>Droïde commando BX (imposteur)</French>
+            <Polish>Droid Komandos BX (Przebrany)</Polish>
             <Russian>Дроид коммандос BX (Диверсант)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_junkyard">
             <English>BX Commando Droid (Junkyard)</English>
             <French>Droïde commando BX (décharge)</French>
+            <Polish>Droid Komandos BX (Złomowisko)</Polish>
             <Russian>Дроид коммандос BX (Мусорный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_junkyard_uniform">
             <English>BX Commando Droid Chassis (Junkyard)</English>
             <French>Châssis de droïde commando BX (décharge)</French>
+            <Polish>Korpus Droida Komandosa BX (Złomowisko)</Polish>
             <Russian>Шасси дроида коммандос BX (Мусорный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_security">
             <English>BX Security Droid</English>
             <French>Droïde de sécurité BX</French>
-            <Polish>Droid Komandos BX (Hologram)</Polish>
+            <Polish>Droid Komandos BX (Ochrona)</Polish>
             <Russian>Дроид коммандос BX (Голограмма)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_security_uniform">
             <English>BX Security Droid Chassis</English>
             <French>Châssis de droïde de sécurité BX</French>
-            <Polish>Droid Komandos BX (Ochrona)</Polish>
+            <Polish>Korpus Droida Komandosa BX (Ochrona)</Polish>
             <Russian>Дроид коммандос BX (Охранный)</Russian>
         </Key>
         <Key ID="STR_ls_characters_droid_bx_simulation">

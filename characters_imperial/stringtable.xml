@@ -10,6 +10,7 @@
         <Key ID="STR_ls_characters_imperial_army_armored_at">
             <English>Armored Imperial Army (AT)</English>
             <French>Armée impériale renforcée (AC)</French>
+            <Polish>Opancerzona Piechota Imperialna (AT)</Polish>
             <Russian>Armée impériale renforcée (ПТ)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_black_uniform">
@@ -21,14 +22,17 @@
         <Key ID="STR_ls_characters_imperial_army_armored_grenadier">
             <English>Armored Imperial Army (Grenadier)</English>
             <French>Armée impériale renforcée (grenadier)</French>
+            <Polish>Opancerzona Piechota Imperialna (Grenadier)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_heavy">
             <English>Armored Imperial Army (Heavy)</English>
             <French>Armée impériale renforcée (lourd)</French>
+            <Polish>Opancerzona Piechota Imperialna (Ciężki Strzelec)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_heavyAa">
             <English>Armored Imperial Army (Heavy AA)</English>
             <French>Armée impériale renforcée (lourd AA)</French>
+            <Polish>Opancerzona Piechota Imperialna (Ciężki Przeciw-Lotniczy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_isb_uniform">
             <English>Imperial Army Fatigues (Armored, ISB)</English>
@@ -39,28 +43,33 @@
         <Key ID="STR_ls_characters_imperial_army_armored_marksman">
             <English>Armored Imperial Army (Marksman)</English>
             <French>Armée impériale renforcée (tireur de précision)</French>
+            <Polish>Opancerzona Piechota Imperialna (Strzelec Wyborowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_medic">
             <English>Armored Imperial Army (Medic)</English>
             <French>Armée impériale renforcée (médecin)</French>
+            <Polish>Opancerzona Piechota Imperialna (Medyk)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_missileAt">
             <English>Armored Imperial Army (Missile AT)</English>
             <French>Armée impériale renforcée (missile AC)</French>
+            <Polish>Opancerzona Piechota Imperialna (Ciężki Przeciw-Pancerny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Armored, Mudtrooper)</English>
             <French>Treillis de l'armée impériale (renforcé, Mudtrooper)</French>
-            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Zołnierz Błotny)</Polish>
+            <Polish>Mundur Polowy Armii Imperialnej (Opancerzony, Żołnierz Błotny)</Polish>
             <Russian>Униформа Имперской армии (Бронированная, Грязетруппер)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_officer">
             <English>Armored Imperial Army (Officer)</English>
             <French>Armée impériale renforcée (officier)</French>
+            <Polish>Opancerzona Piechota Imperialna (Oficer)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_at">
             <English>Armored Imperial Army (Rolled, AT)</English>
             <French>Armée impériale renforcée (retroussé, AC)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Przeciw-Pancerny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_black_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, Black)</English>
@@ -71,14 +80,17 @@
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_grenadier">
             <English>Armored Imperial Army (Rolled, Grenadier)</English>
             <French>Armée impériale renforcée (retroussé, grenadier)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Grenadier)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_heavy">
             <English>Armored Imperial Army (Rolled, Heavy)</English>
             <French>Armée impériale renforcée (retroussé, lourd)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Ciężki Strzelec)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_heavyAa">
             <English>Armored Imperial Army (Rolled, Heavy AA)</English>
             <French>Armée impériale renforcée (retroussé, lourd AA)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Ciężki Przeciw-Lotniczy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_isb_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, ISB)</English>
@@ -89,14 +101,17 @@
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_marksman">
             <English>Armored Imperial Army (Rolled, Marksman)</English>
             <French>Armée impériale renforcée (retroussé, tireur de précision)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Strzelec Wyborowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_medic">
             <English>Armored Imperial Army (Rolled, Medic)</English>
             <French>Armée impériale renforcée (retroussé, médecin)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Medyk)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_missileAt">
             <English>Armored Imperial Army (Rolled, Missile AT)</English>
             <French>Armée impériale renforcée (retroussé, missile AC)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Ciężki Przeciw-Pancerny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_mudtrooper_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled, Mudtrooper)</English>
@@ -107,14 +122,17 @@
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_officer">
             <English>Armored Imperial Army (Rolled, Officer)</English>
             <French>Armée impériale renforcée (retroussé, officier)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Oficer)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_shotgun">
             <English>Armored Imperial Army (Rolled, Shotgun)</English>
             <French>Armée impériale renforcée (retroussé, fusil à pompe)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Strzelba)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_squadLead">
             <English>Armored Imperial Army (Rolled, Squad Lead)</English>
             <French>Armée impériale renforcée (retroussé, chef d'escouade)</French>
+            <Polish>Opancerzona Piechota Imperialna (Podwinięty, Dowódca)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_rolled_uniform">
             <English>Imperial Army Fatigues (Armored, Rolled)</English>
@@ -125,10 +143,12 @@
         <Key ID="STR_ls_characters_imperial_army_armored_shotgun">
             <English>Armored Imperial Army (Shotgun)</English>
             <French>Armée impériale renforcée (fusil à pompe)</French>
+            <Polish>Opancerzona Piechota Imperialna (Strzelba)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_squadLead">
             <English>Armored Imperial Army (Squad Lead)</English>
             <French>Armée impériale renforcée (chef d'escouade)</French>
+            <Polish>Opancerzona Piechota Imperialna (Dowódca)</Polish>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_uniform">
             <English>Imperial Army Fatigues (Armored)</English>
@@ -283,7 +303,7 @@
         <Key ID="STR_ls_characters_imperial_army_isb_helmet">
             <English>Imperial Army Helmet (ISB)</English>
             <French>Casque de l'armée impériale (BSI)</French>
-            <Polish>Kamizelka Armii Imperialnej (ISB)</Polish>
+            <Polish>Hełm Armii Imperialnej (ISB)</Polish>
             <Russian>Шлем Имперской армии(ИСБ)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_isb_holster_vest">
@@ -331,7 +351,7 @@
         <Key ID="STR_ls_characters_imperial_army_light_isb_vest">
             <English>Imperial Army Light Vest (ISB)</English>
             <French>Gilet tactique léger de l'armée impériale (BSI)</French>
-            <Polish>Lekka Kamizelka Armii Imperialnej (Czarna)</Polish>
+            <Polish>Lekka Kamizelka Armii Imperialnej (ISB)</Polish>
             <Russian>Легкий Жилет Имперской армии(ИСБ)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_light_mudtrooper_holster_vest">
@@ -421,7 +441,7 @@
         <Key ID="STR_ls_characters_imperial_army_medium_isb_vest">
             <English>Imperial Army Medium Vest (ISB)</English>
             <French>Gilet tactique moyen de l'armée impériale (BSI)</French>
-            <Polish>Średnia Kamizelka Armii Imperialnej (Czarna)</Polish>
+            <Polish>Średnia Kamizelka Armii Imperialnej (ISB)</Polish>
             <Russian>Средний Жилет Имперской армии(ИСБ)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_medium_mudtrooper_holster_vest">
@@ -571,7 +591,7 @@
         <Key ID="STR_ls_characters_imperial_army_vest">
             <English>Imperial Army Vest</English>
             <French>Gilet tactique de l'armée impériale</French>
-            <Polish>Kamizelka Polowy Armii Imperialnej</Polish>
+            <Polish>Kamizelka Polowa Armii Imperialnej</Polish>
             <Russian>Жилет Имперской армии</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_earPiece">

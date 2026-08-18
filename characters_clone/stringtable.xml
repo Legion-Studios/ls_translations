@@ -148,6 +148,7 @@
         <Key ID="STR_ls_characters_clone_jedi_commander">
             <English>Jedi Commander</English>
             <French>Commandant Jedi</French>
+            <Polish>Komandor Jedi</Polish>
             <Russian>Джедай коммандер</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_kama_vest">
@@ -261,7 +262,7 @@
         <Key ID="STR_ls_characters_clone_phase2_visor">
             <English>Clone Phase 2 Visor</English>
             <French>Visière de clone phase 2</French>
-            <Polish>Wizjer Żołnierza Klona Fazy 2 (Biały)</Polish>
+            <Polish>Wizjer Żołnierza Klona Fazy 2</Polish>
             <Russian>Визор солдат-клона (Фазы 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_helmet">

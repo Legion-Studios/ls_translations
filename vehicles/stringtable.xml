@@ -4,76 +4,91 @@
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_blue_displayName">
             <English>6.5 mw 250Rnd Energy Cell (Blue)</English>
             <French>Cellule d'énergie 6,5 mW 250 charges (Bleue)</French>
+            <Polish>Ogniwo Elektryczne 6.5 MW na 250 strzałów (Niebieskie)</Polish>
             <Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Син)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 250&lt;br/&gt;Used in: Vehicles</English>
             <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges: 250&lt;br/&gt;Utilisé sur: Véhicules</French>
+            <Polish>Ogniwo Elektryczne Kaliber 6.5x39 MW na 250 strzałów&lt;br/&gt;Wykorzystywane w Pojazdach</Polish>
             <Russian>Мощность : 6.5x39 МВт&lt;br/&gt;Зарядов: 250&lt;br/&gt;Используется в: Технике</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_green_displayName">
             <English>6.5 mw 250Rnd Energy Cell (Green)</English>
             <French>Cellule d'énergie 6,5 mW 250 charges (Verte)</French>
+            <Polish>Ogniwo Elektryczne 6.5 MW na 250 strzałów (Zielone)</Polish>
             <Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Зел)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_red_displayName">
             <English>6.5 mw 250Rnd Energy Cell (Red)</English>
             <French>Cellule d'énergie 6,5 mW 250 charges (Rouge)</French>
+            <Polish>Ogniwo Elektryczne 6.5 MW na 250 strzałów (Czerwone)</Polish>
             <Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Красн)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_yellow_displayName">
             <English>6.5 mw 250Rnd Energy Cell (Yellow)</English>
             <French>Cellule d'énergie 6,5 mW 250 charges (Jaune)</French>
+            <Polish>Ogniwo Elektryczne 6.5 MW na 250 strzałów (Żółte)</Polish>
             <Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Желт)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_blue_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Blue)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Bleue)</French>
+            <Polish>Ogniwo Elektryczne 6.5 MW na 500 strzałów (Niebieskie)</Polish>
             <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Син)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 500&lt;br/&gt;Used in: Vehicles</English>
             <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges: 500&lt;br/&gt;Utilisé sur: Véhicules</French>
+            <Polish>Ogniwo Elektryczne Kaliber 6.5x39 MW na 500 strzałów&lt;br/&gt;Wykorzystywane w Pojazdach</Polish>
             <Russian>Мощность : 6.5x39 МВт&lt;br/&gt;Зарядов: 500&lt;br/&gt;Используется в: Технике</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_green_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Green)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Verte)</French>
+            <Polish>Ogniwo Elektryczne 6.5 MW na 500 strzałów (Zielone)</Polish>
             <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Зел)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_red_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Red)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Rouge)</French>
+            <Polish>Ogniwo Elektryczne 6.5 MW na 500 strzałów (Czerwone)</Polish>
             <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Крас)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_yellow_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Yellow)</English>
             <French>Cellule d'énergie 6,5 mW 500 charges (Jaune)</French>
+            <Polish>Ogniwo Elektryczne 6.5 MW na 500 strzałów (Żółte)</Polish>
             <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Желт)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_magazine_displayNameShort">
             <English>6.5x39 mw</English>
             <French>6,5x39 mW</French>
+            <Polish>6.5x39 MW</Polish>
             <Russian>6,5x39 МВт</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_customHUDColor_description">
             <English>Color used for the 'Custom' option in the HUD Color Switcher action for vehicles.</English>
             <French>Couleur utilisée pour l'option « Personnalisé » dans l'action de changement de couleur du HUD pour les véhicules.</French>
+            <Polish>Kolor wykorzystywany przy opcji 'Własne' w zmianie kolorów HUD dla pojazdów</Polish>
             <Russian>Цвет, используемый для 'Кастомной' опции в переключателе цвета ХУДа в меню действий техники</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_customHUDColor_name">
             <English>Custom Hud Color</English>
             <French>Couleur personnalisée du HUD</French>
+            <Polish>Własny Kolor HUD</Polish>
             <Russian>Кастомный цвет ХУДа</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_disableAutoVectoring_description">
             <English>If enabled, auto-vectoring will be automatically disabled when entering a vehicle.</English>
             <French>Si activé, le guidage automatique sera désactivé en entrant dans un véhicule.</French>
+            <Polish>Jeśli włączone, domyślnym stanem funckji VTOL będzie 'wyłączony' po wejściu do pojazdu</Polish>
             <Russian>Если ВКЛ, то авто-векторизация будет автоматически выключаться при посадке в технику.</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_disableAutoVectoring_name">
             <English>Disable Auto-Vectoring</English>
             <French>Désactiver le guidage automatique</French>
+            <Polish>Wyłącz tryb VTOL</Polish>
             <Russian>Отключить авто-векторизацию</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_hmg_65x39_displayName">
@@ -81,31 +96,37 @@
             <!-- У меня вот получилось :) -->
             <English>Light Repeating Blaster</English>
             <French>Blaster léger à répétition</French>
+            <Polish>Lekki Powtarzalny Blaster</Polish>
             <Russian>Легкий лучеметный бластер</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_showHatchback">
             <English>Show hatchback</English>
             <French>Afficher hayon</French>
+            <Polish>Pokaż Hatchback</Polish>
             <Russian>Показать багажник</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_turretDroid_lifeTime_description">
             <English>How long the Turret-droid will last before being destroyed. Only affects hand-deployed Turret-droids. 0 = Infinite</English>
             <French>Pendant combien de temps la tourelle droïde survivra avant d'être détruite. Cela n'affecte que les tourelles droïdes déployées à la main. 0 = Infini.</French>
+            <Polish>Jak długo będą żyły roboty-działka zanim zostaną zniszczone. Wpływa tylko na ręcznie rozmieszczone działka. 0 = Nieskończoność</Polish>
             <Russian>Как долго будет работать Дроид-турель, прежде чем самоуничтожиться. Работает только на поставленные игроком. 0 = Бесконечно.</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_turretDroid_lifeTime_name">
             <English>Turret-droid Lifetime</English>
             <French>Durée de vie de la tourelle droïde</French>
+            <Polish>Czas życia droidów-wieżyczek</Polish>
             <Russian>Время работы Дроида-турели</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_vivLoadingRange_description">
             <English>The default range (in meters) for loading a vehicle with ViV.</English>
             <French>La distance par défaut (en mètres) pour charger un véhicule avec ViV.</French>
+            <Polish>Domyślny zasięg ładowania (w metrach) pojazdów funkcją ViV.</Polish>
             <Russian>Стандартное расстояние(в метрах) для загрузки техники через ViV.</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_vivLoadingRange_name">
             <English>Default ViV Loading Range</English>
             <French>Distance de chargement ViV par défaut</French>
+            <Polish>Domyślny zasięg ładowania funkcji ViV</Polish>
             <Russian>Стандартное расстоние загрузки через ViV</Russian>
         </Key>
     </Package>
