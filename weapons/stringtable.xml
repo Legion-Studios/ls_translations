@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons">
+        <Key ID="STR_ls_weapons_blasterCannon">
+            <English>Blaster Cannon</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterCarbine">
+            <English>Blaster Carbine</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterPistol">
+            <English>Blaster Pistol</English>
+        </Key>
+        <Key ID="STR_ls_weapons_blasterRifle">
+            <English>Blaster Rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapons_heavyBlasterRifle">
+            <English>Heavy Blaster Rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapons_highEnergy">
+            <English>High energy</English>
+        </Key>
+        <Key ID="STR_ls_weapons_leftHand">
+            <English>Left hand</English>
+        </Key>
+        <Key ID="STR_ls_weapons_rightHand">
+            <English>Right hand</English>
+        </Key>
+        <Key ID="STR_ls_weapons_rotaryBlasterCannon">
+            <English>Rotary Blaster Cannon</English>
+        </Key>
+        <Key ID="STR_ls_weapons_scatterGun">
+            <English>Scatter Gun</English>
+        </Key>
+        <Key ID="STR_ls_weapons_sniperBlasterRifle">
+            <English>Sniper Blaster Rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapons_standardEnergy">
+            <English>Standard energy</English>
+        </Key>
+        <Key ID="STR_ls_weapons_lowEnergy">
+            <English>Low energy</English>
+        </Key>
+    </Package>
+</Project>

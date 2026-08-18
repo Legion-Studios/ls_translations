@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="vehicles_atrt">
-        <Key ID="STR_ls_vehicles_atrt_atrt">
+        <Key ID="STR_ls_vehicles_atrt_displayName">
             <English>AT-RT</English>
             <French>AT-RT</French>
             <Polish>AT-RT</Polish>
+        </Key>
+        <Key ID="STR_ls_vehicles_atrt_flamethrower_displayName">
+            <English>AT-RT (Flamethrower)</English>
+        </Key>
+        <Key ID="STR_ls_vehicles_atrt_rotaryBlaster_displayName">
+            <English>AT-RT (Z-6)</English>
         </Key>
         <Key ID="STR_ls_vehicles_atrt_uniform">
             <English>AT-RT Chassis</English>

@@ -8,10 +8,10 @@
             <Russian>6.5 МВт-ая Энергоячейка на 250 выст.(Син)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_descriptionShort">
-            <English>Caliber: 6.5x39 mw &lt;br/&gt;Rounds: 250 &lt;br/&gt;Used in: Vehicles</English>
-            <French>Calibre : 6.5x39 mW &lt;br/&gt;Charges: 250 &lt;br/&gt;Utilisé sur: Véhicules</French>
-            <Polish>Ogniwo Elektryczne Kaliber 6.5x39 MW na 250 strzałów &lt;br/&gt;Wykorzystywane w Pojazdach</Polish>
-            <Russian>Мощность : 6.5x39 МВт &lt;br/&gt;Зарядов: 250 &lt;br/&gt;Используется в: Технике</Russian>
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 250&lt;br/&gt;Used in: Vehicles</English>
+            <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges: 250&lt;br/&gt;Utilisé sur: Véhicules</French>
+            <Polish>Ogniwo Elektryczne Kaliber 6.5x39 MW na 250 strzałów&lt;br/&gt;Wykorzystywane w Pojazdach</Polish>
+            <Russian>Мощность : 6.5x39 МВт&lt;br/&gt;Зарядов: 250&lt;br/&gt;Используется в: Технике</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_250Rnd_magazine_green_displayName">
             <English>6.5 mw 250Rnd Energy Cell (Green)</English>
@@ -38,10 +38,10 @@
             <Russian>6.5 МВт-ая Энергоячейка на 500 выст.(Син)</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_descriptionShort">
-            <English>Caliber: 6.5x39 mw &lt;br/&gt;Rounds: 500 &lt;br/&gt;Used in: Vehicles</English>
-            <French>Calibre : 6.5x39 mW &lt;br/&gt;Charges: 500 &lt;br/&gt;Utilisé sur: Véhicules</French>
-            <Polish>Ogniwo Elektryczne Kaliber 6.5x39 MW na 500 strzałów &lt;br/&gt;Wykorzystywane w Pojazdach</Polish>
-            <Russian>Мощность : 6.5x39 МВт &lt;br/&gt;Зарядов: 500 &lt;br/&gt;Используется в: Технике</Russian>
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 500&lt;br/&gt;Used in: Vehicles</English>
+            <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges: 500&lt;br/&gt;Utilisé sur: Véhicules</French>
+            <Polish>Ogniwo Elektryczne Kaliber 6.5x39 MW na 500 strzałów&lt;br/&gt;Wykorzystywane w Pojazdach</Polish>
+            <Russian>Мощность : 6.5x39 МВт&lt;br/&gt;Зарядов: 500&lt;br/&gt;Используется в: Технике</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_65x39_500Rnd_magazine_green_displayName">
             <English>6.5 mw 500Rnd Energy Cell (Green)</English>

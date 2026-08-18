@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_dcseries">
+        <Key ID="STR_ls_weapons_dcseries_dc15a_displayName">
+            <English>DC-15A</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15a_wooden_displayName">
+            <English>DC-15A (Wooden Stock)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15s_displayName">
+            <English>DC-15S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15s_fordo_displayName">
+            <English>DC-15S (Fordo)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15s_magazine_descriptionShort">
+            <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 60&lt;br/&gt;Used in: DC-15S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15s_magazine_displayName">
+            <English>DC-15S Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15sa_displayName">
+            <English>DC-15SA</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15sa_magazine_descriptionShort">
+            <English>Self-charging energy cell&lt;br/&gt;Caliber: 9.3x64 mw&lt;br/&gt;Rounds: 7&lt;br/&gt;Used in: DC-15SA</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15sa_magazine_displayName">
+            <English>DC-15SA Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15x_displayName">
+            <English>DC-15X</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15x_magazine_descriptionShort">
+            <English>Caliber: .408 mw&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: DC-15X</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15x_magazine_displayName">
+            <English>DC-15X Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15x_wooden_displayName">
+            <English>DC-15X (Wooden Stock)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_antiArmor_displayName">
+            <English>DC-17M (Anti-Armor)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_antiArmor_magazine_descriptionShort">
+            <English>Caliber: 40 mw HEAT&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: DC-17M</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_antiArmor_magazine_displayName">
+            <English>DC-17M Anti-Armor Grenade</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_blaster_magazine_descriptionShort">
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 60&lt;br/&gt;Used in: DC-17M</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_blaster_magazine_displayName">
+            <English>DC-17M Blaster Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_descriptionShort">
+            <English>Interchangeable weapon system</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_displayName">
+            <English>DC-17M</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_muzzle_antiArmor_displayName">
+            <English>DC-17M Anti-Armor Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_muzzle_blaster_displayName">
+            <English>DC-17M Blaster Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_muzzle_sniper_displayName">
+            <English>DC-17M Sniper Attachment</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_optic_sniper_descriptionShort">
+            <English>Holographic sniper scope&lt;br/&gt;Maginification: ???x-???x</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_optic_sniper_displayName">
+            <English>DC-17M Sniper Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_displayName">
+            <English>DC-17M (Sniper)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_magazine_descriptionShort">
+            <English>Caliber: .408 mw&lt;br/&gt;Rounds: 5&lt;br/&gt;Used in: DC-17M</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17m_sniper_magazine_displayName">
+            <English>DC-17M Sniper Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_displayName">
+            <English>DC-17S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_dual_displayName">
+            <English>DC-17S (Dual Wield)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_dual_fordo_displayName">
+            <English>DC-17S (Dual Wield, Fordo)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_fordo_descriptionShort">
+            <English>Blaster pistol&lt;br/&gt;Captain Fordo's personal DC-17S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_fordo_displayName">
+            <English>DC-17S (Fordo)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_highPower_magazine_descriptionShort">
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 5&lt;br/&gt;Used in: DC-17S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_highPower_magazine_displayName">
+            <English>DC-17S High Power Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_magazine_descriptionShort">
+            <English>Caliber: .45 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: DC-17S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc17s_magazine_displayName">
+            <English>DC-17S Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dp23_displayName">
+            <English>DP-23</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dp23_magazine_descriptionShort">
+            <English>Scatter-plasma&lt;br/&gt;Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: DP-23</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dp23_magazine_displayName">
+            <English>DP-23 Scatter Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dp23_slug_magazine_descriptionShort">
+            <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 5&lt;br/&gt;Used in: DP-23</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dp23_slug_magazine_displayName">
+            <English>DP-23 Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_universal_magazine_descriptionShort">
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most DC-Series Weapons</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_universal_magazine_displayName">
+            <English>DC-Series Universal Energy Cell</English>
+        </Key>
+    </Package>
+</Project>
