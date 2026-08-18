@@ -10,8 +10,8 @@
         <Key ID="STR_ls_characters_imperial_army_armored_at">
             <English>Armored Imperial Army (AT)</English>
             <French>Armée impériale renforcée (AC)</French>
-            <Russian>Armée impériale renforcée (ПТ)</Russian>
             <Polish>Opancerzona Piechota Imperialna (AT)</Polish>
+            <Russian>Armée impériale renforcée (ПТ)</Russian>
         </Key>
         <Key ID="STR_ls_characters_imperial_army_armored_black_uniform">
             <English>Imperial Army Fatigues (Armored, Black)</English>

@@ -142,8 +142,8 @@
         <Key ID="STR_ls_characters_clone_legions_clone_atrtDriver">
             <English>Clone AT-RT Driver</English>
             <French>Pilote clone d'AT-RT</French>
-            <Russian>Мехвод AT-RT</Russian>
             <Polish>Klon Kierowca AT-RT</Polish>
+            <Russian>Мехвод AT-RT</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_bravoSquad">
             <English>Bravo Squad</English>
@@ -298,38 +298,38 @@
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaDikut">
             <English>Clone Commando (Aiwha [Di'kut])</English>
             <French>Commando clone (Aiwha [Di'kut])</French>
-            <Russian>Клон коммандос (Айхва [Ди'Кут])</Russian>
             <Polish>Klon Komandos (Aiwha [Di'kut])</Polish>
+            <Russian>Клон коммандос (Айхва [Ди'Кут])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaSarge">
             <English>Clone Commando (Aiwha [Sarge])</English>
             <French>Commando clone (Aiwha [Sarge])</French>
-            <Russian>Клон коммандос (Айхва [Сардж])</Russian>
             <Polish>Klon Komandos (Aiwha [Sarge])</Polish>
+            <Russian>Клон коммандос (Айхва [Сардж])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaTyto">
             <English>Clone Commando (Aiwha [Tyto])</English>
             <French>Commando clone (Aiwha [Tyto])</French>
-            <Russian>Клон Коммандос (Айхва [Тито])</Russian>
             <Polish>Klon Komandos (Aiwha [Tyto])</Polish>
+            <Russian>Клон Коммандос (Айхва [Тито])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaZag">
             <English>Clone Commando (Aiwha [Zag])</English>
             <French>Commando clone (Aiwha [Zag])</French>
-            <Russian>Клон коммандос (Айхва [Заг])</Russian>
             <Polish>Klon Komandos (Aiwha [Zag])</Polish>
+            <Russian>Клон коммандос (Айхва [Заг])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo2">
             <English>Clone Commando (Bravo [2])</English>
             <French>Commando clone (Bravo [2])</French>
-            <Russian>Клон коммандов (Браво [2])</Russian>
             <Polish>Klon Komandos (Bravo [2])</Polish>
+            <Russian>Клон коммандов (Браво [2])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo3">
             <English>Clone Commando (Bravo [3])</English>
             <French>Commando clone (Bravo [3])</French>
-            <Russian>Клон коммандо (Браво [3])</Russian>
             <Polish>Klon Komandos (Bravo [3])</Polish>
+            <Russian>Клон коммандо (Браво [3])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_bravo4">
             <English>Clone Commando (Bravo [4])</English>
@@ -339,116 +339,116 @@
         <Key ID="STR_ls_characters_clone_legions_commando_bravoRam">
             <English>Clone Commando (Bravo [Ram])</English>
             <French>Commando clone (Bravo [Ram])</French>
-            <Russian>Клон Коммандо (Браво [Рам])</Russian>
             <Polish>Klon Komandos (Bravo [Ram])</Polish>
+            <Russian>Клон Коммандо (Браво [Рам])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaBoss">
             <English>Clone Commando (Delta [Boss])</English>
             <French>Commando clone (Delta [Boss])</French>
-            <Russian>Клон коммандос (Дельта [Босс])</Russian>
             <Polish>Klon Komandos (Delta [Boss])</Polish>
+            <Russian>Клон коммандос (Дельта [Босс])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaFixer">
             <English>Clone Commando (Delta [Fixer])</English>
             <French>Commando clone (Delta [Fixer])</French>
-            <Russian>Клон коммандос (Дельта [Фиксер])</Russian>
             <Polish>Klon Komandos (Delta [Fixer])</Polish>
+            <Russian>Клон коммандос (Дельта [Фиксер])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaScorch">
             <English>Clone Commando (Delta [Scorch])</English>
             <French>Commando clone (Delta [Scorch])</French>
-            <Russian>Клон коммандос (Дельта [Скорч])</Russian>
             <Polish>Klon Komandos (Delta [Scorch])</Polish>
+            <Russian>Клон коммандос (Дельта [Скорч])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_deltaSev">
             <English>Clone Commando (Delta [Sev])</English>
             <French>Commando clone (Delta [Sev])</French>
-            <Russian>Клон коммандос (Дельта [Сев])</Russian>
             <Polish>Klon Komandos (Delta [Sev])</Polish>
+            <Russian>Клон коммандос (Дельта [Сев])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_foxtrotGregor">
             <English>Clone Commando (Foxtrot [Gregor])</English>
             <French>Commando clone (Foxtrot [Gregor])</French>
-            <Russian>Клон коммандос(Фокстрот [Грегор])</Russian>
             <Polish>Klon Komandos (Foxtrot [Gregor])</Polish>
+            <Russian>Клон коммандос(Фокстрот [Грегор])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_hodasalJungle">
             <English>Clone Commando (Hodasal Camo)</English>
             <French>Commando clone (Hodasal Camo)</French>
-            <Russian>Клон коммандос (Камуфляж "Ходасал")</Russian>
             <Polish>Klon Komandos (Kamuflaż Hodsal)</Polish>
+            <Russian>Клон коммандос (Камуфляж "Ходасал")</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpGunner">
             <English>Clone Commando (Gunner)</English>
             <French>Commando clone (Artilleur)</French>
-            <Russian>Клон коммандос (Стрелок-оператор)</Russian>
             <Polish>Klon Komandos (Artylerzysta)</Polish>
+            <Russian>Клон коммандос (Стрелок-оператор)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpMarksman">
             <English>Clone Commando (Marksman)</English>
             <French>Commando clone (Tireur de précision)</French>
-            <Russian>Клон коммандос (Марксман)</Russian>
             <Polish>Klon Komandos (Strzelec Wyborowy)</Polish>
+            <Russian>Клон коммандос (Марксман)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpRecon">
             <English>Clone Commando (Recon)</English>
             <French>Commando clone (Reconnaissance)</French>
-            <Russian>Клон коммандос (Разведчик)</Russian>
             <Polish>Klon Komandos (Zwiadowca)</Polish>
+            <Russian>Клон коммандос (Разведчик)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpStealth">
             <English>Clone Commando (Stealth)</English>
             <French>Commando clone (Furtif)</French>
-            <Russian>Клон коммандос (Фортиф)</Russian>
             <Polish>Klon Komandos (Maskowany)</Polish>
+            <Russian>Клон коммандос (Фортиф)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaAtin">
             <English>Clone Commando (Omega [Atin])</English>
             <French>Commando clone (Omega [Atin])</French>
-            <Russian>Клон коммандос (Омега [Атин])</Russian>
             <Polish>Klon Komandos (Omega [Atin])</Polish>
+            <Russian>Клон коммандос (Омега [Атин])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaDarman">
             <English>Clone Commando (Omega [Darman])</English>
             <French>Commando clone (Omega [Darman])</French>
-            <Russian>Клон коммандос (Омега [Дарман])</Russian>
             <Polish>Klon Komandos (Omega [Darman])</Polish>
+            <Russian>Клон коммандос (Омега [Дарман])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaFi">
             <English>Clone Commando (Omega [Fi])</English>
             <French>Commando clone (Omega [Fi])</French>
-            <Russian>Клон коммандос (Омега [Фай])</Russian>
             <Polish>Klon Komandos (Omega [Fi])</Polish>
+            <Russian>Клон коммандос (Омега [Фай])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_omegaNiner">
             <English>Clone Commando (Omega [Niner])</English>
             <French>Commando clone (Omega [Niner])</French>
-            <Russian>Клон коммандос (Омега [Найнер])</Russian>
             <Polish>Klon Komandos (Omega [Niner])</Polish>
+            <Russian>Клон коммандос (Омега [Найнер])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxCov">
             <English>Clone Commando (Yayax [Cov])</English>
             <French>Commando clone (Yayax [Cov])</French>
-            <Russian>Клон коммандос (Аякс [Ков])</Russian>
             <Polish>Klon Komandos (Yayax [Cov])</Polish>
+            <Russian>Клон коммандос (Аякс [Ков])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxDev">
             <English>Clone Commando (Yayax [Dev])</English>
             <French>Commando clone (Yayax [Dev])</French>
-            <Russian>Клон коммандос (Аякс [Дэв])</Russian>
             <Polish>Klon Komandos (Yayax [Dev])</Polish>
+            <Russian>Клон коммандос (Аякс [Дэв])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxJind">
             <English>Clone Commando (Yayax [Jind])</English>
             <French>Commando clone (Yayax [Jind])</French>
-            <Russian>Клон коммандос (Аякс [Джинд])</Russian>
             <Polish>Klon Komandos (Yayax [Jind])</Polish>
+            <Russian>Клон коммандос (Аякс [Джинд])</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_yayaxYover">
             <English>Clone Commando (Yayax [Yover])</English>
             <French>Commando clone (Yayax [Yover])</French>
-            <Russian>Клон коммандос (Аякс [Йовер])</Russian>
             <Polish>Klon Komandos (Yayax [Yover])</Polish>
+            <Russian>Клон коммандос (Аякс [Йовер])</Russian>
         </Key>
     </Package>
 </Project>

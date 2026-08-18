@@ -40,14 +40,14 @@
         <Key ID="STR_ls_droids_droidekaShieldTargetsEnabled_name">
             <English>Droideka - Create Shield Targets</English>
             <French>Droideka - Créer les cibles du bouclier</French>
-            <Russian>Дроидека - Создать ИИ цели на щите</Russian>
             <Polish>Droideka - Twórz cele tarczy</Polish>
+            <Russian>Дроидека - Создать ИИ цели на щите</Russian>
         </Key>
         <Key ID="STR_ls_droids_droidekaShieldTargetsEnabled_tooltip">
             <English>If enabled, the Droideka's shield will create dummy targets for AI targeting. The targets are necessary for enemy AI to shoot the Droideka but can cause pathfinding issues for it\nEnabled by default in Singleplayer, disabled by default in Multiplayer.</English>
             <French>Si cette option est activée, les boucliers du Droideka créeront des cibles factices pour le ciblage de l'IA. Ces cibles sont nécessaires pour que l'IA ennemie puisse tirer sur le Droideka. Cependant, elles peuvent provoquer des problèmes de pathfinding.\nActivée par défaut en solo, désactivée par défaut en multijoueur.</French>
-            <Russian>Если включено, щит дроидеки создаст на себе мишени для ботов, в которые те могут стрелять. Могут приводить к проблемам с навигацией ботов. Обычно включено в одиночной, и отключено для мультиплеерной игры</Russian>
             <Polish>Jeśli włączone: Tarcza droideki będzie tworzyć fałszywe cele aby wspomóc celowanie sztucznej inteligencji. Cele są potrzebne aby wroga sztuczna inteligencja strzelała w Droidekę ale mogą spowodować problemy z pathfindingiem\nDomyślnie włączone w grze jednoosobwej i wyłączone w tryback wieloosobowych</Polish>
+            <Russian>Если включено, щит дроидеки создаст на себе мишени для ботов, в которые те могут стрелять. Могут приводить к проблемам с навигацией ботов. Обычно включено в одиночной, и отключено для мультиплеерной игры</Russian>
         </Key>
     </Package>
 </Project>
