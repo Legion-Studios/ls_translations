@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="medical">
+        <Key ID="STR_ls_medical_activity_smokedSpice">
+            <English>%1 smoked spice</English>
+        </Key>
         <Key ID="STR_ls_medical_bactaBandage_displayName">
             <English>Bacta Bandage</English>
         </Key>
@@ -9,6 +12,18 @@
         </Key>
         <Key ID="STR_ls_medical_customBloodDropsEnabled_tooltip">
             <English>If enabled, different types of units will produce different types of blood.\nE.g. Droids will create oil drops and certain aliens will bleed different colors.</English>
+        </Key>
+        <Key ID="STR_ls_medical_smoke_spice">
+            <English>Smoke Spice</English>
+        </Key>
+        <Key ID="STR_ls_medical_smoking_spice">
+            <English>Smoking Spice...</English>
+        </Key>
+        <Key ID="STR_ls_medical_spicePot_descriptionShort">
+            <English>A small pot of Sansanna spice, an illegal opioid known to cause psychadelic effects.</English>
+        </Key>
+        <Key ID="STR_ls_medical_spicePot_displayName">
+            <English>Spice Pot</English>
         </Key>
     </Package>
 </Project>

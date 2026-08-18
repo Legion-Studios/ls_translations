@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="common">
+        <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L264-L281 -->
+        <Key ID="STR_ls_common_accessibility">
+            <English>Accessibility</English>
+        </Key>
         <Key ID="STR_ls_common_activateShield">
             <English>Activate shield</English>
             <French>Activer le bouclier</French>
             <Polish>Aktywuj tarcze</Polish>
             <Russian>Активировать щит</Russian>
         </Key>
-        <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L264-L281 -->
         <Key ID="STR_ls_common_cancel">
             <English>Cancel</English>
             <Czech>Zrušit</Czech>
@@ -353,6 +356,24 @@
             <French>Placement de %1...</French>
             <Polish>Ustawianie %1...</Polish>
             <Russian>Ставим %1...</Russian>
+        </Key>
+        <Key ID="STR_ls_common_ppEffectEnable_tooltip">
+            <English>Enables '%1' post-processing effects\nThis only includes effects created by Legion, other mods may not respect this setting.</English>
+        </Key>
+        <Key ID="STR_ls_common_ppEffect_ChromAberration">
+            <English>Chromatic Aberration</English>
+        </Key>
+        <Key ID="STR_ls_common_ppEffect_ColorInversion">
+            <English>Color Inversion</English>
+        </Key>
+        <Key ID="STR_ls_common_ppEffect_FilmGrain">
+            <English>Film Grain</English>
+        </Key>
+        <Key ID="STR_ls_common_ppEffect_Resolution">
+            <English>Resolution</English>
+        </Key>
+        <Key ID="STR_ls_common_ppEffect_WetDistortion">
+            <English>Wet Distortion</English>
         </Key>
         <Key ID="STR_ls_common_recievedTreatment">
             <English>You have been fully healed</English>
