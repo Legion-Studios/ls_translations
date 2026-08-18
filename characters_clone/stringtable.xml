@@ -148,8 +148,8 @@
         <Key ID="STR_ls_characters_clone_jedi_commander">
             <English>Jedi Commander</English>
             <French>Commandant Jedi</French>
-            <Russian>Джедай коммандер</Russian>
             <Polish>Komandor Jedi</Polish>
+            <Russian>Джедай коммандер</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_kama_vest">
             <English>Clone Kama</English>

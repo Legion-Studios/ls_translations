@@ -4,14 +4,14 @@
         <Key ID="STR_ls_vehicles_turretdroid_displayName">
             <English>Turret-droid</English>
             <French>Tourelle droïde</French>
-            <Russian>Дроид-турель</Russian>
             <Polish>Droid-Wieżyczka</Polish>
+            <Russian>Дроид-турель</Russian>
         </Key>
         <Key ID="STR_ls_vehicles_turretdroid_packed_description">
             <English>A deployable Turret-droid</English>
             <French>Une tourelle droïde déployable.</French>
-            <Russian>Размещаемая дроид-турель</Russian>
             <Polish>Rozstawialny Droid-Wieżyczka</Polish>
+            <Russian>Размещаемая дроид-турель</Russian>
         </Key>
     </Package>
 </Project>

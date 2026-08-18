@@ -58,8 +58,8 @@
         <Key ID="STR_ls_modules_dispenser_description">
             <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
             <French>Lorsqu'il est activé par un déclencheur, fait apparaître un distributeur de droïdes qui tombe du ciel. Les unités commenceront à être déployées après que le distributeur aura touché le sol et qu'un court délai se sera écoulé.&lt;br/&gt;L'impact du distributeur au sol inflige des dégâts.</French>
-            <Russian>При активации триггера спавнит дроппод дроидов в небе. Юниты начнут спавниться через некоторое время после приземления дроппода.&lt;br/&gt;Удар дроппода о землю наносит урон.</Russian>
             <Polish>Jeśli aktywowane przez wyzwalacz, tworzy zasobnik droidów który spada z nieba. Jednostki zaczynają się pojawiać po wylądowaniu na ziemi i krótkim czasie przerwy.&lt;br/&gt;Zasobnik powoduje obrażenia podczas lądowania</Polish>
+            <Russian>При активации триггера спавнит дроппод дроидов в небе. Юниты начнут спавниться через некоторое время после приземления дроппода.&lt;br/&gt;Удар дроппода о землю наносит урон.</Russian>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
@@ -160,8 +160,8 @@
         <Key ID="STR_ls_modules_onlyConscious">
             <English>Unit must be conscious</English>
             <French>L'unité doit être consciente.</French>
-            <Russian>Юнит должен быть в сознании.</Russian>
             <Polish>Jednostka musi być przytomna</Polish>
+            <Russian>Юнит должен быть в сознании.</Russian>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1605-L1620 -->
         <Key ID="STR_ls_modules_onlyInfantry">
