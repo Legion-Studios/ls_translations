@@ -12,7 +12,7 @@
         <Key ID="STR_ls_vehicles_atrt_rotaryBlaster_displayName">
             <English>AT-RT (Z-6)</English>
         </Key>
-        <Key ID="STR_ls_vehicles_atrt_uniform">
+        <Key ID="STR_ls_vehicles_atrt_uniform_displayName">
             <English>AT-RT Chassis</English>
             <French>Châssis d'AT-RT</French>
             <Polish>Kadłub AT-RT</Polish>
