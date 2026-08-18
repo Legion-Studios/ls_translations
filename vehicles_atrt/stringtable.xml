@@ -4,10 +4,12 @@
         <Key ID="STR_ls_vehicles_atrt_atrt">
             <English>AT-RT</English>
             <French>AT-RT</French>
+            <Polish>AT-RT</Polish>
         </Key>
         <Key ID="STR_ls_vehicles_atrt_uniform">
             <English>AT-RT Chassis</English>
             <French>Châssis d'AT-RT</French>
+            <Polish>Kadłub AT-RT</Polish>
         </Key>
     </Package>
 </Project>

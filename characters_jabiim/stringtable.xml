@@ -29,6 +29,7 @@
             <English>Commando (AT)</English>
             <French>Commando (AC)</French>
             <Russian>Коммандо (ПТ)</Russian>
+            <Polish>Komandos (Przeciw-Pancerny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
             <English>Nimbus Commando Backpack</English>
@@ -40,11 +41,13 @@
             <English>Commando (Demo)</English>
             <French>Commando (Démolition)</French>
             <Russian>Коммандо (Сапер)</Russian>
+            <Polish>Komandos (Saper)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier">
             <English>Commando (Grenadier)</English>
             <French>Commando (Grenadier)</French>
             <Russian>Коммандо (Гренадер)</Russian>
+            <Polish>Komandos (Grenadier)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_grenadier_helmet">
             <English>Nimbus Grenadier Helmet</English>
@@ -56,16 +59,19 @@
             <English>Commando (Machine Gunner)</English>
             <French>Commando (Mitrailleur)</French>
             <Russian>Коммандо (Лучеметчик)</Russian>
+            <Polish>Komandos (Strzelec Maszynowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_heavyAA">
             <English>Commando (Missile AA)</English>
             <French>Commando (Missile AA)</French>
             <Russian>Коммандо (ПЗРК)</Russian>
+            <Polish>Komandos (Przeciw-Lotniczy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_heavyAT">
             <English>Commando (Missile AT)</English>
             <French>Commando (Missile AC)</French>
             <Russian>Коммандо (ПТРК)</Russian>
+            <Polish>Komandos (Ciężki Przeciw-Pancerny)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_helmet">
             <English>Nimbus Commando Helmet</English>
@@ -77,11 +83,13 @@
             <English>Commando (Shotgun)</English>
             <French>Commando (Fusil à pompe)</French>
             <Russian>Коммандо (Дробовик)</Russian>
+            <Polish>Komandos (Strzelba)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_sniper">
             <English>Commando (Marksman)</English>
             <French>Commando (Tireur de précision)</French>
             <Russian>Коммандо (Марксман)</Russian>
+            <Polish>Komandos (Strzelec Wyborowy)</Polish>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_uniform">
             <English>Nimbus Commando Armor</English>
