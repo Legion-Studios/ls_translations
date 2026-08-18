@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="compat_ae3">
+        <Key ID="STR_ls_medical_bactaBandage_displayName">
+            <English>Bacta Bandage</English>
+        </Key>
         <Key ID="STR_ls_medical_customBloodDropsEnabled_name">
             <English>Custom Blood Drops Enabled</English>
         </Key>
         <Key ID="STR_ls_medical_customBloodDropsEnabled_tooltip">
-            <English>If enabled, different types of units will produce different types of blood.\nE.g. Droids will create oil drops</English>
+            <English>If enabled, different types of units will produce different types of blood.\nE.g. Droids will create oil drops and certain aliens will bleed different colors.</English>
         </Key>
     </Package>
 </Project>
