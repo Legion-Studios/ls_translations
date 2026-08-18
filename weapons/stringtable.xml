@@ -22,6 +22,9 @@
         <Key ID="STR_ls_weapons_leftHand">
             <English>Left hand</English>
         </Key>
+        <Key ID="STR_ls_weapons_lowEnergy">
+            <English>Low energy</English>
+        </Key>
         <Key ID="STR_ls_weapons_rightHand">
             <English>Right hand</English>
         </Key>
@@ -36,9 +39,6 @@
         </Key>
         <Key ID="STR_ls_weapons_standardEnergy">
             <English>Standard energy</English>
-        </Key>
-        <Key ID="STR_ls_weapons_lowEnergy">
-            <English>Low energy</English>
         </Key>
     </Package>
 </Project>
