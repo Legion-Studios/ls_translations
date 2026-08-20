@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="sounds">
+        <Key ID="STR_ls_sounds_activeCamo_activate">
+            <English>Active Camo Activate</English>
+        </Key>
+        <Key ID="STR_ls_sounds_activeCamo_deactivate">
+            <English>Active Camo Deactivate</English>
+        </Key>
+        <Key ID="STR_ls_sounds_activeCamo_loop">
+            <English>Active Camo Loop</English>
+        </Key>
+        <Key ID="STR_ls_sounds_alarm_01">
+            <English>Alarm 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_alarm_02">
+            <English>Alarm 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_alarm_intruder">
+            <English>Intruder Alert Alarm</English>
+        </Key>
+        <Key ID="STR_ls_sounds_dc15x_rackBolt">
+            <English>Rack DC-15X Bolt</English>
+        </Key>
+        <Key ID="STR_ls_sounds_door_close">
+            <English>Close Door</English>
+        </Key>
+        <Key ID="STR_ls_sounds_door_open">
+            <English>Open door</English>
+        </Key>
+        <Key ID="STR_ls_sounds_dp23_rackBolt">
+            <English>Rack DP-23 Bolt</English>
+        </Key>
+        <Key ID="STR_ls_sounds_droidekaShield_activate">
+            <English>Droideka Shield Activate</English>
+        </Key>
+        <Key ID="STR_ls_sounds_droidekaShield_deactivate">
+            <English>Droideka Shield Deactivate</English>
+        </Key>
+        <Key ID="STR_ls_sounds_holoprojector_activate">
+            <English>Holoprojector Activate</English>
+        </Key>
+        <Key ID="STR_ls_sounds_holoprojector_deactivate">
+            <English>Holoprojector Deactivate</English>
+        </Key>
+        <Key ID="STR_ls_sounds_holoprojector_loop">
+            <English>Holoprojector Loop</English>
+        </Key>
+        <Key ID="STR_ls_sounds_holoprojector_refresh">
+            <English>Holoprojector Refresh</English>
+        </Key>
+        <Key ID="STR_ls_sounds_radioChatter_01">
+            <English>Radio Chatter 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_radioChatter_01_titles">
+            <English>*Ambient Republic radio chatter plays*</English>
+        </Key>
+        <Key ID="STR_ls_sounds_rookiesRadio">
+            <English>Rookie's Mudjumper Prime Channel</English>
+        </Key>
+        <Key ID="STR_ls_sounds_shieldHit_01">
+            <English>Shield Hit 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_shieldHit_02">
+            <English>Shield Hit 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_shieldHit_03">
+            <English>Shield Hit 03</English>
+        </Key>
+        <Key ID="STR_ls_sounds_shieldHit_04">
+            <English>Shield Hit 04</English>
+        </Key>
+        <Key ID="STR_ls_sounds_shieldHit_05">
+            <English>Shield Hit 05</English>
+        </Key>
+        <Key ID="STR_ls_sounds_shieldHit_06">
+            <English>Shield Hit 06</English>
+        </Key>
+        <Key ID="STR_ls_sounds_shieldHit_07">
+            <English>Shield Hit 07</English>
+        </Key>
+        <Key ID="STR_ls_sounds_siren_01">
+            <English>Siren 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_sniperRifle_zoomIn_01">
+            <English>Sniper Rifle Zoom In 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_sniperRifle_zoomIn_02">
+            <English>Sniper Rifle Zoom In 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_sniperRifle_zoomOut_01">
+            <English>Sniper Rifle Zoom Out</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_01">
+            <English>Honk 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_02">
+            <English>Honk 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_03">
+            <English>Honk 03</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_04">
+            <English>Honk 04</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_05">
+            <English>Honk 05</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_glass_01">
+            <English>Honk Glass 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_glass_02">
+            <English>Honk Glass 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_glass_03">
+            <English>Honk Glass 03</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_glass_04">
+            <English>Honk Glass 04</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_harmonica_01">
+            <English>Honk Harmonica 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_harmonica_02">
+            <English>Honk Harmonica 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_harmonica_03">
+            <English>Honk Harmonica 03</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_harmonica_04">
+            <English>Honk Harmonica 04</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_harmonica_05">
+            <English>Honk Harmonica 05</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_harmonica_06">
+            <English>Honk Harmonica 06</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_pylon_01">
+            <English>Honk Pylon 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_pylon_02">
+            <English>Honk Pylon 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_pylon_03">
+            <English>Honk Pylon 03</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_pylon_04">
+            <English>Honk Pylon 04</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_pylon_05">
+            <English>Honk Pylon 05</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_pylon_06">
+            <English>Honk Pylon 06</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_pylon_07">
+            <English>Honk Pylon 07</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_soap_01">
+            <English>Honk Soap 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_soap_02">
+            <English>Honk Soap 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_soap_03">
+            <English>Honk Soap 03</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_soap_04">
+            <English>Honk Soap 04</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_trashlid_01">
+            <English>Honk Trashlid 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_trashlid_02">
+            <English>Honk Trashlid 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_trashlid_03">
+            <English>Honk Trashlid 03</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_trashlid_04">
+            <English>Honk Trashlid 04</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_trashlid_05">
+            <English>Honk Trashlid 05</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_walkie_talkie_01">
+            <English>Honk Walkie-Talkie 01</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_walkie_talkie_02">
+            <English>Honk Walkie-Talkie 02</English>
+        </Key>
+        <Key ID="STR_ls_sounds_ugg_honk_walkie_talkie_03">
+            <English>Honk Walkie-Talkie 03</English>
+        </Key>
+    </Package>
+</Project>
