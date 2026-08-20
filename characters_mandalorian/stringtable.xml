@@ -47,49 +47,49 @@
             <English>Deathwatch</English>
             <French>Deathwatch</French>
             <Polish>Watacha Śmierci</Polish>
-            <Russian>Караул Смерти</Russian>
+            <Russian>Дозор Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_captain_helmet">
             <English>Deathwatch Captain Helmet</English>
             <French>Casque de Capitaine de la Deathwatch</French>
             <Polish>Hełm Kapitana Watachy Śmierci</Polish>
-            <Russian>Шлем капитана Караула Смерти</Russian>
+            <Russian>Шлем капитана Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_captain_vest">
             <English>Deathwatch Captain Armor</English>
             <French>Armure de Capitaine de la Deathwatch</French>
             <Polish>Zbroja Kapitana Watachy Śmierci</Polish>
-            <Russian>Броня капитана Караула Смерти</Russian>
+            <Russian>Броня капитана Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_grunt_helmet">
             <English>Deathwatch Grunt Helmet</English>
             <French>Casque de Fantassin de la Deathwatch</French>
             <Polish>Hełm Żołnierza Watachy Śmierci</Polish>
-            <Russian>Шлем солдата Караула Смерти</Russian>
+            <Russian>Шлем солдата Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_grunt_vest">
             <English>Deathwatch Grunt Armor</English>
             <French>Armure de Fantassin de la Deathwatch</French>
             <Polish>Zbroja Żołnierza Watachy Śmierci</Polish>
-            <Russian>Броня солдата Караула Смерти</Russian>
+            <Russian>Броня солдата Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_nightowl_helmet">
             <English>Deathwatch Nightowl Helmet</English>
             <French>Casque de Nightowl de la Deathwatch</French>
             <Polish>Hełm Watachy Śmierci - Nightowl</Polish>
-            <Russian>Шлем "Птицы Ночи" Караула Смерти</Russian>
+            <Russian>Шлем "Птицы Ночи" Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_sergeant_helmet">
             <English>Deathwatch Sergeant Helmet</English>
             <French>Casque de Sergent de la Deathwatch</French>
             <Polish>Hełm Sierżanta Watachy Śmierci</Polish>
-            <Russian>Шлем сержанта Караула Смерти</Russian>
+            <Russian>Шлем сержанта Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_sergeant_vest">
             <English>Deathwatch Sergeant Armor</English>
             <French>Armure de Sergent de la Deathwatch</French>
             <Polish>Zbroja Sierżanta Watachy Śmierci</Polish>
-            <Russian>Броня сержанта Караула Смерти</Russian>
+            <Russian>Броня сержанта Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_demo_backpack">
             <English>Mandalorian Demopack</English>
@@ -101,7 +101,7 @@
             <English>Din Djarin's Helmet (Beskar)</English>
             <French>Casque de Din Djarin (Beskar)</French>
             <Polish>Hełm Din Djarin-a (Beskar)</Polish>
-            <Russian>Шлем Дина Джарина(Бескар)</Russian>
+            <Russian>Шлем Дина Джарина (Бескар)</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_dinDjarin_helmet">
             <English>Din Djarin's Helmet</English>
@@ -221,7 +221,7 @@
             <English>Mandalorian Protector Vest (Masculine)</English>
             <French>Gilet Tactique de Protecteur Mandalorien (Masculin)</French>
             <Polish>Kamizelka Protektora Mandalorian (Męska)</Polish>
-            <Russian>Жилет мандолорского защитника (Мускул.)</Russian>
+            <Russian>Жилет мандолорского защитника (Мускул)</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_radio_daypack">
             <English>Mandalorian Radio Daypack</English>
