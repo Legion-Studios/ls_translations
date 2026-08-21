@@ -4,12 +4,6 @@
         <Key ID="STR_ls_weapons_eseries_e11_displayName">
             <English>E-11</English>
         </Key>
-        <Key ID="STR_ls_weapons_eseries_e11_scoped_displayName">
-            <English>E-11 (Scoped)</English>
-        </Key>
-        <Key ID="STR_ls_weapons_eseries_e11_scoped_thermal_displayName">
-            <English>E-11 (Scoped, Thermal)</English>
-        </Key>
         <Key ID="STR_ls_weapons_eseries_e11_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 45&lt;br/&gt;Used in: E-11</English>
         </Key>
@@ -27,6 +21,12 @@
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_optic_thermal_displayName">
             <English>E-11 Thermal Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e11_scoped_displayName">
+            <English>E-11 (Scoped)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e11_scoped_thermal_displayName">
+            <English>E-11 (Scoped, Thermal)</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5_displayName">
             <English>E-5</English>
