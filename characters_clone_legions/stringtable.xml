@@ -117,13 +117,13 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_AT">
             <English>Clone Trooper (AT)</English>
-            <French>Clone soldat (AT)</French>
+            <French>Soldat clone (AT)</French>
             <Polish>Żołnierz Klon (Przeciw-Pancerny)</Polish>
             <Russian>Солдат-клон (Противотанкист)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_DC15S">
             <English>Clone Trooper (DC-15S)</English>
-            <French>Clone soldat (DC-15S)</French>
+            <French>Soldat clone (DC-15S)</French>
             <Polish>Żołnierz Klon (DC-15S)</Polish>
             <Russian>Солдат-клон (DC-15S)</Russian>
         </Key>
@@ -153,7 +153,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_breacher">
             <English>Clone Trooper (Breacher)</English>
-            <French>Clone soldat (briseur)</French>
+            <French>Soldat clone (briseur)</French>
             <Polish>Żołnierz Klon (Wyważający)</Polish>
             <Russian>Солдат Клон (Сапер)</Russian>
         </Key>
