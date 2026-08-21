@@ -25,7 +25,7 @@
         <Key ID="STR_ls_weapons_eseries_e11_scoped_displayName">
             <English>E-11 (Scoped)</English>
         </Key>
-        <Key ID="STR_ls_weapons_eseries_e11_scoped_thermal_displayName">
+        <Key ID="STR_ls_weapons_eseries_e11_scopedThermal_displayName">
             <English>E-11 (Scoped, Thermal)</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5_displayName">
