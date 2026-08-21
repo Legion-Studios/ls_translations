@@ -3,73 +3,96 @@
     <Package name="meme">
         <Key ID="STR_ls_meme_8ball_1">
             <English>I find your lack of faith disturbing.</English>
+            <French>Votre manque de foi me consterne.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_10">
             <English>Many of the truths that we cling to depend on our viewpoint.</English>
+            <French>Beaucoup de vérités auxquelles nous tenons dépendent avant tout de notre propre point de vue.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_11">
             <English>Be careful not to choke on your aspirations.</English>
+            <French>Faites attention à ne pas vous étouffer avec vos ambitions.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_12">
             <English>I got a bad feeling about this.</English>
+            <French>J'ai un mauvais pressentiment.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_13">
             <English>This is the way.</English>
+            <French>Telle est la voie</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_2">
             <English>Do or do not. There is no try.</English>
+            <French>Fais-le ou ne le fais pas, il n'y a pas d'essai.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_3">
             <English>Your eyes can deceive you, don't trust them.</English>
+            <French>Tes yeux peuvent te tromper. Ne leur fais pas confiance.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_4">
             <English>Great, kid. Don't get cocky.</English>
+            <French>C'est bien, petit. N'attrape pas la grosse tête.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_5">
             <English>It's a trap!</English>
+            <French>C'est un piège !</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_6">
             <English>Yes.</English>
+            <French>Oui.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_7">
             <English>No.</English>
+            <French>Non.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_8">
             <English>Maybe.</English>
+            <French>Peut-être.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_9">
             <English>Difficult to see; always in motion is the future.</English>
+            <French>Difficile à voir. Toujours en mouvement est l'avenir.</French>
         </Key>
         <Key ID="STR_ls_meme_8ball_thinking">
             <English>Thinking...</English>
+            <French>Réflexion en cours...</French>
         </Key>
         <Key ID="STR_ls_meme_favoritesOfTheForce_descriptionShort">
             <English>Sold by secretive Rebel Alliance Confectioners</English>
+            <French>Vendu par de mystérieux confiseurs de l'Alliance Rebelle</French>
         </Key>
         <Key ID="STR_ls_meme_favoritesOfTheForce_displayName">
             <English>Favorites of the Force</English>
+            <French>Les Favoris de la Force</French>
         </Key>
         <Key ID="STR_ls_meme_goose_descriptionShort">
             <English>Honk!</English>
+            <French>Coin!</French>
         </Key>
         <Key ID="STR_ls_meme_goose_displayName">
             <English>GOOSE</English>
+            <French>OIE</French>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_descriptionShort">
             <English>A box of chocolates issued from Palpatine himself...</English>
+            <French>Une boîte de chocolats offerte par Palpatine en personne...</French>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_displayName">
             <English>Palpatine's 'Gracious Government Mix'</English>
+            <French>Le « Mélange Gouvernemental Gracieux » de Palpatine</French>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_healActionName">
             <English>Eat</English>
+            <French>Manger</French>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_localMessage">
             <English>You can feel Palpatine's approval for you. You feel emboldened and healed by this.</English>
+            <French>Vous sentez l'approbation de Palpatine à votre égard. Cela vous enhardit et vous soigne.</French>
         </Key>
         <!-- %1 = Player name -->
         <Key ID="STR_ls_meme_graciousGovernmentMix_zeusMessage">
             <English>%1 has accepted Palpatine's gift and has consumed a Gracious Government Mix. They have been healed of all wounds.</English>
+            <French>%1 a accepté le cadeau de Palpatine et a consommé un Mélange du Gouvernement Bienveillant. Toutes ses blessures ont été soignées.</French>
         </Key>
     </Package>
 </Project>

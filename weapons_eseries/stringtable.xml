@@ -3,60 +3,79 @@
     <Package name="weapons_eseries">
         <Key ID="STR_ls_weapons_eseries_e11_displayName">
             <English>E-11</English>
+            <French>E-11</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 45&lt;br/&gt;Used in: E-11</English>
+            <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges : 45&lt;br/&gt;Utilisé dans : E-11</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_magazine_displayName">
             <English>E-11 Energy Cell</English>
+            <French>Cellule énergétique de l'E-11</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_muzzle_coils_displayName">
             <English>E-11 Cooling Coils</English>
+            <French>Bobines de refroidissement de l'E-11</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_muzzle_fins_displayName">
             <English>E-11 Dispersion Fins</English>
+            <French>Ailettes de dispersion</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_optic_displayName">
             <English>E-11 Scope</English>
+            <French>Viseur de l'E-11</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_optic_thermal_displayName">
             <English>E-11 Thermal Scope</English>
+            <French>Viseur thermique de l'E-11</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5_displayName">
             <English>E-5</English>
+            <French>E-5</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5c_displayName">
             <English>E-5C</English>
+            <French>E-5C</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5c_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 200&lt;br/&gt;Used in: E-5C</English>
+            <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges : 200&lt;br/&gt;Utilisé dans : E-5C</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5c_magazine_displayName">
             <English>E-5C Energy Cell</English>
+            <French>Cellule énergétique de l'E-5C</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_aa_magazine_descriptionShort">
             <English>Type: Anti-Air&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
+            <French>Type : Antiaérien&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_aa_magazine_displayName">
             <English>E-60R AA Missile</English>
+            <French>Missile antiaérien E-60R</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_descriptionShort">
             <English>Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
+            <French>Type : Antipersonnel&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_displayName">
             <English>E-60R AP Missile</English>
+            <French>Missile antipersonnel E-60R</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_at_magazine_descriptionShort">
             <English>Type: Anti-Tank&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
+            <French>Type : Antichar&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_at_magazine_displayName">
             <English>E-60R AT Missile</English>
+            <French>Missile antichar E-60R</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_universal_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most E-Series Weapons</English>
+            <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges : 30&lt;br/&gt;Utilisé dans : la majorité des armes de la série E</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_universal_magazine_displayName">
             <English>E-Series Universal Energy Cell</English>
+            <French>Cellule énergétique universelle de la série E</French>
         </Key>
     </Package>
 </Project>

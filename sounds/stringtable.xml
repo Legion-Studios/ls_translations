@@ -3,195 +3,259 @@
     <Package name="sounds">
         <Key ID="STR_ls_sounds_activeCamo_activate">
             <English>Active Camo Activate</English>
+            <French>Activation camouflage actif</French>
         </Key>
         <Key ID="STR_ls_sounds_activeCamo_deactivate">
             <English>Active Camo Deactivate</English>
+            <French>Désactivation camouflage actif</French>
         </Key>
         <Key ID="STR_ls_sounds_activeCamo_loop">
             <English>Active Camo Loop</English>
+            <French>Boucle camouflage actif</French>
         </Key>
         <Key ID="STR_ls_sounds_alarm_01">
             <English>Alarm 01</English>
+            <French>Alarme 01</French>
         </Key>
         <Key ID="STR_ls_sounds_alarm_02">
             <English>Alarm 02</English>
+            <French>Alarme 02</French>
         </Key>
         <Key ID="STR_ls_sounds_alarm_intruder">
             <English>Intruder Alert Alarm</English>
+            <French>Alarme d'alerte intrusion</French>
         </Key>
         <Key ID="STR_ls_sounds_dc15x_rackBolt">
             <English>Rack DC-15X Bolt</English>
+            <French>Culasse DC-15X</French>
         </Key>
         <Key ID="STR_ls_sounds_door_close">
             <English>Close Door</English>
+            <French>Fermeture porte</French>
         </Key>
         <Key ID="STR_ls_sounds_door_open">
             <English>Open door</English>
+            <French>Ouverture porte</French>
         </Key>
         <Key ID="STR_ls_sounds_dp23_rackBolt">
             <English>Rack DP-23 Bolt</English>
+            <French>Culasse DP-23</French>
         </Key>
         <Key ID="STR_ls_sounds_droidekaShield_activate">
             <English>Droideka Shield Activate</English>
+            <French>Activation bouclier droïdeka</French>
         </Key>
         <Key ID="STR_ls_sounds_droidekaShield_deactivate">
             <English>Droideka Shield Deactivate</English>
+            <French>Désactivation bouclier droïdeka</French>
         </Key>
         <Key ID="STR_ls_sounds_holoprojector_activate">
             <English>Holoprojector Activate</English>
+            <French>Activation holoprojecteur</French>
         </Key>
         <Key ID="STR_ls_sounds_holoprojector_deactivate">
             <English>Holoprojector Deactivate</English>
+            <French>Désactivation holoprojecteur</French>
         </Key>
         <Key ID="STR_ls_sounds_holoprojector_loop">
             <English>Holoprojector Loop</English>
+            <French>Boucle holoprojecteur</French>
         </Key>
         <Key ID="STR_ls_sounds_holoprojector_refresh">
             <English>Holoprojector Refresh</English>
+            <French>Rafraîchissement holoprojecteur</French>
         </Key>
         <Key ID="STR_ls_sounds_radioChatter_01">
             <English>Radio Chatter 01</English>
+            <French>Bavardage radio 01</French>
         </Key>
         <Key ID="STR_ls_sounds_radioChatter_01_titles">
             <English>*Ambient Republic radio chatter plays*</English>
+            <French>*Bavardage radio ambiant de la République*</French>
         </Key>
         <Key ID="STR_ls_sounds_rookiesRadio">
             <English>Rookie's Mudjumper Prime Channel</English>
+            <French>Canal Mudjumper Prime de Rookie</French>
         </Key>
         <Key ID="STR_ls_sounds_shieldHit_01">
             <English>Shield Hit 01</English>
+            <French>Dégât bouclier 01</French>
         </Key>
         <Key ID="STR_ls_sounds_shieldHit_02">
             <English>Shield Hit 02</English>
+            <French>Dégât bouclier 02</French>
         </Key>
         <Key ID="STR_ls_sounds_shieldHit_03">
             <English>Shield Hit 03</English>
+            <French>Dégât bouclier 03</French>
         </Key>
         <Key ID="STR_ls_sounds_shieldHit_04">
             <English>Shield Hit 04</English>
+            <French>Dégât bouclier 04</French>
         </Key>
         <Key ID="STR_ls_sounds_shieldHit_05">
             <English>Shield Hit 05</English>
+            <French>Dégât bouclier 05</French>
         </Key>
         <Key ID="STR_ls_sounds_shieldHit_06">
             <English>Shield Hit 06</English>
+            <French>Dégât bouclier 06</French>
         </Key>
         <Key ID="STR_ls_sounds_shieldHit_07">
             <English>Shield Hit 07</English>
+            <French>Dégât bouclier 07</French>
         </Key>
         <Key ID="STR_ls_sounds_siren_01">
             <English>Siren 01</English>
+            <French>Sirène 01</French>
         </Key>
         <Key ID="STR_ls_sounds_sniperRifle_zoomIn_01">
             <English>Sniper Rifle Zoom In 01</English>
+            <French>Zoom avant fusil sniper 01</French>
         </Key>
         <Key ID="STR_ls_sounds_sniperRifle_zoomIn_02">
             <English>Sniper Rifle Zoom In 02</English>
+            <French>Zoom avant fusil sniper 02</French>
         </Key>
         <Key ID="STR_ls_sounds_sniperRifle_zoomOut_01">
             <English>Sniper Rifle Zoom Out</English>
+            <French>Zoom arrière fusil sniper</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_01">
             <English>Honk 01</English>
+            <French>Coin! 01</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_02">
             <English>Honk 02</English>
+            <French>Coin! 02</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_03">
             <English>Honk 03</English>
+            <French>Coin! 03</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_04">
             <English>Honk 04</English>
+            <French>Coin! 04</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_05">
             <English>Honk 05</English>
+            <French>Coin! 05</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_glass_01">
             <English>Honk Glass 01</English>
+            <French>Coin! Vitre 01</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_glass_02">
             <English>Honk Glass 02</English>
+            <French>Coin! Vitre 02</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_glass_03">
             <English>Honk Glass 03</English>
+            <French>Coin! Vitre 03</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_glass_04">
             <English>Honk Glass 04</English>
+            <French>Coin! Vitre 04</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_harmonica_01">
             <English>Honk Harmonica 01</English>
+            <French>Coin! Harmonica 01</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_harmonica_02">
             <English>Honk Harmonica 02</English>
+            <French>Coin! Harmonica 02</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_harmonica_03">
             <English>Honk Harmonica 03</English>
+            <French>Coin! Harmonica 03</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_harmonica_04">
             <English>Honk Harmonica 04</English>
+            <French>Coin! Harmonica 04</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_harmonica_05">
             <English>Honk Harmonica 05</English>
+            <French>Coin! Harmonica 05</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_harmonica_06">
             <English>Honk Harmonica 06</English>
+            <French>Coin! Harmonica 06</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_pylon_01">
             <English>Honk Pylon 01</English>
+            <French>Coin! Cône 01</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_pylon_02">
             <English>Honk Pylon 02</English>
+            <French>Coin! Cône 02</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_pylon_03">
             <English>Honk Pylon 03</English>
+            <French>Coin! Cône 03</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_pylon_04">
             <English>Honk Pylon 04</English>
+            <French>Coin! Cône 04</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_pylon_05">
             <English>Honk Pylon 05</English>
+            <French>Coin! Cône 05</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_pylon_06">
             <English>Honk Pylon 06</English>
+            <French>Coin! Cône 06</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_pylon_07">
             <English>Honk Pylon 07</English>
+            <French>Coin! Cône 07</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_soap_01">
             <English>Honk Soap 01</English>
+            <French>Coin! Savon 01</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_soap_02">
             <English>Honk Soap 02</English>
+            <French>Coin! Savon 02</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_soap_03">
             <English>Honk Soap 03</English>
+            <French>Coin! Savon 03</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_soap_04">
             <English>Honk Soap 04</English>
+            <French>Coin! Savon 04</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_trashlid_01">
             <English>Honk Trashlid 01</English>
+            <French>Coin! Couvercle de poubelle 01</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_trashlid_02">
             <English>Honk Trashlid 02</English>
+            <French>Coin! Couvercle de poubelle 02</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_trashlid_03">
             <English>Honk Trashlid 03</English>
+            <French>Coin! Couvercle de poubelle 03</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_trashlid_04">
             <English>Honk Trashlid 04</English>
+            <French>Coin! Couvercle de poubelle 04</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_trashlid_05">
             <English>Honk Trashlid 05</English>
+            <French>Coin! Couvercle de poubelle 05</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_walkie_talkie_01">
             <English>Honk Walkie-Talkie 01</English>
+            <French>Coin! Talkie-Walkie 01</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_walkie_talkie_02">
             <English>Honk Walkie-Talkie 02</English>
+            <French>Coin! Talkie-Walkie 02</French>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_walkie_talkie_03">
             <English>Honk Walkie-Talkie 03</English>
+            <French>Coin! Talkie-Walkie 03</French>
         </Key>
     </Package>
 </Project>

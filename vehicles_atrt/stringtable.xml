@@ -8,9 +8,11 @@
         </Key>
         <Key ID="STR_ls_vehicles_atrt_flamethrower_displayName">
             <English>AT-RT (Flamethrower)</English>
+            <French>AT-RT (Lance-Flamme)</French>
         </Key>
         <Key ID="STR_ls_vehicles_atrt_rotaryBlaster_displayName">
             <English>AT-RT (Z-6)</English>
+            <French>AT-RT (Z-6)</French>
         </Key>
         <Key ID="STR_ls_vehicles_atrt_uniform_displayName">
             <English>AT-RT Chassis</English>

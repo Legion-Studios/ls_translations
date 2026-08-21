@@ -3,24 +3,31 @@
     <Package name="weapons_zseries">
         <Key ID="STR_ls_weapons_zseries_universal_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 300&lt;br/&gt;Used in: Z-Series Weapons</English>
+            <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges : 300&lt;br/&gt;Utilisé dans : armes de série Z</French>
         </Key>
         <Key ID="STR_ls_weapons_zseries_universal_magazine_displayName">
             <English>Z-Series Universal Energy Cell</English>
+            <French>Cellule énergétique universelle de série Z</French>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_displayName">
             <English>Z-6</English>
+            <French>Z-6</French>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_hammer_descriptionShort">
             <English>Rotary blaster cannon&lt;br/&gt;Commander Thorn's personal Z-6, nicknamed 'Hammer'</English>
+            <French>Canon blaster rotatif&lt;br/&gt;Z-6 personnelle du commandant Thorn, surnommée « Hammer »</French>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_hammer_displayName">
             <English>Z-6 'Hammer'</English>
+            <French>Z-6 « Hammer »</French>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_magazine_descriptionShort">
             <English>Caliber: 12.7x108 mw&lt;br/&gt;Rounds: 125&lt;br/&gt;Used in: Z-6s</English>
+            <French>Calibre : 12.7x108 mW&lt;br/&gt;Charges : 125&lt;br/&gt;Utilisé dans : Z-6</French>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_magazine_displayName">
             <English>Z-6 Energy Cell</English>
+            <French>Cellule énergétique de Z-6</French>
         </Key>
     </Package>
 </Project>

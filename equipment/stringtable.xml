@@ -3,6 +3,7 @@
     <Package name="equipment">
         <Key ID="STR_ls_equipment_createEquipmentCategory_name">
             <English>Create Arsenal Category</English>
+            <French>Créer une catégorie d'arsenal</French>
             <Polish>Stwórz Kategorie Arsenału</Polish>
             <Russian>Создать категорию в арсенале</Russian>
         </Key>
