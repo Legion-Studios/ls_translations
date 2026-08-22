@@ -100,7 +100,7 @@
         <Key ID="STR_ls_characters_clone_legions_clone_74th">
             <English>74th Legion</English>
             <French>74e Légion</French>
-            <Polish>74-ta Legion</Polish>
+            <Polish>74-ty Legion</Polish>
             <Russian>74ый Легион</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_91st">
@@ -118,7 +118,7 @@
         <Key ID="STR_ls_characters_clone_legions_clone_AT">
             <English>Clone Trooper (AT)</English>
             <French>Clone soldat (AT)</French>
-            <Polish>Żołnierz Klon (Przeciw-Pancerny)</Polish>
+            <Polish>Żołnierz Klon (Przeciwpancerny)</Polish>
             <Russian>Солдат-клон (Противотанкист)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_DC15S">
@@ -196,13 +196,13 @@
         <Key ID="STR_ls_characters_clone_legions_clone_heavyAA">
             <English>Clone Trooper (Missile AA)</English>
             <French>Soldat Clone (missile AA)</French>
-            <Polish>Żołnierz Klon (Przeciw-Lotniczy)</Polish>
+            <Polish>Żołnierz Klon (Przeciwlotniczy)</Polish>
             <Russian>Солдат-клон (ПЗРК)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_heavyAT">
             <English>Clone Trooper (Missile AT)</English>
             <French>Soldat Clone (missile AT)</French>
-            <Polish>Żołnierz Klon (Ciężki Przeciw-Pancerny)</Polish>
+            <Polish>Żołnierz Klon (Ciężki Przeciwpancerny)</Polish>
             <Russian>Солдат-клон (ПТРК)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_hornCompany">

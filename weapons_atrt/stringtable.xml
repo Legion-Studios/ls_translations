@@ -3,24 +3,29 @@
     <Package name="weapons_atrt">
         <Key ID="STR_ls_weapons_atrt_descriptionShort">
             <English>An AT-RT mounted weapon</English>
+            <Polish>Broń zamontowana na AT-RT</Polish>
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_displayName">
             <English>MAAD-38 Laser Cannon</English>
             <French>Canon laser MAAD-38 d'AT-RT</French>
-            <Polish>Działko Laserowe AT-RT</Polish>
+            <Polish>Działko Laserowe MAAD-38</Polish>
             <Russian>Лаз-пушка MAAD-38</Russian>
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_magazine_descriptionShort">
             <English>Caliber: 20mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: MAAD-38 Laser Cannon</English>
+            <Polish>Kaliber: 20mw&lt;br/&gt;Strzały: 100&lt;br/&gt;Używane w: Działko Laserowe MAAD-38</Polish>
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_magazine_displayName">
             <English>MAAD-38 Energy Cell</English>
+            <Polish>Ogniwo Elektryczne MAAD-38</Polish>
         </Key>
         <Key ID="STR_ls_weapons_atrt_rotaryBlaster_descriptionShort">
             <English>A retrofitted Z-6 that can be mounted onto an AT-RT</English>
+            <Polish>Zmodyfikowany Z-6 przystosowany do montażu na AT-RT</Polish>
         </Key>
         <Key ID="STR_ls_weapons_atrt_rotaryBlaster_displayName">
             <English>Retrofitted Z-6</English>
+            <Polish>Zmodyfikowany Z-6</Polish>
         </Key>
     </Package>
 </Project>

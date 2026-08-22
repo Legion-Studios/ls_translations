@@ -3,42 +3,55 @@
     <Package name="weapons">
         <Key ID="STR_ls_weapons_blasterCannon">
             <English>Blaster Cannon</English>
+            <Polish>Działo Blasterowe</Polish>
         </Key>
         <Key ID="STR_ls_weapons_blasterCarbine">
             <English>Blaster Carbine</English>
+            <Polish>Karabinek Blasterowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_blasterPistol">
             <English>Blaster Pistol</English>
+            <Polish>Pistolet Blasterowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_blasterRifle">
             <English>Blaster Rifle</English>
+            <Polish>Karabin Blasterowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_heavyBlasterRifle">
             <English>Heavy Blaster Rifle</English>
+            <Polish>Ciężki Karabin Blasterowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_highEnergy">
             <English>High energy</English>
+            <Polish>Wysokoenergetyczny</Polish>
         </Key>
         <Key ID="STR_ls_weapons_leftHand">
             <English>Left hand</English>
+            <Polish>Lewa ręka</Polish>
         </Key>
         <Key ID="STR_ls_weapons_lowEnergy">
             <English>Low energy</English>
+            <Polish>Niskoenergetyczny</Polish>
         </Key>
         <Key ID="STR_ls_weapons_rightHand">
             <English>Right hand</English>
+            <Polish>Prawa ręka</Polish>
         </Key>
         <Key ID="STR_ls_weapons_rotaryBlasterCannon">
             <English>Rotary Blaster Cannon</English>
+            <Polish>Obrotowe Działko Blasterowe</Polish>
         </Key>
         <Key ID="STR_ls_weapons_scatterGun">
             <English>Scatter Gun</English>
+            <Polish>Strzelba</Polish>
         </Key>
         <Key ID="STR_ls_weapons_sniperBlasterRifle">
             <English>Sniper Blaster Rifle</English>
+            <Polish>Blasterowy Karabin Wyborowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_standardEnergy">
             <English>Standard energy</English>
+            <Polish>Standardowa energia</Polish>
         </Key>
     </Package>
 </Project>

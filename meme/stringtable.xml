@@ -3,73 +3,96 @@
     <Package name="meme">
         <Key ID="STR_ls_meme_8ball_1">
             <English>I find your lack of faith disturbing.</English>
+            <Polish>Niepokoi mnie twój brak wiary.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_10">
             <English>Many of the truths that we cling to depend on our viewpoint.</English>
+            <Polish>Wiele prawd, w które wierzymy, zależy od naszego punktu widzenia.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_11">
             <English>Be careful not to choke on your aspirations.</English>
+            <Polish>Tylko nie udław się swoimi ambicjami.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_12">
             <English>I got a bad feeling about this.</English>
+            <Polish>Mam co do tego złe przeczucia.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_13">
             <English>This is the way.</English>
+            <Polish>Tak każe obyczaj.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_2">
             <English>Do or do not. There is no try.</English>
+            <Polish>Rób albo nie rób. Nie ma próbowania.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_3">
             <English>Your eyes can deceive you, don't trust them.</English>
+            <Polish>Oczy mogą cię zwieść, nie ufaj im.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_4">
             <English>Great, kid. Don't get cocky.</English>
+            <Polish>Świetnie mały. Tylko nie bądź zarozumiały.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_5">
             <English>It's a trap!</English>
+            <Polish>To pułapka!</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_6">
             <English>Yes.</English>
+            <Polish>Tak.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_7">
             <English>No.</English>
+            <Polish>Nie.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_8">
             <English>Maybe.</English>
+            <Polish>Może.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_9">
             <English>Difficult to see; always in motion is the future.</English>
+            <Polish>Trrudno zobaczyć. Przyszłość zawsze w ruchu jest.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_thinking">
             <English>Thinking...</English>
+            <Polish>Myślę...</Polish>
         </Key>
         <Key ID="STR_ls_meme_favoritesOfTheForce_descriptionShort">
             <English>Sold by secretive Rebel Alliance Confectioners</English>
+            <Polish>Sprzedawane przez tajemniczych cukierników Rebeliantów</Polish>
         </Key>
         <Key ID="STR_ls_meme_favoritesOfTheForce_displayName">
             <English>Favorites of the Force</English>
+            <Polish>Ulubione przez moc</Polish>
         </Key>
         <Key ID="STR_ls_meme_goose_descriptionShort">
             <English>Honk!</English>
+            <Polish>Honk!</Polish>
         </Key>
         <Key ID="STR_ls_meme_goose_displayName">
             <English>GOOSE</English>
+            <Polish>GĘŚ</Polish>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_descriptionShort">
             <English>A box of chocolates issued from Palpatine himself...</English>
+            <Polish>Pudełko czekoladek od samego Palpatine'a...</Polish>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_displayName">
             <English>Palpatine's 'Gracious Government Mix'</English>
+            <Polish>'Łaskawa Mieszanka Rrządowa' Palpatine'a</Polish>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_healActionName">
             <English>Eat</English>
+            <Polish>Jedz</Polish>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_localMessage">
             <English>You can feel Palpatine's approval for you. You feel emboldened and healed by this.</English>
+            <Polish>Czujesz aprobatę Palpatine'a. Napełnia cię ona odwagą i przywraca ci siły.</Polish>
         </Key>
         <!-- %1 = Player name -->
         <Key ID="STR_ls_meme_graciousGovernmentMix_zeusMessage">
             <English>%1 has accepted Palpatine's gift and has consumed a Gracious Government Mix. They have been healed of all wounds.</English>
+            <Polish>%1 zaakceptował prezent Palpatina i skonsumował Łaskawą Mieszankę Rządu. Zostali oni wyleczenia z wszystkich obrażeń.</Polish>
         </Key>
     </Package>
 </Project>
