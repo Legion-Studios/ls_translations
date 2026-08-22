@@ -28,7 +28,7 @@
         <Key ID="STR_ls_characters_jabiim_nimbus_at">
             <English>Commando (AT)</English>
             <French>Commando (AC)</French>
-            <Polish>Komandos (Przeciw-Pancerny)</Polish>
+            <Polish>Komandos (Przeciwpancerny)</Polish>
             <Russian>Коммандо (ПТ)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_backpack">
@@ -64,13 +64,13 @@
         <Key ID="STR_ls_characters_jabiim_nimbus_heavyAA">
             <English>Commando (Missile AA)</English>
             <French>Commando (Missile AA)</French>
-            <Polish>Komandos (Przeciw-Lotniczy)</Polish>
+            <Polish>Komandos (Przeciwlotniczy)</Polish>
             <Russian>Коммандо (ПЗРК)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_heavyAT">
             <English>Commando (Missile AT)</English>
             <French>Commando (Missile AC)</French>
-            <Polish>Komandos (Ciężki Przeciw-Pancerny)</Polish>
+            <Polish>Komandos (Ciężki Przeciwpancerny)</Polish>
             <Russian>Коммандо (ПТРК)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_helmet">
