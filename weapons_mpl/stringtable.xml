@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_mpl">
+        <Key ID="STR_ls_weapons_mpl_displayName">
+            <English>MPl-57</English>
+        </Key>
+        <Key ID="STR_ls_weapons_mpl_rebel_displayName">
+            <English>MPl-57 (Rebel)</English>
+        </Key>
+    </Package>
+</Project>

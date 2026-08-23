@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_plx">
+        <Key ID="STR_ls_weapons_plx_plx1_aa_magazine_descriptionShort">
+            <English>Type: Anti-Air&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: PLX-1</English>
+        </Key>
+        <Key ID="STR_ls_weapons_plx_plx1_aa_magazine_displayName">
+            <English>PLX-1 AA Missile</English>
+        </Key>
+        <Key ID="STR_ls_weapons_plx_plx1_ap_SACLOS_magazine_descriptionShort">
+            <English>SACLOS Guided Missile&lt;br/&gt;Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: PLX-1</English>
+        </Key>
+        <Key ID="STR_ls_weapons_plx_plx1_ap_SACLOS_magazine_displayName">
+            <English>PLX-1 AP Missile (SACLOS)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_plx_plx1_ap_magazine_descriptionShort">
+            <English>Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: PLX-1</English>
+        </Key>
+        <Key ID="STR_ls_weapons_plx_plx1_ap_magazine_displayName">
+            <English>PLX-1 AP Missile</English>
+        </Key>
+        <Key ID="STR_ls_weapons_plx_plx1_at_magazine_descriptionShort">
+            <English>Type: Anti-Tank&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: PLX-1</English>
+        </Key>
+        <Key ID="STR_ls_weapons_plx_plx1_at_magazine_displayName">
+            <English>PLX-1 AT Missile</English>
+        </Key>
+        <Key ID="STR_ls_weapons_plx_plx1_displayName">
+            <English>PLX-1</English>
+        </Key>
+    </Package>
+</Project>
