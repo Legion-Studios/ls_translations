@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="weapons">
+        <Key ID="STR_ls_weapons_ap_SACLOS">
+            <English>AP (SACLOS)</English>
+        </Key>
         <Key ID="STR_ls_weapons_blasterCannon">
             <English>Blaster Cannon</English>
         </Key>
