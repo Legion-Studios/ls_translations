@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_mercenary">
+        <Key ID="STR_ls_weapons_mercenary_sniper_displayName">
+            <English>Mercenary Sniper Rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapons_mercenary_sniper_magazine_descriptionShort">
+            <English>Caliber: .408 mw&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Mercenary Sniper Rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapons_mercenary_sniper_magazine_displayName">
+            <English>Mercenary Sniper Rifle Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_mercenary_sniper_optic_sniper_descriptionShort">
+            <English>Sniper scope&lt;br/&gt;Maginification: 6x-25x</English>
+        </Key>
+        <Key ID="STR_ls_weapons_mercenary_sniper_optic_sniper_displayName">
+            <English>Mercenary Sniper Scope</English>
+        </Key>
+    </Package>
+</Project>
