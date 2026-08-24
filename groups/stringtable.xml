@@ -3,6 +3,7 @@
     <Package name="groups">
         <Key ID="STR_ls_groups_citadelGuard">
             <English>Citadel Guard</English>
+            <French>Garde de la Citadelle</French>
             <Polish>Gwardia Cytadeli</Polish>
             <Russian>Охрана Цитадели</Russian>
         </Key>
