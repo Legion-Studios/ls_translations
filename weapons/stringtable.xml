@@ -124,25 +124,9 @@
         <Key ID="STR_ls_weapons_heavyBlasterRifle">
             <English>Heavy Blaster Rifle</English>
         </Key>
-        <Key ID="STR_ls_weapons_heavyBlasterRifle">
-            <English>Heavy Blaster Rifle</English>
-        </Key>
-        <Key ID="STR_ls_weapons_heavyBlasterRifle">
-            <English>Heavy Blaster Rifle</English>
-        </Key>
         <!-- High Explosive Dual Purpose -->
-        <!-- High Explosive Dual-Purpose -->
         <Key ID="STR_ls_weapons_hedpGrenade">
             <English>HEDP Grenade</English>
-        </Key>
-        <!-- High Explosive Dual Purpose -->
-        <!-- High Explosive Dual-Purpose -->
-        <Key ID="STR_ls_weapons_hedpGrenade">
-            <English>HEDP Grenade</English>
-        </Key>
-        <!-- High Explosive Fragmentation -->
-        <Key ID="STR_ls_weapons_hefGrenade">
-            <English>HEF Grenade</English>
         </Key>
         <!-- High Explosive Fragmentation -->
         <Key ID="STR_ls_weapons_hefGrenade">
