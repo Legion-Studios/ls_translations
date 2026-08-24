@@ -3,24 +3,31 @@
     <Package name="weapons_zseries">
         <Key ID="STR_ls_weapons_zseries_universal_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 300&lt;br/&gt;Used in: Z-Series Weapons</English>
+            <Polish>Kaliber: 6.5x39 mw&lt;br/&gt;Strzały: 300&lt;br/&gt;Używane w: Broń serii Z</Polish>
         </Key>
         <Key ID="STR_ls_weapons_zseries_universal_magazine_displayName">
             <English>Z-Series Universal Energy Cell</English>
+            <Polish>Uniwersalne Ogniwo Elektryczne serii Z</Polish>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_displayName">
             <English>Z-6</English>
+            <Polish>Z-6</Polish>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_hammer_descriptionShort">
             <English>Rotary blaster cannon&lt;br/&gt;Commander Thorn's personal Z-6, nicknamed 'Hammer'</English>
+            <Polish>Obrotowe Działko Blasterowe&lt;br/&gt;Osobiste Działko Z-6 Komandora Thorn, nazwane 'Hammer'</Polish>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_hammer_displayName">
             <English>Z-6 'Hammer'</English>
+            <Polish>Z-6 'Hammer'</Polish>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_magazine_descriptionShort">
             <English>Caliber: 12.7x108 mw&lt;br/&gt;Rounds: 125&lt;br/&gt;Used in: Z-6s</English>
+            <Polish>Kaliber: 12.7x108 mw&lt;br/&gt;Strzały: 125&lt;br/&gt;Używane w: Z-6s</Polish>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z6_magazine_displayName">
             <English>Z-6 Energy Cell</English>
+            <Polish>Ogniwo Elektryczne Z-6</Polish>
         </Key>
     </Package>
 </Project>
