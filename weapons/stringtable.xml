@@ -1,83 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="weapons">
+        <Key ID="STR_ls_weapons_40mm_3Rnd_G75_HE_descriptionShort">
+            <English>Type: High Explosive Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+        </Key>
+        <Key ID="STR_ls_weapons_40mm_3Rnd_G75_HE_displayName">
+            <English>40 mm 3Rnd G75 HE Grenade Round</English>
+        </Key>
+        <Key ID="STR_ls_weapons_40mm_3Rnd_G76_HEF_descriptionShort">
+            <English>Type: High Explosive Fragmentation Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+        </Key>
+        <Key ID="STR_ls_weapons_40mm_3Rnd_G76_HEF_displayName">
+            <English>40 mm 3Rnd G76 HEF Grenade Round</English>
+        </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_G77_HEAB_descriptionShort">
-            <English>Type: High Explosive Air Bursting Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <English>Type: High Explosive Air Bursting Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_G77_HEAB_displayName">
-            <English>40 mm 3Rnd G77 HEAB</English>
+            <English>40 mm 3Rnd G77 HEAB Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM304D_HEDP_descriptionShort">
-            <English>Type: High Explosive Dual-Purpose Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <English>Type: High Explosive Dual-Purpose Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM304D_HEDP_displayName">
-            <English>40 mm 3Rnd IM304D</English>
+            <English>40 mm 3Rnd IM304D HEDP Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM334K_HEAT_descriptionShort">
-            <English>Type: High Explosive Anti-Tank Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <English>Type: High Explosive Anti-Tank Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM334K_HEAT_displayName">
-            <English>40 mm 3Rnd IM334K</English>
+            <English>40 mm 3Rnd IM334K HEAT Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM41_HE_displayName">
-            <English>40 mm 3Rnd IM41 HE</English>
+            <English>40 mm 3Rnd IM41 HE Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM92F_HEF_descriptionShort">
-            <English>Type: Fragmentation Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <English>Type: Fragmentation Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM92F_HEF_displayName">
-            <English>40 mm 3Rnd IM92F</English>
+            <English>40 mm 3Rnd IM92F HEF Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM973B_HEAB_descriptionShort">
-            <English>Type: High Explosive Air Bursting Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <English>Type: High Explosive Air Bursting Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM973B_HEAB_displayName">
-            <English>40 mm 3Rnd IM973B HEAB</English>
+            <English>40 mm 3Rnd IM973B HEAB Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G75_HE_descriptionShort">
             <English>Type: High Explosive Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G75_HE_displayName">
-            <English>40 mm G77 HE</English>
+            <English>40 mm G75 HE Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G76_HEF_descriptionShort">
             <English>Type: High Explosive Fragmentation Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G76_HEF_displayName">
-            <English>40 mm G77 HEF</English>
+            <English>40 mm G76 HEF Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G77_HEAB_descriptionShort">
-            <English>Type: High Explosive Air Bursting&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <English>Type: High Explosive Air Bursting Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G77_HEAB_displayName">
-            <English>40 mm G77 HEAB</English>
+            <English>40 mm G77 HEAB Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM304D_HEDP_descriptionShort">
             <English>Type: High Explosive Dual-Purpose Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM304D_HEDP_displayName">
-            <English>40 mm IM304D</English>
+            <English>40 mm IM304D HEDP Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM334K_HEAT_descriptionShort">
             <English>Type: High Explosive Anti-Tank Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM334K_HEAT_displayName">
-            <English>40 mm IM334K</English>
+            <English>40 mm IM334K HEAT Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM41_HE_displayName">
-            <English>40 mm IM41 HE</English>
+            <English>40 mm IM41 HE Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM92F_HEF_descriptionShort">
             <English>Type: Fragmentation Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM92F_HEF_displayName">
-            <English>40 mm IM92F</English>
+            <English>40 mm IM92F HEF Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM973B_HEAB_descriptionShort">
-            <English>Type: High Explosive Air Bursting&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <English>Type: High Explosive Air Bursting Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM973B_HEAB_displayName">
-            <English>40 mm IM973B HEAB</English>
+            <English>40 mm IM973B HEAB Grenade Round</English>
         </Key>
         <Key ID="STR_ls_weapons_ap_SACLOS">
             <English>AP (SACLOS)</English>
