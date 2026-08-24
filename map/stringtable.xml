@@ -3,6 +3,7 @@
     <Package name="map">
         <Key ID="STR_ls_map_attributeObjectMarkerEnabled_name">
             <English>Map - Show Object Marker</English>
+            <French>Carte - Afficher les marqueurs d'objets</French>
             <Polish>Mapa - Pokaż markery Obiektów</Polish>
             <Russian>Карта - Показать метку объекта</Russian>
         </Key>
