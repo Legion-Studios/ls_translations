@@ -13,5 +13,17 @@
         <Key ID="STR_ls_weapons_repeaters_acpa_magazine_displayName">
             <English>ACP-A Cartridge</English>
         </Key>
+        <Key ID="STR_ls_weapons_repeaters_acpr_descriptionShort">
+            <English>Accelerated Charged Particle Repeater Gun&lt;br/&gt;Slugthrower</English>
+        </Key>
+        <Key ID="STR_ls_weapons_repeaters_acpr_displayName">
+            <English>ACP-R</English>
+        </Key>
+        <Key ID="STR_ls_weapons_repeaters_acpr_magazine_descriptionShort">
+            <English>Type: Slug&lt;br/&gt;Caliber: 5.56x45 mm&lt;br/&gt;Rounds: 40&lt;br/&gt;Used in: ACP-R</English>
+        </Key>
+        <Key ID="STR_ls_weapons_repeaters_acpr_magazine_displayName">
+            <English>ACP-R Cartridge</English>
+        </Key>
     </Package>
 </Project>
