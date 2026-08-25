@@ -106,6 +106,9 @@
         <Key ID="STR_ls_weapons_blasterRifle">
             <English>Blaster Rifle</English>
         </Key>
+        <Key ID="STR_ls_weapons_disposableLauncher">
+            <English>Single-use Rocket Launcher</English>
+        </Key>
         <Key ID="STR_ls_weapons_fragGrenade">
             <English>Fragmentation Grenade</English>
         </Key>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_rps">
+        <Key ID="STR_ls_weapons_rps_rps6_displayName">
+            <English>RPS-6</English>
+        </Key>
+        <Key ID="STR_ls_weapons_rps_rps6_disposable_displayName">
+            <English>RPS-6 (Disposable)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_rps_rps6_magazine_descriptionShort">
+            <English>Type: RPS-6 rocket&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: RPS-6</English>
+        </Key>
+        <Key ID="STR_ls_weapons_rps_rps6_magazine_displayName">
+            <English>RPS-6 Rocket</English>
+        </Key>
+    </Package>
+</Project>
