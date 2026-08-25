@@ -25,5 +25,17 @@
         <Key ID="STR_ls_weapons_repeaters_acpr_magazine_displayName">
             <English>ACP-R Cartridge</English>
         </Key>
+        <Key ID="STR_ls_weapons_repeaters_ls150_descriptionShort">
+            <English>Heavy Array Charged Particle Repeater Gun</English>
+        </Key>
+        <Key ID="STR_ls_weapons_repeaters_ls150_displayName">
+            <English>LS-150 Heavy ACP Repeater</English>
+        </Key>
+        <Key ID="STR_ls_weapons_repeaters_ls150_magazine_descriptionShort">
+            <English>Type: Slug&lt;br/&gt;Caliber: 9.3x64 mm&lt;br/&gt;Rounds: 500&lt;br/&gt;Used in: LS-150</English>
+        </Key>
+        <Key ID="STR_ls_weapons_repeaters_ls150_magazine_displayName">
+            <English>LS-150 Belt</English>
+        </Key>
     </Package>
 </Project>
