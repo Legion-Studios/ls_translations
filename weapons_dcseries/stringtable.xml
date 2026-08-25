@@ -107,7 +107,7 @@
             <English>DC-17S High Power Energy Cell</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_magazine_descriptionShort">
-            <English>Caliber: .45 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: DC-17S</English>
+            <English>Caliber: .45 mw&lt;br/&gt;Rounds: 15&lt;br/&gt;Used in: DC-17S</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_magazine_displayName">
             <English>DC-17S Energy Cell</English>
