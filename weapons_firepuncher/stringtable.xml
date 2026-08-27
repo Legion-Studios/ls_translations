@@ -4,5 +4,11 @@
         <Key ID="STR_ls_weapons_firepuncher_displayName">
             <English>Firepuncher</English>
         </Key>
+        <Key ID="STR_ls_weapons_firepuncher_magazine_descriptionShort">
+            <English>Caliber: .338 mw&lt;br/&gt;Rounds: 15&lt;br/&gt;Used in: Firepuncher</English>
+        </Key>
+        <Key ID="STR_ls_weapons_firepuncher_magazine_displayName">
+            <English>Firepuncher Energy Cell</English>
+        </Key>
     </Package>
 </Project>
