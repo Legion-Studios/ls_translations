@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_valken">
+        <Key ID="STR_ls_weapons_valken_valken38x_displayName">
+            <English>Valken-38x</English>
+        </Key>
+        <Key ID="STR_ls_weapons_valken_valken38x_magazine_descriptionShort">
+            <English>Caliber: .338 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Valken-38x</English>
+        </Key>
+        <Key ID="STR_ls_weapons_valken_valken38x_magazine_displayName">
+            <English>Valken-38x Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_valken_valken38x_optic_scope_descriptionShort">
+            <English>Sniper scope&lt;br/&gt;Maginification: 2.3x-5x</English>
+        </Key>
+        <Key ID="STR_ls_weapons_valken_valken38x_optic_scope_displayName">
+            <English>Valken-38x Scope</English>
+        </Key>
+    </Package>
+</Project>
