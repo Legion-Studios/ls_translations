@@ -150,8 +150,8 @@
         <Key ID="STR_ls_weapons_rotaryBlasterCannon">
             <English>Rotary Blaster Cannon</English>
         </Key>
-        <Key ID="STR_ls_weapons_scatterGun">
-            <English>Scatter Gun</English>
+        <Key ID="STR_ls_weapons_scattergun">
+            <English>Scattergun</English>
         </Key>
         <Key ID="STR_ls_weapons_sniperBlasterRifle">
             <English>Sniper Blaster Rifle</English>

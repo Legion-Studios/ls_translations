@@ -25,6 +25,12 @@
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_scatter_displayName">
             <English>Westar-35S Scatter Energy Cell</English>
         </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_muzzle_suppressor_displayName">
+            <English>Westar-35 Flash Suppressor</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_optic_scope_displayName">
+            <English>Westar-35 Holosight</English>
+        </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_displayName">
             <English>Westar-35SA</English>
         </Key>
