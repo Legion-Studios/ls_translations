@@ -5,7 +5,7 @@
             <English>Westar-35C</English>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35c_magazine_descriptionShort">
-            <English>Caliber: ??? mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35C</English>
+            <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35C</English>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35c_magazine_displayName">
             <English>Westar-35C Energy Cell</English>
@@ -14,7 +14,7 @@
             <English>Westar-35S</English>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_descriptionShort">
-            <English>Caliber: ??? mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35S</English>
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35S</English>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_displayName">
             <English>Westar-35S Energy Cell</English>
@@ -39,6 +39,12 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_magazine_displayName">
             <English>Westar-35SA Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35sa_pointer_flashlight_displayName">
+            <English>Westar-35SA Flashlight</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35sa_pointer_laser_displayName">
+            <English>Westar-35SA Laser Pointer</English>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_displayName">
             <English>Westar-M5</English>
