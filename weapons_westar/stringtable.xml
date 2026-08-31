@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="weapons_westar">
+        <Key ID="STR_ls_weapons_westar_westar35c_displayName">
+            <English>Westar-35C</English>
+        </Key>
         <Key ID="STR_ls_weapons_westar_westar35c_magazine_descriptionShort">
             <English>Caliber: ??? mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35C</English>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35c_magazine_displayName">
             <English>Westar-35C Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_displayName">
+            <English>Westar-35S</English>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_descriptionShort">
             <English>Caliber: ??? mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35S</English>
@@ -18,6 +24,9 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_scatter_displayName">
             <English>Westar-35S Scatter Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35sa_displayName">
+            <English>Westar-35SA</English>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_magazine_descriptionShort">
             <English>Caliber: .45 mw&lt;br/&gt;Rounds: 17&lt;br/&gt;Used in: Westar-35SA</English>
