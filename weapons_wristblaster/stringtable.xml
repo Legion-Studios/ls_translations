@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_wristblaster">
+        <Key ID="STR_ls_weapons_wristblaster_b2_descriptionShort">
+            <English>Arm mounted repeating blaster</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_b2_displayName">
+            <English>Twin Wrist Blaster</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_b2_junkyard_displayName">
+            <English>Twin Wrist Blaster (Junkyard)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_b2_magazine_descriptionShort">
+            <English>Caliber: 7.62x39 mw&lt;br/&gt;Rounds: 60&lt;br/&gt;Used in: Twin Wrist Blaster</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_b2_magazine_displayName">
+            <English>Twin Wrist Blaster Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_b2_magazine_scatter_descriptionShort">
+            <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Twin Wrist Blaster Scattergun</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_b2_magazine_scatter_displayName">
+            <English>Twin Wrist Blaster Scatter Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_b2_scatter_displayName">
+            <English>Twin Wrist Blaster Scattergun</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_droideka_descriptionShort">
+            <English>Twin repeating blaster cannons</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_droideka_displayName">
+            <English>Twin Blaster Cannons</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_droideka_magazine_descriptionShort">
+            <English>Caliber: 7.62x51 mw&lt;br/&gt;Rounds: 120&lt;br/&gt;Used in: Twin Blaster Cannons</English>
+        </Key>
+        <Key ID="STR_ls_weapons_wristblaster_droideka_magazine_displayName">
+            <English>Twin Blaster Cannons Energy Cell</English>
+        </Key>
+    </Package>
+</Project>
