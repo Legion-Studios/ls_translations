@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="explosives">
+        <Key ID="STR_ls_explosives_breachCharge_descriptionShort">
+            <English>Used to breach locked doors and walls.&lt;br/&gt;Type: Low-yield breaching charge&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+        </Key>
+        <Key ID="STR_ls_explosives_breachCharge_displayName">
+            <English>Breaching Charge</English>
+        </Key>
+        <Key ID="STR_ls_explosives_caltropDispenser_descriptionShort">
+            <English>Type: Non-lethal caltrop dispenser&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground</English>
+        </Key>
+        <Key ID="STR_ls_explosives_caltropDispenser_displayName">
+            <English>Caltrop Dispenser</English>
+        </Key>
+        <Key ID="STR_ls_explosives_caltrop_descriptionShort">
+            <English>Knocks over units when stepped on.&lt;br/&gt;Type: Non-lethal caltrop&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground</English>
+        </Key>
+        <Key ID="STR_ls_explosives_caltrop_displayName">
+            <English>Caltrop</English>
+        </Key>
+        <Key ID="STR_ls_explosives_demoCharge_descriptionShort">
+            <English>Used to destroy large structural walls.&lt;br/&gt;Type: High-yield explosive&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+        </Key>
+        <Key ID="STR_ls_explosives_demoCharge_displayName">
+            <English>Demolition Charge</English>
+        </Key>
+        <Key ID="STR_ls_explosives_detpack_descriptionShort">
+            <English>Used to disable vehicles.&lt;br/&gt;Type: Medium-yield explosive&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+        </Key>
+        <Key ID="STR_ls_explosives_detpack_displayName">
+            <English>Detonation Pack</English>
+        </Key>
+    </Package>
+</Project>

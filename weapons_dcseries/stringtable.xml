@@ -177,9 +177,9 @@
             <Polish>Wysokoenergetyczne Ogniwo Elektryczne DC-17S</Polish>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_magazine_descriptionShort">
-            <English>Caliber: .45 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: DC-17S</English>
-            <French>Calibre : .45 mW&lt;br/&gt;Charges : 30&lt;br/&gt;Utilisé dans : DC-17S</French>
-            <Polish>Kaliber: .45 mw&lt;br/&gt;Strzały: 30&lt;br/&gt;Używane w: DC-17S</Polish>
+            <English>Caliber: .45 mw&lt;br/&gt;Rounds: 15&lt;br/&gt;Used in: DC-17S</English>
+            <French>Calibre : .45 mW&lt;br/&gt;Charges : 15&lt;br/&gt;Utilisé dans : DC-17S</French>
+            <Polish>Kaliber: .45 mw&lt;br/&gt;Strzały: 15&lt;br/&gt;Używane w: DC-17S</Polish>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc17s_magazine_displayName">
             <English>DC-17S Energy Cell</English>

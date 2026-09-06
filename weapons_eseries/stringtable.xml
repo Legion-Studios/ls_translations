@@ -36,6 +36,12 @@
             <French>Viseur thermique de l'E-11</French>
             <Polish>Celownik Termiczny E-11</Polish>
         </Key>
+        <Key ID="STR_ls_weapons_eseries_e11_scopedThermal_displayName">
+            <English>E-11 (Scoped, Thermal)</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e11_scoped_displayName">
+            <English>E-11 (Scoped)</English>
+        </Key>
         <Key ID="STR_ls_weapons_eseries_e5_displayName">
             <English>E-5</English>
             <French>E-5</French>
@@ -66,6 +72,12 @@
             <French>Missile antiaérien E-60R</French>
             <Polish>Pocisk Przeciwlotniczy E-60R</Polish>
         </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_ap_SACLOS_magazine_descriptionShort">
+            <English>SACLOS Guided Missile&lt;br/&gt;Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_ap_SACLOS_magazine_displayName">
+            <English>E-60R AP Missile (SACLOS)</English>
+        </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_descriptionShort">
             <English>Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
             <French>Type : Antipersonnel&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
@@ -85,6 +97,9 @@
             <English>E-60R AT Missile</English>
             <French>Missile antichar E-60R</French>
             <Polish>Pocisk Przeciwpancerny E-60R</Polish>
+        </Key>
+        <Key ID="STR_ls_weapons_eseries_e60r_displayName">
+            <English>E-60R</English>
         </Key>
         <Key ID="STR_ls_weapons_eseries_universal_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most E-Series Weapons</English>
