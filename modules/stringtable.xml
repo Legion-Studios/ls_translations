@@ -19,6 +19,9 @@
             <Polish>Dodano akcje ponownego rozmieszczenia do obieku</Polish>
             <Russian>Добавлено действие "Переустановки" для объекта</Russian>
         </Key>
+        <Key ID="STR_ls_modules_alreadyRidingATRT">
+            <English>Unit is already riding an AT-RT</English>
+        </Key>
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
             <French>Suppression de %1 groupes locaux vides</French>
@@ -79,6 +82,9 @@
             <Polish>Dodaj akcję ponownego rozmieszczenia</Polish>
             <Russian>Добавить действие "Восстановления"</Russian>
         </Key>
+        <Key ID="STR_ls_modules_moduleAreaHeal_description">
+            <English>Fully heal players that enter the module's area. Checked every 5 seconds.</English>
+        </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal_displayName">
             <English>Area Heal</English>
             <French>Soignez la zone</French>
@@ -99,6 +105,9 @@
         </Key>
         <Key ID="STR_ls_modules_moduleDismountATRT_displayName">
             <English>Dismount AT-RT</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleDroidDispenser_description">
+            <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
         </Key>
         <Key ID="STR_ls_modules_moduleMountATRT_displayName">
             <English>Mount AT-RT</English>
@@ -144,6 +153,12 @@
             <Chinesesimp>放置在一个单位上</Chinesesimp>
             <Turkish>Bir birim yerleştir</Turkish>
             <Hungarian>Semmi sincs az egér alatt</Hungarian>
+        </Key>
+        <Key ID="STR_ls_modules_onlyATRT">
+            <English>Must be placed on an AT-RT</English>
+        </Key>
+        <Key ID="STR_ls_modules_onlyATRTOrRider">
+            <English>Must be placed on an AT-RT or its rider</English>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1573-L1589 -->
         <Key ID="STR_ls_modules_onlyAlive">
