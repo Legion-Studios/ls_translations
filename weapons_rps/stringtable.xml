@@ -13,5 +13,8 @@
         <Key ID="STR_ls_weapons_rps_rps6_magazine_displayName">
             <English>RPS-6 Rocket</English>
         </Key>
+        <Key ID="STR_ls_weapons_rps_rps6_used_displayName">
+            <English>Used RPS-6</English>
+        </Key>
     </Package>
 </Project>

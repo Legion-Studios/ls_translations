@@ -172,5 +172,8 @@
             <English>Standard energy</English>
             <Polish>Standardowa energia</Polish>
         </Key>
+        <Key ID="STR_ls_weapons_usedRocketLauncher">
+            <English>Used Rocket Launcher</English>
+        </Key>
     </Package>
 </Project>
