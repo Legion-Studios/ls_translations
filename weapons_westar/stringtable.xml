@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_westar">
+        <Key ID="STR_ls_weapons_westar_westar35c_displayName">
+            <English>Westar-35C</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35c_magazine_descriptionShort">
+            <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 45&lt;br/&gt;Used in: Westar-35C</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35c_magazine_displayName">
+            <English>Westar-35C Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_displayName">
+            <English>Westar-35S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_magazine_descriptionShort">
+            <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35S</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_magazine_displayName">
+            <English>Westar-35S Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_magazine_scatter_descriptionShort">
+            <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Westar-35S Underbarrel Scattergun</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_magazine_scatter_displayName">
+            <English>Westar-35S Scatter Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_muzzle_suppressor_displayName">
+            <English>Westar-35 Flash Suppressor</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35s_optic_scope_displayName">
+            <English>Westar-35 Holosight</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35sa_displayName">
+            <English>Westar-35SA</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35sa_magazine_descriptionShort">
+            <English>Caliber: .45 mw&lt;br/&gt;Rounds: 17&lt;br/&gt;Used in: Westar-35SA</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35sa_magazine_displayName">
+            <English>Westar-35SA Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35sa_pointer_flashlight_displayName">
+            <English>Westar-35SA Flashlight</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westar35sa_pointer_laser_displayName">
+            <English>Westar-35SA Laser Pointer</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westarM5_displayName">
+            <English>Westar-M5</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westarM5_magazine_descriptionShort">
+            <English>Caliber: 7.62x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Westar-M5</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westarM5_magazine_displayName">
+            <English>Westar-M5 Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westarM5_magazine_lowEnergy_descriptionShort">
+            <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: Westar-M5</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westarM5_magazine_lowEnergy_displayName">
+            <English>Westar-M5 Low Energy Cell</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westarM5_optic_scope_descriptionShort">
+            <English>Blaster scope&lt;br/&gt;Maginification: 2x-4x</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westarM5_optic_scope_displayName">
+            <English>Westar-M5 Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_westar_westarM5_ugl_displayName">
+            <English>Westar-M5 UGL</English>
+        </Key>
+    </Package>
+</Project>

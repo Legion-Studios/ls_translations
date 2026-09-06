@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="grenades">
+        <Key ID="STR_ls_grenades_chemlightOrange_descriptionShort">
+            <English>Type: Light - Orange&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightOrange_displayName">
+            <English>Chemlight (Orange)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_chemlightOrange_displayNameShort">
+            <English>Orange Light</English>
+        </Key>
+        <Key ID="STR_ls_grenades_n20_descriptionShort">
+            <English>Type: Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_n20_displayName">
+            <English>N-20 Baradium Core Detonator</English>
+        </Key>
+        <Key ID="STR_ls_grenades_n20_displayNameShort">
+            <English>N-20 (CTBI)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassA_descriptionShort">
+            <English>Type: High-yield Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassA_displayName">
+            <English>Thermal Detonator (Class A)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassA_displayNameShort">
+            <English>Class A</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassB_descriptionShort">
+            <English>Type: Medium-yield Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassB_displayName">
+            <English>Thermal Detonator (Class B)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassB_displayNameShort">
+            <English>Class B</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassC_descriptionShort">
+            <English>Type: Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassC_displayName">
+            <English>Thermal Detonator (Class C)</English>
+        </Key>
+        <Key ID="STR_ls_grenades_thermalDetClassC_displayNameShort">
+            <English>Class C</English>
+        </Key>
+    </Package>
+</Project>
