@@ -262,7 +262,7 @@
             <English>Vehicle Types</English>
         </Key>
         <Key ID="STR_ls_modules_vehicleTypes_tooltip">
-            <English>Select what types of vehicles to spawn\nHold CTRL and left click to select multiple types\nSelecting a faction will include all vehicles from that faction</English>
+            <English>Select what types of vehicles to spawn\nHold CTRL and left click to select multiple types</English>
         </Key>
         <Key ID="STR_ls_modules_waveSize_label">
             <English>Wave Size</English>
