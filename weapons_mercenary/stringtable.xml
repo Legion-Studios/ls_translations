@@ -3,18 +3,23 @@
     <Package name="weapons_mercenary">
         <Key ID="STR_ls_weapons_mercenary_sniper_displayName">
             <English>Mercenary Sniper Rifle</English>
+            <French>Fusil de précision de mercenaire</French>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_magazine_descriptionShort">
             <English>Caliber: .408 mw&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Mercenary Sniper Rifle</English>
+            <French>Calibre : .408 mW&lt;br/&gt;Charges: 10&lt;br/&gt;Utilisé dans: Fusil de précision de mercenaire</French>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_magazine_displayName">
             <English>Mercenary Sniper Rifle Energy Cell</English>
+            <French>Cellule d'énergie fusil de précision de mercenaire</French>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_optic_sniper_descriptionShort">
             <English>Sniper scope&lt;br/&gt;Maginification: 6x-25x</English>
+            <French>Lunette de fusil de précision&lt;br/&gt;Grossissement: 6x-25x</French>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_optic_sniper_displayName">
             <English>Mercenary Sniper Scope</English>
+            <French>Lunette de fusil de précision de mercenaire</French>
         </Key>
     </Package>
 </Project>
