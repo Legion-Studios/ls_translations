@@ -3,18 +3,23 @@
     <Package name="weapons_valken">
         <Key ID="STR_ls_weapons_valken_valken38x_displayName">
             <English>Valken-38x</English>
+            <French>Valken-38x</French>
         </Key>
         <Key ID="STR_ls_weapons_valken_valken38x_magazine_descriptionShort">
             <English>Caliber: 9.3x64 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Valken-38x</English>
+            <French>Calibre : 9.3x64 mW&lt;br/&gt;Cartouches : 30&lt;br/&gt;Utilisé dans : Valken-38x</French>
         </Key>
         <Key ID="STR_ls_weapons_valken_valken38x_magazine_displayName">
             <English>Valken-38x Energy Cell</English>
+            <French>Cellule énergétique Valken-38x</French>
         </Key>
         <Key ID="STR_ls_weapons_valken_valken38x_optic_scope_descriptionShort">
-            <English>Sniper scope&lt;br/&gt;Maginification: 2.3x-5x</English>
+            <English>Sniper scope&lt;br/&gt;Magnification: 2.3x-5x</English>
+            <French>Lunette de fusil de précision&lt;br/&gt;Grossissement : 2.3x-5x</French>
         </Key>
         <Key ID="STR_ls_weapons_valken_valken38x_optic_scope_displayName">
             <English>Valken-38x Scope</English>
+            <French>Lunette Valken-38x</French>
         </Key>
     </Package>
 </Project>
