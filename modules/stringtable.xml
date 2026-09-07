@@ -64,6 +64,12 @@
             <Polish>Jeśli aktywowane przez wyzwalacz, tworzy zasobnik droidów który spada z nieba. Jednostki zaczynają się pojawiać po wylądowaniu na ziemi i krótkim czasie przerwy.&lt;br/&gt;Zasobnik powoduje obrażenia podczas lądowania</Polish>
             <Russian>При активации триггера спавнит дроппод дроидов в небе. Юниты начнут спавниться через некоторое время после приземления дроппода.&lt;br/&gt;Удар дроппода о землю наносит урон.</Russian>
         </Key>
+        <Key ID="STR_ls_modules_executeCode_label">
+            <English>Execute code</English>
+        </Key>
+        <Key ID="STR_ls_modules_executeCode_waveSpawn_tooltip">
+            <English>Code to run on the server after each wave spawn\nPassed variables are: [_module, _vehicles, _spawnTrigger, _spawnDelay]</English>
+        </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
             <French>Serrure de Porte</French>
