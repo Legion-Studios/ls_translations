@@ -76,11 +76,20 @@
             <Polish>Jakiego statusu blokady drzwi szukać</Polish>
             <Russian>Поиск дверей в закрытом состоянии</Russian>
         </Key>
+        <Key ID="STR_ls_modules_moduleAddReinsertAction_description">
+            <English>Adds the 'Notify Pilots' action from the Reinsert Terminal to the synchronized objects.</English>
+        </Key>
         <Key ID="STR_ls_modules_moduleAddReinsertAction_displayName">
             <English>Add Reinsert Action</English>
             <French>Ajouter une action de réinsertion</French>
             <Polish>Dodaj akcję ponownego rozmieszczenia</Polish>
             <Russian>Добавить действие "Восстановления"</Russian>
+        </Key>
+        <Key ID="STR_ls_modules_moduleAircraftSpawner_description">
+            <English>When activated by a trigger, continuously spawns aircraft in waves near the module's position until all of the synchronized objects are destroyed.</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleAircraftSpawner_displayName">
+            <English>Aircraft Spawner</English>
         </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal_description">
             <English>Fully heal players that enter the module's area. Checked every 5 seconds.</English>
@@ -207,6 +216,12 @@
             <Polish>Średnica obszaru poszukiwania w metrach</Polish>
             <Russian>Радиус поиска в метрах</Russian>
         </Key>
+        <Key ID="STR_ls_modules_spawnDelay_label">
+            <English>Spawn Delay</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnDelay_tooltip">
+            <English>Time between wave spawns</English>
+        </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
             <French>Limite d'apparition</French>
@@ -219,11 +234,41 @@
             <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
             <Russian>Остановка после спавна X юнитов.\n-1 = Без лимита</Russian>
         </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_label">
+            <English>Spawn Trigger</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_tooltip">
+            <English>Select when a new wave should be spawned</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_label">
+            <English>When all units have been destroyed</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_tooltip">
+            <English>Spawn the next wave after all units in the previous wave were destroyed</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_waveSpawn_label">
+            <English>After previous wave</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_waveSpawn_tooltip">
+            <English>Spawn the next wave after the previous wave finishes</English>
+        </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
             <French>Compétences actualisées pour %1</French>
             <Polish>Zaktualizowano umiejętności dla %1</Polish>
             <Russian>Установлены скиллы для %1</Russian>
+        </Key>
+        <Key ID="STR_ls_modules_vehicleTypes_label">
+            <English>Vehicle Types</English>
+        </Key>
+        <Key ID="STR_ls_modules_vehicleTypes_tooltip">
+            <English>Select what types of vehicles to spawn\nHold CTRL and left click to select multiple types\nSelecting a faction will include all vehicles from that faction</English>
+        </Key>
+        <Key ID="STR_ls_modules_waveSize_label">
+            <English>Wave Size</English>
+        </Key>
+        <Key ID="STR_ls_modules_waveSize_tooltip">
+            <English>Number of vehicles spawned in each wave</English>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
