@@ -240,6 +240,12 @@
             <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
             <Russian>Остановка после спавна X юнитов.\n-1 = Без лимита</Russian>
         </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_continious_label">
+            <English>Continious</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_continious_tooltip">
+            <English>Continiously spawn waves</English>
+        </Key>
         <Key ID="STR_ls_modules_spawnTrigger_label">
             <English>Spawn Trigger</English>
         </Key>
@@ -251,12 +257,6 @@
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_tooltip">
             <English>Spawn the next wave after all units in the previous wave were destroyed</English>
-        </Key>
-        <Key ID="STR_ls_modules_spawnTrigger_waveSpawn_label">
-            <English>After previous wave</English>
-        </Key>
-        <Key ID="STR_ls_modules_spawnTrigger_waveSpawn_tooltip">
-            <English>Spawn the next wave after the previous wave finishes</English>
         </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
