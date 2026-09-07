@@ -3,12 +3,15 @@
     <Package name="weapons_rg4d">
         <Key ID="STR_ls_weapons_rg4d_displayName">
             <English>RG-4D</English>
+            <French>RG-4D</French>
         </Key>
         <Key ID="STR_ls_weapons_rg4d_magazine_descriptionShort">
             <English>Caliber: 9 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: RG-4D</English>
+            <French>Calibre : 9 mW&lt;br/&gt;Cartouches : 30&lt;br&gt;Utilisé dans: RG-4D</French>
         </Key>
         <Key ID="STR_ls_weapons_rg4d_magazine_displayName">
             <English>RG-4D Energy Cell</English>
+            <French>Cellule énergétique RG-4D</French>
         </Key>
     </Package>
 </Project>
