@@ -38,12 +38,14 @@
         </Key>
         <Key ID="STR_ls_weapons_zseries_z7_displayName">
             <English>Z-7 Chaingun</English>
+            <French>Canon-mitrailleur Z-7</French>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z7_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 300&lt;br/&gt;Used in: Z-7</English>
         </Key>
         <Key ID="STR_ls_weapons_zseries_z7_magazine_displayName">
             <English>Z-7 Chaingun Energy Cell</English>
+            <French>Cellule énergétique de canon-mitrailleur Z-7</French>
         </Key>
     </Package>
 </Project>
