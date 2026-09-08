@@ -3,18 +3,23 @@
     <Package name="weapons_zh73">
         <Key ID="STR_ls_weapons_zh73_magazine_descriptionShort">
             <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: ZH-73 weapons</English>
+            <French>Calibre : 5.56x45 mW&lt;br/&gt;Cartouches : 100&lt;br/&gt;Utilisé dans : armes ZH-73</French>
         </Key>
         <Key ID="STR_ls_weapons_zh73_magazine_displayname">
             <English>ZH-73 Energy Cell</English>
+            <French>Cellule énergétique de ZH-73</French>
         </Key>
         <Key ID="STR_ls_weapons_zh73_mk1_displayName">
             <English>ZH-73 Mk I</English>
+            <French>ZH-73 Mark I</French>
         </Key>
         <Key ID="STR_ls_weapons_zh73_mk1_optic_scope_descriptionShort">
             <English>Blaster scope&lt;br/&gt;Maginification: 2x-4x</English>
+            <French>Lunette blaster&lt;br/&gt;Grossissement: 2x-4x</French>
         </Key>
         <Key ID="STR_ls_weapons_zh73_mk1_optic_scope_displayName">
             <English>ZH-73 Mk I Scope</English>
+            <French>Lunette de ZH-23 Mark I</French>
         </Key>
     </Package>
 </Project>
