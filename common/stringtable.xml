@@ -320,6 +320,7 @@
         </Key>
         <Key ID="STR_ls_common_instant">
             <English>Instant</English>
+            <French>Instantané</French>
         </Key>
         <Key ID="STR_ls_common_invalidValue">
             <English>Invalid value</English>
