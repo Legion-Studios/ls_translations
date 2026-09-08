@@ -19,6 +19,9 @@
             <Polish>Dodano akcje ponownego rozmieszczenia do obieku</Polish>
             <Russian>Добавлено действие "Переустановки" для объекта</Russian>
         </Key>
+        <Key ID="STR_ls_modules_alreadyRidingATRT">
+            <English>Unit is already riding an AT-RT</English>
+        </Key>
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
             <French>Suppression de %1 groupes locaux vides</French>
@@ -61,6 +64,12 @@
             <Polish>Jeśli aktywowane przez wyzwalacz, tworzy zasobnik droidów który spada z nieba. Jednostki zaczynają się pojawiać po wylądowaniu na ziemi i krótkim czasie przerwy.&lt;br/&gt;Zasobnik powoduje obrażenia podczas lądowania</Polish>
             <Russian>При активации триггера спавнит дроппод дроидов в небе. Юниты начнут спавниться через некоторое время после приземления дроппода.&lt;br/&gt;Удар дроппода о землю наносит урон.</Russian>
         </Key>
+        <Key ID="STR_ls_modules_executeCode_label">
+            <English>Execute code</English>
+        </Key>
+        <Key ID="STR_ls_modules_executeCode_waveSpawn_tooltip">
+            <English>Code to run on the server after each wave spawn\nPassed variables are: [_module, _vehicles, _spawnTrigger, _spawnDelay]</English>
+        </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
             <French>Serrure de Porte</French>
@@ -73,37 +82,58 @@
             <Polish>Jakiego statusu blokady drzwi szukać</Polish>
             <Russian>Поиск дверей в закрытом состоянии</Russian>
         </Key>
-        <Key ID="STR_ls_modules_moduleAddReinsertAction">
+        <Key ID="STR_ls_modules_moduleAddReinsertAction_description">
+            <English>Adds the 'Notify Pilots' action from the Reinsert Terminal to the synchronized objects.</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleAddReinsertAction_displayName">
             <English>Add Reinsert Action</English>
             <French>Ajouter une action de réinsertion</French>
             <Polish>Dodaj akcję ponownego rozmieszczenia</Polish>
             <Russian>Добавить действие "Восстановления"</Russian>
         </Key>
-        <Key ID="STR_ls_modules_moduleAreaHeal">
+        <Key ID="STR_ls_modules_moduleAircraftSpawner_description">
+            <English>When activated by a trigger, continuously spawns aircraft in waves near the module's position until all of the synchronized objects are destroyed.</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleAircraftSpawner_displayName">
+            <English>Aircraft Spawner</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleAreaHeal_description">
+            <English>Fully heal players that enter the module's area. Checked every 5 seconds.</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleAreaHeal_displayName">
             <English>Area Heal</English>
             <French>Soignez la zone</French>
             <Polish>Leczenie w obszarze</Polish>
             <Russian>Зона лечения</Russian>
         </Key>
-        <Key ID="STR_ls_modules_moduleBreachDoor">
+        <Key ID="STR_ls_modules_moduleBreachDoor_displayName">
             <English>Breach Door</English>
             <French>Forcer la porte</French>
             <Polish>Wyważ Drzwi</Polish>
             <Russian>Взломать дверь</Russian>
         </Key>
-        <Key ID="STR_ls_modules_moduleDeleteGroups">
+        <Key ID="STR_ls_modules_moduleDeleteGroups_displayName">
             <English>Delete Empty Groups</English>
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
             <Russian>Удалить пустые группы</Russian>
         </Key>
-        <Key ID="STR_ls_modules_moduleSetSkills">
+        <Key ID="STR_ls_modules_moduleDismountATRT_displayName">
+            <English>Dismount AT-RT</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleDroidDispenser_description">
+            <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleMountATRT_displayName">
+            <English>Mount AT-RT</English>
+        </Key>
+        <Key ID="STR_ls_modules_moduleSetSkills_displayName">
             <English>Set Skills</English>
             <French>Définir les compétences</French>
             <Polish>Ustaw Umiejętności</Polish>
             <Russian>Установить навыки</Russian>
         </Key>
-        <Key ID="STR_ls_modules_moduleToggleCamo">
+        <Key ID="STR_ls_modules_moduleToggleCamo_displayName">
             <English>Toggle Active Camo</English>
             <French>Basculé Camouflage Actif</French>
             <Polish>Zmień Stan kamuflażu Optycznego</Polish>
@@ -138,6 +168,12 @@
             <Chinesesimp>放置在一个单位上</Chinesesimp>
             <Turkish>Bir birim yerleştir</Turkish>
             <Hungarian>Semmi sincs az egér alatt</Hungarian>
+        </Key>
+        <Key ID="STR_ls_modules_onlyATRT">
+            <English>Must be placed on an AT-RT</English>
+        </Key>
+        <Key ID="STR_ls_modules_onlyATRTOrRider">
+            <English>Must be placed on an AT-RT or its rider</English>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1573-L1589 -->
         <Key ID="STR_ls_modules_onlyAlive">
@@ -186,6 +222,12 @@
             <Polish>Średnica obszaru poszukiwania w metrach</Polish>
             <Russian>Радиус поиска в метрах</Russian>
         </Key>
+        <Key ID="STR_ls_modules_spawnDelay_label">
+            <English>Spawn Delay</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnDelay_tooltip">
+            <English>Time between wave spawns</English>
+        </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
             <French>Limite d'apparition</French>
@@ -198,11 +240,41 @@
             <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
             <Russian>Остановка после спавна X юнитов.\n-1 = Без лимита</Russian>
         </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_continious_label">
+            <English>Continious</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_continious_tooltip">
+            <English>Continiously spawn waves</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_label">
+            <English>Spawn Trigger</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_tooltip">
+            <English>Select when a new wave should be spawned</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_label">
+            <English>When all units have been destroyed</English>
+        </Key>
+        <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_tooltip">
+            <English>Spawn the next wave after all units in the previous wave were destroyed</English>
+        </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
             <French>Compétences actualisées pour %1</French>
             <Polish>Zaktualizowano umiejętności dla %1</Polish>
             <Russian>Установлены скиллы для %1</Russian>
+        </Key>
+        <Key ID="STR_ls_modules_vehicleTypes_label">
+            <English>Vehicle Types</English>
+        </Key>
+        <Key ID="STR_ls_modules_vehicleTypes_tooltip">
+            <English>Select what types of vehicles to spawn\nHold CTRL and left click to select multiple types</English>
+        </Key>
+        <Key ID="STR_ls_modules_waveSize_label">
+            <English>Wave Size</English>
+        </Key>
+        <Key ID="STR_ls_modules_waveSize_tooltip">
+            <English>Number of vehicles spawned in each wave</English>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
