@@ -3,48 +3,62 @@
     <Package name="grenades">
         <Key ID="STR_ls_grenades_chemlightOrange_descriptionShort">
             <English>Type: Light - Orange&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+            <French>Type : Lumière - orange&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : main</French>
         </Key>
         <Key ID="STR_ls_grenades_chemlightOrange_displayName">
             <English>Chemlight (Orange)</English>
+            <French>Lampe chimique (orange)</French>
         </Key>
         <Key ID="STR_ls_grenades_chemlightOrange_displayNameShort">
             <English>Orange Light</English>
+            <French>Lumière orange</French>
         </Key>
         <Key ID="STR_ls_grenades_n20_descriptionShort">
             <English>Type: Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+            <French>Type : Grenade défensive&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : main</French>
         </Key>
         <Key ID="STR_ls_grenades_n20_displayName">
             <English>N-20 Baradium Core Detonator</English>
+            <French>Détonateur a coeur de baradium N-20</French>
         </Key>
         <Key ID="STR_ls_grenades_n20_displayNameShort">
             <English>N-20 (CTBI)</English>
+            <French>N-20 (CTBI)</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassA_descriptionShort">
             <English>Type: High-yield Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+            <French>Type : Grenade défensive à forte puissance&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : main</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassA_displayName">
             <English>Thermal Detonator (Class A)</English>
+            <French>Détonateur thermique (classe A)</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassA_displayNameShort">
             <English>Class A</English>
+            <French>Classe A</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassB_descriptionShort">
             <English>Type: Medium-yield Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassB_displayName">
             <English>Thermal Detonator (Class B)</English>
+            <French>Détonateur thermique (classe B)</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassB_displayNameShort">
             <English>Class B</English>
+            <French>Classe B</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassC_descriptionShort">
             <English>Type: Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+            <French>Type : Grenade défensive&lt;br/&gt;Charges 1&lt;br/&gt;Utilisé dans : main</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassC_displayName">
             <English>Thermal Detonator (Class C)</English>
+            <French>Détonateur thermique (classe c)</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassC_displayNameShort">
             <English>Class C</English>
+            <French>Classe C</French>
         </Key>
     </Package>
 </Project>
