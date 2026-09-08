@@ -3,18 +3,23 @@
     <Package name="weapons_rps">
         <Key ID="STR_ls_weapons_rps_rps6_displayName">
             <English>RPS-6</English>
+            <German>RPS-6</German>
         </Key>
         <Key ID="STR_ls_weapons_rps_rps6_disposable_displayName">
             <English>RPS-6 (Disposable)</English>
+            <German>RPS-6 (Einweg)</German>
         </Key>
         <Key ID="STR_ls_weapons_rps_rps6_magazine_descriptionShort">
             <English>Type: RPS-6 rocket&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: RPS-6</English>
+            <German>Typ: RPS-6 Rakete&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet in: RPS-6</English>
         </Key>
         <Key ID="STR_ls_weapons_rps_rps6_magazine_displayName">
             <English>RPS-6 Rocket</English>
+            <German>RPS-6 Rakete</German>
         </Key>
         <Key ID="STR_ls_weapons_rps_rps6_used_displayName">
             <English>Used RPS-6</English>
+            <German>Benutzter RPS-6</German>
         </Key>
     </Package>
 </Project>

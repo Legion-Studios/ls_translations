@@ -3,39 +3,51 @@
     <Package name="weapons_wristblaster">
         <Key ID="STR_ls_weapons_wristblaster_b2_descriptionShort">
             <English>Arm mounted repeating blaster</English>
+            <German>am Arm montierter Repetierblaster</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_displayName">
             <English>Twin Wrist Blaster</English>
+            <German>Doppelhandgelenksblaster</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_junkyard_displayName">
             <English>Twin Wrist Blaster (Junkyard)</English>
+            <German>Doppelhandgelenksblaster (Schrottplatz)</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_descriptionShort">
             <English>Caliber: 7.62x39 mw&lt;br/&gt;Rounds: 60&lt;br/&gt;Used in: Twin Wrist Blaster</English>
+            <German>Kaliber: 7.62x39 mW&lt;br/&gt;Patronen: 60&lt;br/&gt;Verwendet in: Doppelhandgelenksblaster</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_displayName">
             <English>Twin Wrist Blaster Energy Cell</English>
+            <German>Doppelhandgelenksblasterenergiezelle</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_scatter_descriptionShort">
             <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Twin Wrist Blaster Scattergun</English>
+            <German>Kaliber:Kaliber 12&lt;br/&gt;Patronen: 10&lt;br/&gt;Verwendet in Doppelhandgelenksschrotblaster</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_scatter_displayName">
             <English>Twin Wrist Blaster Scatter Energy Cell</English>
+            <German>Doppelhandgelenksschrotblasterenergiezelle</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_scatter_displayName">
             <English>Twin Wrist Blaster Scattergun</English>
+            <German>Doppelhandgelenksschrotblaster</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_descriptionShort">
             <English>Twin repeating blaster cannons</English>
+            <German>Doppelrepetierblasterkanone</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_displayName">
             <English>Twin Blaster Cannons</English>
+            <German>Doppelblasterkanone</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_magazine_descriptionShort">
             <English>Caliber: 7.62x51 mw&lt;br/&gt;Rounds: 120&lt;br/&gt;Used in: Twin Blaster Cannons</English>
+            <German>Kaliber: 7.62x51 mW&lt;br/&gt;Patronen: 120&lt;br/&gt;Verwendet in: Doppelblasterkanone</German>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_magazine_displayName">
             <English>Twin Blaster Cannons Energy Cell</English>
+            <German>Doppelblasterkanonenenergiezelle</German>
         </Key>
     </Package>
 </Project>

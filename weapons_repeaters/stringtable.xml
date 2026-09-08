@@ -3,39 +3,51 @@
     <Package name="weapons_repeaters">
         <Key ID="STR_ls_weapons_repeaters_acpa_descriptionShort">
             <English>Accelerated Charged Particle Array Gun&lt;br/&gt;Slugthrower</English>
+            <German>Ladungsbeschleunigerbündelblaster&lt;br/&gt;Projektilwerfer</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_acpa_displayName">
             <English>ACP-A</English>
+            <German>ACP-A</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_acpa_magazine_descriptionShort">
             <English>Type: Scatter slugs&lt;br/&gt;Caliber: 12 Gauge&lt;br/&gt;Rounds: 8&lt;br/&gt;Used in: ACP-A</English>
+            <German>Typ: Schrotprojektile&lt;br/&gt;Kaliber: Kaliber 12&lt;br&gt;Patronen: 8&lt;br/&gt;Verwendet in: ACP-A</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_acpa_magazine_displayName">
             <English>ACP-A Cartridge</English>
+            <German>ACP-A Patrone</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_acpr_descriptionShort">
             <English>Accelerated Charged Particle Repeater Gun&lt;br/&gt;Slugthrower</English>
+            <German>Ladungsbeschleunigerbündelblaster&lt;br/&gt;Projektilwerfer</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_acpr_displayName">
             <English>ACP-R</English>
+            <German>ACP-R</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_acpr_magazine_descriptionShort">
             <English>Type: Slug&lt;br/&gt;Caliber: 5.56x45 mm&lt;br/&gt;Rounds: 40&lt;br/&gt;Used in: ACP-R</English>
+            <German>Typ: Laufgeschoss&lt;br/&gt;Kaliber: 5.56x45 mm&lt;br/&gt;Patronen: 40 &lt;br/&gt;Verwendet in: ACP-R</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_acpr_magazine_displayName">
             <English>ACP-R Cartridge</English>
+            <German>ACP-R Patrone</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_ls150_descriptionShort">
             <English>Heavy Array Charged Particle Repeater Gun</English>
+            <German>Schwerer Ladungsbeschleunigerbündelrepetierblaster</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_ls150_displayName">
             <English>LS-150 Heavy ACP Repeater</English>
+            <German>LS-150 Schwerer ACP Repetierer</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_ls150_magazine_descriptionShort">
             <English>Type: Slug&lt;br/&gt;Caliber: 9.3x64 mm&lt;br/&gt;Rounds: 500&lt;br/&gt;Used in: LS-150</English>
+            <German>Typ: Laufgeschoss&lt;br/&gt;Kaliber: 9.3x64 mm&lt;br/&gt;Patronen 500&lt;br/&gt;Verwendet in: LS-150</German>
         </Key>
         <Key ID="STR_ls_weapons_repeaters_ls150_magazine_displayName">
             <English>LS-150 Belt</English>
+            <German>LS-150 Munitionsgürtel</German>
         </Key>
     </Package>
 </Project>
