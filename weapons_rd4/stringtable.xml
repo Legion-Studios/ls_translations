@@ -7,7 +7,7 @@
         </Key>
         <Key ID="STR_ls_weapons_rd4_magazine_descriptionShort">
             <English>Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: RD-4</English>
-            <French>Calibre : 40 mm&lt;br/&gt;Cartouches : 3&lt;br/&gt;Utilisé dans : RD-4</French>
+            <French>Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : RD-4</French>
         </Key>
         <Key ID="STR_ls_weapons_rd4_magazine_displayName">
             <English>RD-4 Radiation Canister</English>

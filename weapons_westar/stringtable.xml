@@ -7,7 +7,7 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35c_magazine_descriptionShort">
             <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 45&lt;br/&gt;Used in: Westar-35C</English>
-            <French>Calibre : 5.56x45 mW&lt;br/&gt;Cartouches : 45&lt;br/&gt;Utilisé dans : Westar-35C</French>
+            <French>Calibre : 5.56x45 mW&lt;br/&gt;Charges : 45&lt;br/&gt;Utilisé dans : Westar-35C</French>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35c_magazine_displayName">
             <English>Westar-35C Energy Cell</English>
@@ -19,7 +19,7 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35S</English>
-            <French>Calibre : 6.5x39 mW&lt;br/&gt;Cartouches : 35&lt;br/&gt;Utilisé dans : Westar-35S</French>
+            <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges : 35&lt;br/&gt;Utilisé dans : Westar-35S</French>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_displayName">
             <English>Westar-35S Energy Cell</English>
@@ -27,7 +27,7 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_scatter_descriptionShort">
             <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Westar-35S Underbarrel Scattergun</English>
-            <French>Calibre : 12&lt;br/&gt;Cartouches : 10&lt;br/&gt;Utilisé dans : Disperseur sous-canon de Westar-35S</French>
+            <French>Calibre : 12&lt;br/&gt;Charges : 10&lt;br/&gt;Utilisé dans : Disperseur sous-canon de Westar-35S</French>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_scatter_displayName">
             <English>Westar-35S Scatter Energy Cell</English>
@@ -47,7 +47,7 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_magazine_descriptionShort">
             <English>Caliber: .45 mw&lt;br/&gt;Rounds: 17&lt;br/&gt;Used in: Westar-35SA</English>
-            <French>Calibre : .45 mW&lt;br/&gt;Cartouches: 17&lt;br/&gt;Utilisé dans : Westar-35SA</French>
+            <French>Calibre : .45 mW&lt;br/&gt;Charges: 17&lt;br/&gt;Utilisé dans : Westar-35SA</French>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_magazine_displayName">
             <English>Westar-35SA Energy Cell</English>
@@ -67,7 +67,7 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_magazine_descriptionShort">
             <English>Caliber: 7.62x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Westar-M5</English>
-            <French>Calibre : 7.62x39 mW&lt;br/&gt;Cartouches : 30&lt;br/&gt;Utilisé dans : Westar-M5</French>
+            <French>Calibre : 7.62x39 mW&lt;br/&gt;Charges : 30&lt;br/&gt;Utilisé dans : Westar-M5</French>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_magazine_displayName">
             <English>Westar-M5 Energy Cell</English>
@@ -75,7 +75,7 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_magazine_lowEnergy_descriptionShort">
             <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: Westar-M5</English>
-            <French>Calibre : 5.56x45 mW&lt;br/&gt;Cartouches : 100&lt;br/&gt;Utilisé dans : Westar-M5</French>
+            <French>Calibre : 5.56x45 mW&lt;br/&gt;Charges : 100&lt;br/&gt;Utilisé dans : Westar-M5</French>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_magazine_lowEnergy_displayName">
             <English>Westar-M5 Low Energy Cell</English>

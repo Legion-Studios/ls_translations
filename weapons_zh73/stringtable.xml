@@ -3,7 +3,7 @@
     <Package name="weapons_zh73">
         <Key ID="STR_ls_weapons_zh73_magazine_descriptionShort">
             <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: ZH-73 weapons</English>
-            <French>Calibre : 5.56x45 mW&lt;br/&gt;Cartouches : 100&lt;br/&gt;Utilisé dans : armes ZH-73</French>
+            <French>Calibre : 5.56x45 mW&lt;br/&gt;Charges : 100&lt;br/&gt;Utilisé dans : armes ZH-73</French>
         </Key>
         <Key ID="STR_ls_weapons_zh73_magazine_displayname">
             <English>ZH-73 Energy Cell</English>

@@ -3,7 +3,7 @@
     <Package name="weapons_plx">
         <Key ID="STR_ls_weapons_plx_plx1_aa_magazine_descriptionShort">
             <English>Type: Anti-Air&lt;br/&gt;Rounds: 2&lt;br/&gt;Used in: PLX-1</English>
-            <French>Type : Anti-Air&lt;br/&gt;Cartouches : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
+            <French>Type : Anti-Air&lt;br/&gt;Charges : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_aa_magazine_displayName">
             <English>PLX-1 AA Missile</English>
@@ -11,7 +11,7 @@
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_ap_SACLOS_magazine_descriptionShort">
             <English>SACLOS Guided Missile&lt;br/&gt;Type: Anti-Personnel&lt;br/&gt;Rounds: 2&lt;br/&gt;Used in: PLX-1</English>
-            <French>Missile guidé SACLOS&lt;br/&gt;Type : Anti-personnel&lt;br/&gt;Cartouches : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
+            <French>Missile guidé SACLOS&lt;br/&gt;Type : Anti-personnel&lt;br/&gt;Charges : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_ap_SACLOS_magazine_displayName">
             <English>PLX-1 AP Missile (SACLOS)</English>
@@ -19,7 +19,7 @@
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_ap_magazine_descriptionShort">
             <English>Type: Anti-Personnel&lt;br/&gt;Rounds: 2&lt;br/&gt;Used in: PLX-1</English>
-            <French>Type : Anti-personnel&lt;br/&gt;Cartouches : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
+            <French>Type : Anti-personnel&lt;br/&gt;Charges : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_ap_magazine_displayName">
             <English>PLX-1 AP Missile</English>
@@ -27,7 +27,7 @@
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_at_magazine_descriptionShort">
             <English>Type: Anti-Tank&lt;br/&gt;Rounds: 2&lt;br/&gt;Used in: PLX-1</English>
-            <French>Type : Anti-char&lt;br/&gt;Cartouches : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
+            <French>Type : Anti-char&lt;br/&gt;Charges : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_at_magazine_displayName">
             <English>PLX-1 AT Missile</English>

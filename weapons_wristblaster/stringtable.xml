@@ -15,7 +15,7 @@
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_descriptionShort">
             <English>Caliber: 7.62x39 mw&lt;br/&gt;Rounds: 60&lt;br/&gt;Used in: Twin Wrist Blaster</English>
-            <French>Calibre : 7.62x39 mW&lt;br/&gt;Cartouches : 60&lt;br/&gt;Utilisé dans : Double blaster de poignet</French>
+            <French>Calibre : 7.62x39 mW&lt;br/&gt;Charges : 60&lt;br/&gt;Utilisé dans : Double blaster de poignet</French>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_displayName">
             <English>Twin Wrist Blaster Energy Cell</English>
@@ -23,7 +23,7 @@
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_scatter_descriptionShort">
             <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Twin Wrist Blaster Scattergun</English>
-            <French>Calibre : 12&lt;br/&gt;Cartouches : 10&lt;br/&gt;Utilisé dans : Disperseur de double blaster de poignet</French>
+            <French>Calibre : 12&lt;br/&gt;Charges : 10&lt;br/&gt;Utilisé dans : Disperseur de double blaster de poignet</French>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_scatter_displayName">
             <English>Twin Wrist Blaster Scatter Energy Cell</English>
@@ -43,7 +43,7 @@
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_magazine_descriptionShort">
             <English>Caliber: 7.62x51 mw&lt;br/&gt;Rounds: 120&lt;br/&gt;Used in: Twin Blaster Cannons</English>
-            <French>Calibre : 7.62x51 mW&lt;br/&gt;Cartouches : 120&lt;br/&gt;Utilisé dans : Canons blaster jumelés</French>
+            <French>Calibre : 7.62x51 mW&lt;br/&gt;Charges : 120&lt;br/&gt;Utilisé dans : Canons blaster jumelés</French>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_magazine_displayName">
             <English>Twin Blaster Cannons Energy Cell</English>

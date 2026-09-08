@@ -11,7 +11,7 @@
         </Key>
         <Key ID="STR_ls_weapons_rps_rps6_magazine_descriptionShort">
             <English>Type: RPS-6 rocket&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: RPS-6</English>
-            <French>Type : Roquette RPS-6&lt;br/&gt;Cartouches : 1&lt;br/&gt; Utilisé dans : RPS-6</French>
+            <French>Type : Roquette RPS-6&lt;br/&gt;Charges : 1&lt;br/&gt; Utilisé dans : RPS-6</French>
         </Key>
         <Key ID="STR_ls_weapons_rps_rps6_magazine_displayName">
             <English>RPS-6 Rocket</English>
