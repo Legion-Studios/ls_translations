@@ -55,7 +55,7 @@
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_noGroup">
             <English>No group selected!</English>
-            <French>Groupe non sélectionné!</French>
+            <French>Aucun groupe sélectionné !</French>
             <Polish>Nie wybrano grupy!</Polish>
             <Russian>Никакая группа не выбрана!</Russian>
         </Key>
@@ -151,7 +151,7 @@
         </Key>
         <Key ID="STR_ls_modules_noClosedDoorFound">
             <English>No closed door found!</English>
-            <French>Aucune porte fermée trouvée!</French>
+            <French>Aucune porte fermée trouvée !</French>
             <Polish>Nie znaleziono zamkniętych drzwi!</Polish>
             <Russian>Закрытые двери не найдены!</Russian>
         </Key>
