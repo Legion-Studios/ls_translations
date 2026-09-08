@@ -19,7 +19,7 @@
         </Key>
         <Key ID="STR_ls_grenades_n20_displayName">
             <English>N-20 Baradium Core Detonator</English>
-            <French>Détonateur a coeur de baradium N-20</French>
+            <French>Détonateur à coeur de baradium N-20</French>
         </Key>
         <Key ID="STR_ls_grenades_n20_displayNameShort">
             <English>N-20 (CTBI)</English>
@@ -39,6 +39,7 @@
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassB_descriptionShort">
             <English>Type: Medium-yield Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
+            <French>Type : Grenade défensive à moyenne puissance&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : main</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassB_displayName">
             <English>Thermal Detonator (Class B)</English>
@@ -50,7 +51,7 @@
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassC_descriptionShort">
             <English>Type: Defensive Grenade&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: Hand</English>
-            <French>Type : Grenade défensive&lt;br/&gt;Charges 1&lt;br/&gt;Utilisé dans : main</French>
+            <French>Type : Grenade défensive&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : main</French>
         </Key>
         <Key ID="STR_ls_grenades_thermalDetClassC_displayName">
             <English>Thermal Detonator (Class C)</English>
