@@ -5,21 +5,25 @@
             <English>AT-RT</English>
             <French>AT-RT</French>
             <Polish>AT-RT</Polish>
+            <German>AT-RT</German>
         </Key>
         <Key ID="STR_ls_vehicles_atrt_flamethrower_displayName">
             <English>AT-RT (Flamethrower)</English>
             <French>AT-RT (Lance-Flamme)</French>
             <Polish>AT-RT (Miotacz Ognia)</Polish>
+            <German>AT-RT (Flammenwerfer)</German>
         </Key>
         <Key ID="STR_ls_vehicles_atrt_rotaryBlaster_displayName">
             <English>AT-RT (Z-6)</English>
             <French>AT-RT (Z-6)</French>
             <Polish>AT-RT (Z-6)</Polish>
+            <German>AT-RT (Z-6)</German>
         </Key>
         <Key ID="STR_ls_vehicles_atrt_uniform_displayName">
             <English>AT-RT Chassis</English>
             <French>Châssis d'AT-RT</French>
             <Polish>Kadłub AT-RT</Polish>
+            <German>AT-RT Karosserie</German>
         </Key>
     </Package>
 </Project>

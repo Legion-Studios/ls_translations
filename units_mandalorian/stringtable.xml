@@ -6,18 +6,21 @@
             <French>Guerrier</French>
             <Polish>Wojownik</Polish>
             <Russian>Воин</Russian>
+            <German>Krieger</German>
         </Key>
         <Key ID="STR_ls_units_mandalorian_warrior_at">
             <English>Warrior (AT)</English>
             <French>Guerrier (AC)</French>
             <Polish>Wojownik (Przeciwpancerny)</Polish>
             <Russian>Воин(АТ)</Russian>
+            <German>Krieger (PA)</German>
         </Key>
         <Key ID="STR_ls_units_mandalorian_warrior_heavy">
             <English>Heavy Warrior</English>
             <French>Guerrier Lourd</French>
             <Polish>Ciężki Wojownik</Polish>
             <Russian>Воин-Джаггернаут</Russian>
+            <German>Schwerer Krieger</German>
         </Key>
     </Package>
 </Project>

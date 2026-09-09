@@ -6,162 +6,189 @@
             <French>Acceptation</French>
             <Polish>Akceptacja</Polish>
             <Russian>Согласие</Russian>
+            <German>Akzeptieren</German>
         </Key>
         <Key ID="STR_ls_props_blank">
             <English>Blank</English>
             <French>Vierge</French>
             <Polish>Pusty</Polish>
             <Russian>Пустой</Russian>
+            <German>Leer</German>
         </Key>
         <Key ID="STR_ls_props_bloodPools">
             <English>Blood Pools</English>
             <French>Mare de sang</French>
             <Polish>Kałuże Krwi</Polish>
             <Russian>Лужи Крови</Russian>
+            <German>Blutpfütze</German>
         </Key>
         <Key ID="STR_ls_props_bsod">
             <English>Blue Screen</English>
             <French>Écran bleu</French>
             <Polish>Niebieski Ekran</Polish>
             <Russian>Синий экран</Russian>
+            <German>Bluescreen</German>
         </Key>
         <Key ID="STR_ls_props_commandPosts">
             <English>Command Posts</English>
             <French>Postes de commandement</French>
             <Polish>Punkt Dowodzenia</Polish>
             <Russian>Командные Посты</Russian>
+            <German>Befehlsstände</German>
         </Key>
         <Key ID="STR_ls_props_crash">
             <English>Crash</English>
             <French>Crash</French>
             <Polish>Awaria</Polish>
             <Russian>Авария</Russian>
+            <German>Zusammenstoß</German>
         </Key>
         <Key ID="STR_ls_props_ironmouse">
             <English>Ironmouse</English>
             <French>Ironmouse</French>
             <Polish>Ironmouse</Polish>
             <Russian>Дроид-мышь</Russian>
+            <German>Ironmouse</German>
         </Key>
         <Key ID="STR_ls_props_resupply_cis_droid">
             <English>CIS Droid Resupply</English>
             <French>Ravitaillement CSI Droïde</French>
             <Polish>Punkt zaopatrzenia CIS</Polish>
             <Russian>Ящик пополнения дроидов</Russian>
+            <German>KUS Droidennachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_cis_e60r">
             <English>CIS E60-R Resupply</English>
             <French>Ravitaillement CSI E60-R</French>
             <Polish>Zaopatrzenie E60-R</Polish>
             <Russian>Ящик пополнения E60-R</Russian>
+            <German>KUS E60-R Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_empty">
             <English>Empty Resupply Box</English>
             <French>Caisse de ravitaillement vide</French>
             <Polish>Pusta Skrzynia z Zaopatrzeniem</Polish>
             <Russian>Пустой ящик пополнения</Russian>
+            <German>Leere Nachschubbox</German>
         </Key>
         <Key ID="STR_ls_props_resupply_eod">
             <English>EOD Resupply</English>
             <French>Ravitaillement EOD</French>
             <Polish>Zaopatrzenie Saperskie</Polish>
             <Russian>Ящик пополнения саперов</Russian>
+            <German>KRD Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_assault">
             <English>Republic Assault Resupply</English>
             <French>Ravitaillement républicain d'assaut</French>
             <Polish>Zaopatrzenie Szturmowe Republiki</Polish>
             <Russian>Штурмовой ящик пополнения</Russian>
+            <German>Republikanischer Sturm-Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_commando">
             <English>Republic Commando Resupply</English>
             <French>Ravitaillement républicain Commando</French>
             <Polish>Zaopatrzenie Komandosów Republiki</Polish>
             <Russian>Ящик пополнения Республиканских Коммандос</Russian>
+            <German>Republikanischer Kommando-Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_dc15a">
             <English>Republic DC-15A Resupply</English>
             <French>Ravitaillement républicain DC-15A</French>
             <Polish>Zaopatrzenie DC-15A Republiki</Polish>
             <Russian>Ящик пополнения DC-15A</Russian>
+            <German>Republikanischer DC-15A Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_dc15s">
             <English>Republic DC-15S Resupply</English>
             <French>Ravitaillement républicain DC-15S</French>
             <Polish>Zaopatrzenie DC-15S Republiki</Polish>
             <Russian>Ящик пополнения DC-15S</Russian>
+            <German>Republikanischer DC-15S Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_general">
             <English>Republic Resupply</English>
             <French>Ravitaillement républicain</French>
             <Polish>Zaopatrzenie Republiki</Polish>
             <Russian>Ящик пополнения Республики</Russian>
+            <German>Republikanischer Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_grenade">
             <English>Republic Grenade Resupply</English>
             <French>Ravitaillement républicain grenade</French>
             <Polish>Zaopatrzenie Granatów Republiki</Polish>
             <Russian>Ящик пополнения гранатами</Russian>
+            <German>Republikanischer Granatennachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_plx1">
             <English>Republic PLX-1 Resupply</English>
             <French>Ravitaillement républicain PLX-1</French>
             <Polish>Zaopatrzenie PLX-1 Republiki</Polish>
             <Russian>Ящик пополнения PLX-1</Russian>
+            <German>Republikanischer PLX-1 Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_rocket">
             <English>Republic Rocket Resupply</English>
             <French>Ravitaillement républicain roquette</French>
             <Polish>Zaopatrzenie Rakietowe Republiki</Polish>
             <Russian>Ящик пополнения ракетами</Russian>
+            <German>Republikanischer Raketennachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_rps6">
             <English>Republic RPS-6 Resupply</English>
             <French>Ravitaillement républicain RPS-6</French>
             <Polish>Zaopatrzenie RPS-6 Republiki</Polish>
             <Russian>Ящик пополнения RPS-6</Russian>
+            <German>Republikanischer RPS-6 Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_specOps">
             <English>Republic Special Operations Resupply</English>
             <French>Ravitaillement républicain opérations spéciales</French>
             <Polish>Zaopatrzenie Sił Specjalnych Republiki</Polish>
             <Russian>Ящик пополнения ССО Республики</Russian>
+            <German>Republikanischer Spezialeinheitennachschub</German>
         </Key>
         <Key ID="STR_ls_props_resupply_republic_z6">
             <English>Republic Z-6 Resupply</English>
             <French>Ravitaillement républicain Z-6</French>
             <Polish>Zaopatrzenie Z-6 Republiki</Polish>
             <Russian>Ящик пополнения Z-6</Russian>
+            <German>Republikanischer Z-6 Nachschub</German>
         </Key>
         <Key ID="STR_ls_props_terminal">
             <English>Terminal</English>
             <French>Terminal</French>
             <Polish>Terminal</Polish>
             <Russian>Терминал</Russian>
+            <German>Terminal</German>
         </Key>
         <Key ID="STR_ls_props_terminal_01">
             <English>Terminal 01</English>
             <French>Terminal 01</French>
             <Polish>Terminal 01</Polish>
             <Russian>Терминал 01</Russian>
+            <German>Terminal 01</German>
         </Key>
         <Key ID="STR_ls_props_terminal_reinsert">
             <English>Reinsert Terminal</English>
             <French>Réinsérer terminal</French>
             <Polish>Terminal Ponownego Rozmieszczenia</Polish>
             <Russian>Терминал пополнения</Russian>
+            <German>Wiedereinsatz-Terminal</German>
         </Key>
         <Key ID="STR_ls_props_terminals">
             <English>Terminals</English>
             <French>Terminaux</French>
             <Polish>Terminale</Polish>
             <Russian>Терминалы</Russian>
+            <German>Terminals</German>
         </Key>
         <Key ID="STR_ls_props_windowsXp">
             <English>Windows XP</English>
             <French>Windows XP</French>
             <Polish>Windows XP</Polish>
             <Russian>Windows XP</Russian>
+            <German>Windows XP</German>
         </Key>
     </Package>
 </Project>
