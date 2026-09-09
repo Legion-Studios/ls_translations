@@ -219,19 +219,19 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase1_visor">
             <English>Clone phase 1 Visor</English>
-            <French>visière de clone phase 1</French>
+            <French>Visière de clone phase 1</French>
             <Polish>Wizjer Żołnierza Klona Fazy 1</Polish>
             <Russian>Вищор солдат-клона фазы 1</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_commander_visor">
             <English>Clone Phase 2 Commander Visor</English>
-            <French>visière de commandant clone phase 2</French>
+            <French>Visière de commandant clone phase 2</French>
             <Polish>Wizjer Żołnierza Komandora Klona Fazy 2</Polish>
             <Russian>Визор клона-коммандера фазы 2</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_commander_visor_white">
             <English>Clone Phase 2 Commander Visor (White)</English>
-            <French>visière de commandant clone phase 2 (blanc)</French>
+            <French>Visière de commandant clone phase 2 (blanc)</French>
             <Polish>Wizjer Żołnierza Komandora Klona Fazy 2 (Biały)</Polish>
             <Russian>Визор клона-коммандера фазы 2 (Белый)</Russian>
         </Key>
@@ -261,7 +261,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_visor">
             <English>Clone Phase 2 Visor</English>
-            <French>visière de clone phase 2</French>
+            <French>Visière de clone phase 2</French>
             <Polish>Wizjer Żołnierza Klona Fazy 2</Polish>
             <Russian>Визор солдат-клона (Фазы 2)</Russian>
         </Key>
@@ -273,19 +273,19 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_imperial">
             <English>Clone Phase 3 Pilot Visor (Tactical)</English>
-            <French>visière de pilote clone phase 3 (tactique)</French>
+            <French>Visière de pilote clone phase 3 (tactique)</French>
             <Polish>Wizjer Klona Pilota Fazy 3 (Taktyczny)</Polish>
             <Russian>Визор клона-летчика фазы 3(Тактический)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_visor">
             <English>Clone Phase 3 Pilot Visor</English>
-            <French>visière de pilote clone phase 3</French>
+            <French>Visière de pilote clone phase 3</French>
             <Polish>Wizjer Klona Pilota Fazy 3</Polish>
             <Russian>Визор клона-летчика фаза 3</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_vwing">
             <English>Clone Phase 3 Pilot Visor (V-Wing)</English>
-            <French>visière de pilote clone phase 3 (V-Wing)</French>
+            <French>Visière de pilote clone phase 3 (V-Wing)</French>
             <Polish>Klon Pilot Republiki Fazy 3 (Vwing)</Polish>
             <Russian>Визор республиканского летчика (V-wing)</Russian>
         </Key>

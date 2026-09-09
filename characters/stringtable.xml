@@ -153,7 +153,7 @@
         </Key>
         <Key ID="STR_ls_characters_honorGuardVisor">
             <English>Honor Guard Visor</English>
-            <French>visière de garde d'honneur</French>
+            <French>Visière de garde d'honneur</French>
             <Polish>Wizjer Gwardi Honorowej</Polish>
             <Russian>Визор почетной гвардии</Russian>
         </Key>
@@ -369,7 +369,7 @@
         </Key>
         <Key ID="STR_ls_characters_poncho_sidestripeBrown">
             <English>Poncho (Sidestripe, Brown)</English>
-            <French>Poncho (rayure, bordeaux)</French>
+            <French>Poncho (rayure, brun)</French>
             <Polish>Ponczo (Paski, Brązowy)</Polish>
             <Russian>Пончо (Окантовка, Коричневый)</Russian>
         </Key>
@@ -500,7 +500,7 @@
         </Key>
         <Key ID="STR_ls_characters_spacer_vest">
             <English>Spacer Vest</English>
-            <French>Gillet spatial</French>
+            <French>Gilet spatial</French>
             <Polish>Kamizelka Załoganta</Polish>
             <Russian>Жилет космофлота</Russian>
         </Key>
