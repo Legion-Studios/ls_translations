@@ -110,7 +110,7 @@
         </Key>
         <Key ID="STR_ls_modules_moduleAircraftSpawner_description">
             <English>When activated by a trigger, continuously spawns aircraft in waves near the module's position until all of the synchronized objects are destroyed.</English>
-            <German> Wenn durch einen Trigger aktiviert, spawnen kontinuierlich Luftfahrzeuge in Wellen nahe der Modulposition, bis alle synchronisierten Objekte zerstört sind</German>
+            <German>Wenn durch einen Trigger aktiviert, spawnen kontinuierlich Luftfahrzeuge in Wellen nahe der Modulposition, bis alle synchronisierten Objekte zerstört sind</German>
         </Key>
         <Key ID="STR_ls_modules_moduleAircraftSpawner_displayName">
             <English>Aircraft Spawner</English>
