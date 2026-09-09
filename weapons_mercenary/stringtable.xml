@@ -3,7 +3,7 @@
     <Package name="weapons_mercenary">
         <Key ID="STR_ls_weapons_mercenary_sniper_displayName">
             <English>Mercenary Sniper Rifle</English>
-            <German>Söldner-Scharfschützengewehr</Gewehr>
+            <German>Söldner-Scharfschützengewehr</German>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_magazine_descriptionShort">
             <English>Caliber: .408 mw&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Mercenary Sniper Rifle</English>
