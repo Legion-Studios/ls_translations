@@ -15,11 +15,11 @@
         </Key>
         <Key ID="STR_ls_weapons_zh73_mk1_optic_scope_descriptionShort">
             <English>Blaster scope&lt;br/&gt;Maginification: 2x-4x</English>
-            <French>Lunette blaster&lt;br/&gt;Grossissement: 2x-4x</French>
+            <French>Lunette de blaster&lt;br/&gt;Grossissement: 2x-4x</French>
         </Key>
         <Key ID="STR_ls_weapons_zh73_mk1_optic_scope_displayName">
             <English>ZH-73 Mk I Scope</English>
-            <French>Lunette de ZH-23 Mark I</French>
+            <French>Lunette de ZH-73 Mark I</French>
         </Key>
     </Package>
 </Project>

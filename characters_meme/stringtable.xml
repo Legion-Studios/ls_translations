@@ -9,7 +9,7 @@
         </Key>
         <Key ID="STR_ls_characters_meme_blackbeard_vest">
             <English>Blackbeard's Vest</English>
-            <French>Gilet de Barbe Noir</French>
+            <French>Gilet de Barbe noire</French>
             <Polish>Kamizelka Czarnobrodego</Polish>
             <Russian>Жилет 'Черной Бороды'</Russian>
         </Key>
@@ -39,7 +39,7 @@
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased_armed">
             <English>The Pleased Nut (Armed)</English>
-            <French>La Cacahuète Heureuse (Bras)</French>
+            <French>La Cacahuète Heureuse (Armé)</French>
             <Polish>Zadowolony Orzeszek (z Ramionami)</Polish>
             <Russian>Ублаженный орешек(С ручками)</Russian>
         </Key>
@@ -51,7 +51,7 @@
         </Key>
         <Key ID="STR_ls_characters_meme_nutgotiator_armed">
             <English>The Nugotiator (Armed)</English>
-            <French>La Cacahuète Négociatrice (Bras)</French>
+            <French>La Cacahuète Négociatrice (Armé)</French>
             <Polish>Orzechocjator (z ramionami)</Polish>
             <Russian>Орехоговорщик (С ручками)</Russian>
         </Key>

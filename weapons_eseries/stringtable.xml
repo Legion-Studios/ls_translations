@@ -76,7 +76,7 @@
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_SACLOS_magazine_descriptionShort">
             <English>SACLOS Guided Missile&lt;br/&gt;Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
-            <French>Missile guidé SACLOS&lt;br/&gt;Type: anti-personnel&lt;bt/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
+            <French>Missile guidé SACLOS&lt;br/&gt;Type : antipersonnel&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_SACLOS_magazine_displayName">
             <English>E-60R AP Missile (SACLOS)</English>
@@ -84,7 +84,7 @@
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_descriptionShort">
             <English>Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
-            <French>Type : Antipersonnel&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
+            <French>Type : antipersonnel&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
             <Polish>Typ: Przeciwpiechotny&lt;br/&gt;Strzały: 1&lt;br/&gt;Używane w: E-60R</Polish>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_displayName">
@@ -94,7 +94,7 @@
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_at_magazine_descriptionShort">
             <English>Type: Anti-Tank&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
-            <French>Type : Antichar&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
+            <French>Type : antichar&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
             <Polish>Typ: Przeciwpancerny&lt;br/&gt;Strzały: 1&lt;br/&gt;Używane w: E-60R</Polish>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_at_magazine_displayName">

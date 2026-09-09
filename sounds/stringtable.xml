@@ -142,17 +142,17 @@
         </Key>
         <Key ID="STR_ls_sounds_sniperRifle_zoomIn_01">
             <English>Sniper Rifle Zoom In 01</English>
-            <French>Zoom avant fusil sniper 01</French>
+            <French>Zoom avant fusil de tireur d'élite 01</French>
             <Polish>Przybliżenie Karabinu Wyborowego 01</Polish>
         </Key>
         <Key ID="STR_ls_sounds_sniperRifle_zoomIn_02">
             <English>Sniper Rifle Zoom In 02</English>
-            <French>Zoom avant fusil sniper 02</French>
+            <French>Zoom avant fusil de tireur d'élite 02</French>
             <Polish>Przybliżenie Karabinu Wyborowego 02</Polish>
         </Key>
         <Key ID="STR_ls_sounds_sniperRifle_zoomOut_01">
             <English>Sniper Rifle Zoom Out</English>
-            <French>Zoom arrière fusil sniper</French>
+            <French>Zoom arrière fusil de tireur d'élite</French>
             <Polish>Oddalenie Karabinu Wyborowego</Polish>
         </Key>
         <Key ID="STR_ls_sounds_ugg_honk_01">

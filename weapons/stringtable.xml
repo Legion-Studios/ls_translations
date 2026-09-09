@@ -35,11 +35,11 @@
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM334K_HEAT_descriptionShort">
             <English>Type: High Explosive Anti-Tank Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
-            <French>Type : Munition explosive anti-char&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
+            <French>Type : Munition explosive antichar&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM334K_HEAT_displayName">
             <English>40 mm 3Rnd IM334K HEAT Grenade Round</English>
-            <French>Grenade explosive anti-char IM334K de 40 mm à 3 charges</French>
+            <French>Grenade explosive antichar IM334K de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM41_HE_displayName">
             <English>40 mm 3Rnd IM41 HE Grenade Round</English>
@@ -95,11 +95,11 @@
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM334K_HEAT_descriptionShort">
             <English>Type: High Explosive Anti-Tank Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
-            <French>Type : Munition explosive anti-char&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
+            <French>Type : Munition explosive antichar&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM334K_HEAT_displayName">
             <English>40 mm IM334K HEAT Grenade Round</English>
-            <French>Grenade explosive anti-char IM334K de 40 mm</French>
+            <French>Grenade explosive antichar IM334K de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM41_HE_displayName">
             <English>40 mm IM41 HE Grenade Round</English>
@@ -166,7 +166,7 @@
         <!-- High Explosive Anti-Tank -->
         <Key ID="STR_ls_weapons_heatGrenade">
             <English>HEAT Grenade</English>
-            <French>Grenade anti-char</French>
+            <French>Grenade antichar</French>
         </Key>
         <Key ID="STR_ls_weapons_heavyBlasterRifle">
             <English>Heavy Blaster Rifle</English>

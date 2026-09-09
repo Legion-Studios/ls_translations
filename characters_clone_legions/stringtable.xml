@@ -75,7 +75,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_442nd">
             <English>442nd Siege Battalion</English>
-            <French>442e bataillon d'assiégé</French>
+            <French>442e bataillon de siège</French>
             <Polish>442-gi Batalion Oblężniczy</Polish>
             <Russian>442ой Осадный Батальон</Russian>
         </Key>
@@ -117,7 +117,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_AT">
             <English>Clone Trooper (AT)</English>
-            <French>Soldat clone (AT)</French>
+            <French>Soldat clone (AC)</French>
             <Polish>Żołnierz Klon (Przeciwpancerny)</Polish>
             <Russian>Солдат-клон (Противотанкист)</Russian>
         </Key>
@@ -201,7 +201,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_heavyAT">
             <English>Clone Trooper (Missile AT)</English>
-            <French>Soldat Clone (missile AT)</French>
+            <French>Soldat Clone (missile AC)</French>
             <Polish>Żołnierz Klon (Ciężki Przeciwpancerny)</Polish>
             <Russian>Солдат-клон (ПТРК)</Russian>
         </Key>
@@ -273,7 +273,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_sniper">
             <English>Clone Sniper</English>
-            <French>Sniper clone</French>
+            <French>Tireur d'élite clone</French>
             <Polish>Klon Snajper</Polish>
             <Russian>Клон снайпер</Russian>
         </Key>
