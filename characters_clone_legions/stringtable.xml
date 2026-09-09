@@ -135,7 +135,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_arcPilot">
             <English>Clone Pilot (ARC-170)</English>
-            <French>Clone pilote (ARC-170)</French>
+            <French>Pilote clone (ARC-170)</French>
             <Polish>Klon Pilot (ARC-170)</Polish>
             <Russian>Клон-летчик (ARC-170)</Russian>
         </Key>
@@ -159,7 +159,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_captain">
             <English>Clone Captain</English>
-            <French>Clone capitaine</French>
+            <French>Capitaine clone</French>
             <Polish>Klon Kapitan</Polish>
             <Russian>Клон Капитан</Russian>
         </Key>
@@ -219,13 +219,13 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_lieutenant">
             <English>Clone Lieutenant</English>
-            <French>Clone lieutenant</French>
+            <French>Lieutenant clone</French>
             <Polish>Klon Porucznik</Polish>
             <Russian>Клон лейтенант</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_medic">
             <English>Clone Medic</English>
-            <French>Clone médecin</French>
+            <French>Médecin clone</French>
             <Polish>Klon Medyk</Polish>
             <Russian>Клон Санитар</Russian>
         </Key>
@@ -374,19 +374,19 @@
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_hodasalJungle">
             <English>Clone Commando (Hodasal Camo)</English>
-            <French>Commando clone (Hodasal Camo)</French>
+            <French>Commando clone (Camo Hodasal)</French>
             <Polish>Klon Komandos (Kamuflaż Hodsal)</Polish>
             <Russian>Клон коммандос (Камуфляж "Ходасал")</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpGunner">
             <English>Clone Commando (Gunner)</English>
-            <French>Commando clone (Artilleur)</French>
+            <French>Commando clone (artilleur)</French>
             <Polish>Klon Komandos (Artylerzysta)</Polish>
             <Russian>Клон коммандос (Стрелок-оператор)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_mpMarksman">
             <English>Clone Commando (Marksman)</English>
-            <French>Commando clone (Tireur de précision)</French>
+            <French>Commando clone (tireur de précision)</French>
             <Polish>Klon Komandos (Strzelec Wyborowy)</Polish>
             <Russian>Клон коммандос (Марксман)</Russian>
         </Key>

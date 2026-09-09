@@ -3,19 +3,19 @@
     <Package name="characters_jabiim">
         <Key ID="STR_ls_characters_jabiim_nationalist_goggles">
             <English>Jabiimi Nationalist Goggles</English>
-            <French>Lunettes de Nationaliste Jabiimi</French>
+            <French>Lunettes de nationaliste Jabiimi</French>
             <Polish>Gogle Nacjonalistów z Jabiim</Polish>
             <Russian>Очки джабиимских националистов</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nationalist_goggles_raised">
             <English>Jabiimi Nationalist Goggles (Raised)</English>
-            <French>Lunettes de Nationaliste Jabiimi (Levées)</French>
+            <French>Lunettes de nationaliste Jabiimi (levées)</French>
             <Polish>Gogle Nacjonalistów z Jabiim (Podniesione)</Polish>
             <Russian>Очки джабиимских националистов (Подняты)</Russian>
         </Key>
         <Key ID="STR_ls_characters_jabiim_nationalist_helmet">
             <English>Jabiimi Nationalist Helmet</English>
-            <French>Casque de Nationaliste Jabiimi</French>
+            <French>Casque de nationaliste Jabiimi</French>
             <Polish>Hełm Nacjonalistów z Jabiim</Polish>
             <Russian>Шлем джабиимских националистов</Russian>
         </Key>
@@ -39,7 +39,7 @@
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_demo">
             <English>Commando (Demo)</English>
-            <French>Commando (Démolition)</French>
+            <French>Commando (démolition)</French>
             <Polish>Komandos (Saper)</Polish>
             <Russian>Коммандо (Сапер)</Russian>
         </Key>
@@ -87,7 +87,7 @@
         </Key>
         <Key ID="STR_ls_characters_jabiim_nimbus_sniper">
             <English>Commando (Marksman)</English>
-            <French>Commando (Tireur de précision)</French>
+            <French>Commando (tireur de précision)</French>
             <Polish>Komandos (Strzelec Wyborowy)</Polish>
             <Russian>Коммандо (Марксман)</Russian>
         </Key>

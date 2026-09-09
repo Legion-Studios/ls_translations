@@ -75,13 +75,13 @@
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
-            <French>État de verrouillage de la porte.</French>
+            <French>État de verrouillage de la porte</French>
             <Polish>Status blokady drzwi</Polish>
             <Russian>Статус блокировки двери</Russian>
         </Key>
         <Key ID="STR_ls_modules_lockState_tooltip">
             <English>Door locked state to search for</English>
-            <French>État de verrouillage à rechercher.</French>
+            <French>État de verrouillage à rechercher</French>
             <Polish>Jakiego statusu blokady drzwi szukać</Polish>
             <Russian>Поиск дверей в закрытом состоянии</Russian>
         </Key>
@@ -145,7 +145,7 @@
         </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo_displayName">
             <English>Toggle Active Camo</English>
-            <French>Activer/désactiver le camouflage actif.</French>
+            <French>Activer/désactiver le camouflage actif</French>
             <Polish>Zmień Stan kamuflażu Optycznego</Polish>
             <Russian>Переключить активный камуфляж</Russian>
         </Key>

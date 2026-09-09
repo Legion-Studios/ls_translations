@@ -3,31 +3,31 @@
     <Package name="dispenser">
         <Key ID="STR_ls_dispenser_B1_displayName">
             <English>Droid Dispenser (B1)</English>
-            <French>Distributeur de Droïdes (B1)</French>
+            <French>Distributeur de droïdes (B1)</French>
             <Polish>Zasobnik Droidów (B1)</Polish>
             <Russian>Дроппод дроидов (B1)</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_B2_displayName">
             <English>Droid Dispenser (B2)</English>
-            <French>Distributeur de Droïdes (B2)</French>
+            <French>Distributeur de droïdes (B2)</French>
             <Polish>Zasobnik Droidów (B2)</Polish>
             <Russian>Дроппод дроидов (B2)</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_BX_displayName">
             <English>Droid Dispenser (BX)</English>
-            <French>Distributeur de Droïdes (BX)</French>
+            <French>Distributeur de droïdes (BX)</French>
             <Polish>Zasobnik Droidów (BX)</Polish>
             <Russian>Дроппод дроидов (BХ)</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_activate">
             <English>Activate Dispenser</English>
-            <French>Activer le Distributeur</French>
+            <French>Activer le distributeur</French>
             <Polish>Aktywuj Zasobnik</Polish>
             <Russian>Активировать Дроппод</Russian>
         </Key>
         <Key ID="STR_ls_dispenser_deactivate">
             <English>Deactivate Dispenser</English>
-            <French>Désactiver le Distributeur</French>
+            <French>Désactiver le distributeur</French>
             <Polish>Dezktywuj Zasobnik</Polish>
             <Russian>Деактивировать Дроппод</Russian>
         </Key>
@@ -39,7 +39,7 @@
         </Key>
         <Key ID="STR_ls_dispenser_displayName">
             <English>Droid Dispenser</English>
-            <French>Distributeur de Droïdes</French>
+            <French>Distributeur de droïdes</French>
             <Polish>Zasobnik Droidów</Polish>
             <Russian>Дроппод дроидов</Russian>
         </Key>

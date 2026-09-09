@@ -47,7 +47,7 @@
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_magazine_descriptionShort">
             <English>Caliber: .45 mw&lt;br/&gt;Rounds: 17&lt;br/&gt;Used in: Westar-35SA</English>
-            <French>Calibre : .45 mW&lt;br/&gt;Charges: 17&lt;br/&gt;Utilisé dans : Westar-35SA</French>
+            <French>Calibre : .45 mW&lt;br/&gt;Charges : 17&lt;br/&gt;Utilisé dans : Westar-35SA</French>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_magazine_displayName">
             <English>Westar-35SA Energy Cell</English>

@@ -13,12 +13,12 @@
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_magazine_displayName">
             <English>E-11 Energy Cell</English>
-            <French>Cellule énergétique de l'E-11</French>
+            <French>Cellule énergétique de E-11</French>
             <Polish>Ogniwo Elektryczne E-11</Polish>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_muzzle_coils_displayName">
             <English>E-11 Cooling Coils</English>
-            <French>Bobines de refroidissement de l'E-11</French>
+            <French>Bobines de refroidissement de E-11</French>
             <Polish>Cewka Chłodząca E-11</Polish>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_muzzle_fins_displayName">
@@ -28,12 +28,12 @@
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_optic_displayName">
             <English>E-11 Scope</English>
-            <French>Viseur de l'E-11</French>
+            <French>Viseur de E-11</French>
             <Polish>Celownik Optyczny E-11</Polish>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_optic_thermal_displayName">
             <English>E-11 Thermal Scope</English>
-            <French>Viseur thermique de l'E-11</French>
+            <French>Viseur thermique de E-11</French>
             <Polish>Celownik Termiczny E-11</Polish>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_scopedThermal_displayName">
@@ -66,7 +66,7 @@
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_aa_magazine_descriptionShort">
             <English>Type: Anti-Air&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
-            <French>Type : Antiaérien&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
+            <French>Type : antiaérien&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
             <Polish>Typ: Przeciwlotniczy&lt;br/&gt;Strzały: 1&lt;br/&gt;Używane w: E-60R</Polish>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_aa_magazine_displayName">
