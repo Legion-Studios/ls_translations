@@ -5,32 +5,38 @@
             <English>An AT-RT mounted weapon</English>
             <French>Une arme montée sur AT-RT</French>
             <Polish>Broń zamontowana na AT-RT</Polish>
+            <German>Eine an AT-RTs montierte Waffe</German>
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_displayName">
             <English>MAAD-38 Laser Cannon</English>
             <French>Canon laser MAAD-38 d'AT-RT</French>
             <Polish>Działko Laserowe MAAD-38</Polish>
             <Russian>Лаз-пушка MAAD-38</Russian>
+            <German>MAAD-38 Laserkanone</German>
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_magazine_descriptionShort">
             <English>Caliber: 20mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: MAAD-38 Laser Cannon</English>
             <French>Calibre : 20 mW&lt;br/&gt;Charges : 100&lt;br/&gt;Utilisé dans : canon laser MAAD-38 d'AT-RT</French>
             <Polish>Kaliber: 20mw&lt;br/&gt;Strzały: 100&lt;br/&gt;Używane w: Działko Laserowe MAAD-38</Polish>
+            <German>Kaliber: 20 mW&lt;br/&gt;Patronen: 100&lt;br/&gt;Verwendet in: MAAD-38 Laserkanone</German>
         </Key>
         <Key ID="STR_ls_weapons_atrt_laserCannon_magazine_displayName">
             <English>MAAD-38 Energy Cell</English>
             <French>Cellule d'énergétique de MAAD-38</French>
             <Polish>Ogniwo Elektryczne MAAD-38</Polish>
+            <German>MAAD-38 Energiezelle</German>
         </Key>
         <Key ID="STR_ls_weapons_atrt_rotaryBlaster_descriptionShort">
             <English>A retrofitted Z-6 that can be mounted onto an AT-RT</English>
             <French>Un Z-6 modifié qui peut être montée sur un AT-RT</French>
             <Polish>Zmodyfikowany Z-6 przystosowany do montażu na AT-RT</Polish>
+            <German>Eine umgerüstete Z-6, die an AT-RTs montiert werden kann</German>
         </Key>
         <Key ID="STR_ls_weapons_atrt_rotaryBlaster_displayName">
             <English>Retrofitted Z-6</English>
             <French>Z-6 modifié</French>
             <Polish>Zmodyfikowany Z-6</Polish>
+            <German>Umgerüstete Z-6</German>
         </Key>
     </Package>
 </Project>
