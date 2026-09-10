@@ -49,7 +49,7 @@
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
             <English>Select what group will be spawned by the droid dispenser when it activates</English>
-            <French>Sélectionnez quel groupe sera créé par le distributeur de droïdes lors de son activation</French>
+            <French>Sélectionner quel groupe sera créé par le distributeur de droïdes lors de son activation</French>
             <Polish>Wybierz jaka grupa zostanie utworzona przez zasobnik droidów w momencie jego uruchomienia</Polish>
             <Russian>Выбрать, какая группа будет заспавнена когда дроппод дроидов будет активирован</Russian>
         </Key>
@@ -236,12 +236,15 @@
         </Key>
         <Key ID="STR_ls_modules_rallyPoint_label">
             <English>Rally Point</English>
+            <French>Point de ralliement</French>
         </Key>
         <Key ID="STR_ls_modules_rallyPoint_tooltip">
             <English>Select a rally point where units will move to.\nIf Zeus Enhanced is not loaded (or no rally points exist), units will loiter nearby.</English>
+            <French>Sélectionner un point de ralliement vers lequel les unités se déplaceront.\nSi Zeus Enhanced n'est pas chargé (ou qu'aucun point de ralliement n'existe), les unités patrouilleront à proximité.</French>
         </Key>
         <Key ID="STR_ls_modules_requires_zen">
             <English>Requires Zeus Enhanced</English>
+            <French>Nécessite Zeus Enhanced</French>
         </Key>
         <Key ID="STR_ls_modules_spawnDelay_label">
             <English>Spawn Delay</English>
@@ -277,7 +280,7 @@
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_tooltip">
             <English>Select when a new wave should be spawned</English>
-            <French>Sélectionne quand une nouvelle vague doit apparaître</French>
+            <French>Sélectionner quand une nouvelle vague doit apparaître</French>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_label">
             <English>When all units have been destroyed</English>
@@ -299,7 +302,7 @@
         </Key>
         <Key ID="STR_ls_modules_vehicleTypes_tooltip">
             <English>Select what types of vehicles to spawn\nHold CTRL and left click to select multiple types</English>
-            <French>Sélectionne les types de véhicules à faire apparaître\nMaintenez CTRL et cliquez avec le bouton gauche pour sélectionner plusieurs types</French>
+            <French>Sélectionner les types de véhicules à faire apparaître\nMaintenez CTRL et cliquez avec le bouton gauche pour sélectionner plusieurs types</French>
         </Key>
         <Key ID="STR_ls_modules_waveSize_label">
             <English>Wave Size</English>
