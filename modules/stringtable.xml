@@ -6,150 +6,180 @@
             <French>L'objet ne peut pas activer le camouflage actif</French>
             <Polish>Obiekt nie może aktywować kamuflażu optyczego</Polish>
             <Russian>Объект не может использовать активный камуфляж</Russian>
+            <German>Objekt kann Aktivcamo nicht aktivieren</German>
         </Key>
         <Key ID="STR_ls_modules_activeCamo_cannotDeactivate">
             <English>Object cannot deactivate active camo</English>
             <French>L'objet ne peut pas désactiver le camouflage actif</French>
             <Polish>Obiekt nie może dezaktywować kamuflażu optycznego</Polish>
             <Russian>Объект не может отключить активный камуфляж</Russian>
+            <German>Objekt kann Aktivcamo nicht deaktivieren</German>
         </Key>
         <Key ID="STR_ls_modules_addedReinsertAction">
             <English>Added reinsert action to object</English>
             <French>Ajout d'une action de réinsertion à l'objet</French>
             <Polish>Dodano akcje ponownego rozmieszczenia do obieku</Polish>
             <Russian>Добавлено действие "Переустановки" для объекта</Russian>
+            <German>Wiedereinsatz-Funktion zu Objekt hinzugefügt</German>
         </Key>
         <Key ID="STR_ls_modules_alreadyRidingATRT">
             <English>Unit is already riding an AT-RT</English>
+            <German>Einheit ist bereits auf einem AT-RT</German>
         </Key>
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
             <French>Suppression de %1 groupes locaux vides</French>
             <Polish>Usunięto %1 pustych grup lokalnych</Polish>
             <Russian>Удалено %1 пустых локальных групп</Russian>
+            <German>%1 lokale Leergruppen gelöscht</German>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_label">
             <English>Custom Group</English>
             <French>Groupe Personnalisé</French>
             <Polish>Własna Grupa</Polish>
             <Russian>Кастомная группа</Russian>
+            <German>Benutzerdefinierte Gruppe</German>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_customGroup_tooltip">
             <English>Overwrites dispenser group if defined, takes array of unit class names.\nUse commas to separate classes, do not include spaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</English>
             <French>Si défini, remplace groupe de distributeurs, accepte une table de noms de classes d'unités.\nUtilisez des virgules pour séparer les éléments, ne pas inclure d'espaces.\nE.g. ['ls_droid_b1','ls_droid_b2']</French>
             <Polish>Nadpisuje grupę rozmieszczaną przez zasobnik, przyjmuje wartość typu array zawierającą klasy jednostek.\nUżyj przecinków aby separować klasy, nie wykorzystuj spacji.\nNp. ['ls_droid_b1','ls_droid_b2']</Polish>
             <Russian>Перезаписывает группу дроппода если объявлена, берет список класснеймов юнитов.\nИспользуйте запятые для разделения классов, без пробелов.\nПример : ['ls_droid_b1','ls_droid_b2']</Russian>
+            <German>Überschreibt Dispensergruppe wenn gesetzt, akzepiert ein Array aus Klassennamen. \nKommata zur Namentrennung. Keine Leerzeichen eingeben. \nZ.B.: ['ls_droid_b1','ls_droid_b2']</German>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_label">
             <English>Group</English>
             <French>Groupe</French>
             <Polish>Grupa</Polish>
             <Russian>Группа</Russian>
+            <German>Gruppe</German>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_group_tooltip">
             <English>Select what group will be spawned by the droid dispenser when it activates</English>
             <French>Sélectionnez quel groupe sera créé par le distributeur de droïdes lors de son activation</French>
             <Polish>Wybierz jaka grupa zostanie utworzona przez zasobnik droidów w momencie jego uruchomienia</Polish>
             <Russian>Выбрать, какая группа будет заспавнена когда дроппод дроидов будет активирован</Russian>
+            <German>Wähle aus, welche Gruppe bei Aktivierung des Droidendispensers spawnt</German>
         </Key>
         <Key ID="STR_ls_modules_dispenserGroup_noGroup">
             <English>No group selected!</English>
             <French>Groupe non sélectionné</French>
             <Polish>Nie wybrano grupy!</Polish>
             <Russian>Никакая группа не выбрана!</Russian>
+            <German>Keine Gruppe ausgewählt!</German>
         </Key>
         <Key ID="STR_ls_modules_dispenser_description">
             <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
             <French>Lorsqu'il est activé par un déclencheur, fait apparaître un distributeur de droïdes qui tombe du ciel. Les unités commenceront à être déployées après que le distributeur aura touché le sol et qu'un court délai se sera écoulé.&lt;br/&gt;L'impact du distributeur au sol inflige des dégâts.</French>
             <Polish>Jeśli aktywowane przez wyzwalacz, tworzy zasobnik droidów który spada z nieba. Jednostki zaczynają się pojawiać po wylądowaniu na ziemi i krótkim czasie przerwy.&lt;br/&gt;Zasobnik powoduje obrażenia podczas lądowania</Polish>
             <Russian>При активации триггера спавнит дроппод дроидов в небе. Юниты начнут спавниться через некоторое время после приземления дроппода.&lt;br/&gt;Удар дроппода о землю наносит урон.</Russian>
+            <German>Wenn durch einen Trigger aktiviert, fällt ein Droidendispenser aus der Luft. Einheiten fangen an zu spawnen, kurz nachdem der Dispenser gelandet ist.&lt;br/&gt;Der Aufschlag des Dispensers verursacht Schaden</German>
         </Key>
         <Key ID="STR_ls_modules_executeCode_label">
             <English>Execute code</English>
+            <German>Code ausführen</German>
         </Key>
         <Key ID="STR_ls_modules_executeCode_waveSpawn_tooltip">
             <English>Code to run on the server after each wave spawn\nPassed variables are: [_module, _vehicles, _spawnTrigger, _spawnDelay]</English>
+            <German>Code, der nach jeder Spawnwelle ausgeführt wird\nMitgegebene Variablen: [_module, _vehicles, _spawnTrigger, _spawnDelay]</German>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
             <French>Serrure de Porte</French>
             <Polish>Status blokady drzwi</Polish>
             <Russian>Статус блокировки двери</Russian>
+            <German>Tür-Status</German>
         </Key>
         <Key ID="STR_ls_modules_lockState_tooltip">
             <English>Door locked state to search for</English>
             <French>État de la porte verrouillée pour la recherche</French>
             <Polish>Jakiego statusu blokady drzwi szukać</Polish>
             <Russian>Поиск дверей в закрытом состоянии</Russian>
+            <German>Zu suchender Tür-Status</German>
         </Key>
         <Key ID="STR_ls_modules_moduleAddReinsertAction_description">
             <English>Adds the 'Notify Pilots' action from the Reinsert Terminal to the synchronized objects.</English>
+            <German>Fügt die „Piloten Benachrigtigen“-Option von Wiedereinsatz-Terminals zu synchronisierten Objekten hinzu</German>
         </Key>
         <Key ID="STR_ls_modules_moduleAddReinsertAction_displayName">
             <English>Add Reinsert Action</English>
             <French>Ajouter une action de réinsertion</French>
             <Polish>Dodaj akcję ponownego rozmieszczenia</Polish>
             <Russian>Добавить действие "Восстановления"</Russian>
+            <German>Wiedereinsatz-Option hinzufügen</German>
         </Key>
         <Key ID="STR_ls_modules_moduleAircraftSpawner_description">
             <English>When activated by a trigger, continuously spawns aircraft in waves near the module's position until all of the synchronized objects are destroyed.</English>
+            <German>Wenn durch einen Trigger aktiviert, spawnen kontinuierlich Luftfahrzeuge in Wellen nahe der Modulposition, bis alle synchronisierten Objekte zerstört sind</German>
         </Key>
         <Key ID="STR_ls_modules_moduleAircraftSpawner_displayName">
             <English>Aircraft Spawner</English>
+            <German>Luftfahrzeugsspawner</German>
         </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal_description">
             <English>Fully heal players that enter the module's area. Checked every 5 seconds.</English>
+            <German>Heilt Spieler, die den Modulradius betreten, vollständig. Überprüfung alle 5 Sekunden</German>
         </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal_displayName">
             <English>Area Heal</English>
             <French>Soignez la zone</French>
             <Polish>Leczenie w obszarze</Polish>
             <Russian>Зона лечения</Russian>
+            <German>Flächenheilung</German>
         </Key>
         <Key ID="STR_ls_modules_moduleBreachDoor_displayName">
             <English>Breach Door</English>
             <French>Forcer la porte</French>
             <Polish>Wyważ Drzwi</Polish>
             <Russian>Взломать дверь</Russian>
+            <German>Tür aufbrechen</German>
         </Key>
         <Key ID="STR_ls_modules_moduleDeleteGroups_displayName">
             <English>Delete Empty Groups</English>
             <French>Supprimer les groupes vides</French>
             <Polish>Usuń Puste Grupy</Polish>
             <Russian>Удалить пустые группы</Russian>
+            <German>Leergruppen löschen</German>
         </Key>
         <Key ID="STR_ls_modules_moduleDismountATRT_displayName">
             <English>Dismount AT-RT</English>
+            <German>Von AT-RT absitzen</German>
         </Key>
         <Key ID="STR_ls_modules_moduleDroidDispenser_description">
             <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
+            <German>Wenn durch einen Trigger aktiviert, fällt ein Droidendispenser aus der Luft. Einheiten fangen an zu spawnen, kurz nachdem der Dispenser gelandet ist.&lt;br/&gt;Der Aufschlag des Dispensers verursacht Schaden</German>
         </Key>
         <Key ID="STR_ls_modules_moduleMountATRT_displayName">
             <English>Mount AT-RT</English>
+            <German>Auf AT-RT aufsteigen</German>
         </Key>
         <Key ID="STR_ls_modules_moduleSetSkills_displayName">
             <English>Set Skills</English>
             <French>Définir les compétences</French>
             <Polish>Ustaw Umiejętności</Polish>
             <Russian>Установить навыки</Russian>
+            <German>Fähigkeiten festlegen</German>
         </Key>
         <Key ID="STR_ls_modules_moduleToggleCamo_displayName">
             <English>Toggle Active Camo</English>
             <French>Basculé Camouflage Actif</French>
             <Polish>Zmień Stan kamuflażu Optycznego</Polish>
             <Russian>Переключить активный камуфляж</Russian>
+            <German>Aktivcamo umschalten</German>
         </Key>
         <Key ID="STR_ls_modules_noClosedDoorFound">
             <English>No closed door found!</English>
             <French>Aucune porte fermée trouvée</French>
             <Polish>Nie znaleziono zamkniętych drzwi!</Polish>
             <Russian>Закрытые двери не найдены!</Russian>
+            <German>Keine geschlossene Tür gefunden!</German>
         </Key>
         <Key ID="STR_ls_modules_noPlayer">
             <English>Unit must not be a player</English>
             <French>L'unité ne doit pas être un joueur</French>
             <Polish>Jednostka nie może być graczem</Polish>
             <Russian>Юнит не должен быть игроком</Russian>
+            <German>Einheit darf kein Spieler sein</German>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1556-L1572 -->
         <Key ID="STR_ls_modules_nothingSelected">
@@ -171,9 +201,11 @@
         </Key>
         <Key ID="STR_ls_modules_onlyATRT">
             <English>Must be placed on an AT-RT</English>
+            <German>Muss auf einem AT-RT platziert werden</German>
         </Key>
         <Key ID="STR_ls_modules_onlyATRTOrRider">
             <English>Must be placed on an AT-RT or its rider</English>
+            <German>Muss auf einem AT-RT oder dessen Reiter platziert werden</German>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1573-L1589 -->
         <Key ID="STR_ls_modules_onlyAlive">
@@ -185,7 +217,7 @@
             <Polish>Jednostka musi być żywa</Polish>
             <Portuguese>Unidade deve estar viva</Portuguese>
             <Russian>Применимо только к живым юнитам</Russian>
-            <German>Einheit muss lebendig sein.</German>
+            <German>Einheit muss leben</German>
             <Korean>대상이 반드시 살아 있어야 합니다</Korean>
             <Japanese>ユニットは生きている必要があります</Japanese>
             <Chinese>單位必須是活著</Chinese>
@@ -198,6 +230,7 @@
             <French>L'unité doit être consciente.</French>
             <Polish>Jednostka musi być przytomna</Polish>
             <Russian>Юнит должен быть в сознании.</Russian>
+            <German>Einheit muss bei Bewusstsein sein</German>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1605-L1620 -->
         <Key ID="STR_ls_modules_onlyInfantry">
@@ -221,6 +254,7 @@
             <French>Rayon de recherche en mètres</French>
             <Polish>Średnica obszaru poszukiwania w metrach</Polish>
             <Russian>Радиус поиска в метрах</Russian>
+            <German>Suchradius in Metern</German>
         </Key>
         <Key ID="STR_ls_modules_rallyPoint_label">
             <English>Rally Point</English>
@@ -233,153 +267,184 @@
         </Key>
         <Key ID="STR_ls_modules_spawnDelay_label">
             <English>Spawn Delay</English>
+            <German>Spawnverzögerung</German>
         </Key>
         <Key ID="STR_ls_modules_spawnDelay_tooltip">
             <English>Time between wave spawns</English>
+            <German>Zeit zwischen Spawnwellen</German>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
             <French>Limite d'apparition</French>
             <Polish>Limit Jednostek</Polish>
             <Russian>Лимит спавна</Russian>
+            <German>Spawnlimit</German>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_tooltip">
             <English>Stops after spawning X units.\n-1 = unlimited</English>
             <French>Arrête de créer après X unités.\n-1 = illimité</French>
             <Polish>Zatrzymaj tworzenie po X jednostkach.\n-1 = brak limitu</Polish>
             <Russian>Остановка после спавна X юнитов.\n-1 = Без лимита</Russian>
+            <German>Spawnt insgesamt X Einheit.\n-1 = unbegrenzt</German>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_continious_label">
             <English>Continious</English>
+            <German>kontinuierlich</German>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_continious_tooltip">
             <English>Continiously spawn waves</English>
+            <German>Spawnt kontinuierlich wellenweise</German>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_label">
             <English>Spawn Trigger</English>
+            <German>Spawntrigger</German>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_tooltip">
             <English>Select when a new wave should be spawned</English>
+            <German>Wähle aus, wann eine neue Welle spawnen soll</German>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_label">
             <English>When all units have been destroyed</English>
+            <German>Wenn alle Einheiten zerstört wurden</German>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_tooltip">
             <English>Spawn the next wave after all units in the previous wave were destroyed</English>
+            <German>Spawne die nächste Welle nachdem alle vorherigen Einheiten zerstört wurden</German>
         </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
             <French>Compétences actualisées pour %1</French>
             <Polish>Zaktualizowano umiejętności dla %1</Polish>
             <Russian>Установлены скиллы для %1</Russian>
+            <German>%1 Fähigkeiten aktualisiert</German>
         </Key>
         <Key ID="STR_ls_modules_vehicleTypes_label">
             <English>Vehicle Types</English>
+            <German>Fahrzeugtyp</German>
         </Key>
         <Key ID="STR_ls_modules_vehicleTypes_tooltip">
             <English>Select what types of vehicles to spawn\nHold CTRL and left click to select multiple types</English>
+            <German>Wähle aus, welche Fahrzeugtypen gespawnt werden\nStrg+Linksklick für Mehrfachauswahl</German>
         </Key>
         <Key ID="STR_ls_modules_waveSize_label">
             <English>Wave Size</English>
+            <German>Wellengröße</German>
         </Key>
         <Key ID="STR_ls_modules_waveSize_tooltip">
             <English>Number of vehicles spawned in each wave</English>
+            <German>Anzahl Fahrzeuge pro Welle</German>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>
             <French>Gaussien</French>
             <Polish>Gaussowski</Polish>
             <Russian>Гауссово</Russian>
+            <German>Gauß-Verteilung</German>
         </Key>
         <Key ID="STR_lsb_common_distribution_name">
             <English>Distribution</English>
             <French>Distribution</French>
             <Polish>Rozmieszczenie</Polish>
             <Russian>Размещение</Russian>
+            <German>Verteilung</German>
         </Key>
         <Key ID="STR_lsb_common_distribution_randomArea">
             <English>Random Area</English>
             <French>Zone Aléatoire</French>
             <Polish>Losowy Obszar</Polish>
             <Russian>Случайная зона</Russian>
+            <German>Zufälliger Bereich</German>
         </Key>
         <Key ID="STR_lsb_common_distribution_tooltip">
             <English>Set what distribution formula to use</English>
             <French>Sélectionner la formule de distribution</French>
             <Polish>Wybierz rodzaj formuły rozmieszczenia</Polish>
             <Russian>Выбор формулы размещения к использованию</Russian>
+            <German>Lege fest, welche Verteilungsfunktion verwendet wird</German>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_asteroids">
             <English>Asteroids</English>
             <French>Astéroïdes</French>
             <Polish>Asteroidy</Polish>
             <Russian>Астероиды</Russian>
+            <German>Asteroiden</German>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_asteroidsSmall">
             <English>Small Asteroids</English>
             <French>Petits Astéroïdes</French>
             <Polish>Małe Asteroidy</Polish>
             <Russian>Малые Астероиды</Russian>
+            <German>Kleine Asteroiden</German>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_name">
             <English>Debris Preset</English>
             <French>Préréglage de Débris</French>
             <Polish>Zestaw Szczątków</Polish>
             <Russian>Пресет обломков</Russian>
+            <German>Trümmer-Voreinstellung</German>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_shipDebris">
             <English>Ship Debris</English>
             <French>Débris de Vaisseau</French>
             <Polish>Szczątki Statków</Polish>
             <Russian>Обломки корабля</Russian>
+            <German>Schiffstrümmer</German>
         </Key>
         <Key ID="STR_lsb_common_spaceDebrisPreset_tooltip">
             <English>Set what group of objects to use</English>
             <French>Sélectionner le groupe d'objets à utiliser</French>
             <Polish>Wybierz grupę obiektów do użycia</Polish>
             <Russian>Установить, какую группу объектов использовать</Russian>
+            <German>Lege fest, welche Objektgruppe verwendet wird</German>
         </Key>
         <Key ID="STR_lsb_modules_AttributeCount_name">
             <English>Count</English>
             <French>Total</French>
             <Polish>Liczba</Polish>
             <Russian>Количество</Russian>
+            <German>Anzahl</German>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeCount_tooltip">
             <English>The number of debris objects to spawn</English>
             <French>Le nombre d'objets de débris à créer</French>
             <Polish>Ilość szczątków do rozmieszczenia</Polish>
             <Russian>Количество пропов-обломков для спавна</Russian>
+            <German>Anzahl an zu spawnenden Trümmerteilen</German>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_name">
             <English>Debris Data</English>
             <French>Données sur les débris</French>
             <Polish>Informacje O Odłamkach</Polish>
             <Russian>Данные об обломках</Russian>
+            <German>Trümmerdaten</German>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeDebrisData_tooltip">
             <English>Do not edit directly!\nContains position and rotation data</English>
             <French>Ne pas modifier directement !\nContient les données de position et de rotation</French>
             <Polish>Nie edytuj bezpośrednio!\nZawiera informacje o pozycji i obrocie odłamków</Polish>
             <Russian>Не редактировать напрямую!\nИмеет информацию о позиции и поворотах</Russian>
+            <German>Nicht direkt bearbeiten!\nEnthält Positions- und Rotationsdaten</German>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_AttributeParamsOld_name">
             <English>Space Debris Parameters</English>
             <French>Paramètres de Débris Spatiaux</French>
             <Polish>Parametry Szczątków</Polish>
             <Russian>Параметры космических обломков</Russian>
+            <German>Weltraum-Trümmerdaten</German>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_description">
             <English>Spawns a number of space debris objects floating in a random area around the module. The objects are created locally on each player's machine.</English>
             <French>Créer un nombre de débris spatiaux flottants dans une zone aléatoire autour du module. Les objets sont créés sur chaque machine de chaque joueur.</French>
             <Polish>Rozmieszcza określoną liczbę Szczątków wiszących w losowych pozycjach dookoła modułu. Obiekty są lokalne na maszynach graczy.</Polish>
             <Russian>Спавнит определенное число парящих космических обломков в случайной зоне рядом с модулем. Объекты создаются локально на каждом клиенте</Russian>
+            <German>Spawnt einige Weltraum-Trümmer, die in einem zufälligen Bereich um das Modul schweben. Die Objekte werden für jeden Spieler lokal erstellt</German>
         </Key>
         <Key ID="STR_lsb_modules_spaceDebris_name">
             <English>Space Debris</English>
             <French>Débris Spatiaux</French>
             <Polish>Szczątki Kosmiczne</Polish>
             <Russian>Космические Обломки</Russian>
+            <German>Weltraum-Trümmer</German>
         </Key>
     </Package>
 </Project>

@@ -3,18 +3,23 @@
     <Package name="weapons_valken">
         <Key ID="STR_ls_weapons_valken_valken38x_displayName">
             <English>Valken-38x</English>
+            <German>Valken-38x</German>
         </Key>
         <Key ID="STR_ls_weapons_valken_valken38x_magazine_descriptionShort">
             <English>Caliber: 9.3x64 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Valken-38x</English>
+            <German>Kaliber: 9.3x64 mW&lt;br/&gt;Patronen: 30&lt;br/&gt;Verwendet in: Valken-38x</German>
         </Key>
         <Key ID="STR_ls_weapons_valken_valken38x_magazine_displayName">
             <English>Valken-38x Energy Cell</English>
+            <German>Valken-38x Energiezelle</German>
         </Key>
         <Key ID="STR_ls_weapons_valken_valken38x_optic_scope_descriptionShort">
             <English>Sniper scope&lt;br/&gt;Maginification: 2.3x-5x</English>
+            <German>Scharfschützenzielfernrohr&lt;br/&gt;Vergrößerung: 2.3x-5x</German>
         </Key>
         <Key ID="STR_ls_weapons_valken_valken38x_optic_scope_displayName">
             <English>Valken-38x Scope</English>
+            <German>Valken-38x Zielfernrohr</German>
         </Key>
     </Package>
 </Project>

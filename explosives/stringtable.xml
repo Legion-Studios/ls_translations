@@ -3,33 +3,43 @@
     <Package name="explosives">
         <Key ID="STR_ls_explosives_breachCharge_descriptionShort">
             <English>Used to breach locked doors and walls.&lt;br/&gt;Type: Low-yield breaching charge&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+            <German>Verwendet, um abgeschlossene Türen und Wände aufzusprengen.&lt;br/&gt;Typ: Niederleistungssprengsatz&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden, Wänden</German>
         </Key>
         <Key ID="STR_ls_explosives_breachCharge_displayName">
             <English>Breaching Charge</English>
+            <German>Sprengsatz</German>
         </Key>
         <Key ID="STR_ls_explosives_caltropDispenser_descriptionShort">
             <English>Type: Non-lethal caltrop dispenser&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground</English>
+            <German>Typ: nichttödlicher Krähenfußdispenser&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden</German>
         </Key>
         <Key ID="STR_ls_explosives_caltropDispenser_displayName">
             <English>Caltrop Dispenser</English>
+            <German>Krähenfußdispenser</German>
         </Key>
         <Key ID="STR_ls_explosives_caltrop_descriptionShort">
             <English>Knocks over units when stepped on.&lt;br/&gt;Type: Non-lethal caltrop&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground</English>
+            <German>Bringt darüberlaufende Einheiten zu Fall.&lt;br/&gt;Typ: nichttödlicher Krähenfuß&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden</German>
         </Key>
         <Key ID="STR_ls_explosives_caltrop_displayName">
             <English>Caltrop</English>
+            <German>Krähenfuß</German>
         </Key>
         <Key ID="STR_ls_explosives_demoCharge_descriptionShort">
             <English>Used to destroy large structural walls.&lt;br/&gt;Type: High-yield explosive&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+            <German>Verwendet, um große tragende Wände zu zerstören.&lt;br/&gt;Typ: Hochleistungssprengladung&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden</German>
         </Key>
         <Key ID="STR_ls_explosives_demoCharge_displayName">
             <English>Demolition Charge</English>
+            <German>Sprengladung</German>
         </Key>
         <Key ID="STR_ls_explosives_detpack_descriptionShort">
             <English>Used to disable vehicles.&lt;br/&gt;Type: Medium-yield explosive&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+            <German>Verwendet, um Fahrzeuge auszuschalten.&lt;br/&gt;Typ: Mittelleistungssprengstoffpaket&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden, Wänden</German>
         </Key>
         <Key ID="STR_ls_explosives_detpack_displayName">
             <English>Detonation Pack</English>
+            <German>Sprengstoffpaket</German>
         </Key>
     </Package>
 </Project>

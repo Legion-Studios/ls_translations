@@ -3,18 +3,23 @@
     <Package name="weapons_mercenary">
         <Key ID="STR_ls_weapons_mercenary_sniper_displayName">
             <English>Mercenary Sniper Rifle</English>
+            <German>Söldner-Scharfschützengewehr</German>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_magazine_descriptionShort">
             <English>Caliber: .408 mw&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Mercenary Sniper Rifle</English>
+            <German>Kaliber: .408 mW&lt;br/&gt;Patronen: 10&lt;br/&gt;Verwendet in: Söldner-Scharfschützengewehr</German>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_magazine_displayName">
             <English>Mercenary Sniper Rifle Energy Cell</English>
+            <German>Söldner-Scharfschützengewehrenergiezelle</German>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_optic_sniper_descriptionShort">
             <English>Sniper scope&lt;br/&gt;Maginification: 6x-25x</English>
+            <German>Scharfschützenzielfernrohr&lt;br/&gt;Vergrößerung: 6x-25x</German>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_optic_sniper_displayName">
             <English>Mercenary Sniper Scope</English>
+            <German>Söldner-Scharfschützenzielfernrohr</German>
         </Key>
     </Package>
 </Project>
