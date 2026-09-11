@@ -256,6 +256,15 @@
             <Russian>Радиус поиска в метрах</Russian>
             <German>Suchradius in Metern</German>
         </Key>
+        <Key ID="STR_ls_modules_rallyPoint_label">
+            <English>Rally Point</English>
+        </Key>
+        <Key ID="STR_ls_modules_rallyPoint_tooltip">
+            <English>Select a rally point where units will move to.\nIf Zeus Enhanced is not loaded (or no rally points exist), units will loiter nearby.</English>
+        </Key>
+        <Key ID="STR_ls_modules_requires_zen">
+            <English>Requires Zeus Enhanced</English>
+        </Key>
         <Key ID="STR_ls_modules_spawnDelay_label">
             <English>Spawn Delay</English>
             <German>Spawnverzögerung</German>
