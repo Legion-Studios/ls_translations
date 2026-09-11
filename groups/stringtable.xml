@@ -6,48 +6,56 @@
             <French>Garde de la Citadelle</French>
             <Polish>Gwardia Cytadeli</Polish>
             <Russian>Охрана Цитадели</Russian>
+            <German>Zitadellenwächter</German>
         </Key>
         <Key ID="STR_ls_groups_diplomaticEscort">
             <English>Diplomatic Escort</English>
             <French>Escorte diplomatique</French>
             <Polish>Eskorta Dyplomatyczna</Polish>
             <Russian>Эскорт дипломатов</Russian>
+            <German>Diplomatische Eskorte</German>
         </Key>
         <Key ID="STR_ls_groups_droidekaTeam">
             <English>Droideka Team</English>
             <French>Équipe de droïdekas</French>
             <Polish>Zespół Droidek</Polish>
             <Russian>Расчет дроидек</Russian>
+            <German>Droideka-Team</German>
         </Key>
         <Key ID="STR_ls_groups_heavyInfantry">
             <English>Heavy Infantry</English>
             <French>Infanterie lourde</French>
             <Polish>Ciężka Piechota</Polish>
             <Russian>Тяжелая пехота</Russian>
+            <German>Schwere Infanterie</German>
         </Key>
         <Key ID="STR_ls_groups_patrol">
             <English>Patrol</English>
             <French>Patrouille</French>
             <Polish>Patrol</Polish>
             <Russian>Патруль</Russian>
+            <German>Patrouille</German>
         </Key>
         <Key ID="STR_ls_groups_raptorPack">
             <English>Raptor Pack</English>
             <French>Meute de Raptors</French>
             <Polish>Sekcja Raptorów</Polish>
             <Russian>Стайка Рапторов</Russian>
+            <German>Raptor-Meute</German>
         </Key>
         <Key ID="STR_ls_groups_securityTeam">
             <English>Security Team</English>
             <French>Équipe de sécurité</French>
             <Polish>Zespół Ochrony</Polish>
             <Russian>Отряд охраны</Russian>
+            <German>Sicherheitsteam</German>
         </Key>
         <Key ID="STR_ls_groups_supportGunnerTeam">
             <English>Support Gunner Team</English>
             <French>Équipe de tireurs de soutien</French>
             <Polish>Zespół Strzelców Wsparcia</Polish>
             <Russian>Отряд огневой поддержки</Russian>
+            <German>Unterstützungsfeuer-Team</German>
         </Key>
     </Package>
 </Project>
