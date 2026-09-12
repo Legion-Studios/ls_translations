@@ -3,12 +3,15 @@
     <Package name="weapons_rd4">
         <Key ID="STR_ls_weapons_rd4_displayName">
             <English>RD-4 Radiation Cannon</English>
+            <French>Canon à radiation RD-4</French>
         </Key>
         <Key ID="STR_ls_weapons_rd4_magazine_descriptionShort">
-            <English>Caliber: 40 mm &lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: RD-4</English>
+            <English>Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: RD-4</English>
+            <French>Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : RD-4</French>
         </Key>
         <Key ID="STR_ls_weapons_rd4_magazine_displayName">
             <English>RD-4 Radiation Canister</English>
+            <French>Cartouche de canon à radiation RD-4</French>
         </Key>
     </Package>
 </Project>

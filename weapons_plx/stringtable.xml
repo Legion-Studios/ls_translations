@@ -3,30 +3,39 @@
     <Package name="weapons_plx">
         <Key ID="STR_ls_weapons_plx_plx1_aa_magazine_descriptionShort">
             <English>Type: Anti-Air&lt;br/&gt;Rounds: 2&lt;br/&gt;Used in: PLX-1</English>
+            <French>Type : antiaérien&lt;br/&gt;Charges : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_aa_magazine_displayName">
             <English>PLX-1 AA Missile</English>
+            <French>Missile antiaérien PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_ap_SACLOS_magazine_descriptionShort">
             <English>SACLOS Guided Missile&lt;br/&gt;Type: Anti-Personnel&lt;br/&gt;Rounds: 2&lt;br/&gt;Used in: PLX-1</English>
+            <French>Missile guidé SACLOS&lt;br/&gt;Type : antipersonnel&lt;br/&gt;Charges : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_ap_SACLOS_magazine_displayName">
             <English>PLX-1 AP Missile (SACLOS)</English>
+            <French>Missile AP PLX-1 (SACLOS)</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_ap_magazine_descriptionShort">
             <English>Type: Anti-Personnel&lt;br/&gt;Rounds: 2&lt;br/&gt;Used in: PLX-1</English>
+            <French>Type : antipersonnel&lt;br/&gt;Charges : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_ap_magazine_displayName">
             <English>PLX-1 AP Missile</English>
+            <French>Missile AP PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_at_magazine_descriptionShort">
             <English>Type: Anti-Tank&lt;br/&gt;Rounds: 2&lt;br/&gt;Used in: PLX-1</English>
+            <French>Type : antichar&lt;br/&gt;Charges : 2&lt;br/&gt;Utilisé dans : PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_at_magazine_displayName">
             <English>PLX-1 AT Missile</English>
+            <French>Missile AC PLX-1</French>
         </Key>
         <Key ID="STR_ls_weapons_plx_plx1_displayName">
             <English>PLX-1</English>
+            <French>PLX-1</French>
         </Key>
     </Package>
 </Project>

@@ -3,33 +3,43 @@
     <Package name="explosives">
         <Key ID="STR_ls_explosives_breachCharge_descriptionShort">
             <English>Used to breach locked doors and walls.&lt;br/&gt;Type: Low-yield breaching charge&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+            <French>Utilisé pour forcer les portes verrouillées et les murs.&lt;br/&gt;Type : Charge de brèche à faible puissance&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol, murs</French>
         </Key>
         <Key ID="STR_ls_explosives_breachCharge_displayName">
             <English>Breaching Charge</English>
+            <French>Charge de brèche</French>
         </Key>
         <Key ID="STR_ls_explosives_caltropDispenser_descriptionShort">
             <English>Type: Non-lethal caltrop dispenser&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground</English>
+            <French>Type : Distributeur de chausse-trapes non létal&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol</French>
         </Key>
         <Key ID="STR_ls_explosives_caltropDispenser_displayName">
             <English>Caltrop Dispenser</English>
+            <French>Distributeur de chausse-trapes</French>
         </Key>
         <Key ID="STR_ls_explosives_caltrop_descriptionShort">
             <English>Knocks over units when stepped on.&lt;br/&gt;Type: Non-lethal caltrop&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground</English>
+            <French>Fait tomber les unités qui marchent dessus.&lt;br/&gt;Type : Chausse-trape non létale&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol</French>
         </Key>
         <Key ID="STR_ls_explosives_caltrop_displayName">
             <English>Caltrop</English>
+            <French>Chausse-trape</French>
         </Key>
         <Key ID="STR_ls_explosives_demoCharge_descriptionShort">
             <English>Used to destroy large structural walls.&lt;br/&gt;Type: High-yield explosive&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+            <French>Utilisé pour détruire les grands murs porteurs.&lt;br/&gt;Type : Explosif à forte puissance&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol, murs</French>
         </Key>
         <Key ID="STR_ls_explosives_demoCharge_displayName">
             <English>Demolition Charge</English>
+            <French>Charge de démolition</French>
         </Key>
         <Key ID="STR_ls_explosives_detpack_descriptionShort">
             <English>Used to disable vehicles.&lt;br/&gt;Type: Medium-yield explosive&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
+            <French>Utilisé pour neutraliser les véhicules.&lt;br/&gt;Type : Explosif à moyenne puissance&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol, murs</French>
         </Key>
         <Key ID="STR_ls_explosives_detpack_displayName">
             <English>Detonation Pack</English>
+            <French>Pack de détonation</French>
         </Key>
     </Package>
 </Project>

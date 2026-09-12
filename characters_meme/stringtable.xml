@@ -9,7 +9,7 @@
         </Key>
         <Key ID="STR_ls_characters_meme_blackbeard_vest">
             <English>Blackbeard's Vest</English>
-            <French>Gilet de Barbe Noir</French>
+            <French>Gilet de Barbe Noire</French>
             <Polish>Kamizelka Czarnobrodego</Polish>
             <Russian>Жилет 'Черной Бороды'</Russian>
         </Key>
@@ -39,7 +39,7 @@
         </Key>
         <Key ID="STR_ls_characters_meme_nutPleased_armed">
             <English>The Pleased Nut (Armed)</English>
-            <French>La Cacahuète Heureuse (Bras)</French>
+            <French>La Cacahuète Heureuse (Armée)</French>
             <Polish>Zadowolony Orzeszek (z Ramionami)</Polish>
             <Russian>Ублаженный орешек(С ручками)</Russian>
         </Key>
@@ -51,19 +51,19 @@
         </Key>
         <Key ID="STR_ls_characters_meme_nutgotiator_armed">
             <English>The Nugotiator (Armed)</English>
-            <French>La Cacahuète Négociatrice (Bras)</French>
+            <French>La Cacahuète Négociatrice (Armée)</French>
             <Polish>Orzechocjator (z ramionami)</Polish>
             <Russian>Орехоговорщик (С ручками)</Russian>
         </Key>
         <Key ID="STR_ls_characters_meme_splinterCell_nvg">
             <English>Clone SpecOp Trinocular Visor</English>
-            <French>Lunettes trinoculaire de clone SpecOp</French>
+            <French>Lunettes trinoculaires de clone SpecOp</French>
             <Polish>Wizjer Trzyoptyczny Żołnierza Klona</Polish>
             <Russian>Визор-тринокуляр Клона ШпекОпс</Russian>
         </Key>
         <Key ID="STR_ls_characters_meme_zygerrianDisguise">
             <English>Zygerrian Disguise</English>
-            <French>Déguisement de Zygerrian</French>
+            <French>Déguisement de Zygerrien</French>
             <Polish>Przebranie Zygerrianina</Polish>
             <Russian>Целкоррианская Маскировка</Russian>
         </Key>

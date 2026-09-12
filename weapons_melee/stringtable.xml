@@ -3,18 +3,23 @@
     <Package name="weapons_melee">
         <Key ID="STR_ls_weapons_melee_electrostaff_black_displayName">
             <English>Electrostaff (Black)</English>
+            <French>Bâton électrique (noir)</French>
         </Key>
         <Key ID="STR_ls_weapons_melee_electrostaff_descriptionShort">
             <English>Two-handed Weapon&lt;br/&gt;Used to combat Jedi</English>
+            <French>Arme à deux mains&lt;br/&gt;Utilisée pour combattre les Jedi</French>
         </Key>
         <Key ID="STR_ls_weapons_melee_electrostaff_displayName">
             <English>Electrostaff</English>
+            <French>Bâton électrique</French>
         </Key>
         <Key ID="STR_ls_weapons_melee_verpinePowerLance_descriptionShort">
             <English>Jousting Weapon&lt;br/&gt;Can be mounted to a 105-K Lancer Bike</English>
+            <French>Arme de joute&lt;br/&gt;Peut être montée sur une moto Lancer 105-K</French>
         </Key>
         <Key ID="STR_ls_weapons_melee_verpinePowerLance_displayName">
             <English>Verpine Power Lance</English>
+            <French>Lance énergétique Verpine</French>
         </Key>
     </Package>
 </Project>

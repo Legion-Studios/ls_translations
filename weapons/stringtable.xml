@@ -3,177 +3,229 @@
     <Package name="weapons">
         <Key ID="STR_ls_weapons_40mm_3Rnd_G75_HE_descriptionShort">
             <English>Type: High Explosive Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <French>Type : Munition explosive&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_G75_HE_displayName">
             <English>40 mm 3Rnd G75 HE Grenade Round</English>
+            <French>Grenade explosive G75 de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_G76_HEF_descriptionShort">
             <English>Type: High Explosive Fragmentation Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <French>Type : Munition explosive à fragmentation&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_G76_HEF_displayName">
             <English>40 mm 3Rnd G76 HEF Grenade Round</English>
+            <French>Grenade explosive à fragmentation G76 de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_G77_HEAB_descriptionShort">
             <English>Type: High Explosive Air Bursting Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <French>Type : Munition explosive à explosion aérienne&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_G77_HEAB_displayName">
             <English>40 mm 3Rnd G77 HEAB Grenade Round</English>
+            <French>Grenade explosive à explosion aérienne G77 de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM304D_HEDP_descriptionShort">
             <English>Type: High Explosive Dual-Purpose Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <French>Type : Munition explosive à double usage&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM304D_HEDP_displayName">
             <English>40 mm 3Rnd IM304D HEDP Grenade Round</English>
+            <French>Grenade explosive à double usage IM304D de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM334K_HEAT_descriptionShort">
             <English>Type: High Explosive Anti-Tank Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <French>Type : Munition explosive antichar&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM334K_HEAT_displayName">
             <English>40 mm 3Rnd IM334K HEAT Grenade Round</English>
+            <French>Grenade explosive antichar IM334K de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM41_HE_displayName">
             <English>40 mm 3Rnd IM41 HE Grenade Round</English>
+            <French>Grenade explosive IM41 de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM92F_HEF_descriptionShort">
             <English>Type: Fragmentation Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <French>Type : Munition à fragmentation&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM92F_HEF_displayName">
             <English>40 mm 3Rnd IM92F HEF Grenade Round</English>
+            <French>Grenade explosive à fragmentation IM92F de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM973B_HEAB_descriptionShort">
             <English>Type: High Explosive Air Bursting Rounds&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: 3GL</English>
+            <French>Type : Munition explosive à explosion aérienne&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_3Rnd_IM973B_HEAB_displayName">
             <English>40 mm 3Rnd IM973B HEAB Grenade Round</English>
+            <French>Grenade explosive à explosion aérienne IM973B de 40 mm à 3 charges</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G75_HE_descriptionShort">
             <English>Type: High Explosive Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <French>Type : Munition explosive&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G75_HE_displayName">
             <English>40 mm G75 HE Grenade Round</English>
+            <French>Grenade explosive G75 de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G76_HEF_descriptionShort">
             <English>Type: High Explosive Fragmentation Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <French>Type : Munition explosive à fragmentation&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G76_HEF_displayName">
             <English>40 mm G76 HEF Grenade Round</English>
+            <French>Grenade explosive à fragmentation G76 de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G77_HEAB_descriptionShort">
             <English>Type: High Explosive Air Bursting Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <French>Type : Munition explosive à explosion aérienne&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_G77_HEAB_displayName">
             <English>40 mm G77 HEAB Grenade Round</English>
+            <French>Grenade explosive à explosion aérienne G77 de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM304D_HEDP_descriptionShort">
             <English>Type: High Explosive Dual-Purpose Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <French>Type : Munition explosive à double usage&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM304D_HEDP_displayName">
             <English>40 mm IM304D HEDP Grenade Round</English>
+            <French>Grenade explosive à double usage IM304D de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM334K_HEAT_descriptionShort">
             <English>Type: High Explosive Anti-Tank Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <French>Type : Munition explosive antichar&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM334K_HEAT_displayName">
             <English>40 mm IM334K HEAT Grenade Round</English>
+            <French>Grenade explosive antichar IM334K de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM41_HE_displayName">
             <English>40 mm IM41 HE Grenade Round</English>
+            <French>Grenade explosive IM41 de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM92F_HEF_descriptionShort">
             <English>Type: Fragmentation Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <French>Type : Munition à fragmentation&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM92F_HEF_displayName">
             <English>40 mm IM92F HEF Grenade Round</English>
+            <French>Grenade explosive à fragmentation IM92F de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM973B_HEAB_descriptionShort">
             <English>Type: High Explosive Air Bursting Round&lt;br/&gt;Caliber: 40 mm&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: EGLM, 3GL</English>
+            <French>Type : Munition explosive à explosion aérienne&lt;br/&gt;Calibre : 40 mm&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : EGLM, 3GL</French>
         </Key>
         <Key ID="STR_ls_weapons_40mm_IM973B_HEAB_displayName">
             <English>40 mm IM973B HEAB Grenade Round</English>
+            <French>Grenade explosive à explosion aérienne IM973B de 40 mm</French>
         </Key>
         <Key ID="STR_ls_weapons_ap_SACLOS">
             <English>AP (SACLOS)</English>
+            <French>AP (SACLOS)</French>
         </Key>
         <Key ID="STR_ls_weapons_blasterCannon">
             <English>Blaster Cannon</English>
+            <French>Canon blaster</French>
             <Polish>Działo Blasterowe</Polish>
         </Key>
         <Key ID="STR_ls_weapons_blasterCarbine">
             <English>Blaster Carbine</English>
+            <French>Carabine blaster</French>
             <Polish>Karabinek Blasterowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_blasterPistol">
             <English>Blaster Pistol</English>
+            <French>Pistolet blaster</French>
             <Polish>Pistolet Blasterowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_blasterRifle">
             <English>Blaster Rifle</English>
+            <French>Fusil blaster</French>
             <Polish>Karabin Blasterowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_disposableLauncher">
             <English>Single-use Rocket Launcher</English>
+            <French>Lance-roquettes à usage unique</French>
         </Key>
         <Key ID="STR_ls_weapons_fragGrenade">
             <English>Fragmentation Grenade</English>
+            <French>Grenade à fragmentation</French>
         </Key>
         <!-- High Explosive -->
         <Key ID="STR_ls_weapons_heGrenade">
             <English>HE Grenade</English>
+            <French>Grenade explosive</French>
         </Key>
         <!-- High Explosive Air Bursting -->
         <Key ID="STR_ls_weapons_heabGrenade">
             <English>HEAB Grenade</English>
+            <French>Grenade à explosion aérienne</French>
         </Key>
         <!-- High Explosive Anti-Tank -->
         <Key ID="STR_ls_weapons_heatGrenade">
             <English>HEAT Grenade</English>
+            <French>Grenade antichar</French>
         </Key>
         <Key ID="STR_ls_weapons_heavyBlasterRifle">
             <English>Heavy Blaster Rifle</English>
+            <French>Fusil blaster lourd</French>
             <Polish>Ciężki Karabin Blasterowy</Polish>
         </Key>
         <!-- High Explosive Dual Purpose -->
         <Key ID="STR_ls_weapons_hedpGrenade">
             <English>HEDP Grenade</English>
+            <French>Grenade explosive à double usage</French>
         </Key>
         <!-- High Explosive Fragmentation -->
         <Key ID="STR_ls_weapons_hefGrenade">
             <English>HEF Grenade</English>
+            <French>Grenade explosive à fragmentation</French>
         </Key>
         <Key ID="STR_ls_weapons_highEnergy">
             <English>High energy</English>
+            <French>Haute énergie</French>
             <Polish>Wysokoenergetyczny</Polish>
         </Key>
         <Key ID="STR_ls_weapons_leftHand">
             <English>Left hand</English>
+            <French>Main gauche</French>
             <Polish>Lewa ręka</Polish>
         </Key>
         <Key ID="STR_ls_weapons_lowEnergy">
             <English>Low energy</English>
+            <French>Basse énergie</French>
             <Polish>Niskoenergetyczny</Polish>
         </Key>
         <Key ID="STR_ls_weapons_rightHand">
             <English>Right hand</English>
+            <French>Main droite</French>
             <Polish>Prawa ręka</Polish>
         </Key>
         <Key ID="STR_ls_weapons_rotaryBlasterCannon">
             <English>Rotary Blaster Cannon</English>
+            <French>Canon blaster rotatif</French>
             <Polish>Obrotowe Działko Blasterowe</Polish>
         </Key>
         <Key ID="STR_ls_weapons_scattergun">
             <English>Scattergun</English>
+            <French>Fusil disperseur</French>
             <Polish>Strzelba</Polish>
         </Key>
         <Key ID="STR_ls_weapons_sniperBlasterRifle">
             <English>Sniper Blaster Rifle</English>
+            <French>Fusil blaster de précision</French>
             <Polish>Blasterowy Karabin Wyborowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_standardEnergy">
             <English>Standard energy</English>
+            <French>Énergie standard</French>
             <Polish>Standardowa energia</Polish>
         </Key>
         <Key ID="STR_ls_weapons_usedRocketLauncher">
             <English>Used Rocket Launcher</English>
+            <French>Lance-roquettes utilisé</French>
         </Key>
     </Package>
 </Project>

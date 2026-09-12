@@ -141,7 +141,7 @@
         </Key>
         <Key ID="STR_ls_characters_holster_maroon_vest">
             <English>Belt and Holster (Maroon)</English>
-            <French>Ceinture et étui (marron)</French>
+            <French>Ceinture et étui (bordeaux)</French>
             <Polish>Pas i kabura (Kasztanowe)</Polish>
             <Russian>Пояс и кобура(Бордовый)</Russian>
         </Key>
@@ -369,7 +369,7 @@
         </Key>
         <Key ID="STR_ls_characters_poncho_sidestripeBrown">
             <English>Poncho (Sidestripe, Brown)</English>
-            <French>Poncho (rayure, marron)</French>
+            <French>Poncho (rayure, brun)</French>
             <Polish>Ponczo (Paski, Brązowy)</Polish>
             <Russian>Пончо (Окантовка, Коричневый)</Russian>
         </Key>
@@ -464,25 +464,25 @@
         </Key>
         <Key ID="STR_ls_characters_shoulderPouch">
             <English>Shoulder Pouch</English>
-            <French>Poches d'épaule</French>
+            <French>Poche d'épaule</French>
             <Polish>Ładownica Naramienna</Polish>
             <Russian>Наплечный подсумок</Russian>
         </Key>
         <Key ID="STR_ls_characters_spacer_alt_uniform">
             <English>Spacer Fatigues (Alt)</English>
-            <French>Gilet spatial (Alt)</French>
+            <French>Treillis spatial (Alt)</French>
             <Polish>Ubiór Załoganta (Alternatywny)</Polish>
             <Russian>Униформа космофлота (Альт)</Russian>
         </Key>
         <Key ID="STR_ls_characters_spacer_brownAlt_uniform">
             <English>Spacer Fatigues (Brown, Alt)</English>
-            <French>Gilet spatial (brun, Alt)</French>
+            <French>Treillis spatial (brun, Alt)</French>
             <Polish>Ubiór Załoganta (Brązowy Alternatywny)</Polish>
             <Russian>Униформа космофлота (Коричневая, Альт)</Russian>
         </Key>
         <Key ID="STR_ls_characters_spacer_brown_uniform">
             <English>Spacer Fatigues (Brown)</English>
-            <French>Gilet spatial (brun)</French>
+            <French>Treillis spatial (brun)</French>
             <Polish>Ubiór Załoganta (Brązowy)</Polish>
             <Russian>Униформа космофлота (Коричневая)</Russian>
         </Key>
@@ -494,7 +494,7 @@
         </Key>
         <Key ID="STR_ls_characters_spacer_uniform">
             <English>Spacer Fatigues</English>
-            <French>Gilet spatial</French>
+            <French>Treillis spatial</French>
             <Polish>Ubiór Załoganta</Polish>
             <Russian>Жилет космофлота</Russian>
         </Key>

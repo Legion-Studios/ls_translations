@@ -23,7 +23,7 @@
         </Key>
         <Key ID="STR_ls_meme_8ball_13">
             <English>This is the way.</English>
-            <French>Telle est la voie</French>
+            <French>Telle est la voie.</French>
             <Polish>Tak każe obyczaj.</Polish>
         </Key>
         <Key ID="STR_ls_meme_8ball_2">
@@ -83,7 +83,7 @@
         </Key>
         <Key ID="STR_ls_meme_goose_descriptionShort">
             <English>Honk!</English>
-            <French>Coin!</French>
+            <French>Coin !</French>
             <Polish>Honk!</Polish>
         </Key>
         <Key ID="STR_ls_meme_goose_displayName">
@@ -98,7 +98,7 @@
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_displayName">
             <English>Palpatine's 'Gracious Government Mix'</English>
-            <French>Le « Mélange Gouvernemental Gracieux » de Palpatine</French>
+            <French>Le « Mélange Gouvernemental Bienveillant » de Palpatine</French>
             <Polish>'Łaskawa Mieszanka Rrządowa' Palpatine'a</Polish>
         </Key>
         <Key ID="STR_ls_meme_graciousGovernmentMix_healActionName">

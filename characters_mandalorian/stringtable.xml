@@ -3,13 +3,13 @@
     <Package name="characters_mandalorian">
         <Key ID="STR_ls_characters_mandalorian_armorer_helmet">
             <English>Mandalorian Armorer Helmet</English>
-            <French>Casque d'Armurier Mandalorien</French>
+            <French>Casque d'armurier Mandalorien</French>
             <Polish>Hełm Mandaloriańskiej Płatnerki</Polish>
             <Russian>Шлем мандолорского кузнеца</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_backpack">
             <English>Mandalorian Backpack</English>
-            <French>Sac à Dos de Mandalorien</French>
+            <French>Sac à dos de Mandalorien</French>
             <Polish>Plecak Mandalorianina</Polish>
             <Russian>Рюкзак Мандолорца</Russian>
         </Key>
@@ -39,7 +39,7 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_daypack">
             <English>Mandalorian Daypack</English>
-            <French>Sac à Dos Léger Mandalorien</French>
+            <French>Sac à dos léger Mandalorien</French>
             <Polish>Lekki Plecak Mandalorianina</Polish>
             <Russian>Рюкзак Мандолорца</Russian>
         </Key>
@@ -51,25 +51,25 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_captain_helmet">
             <English>Deathwatch Captain Helmet</English>
-            <French>Casque de Capitaine de la Deathwatch</French>
+            <French>Casque de capitaine de la Deathwatch</French>
             <Polish>Hełm Kapitana Watachy Śmierci</Polish>
             <Russian>Шлем капитана Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_captain_vest">
             <English>Deathwatch Captain Armor</English>
-            <French>Armure de Capitaine de la Deathwatch</French>
+            <French>Armure de capitaine de la Deathwatch</French>
             <Polish>Zbroja Kapitana Watachy Śmierci</Polish>
             <Russian>Броня капитана Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_grunt_helmet">
             <English>Deathwatch Grunt Helmet</English>
-            <French>Casque de Fantassin de la Deathwatch</French>
+            <French>Casque de fantassin de la Deathwatch</French>
             <Polish>Hełm Żołnierza Watachy Śmierci</Polish>
             <Russian>Шлем солдата Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_grunt_vest">
             <English>Deathwatch Grunt Armor</English>
-            <French>Armure de Fantassin de la Deathwatch</French>
+            <French>Armure de fantassin de la Deathwatch</French>
             <Polish>Zbroja Żołnierza Watachy Śmierci</Polish>
             <Russian>Броня солдата Дозора Смерти</Russian>
         </Key>
@@ -81,19 +81,19 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_sergeant_helmet">
             <English>Deathwatch Sergeant Helmet</English>
-            <French>Casque de Sergent de la Deathwatch</French>
+            <French>Casque de sergent de la Deathwatch</French>
             <Polish>Hełm Sierżanta Watachy Śmierci</Polish>
             <Russian>Шлем сержанта Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_deathwatch_sergeant_vest">
             <English>Deathwatch Sergeant Armor</English>
-            <French>Armure de Sergent de la Deathwatch</French>
+            <French>Armure de sergent de la Deathwatch</French>
             <Polish>Zbroja Sierżanta Watachy Śmierci</Polish>
             <Russian>Броня сержанта Дозора Смерти</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_demo_backpack">
             <English>Mandalorian Demopack</English>
-            <French>Sac de Démolition Mandalorien</French>
+            <French>Sac de démolition Mandalorien</French>
             <Polish>Torba Saperska Mandalorianina</Polish>
             <Russian>Рюкзак мандолорского сапера</Russian>
         </Key>
@@ -111,25 +111,25 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_eldar_grunt_helmet">
             <English>Clan Eldar Grunt Helmet</English>
-            <French>Casque de Fantassin du Clan Eldar</French>
+            <French>Casque de fantassin du Clan Eldar</French>
             <Polish>Hełm Żołnierza Klanu Eldar</Polish>
             <Russian>Шлемо солдата клана Элдар</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_eldar_grunt_vest">
             <English>Clan Eldar Grunt Armor</English>
-            <French>Armure de Fantassin du Clan Eldar</French>
+            <French>Armure de fantassin du Clan Eldar</French>
             <Polish>Zbroja Żołnierza Klanu Eldar</Polish>
             <Russian>Броня солдата клана Элдар</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_eldar_sergeant_helmet">
             <English>Clan Eldar Sergeant Helmet</English>
-            <French>Casque de Sergent du Clan Eldar</French>
+            <French>Casque de sergent du Clan Eldar</French>
             <Polish>Hełm Sierżanta Klanu Eldar</Polish>
             <Russian>Шлем сержанта клана Элдар</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_eldar_sergeant_vest">
             <English>Clan Eldar Sergeant Armor</English>
-            <French>Armure de Sergent du Clan Eldar</French>
+            <French>Armure de sergent du Clan Eldar</French>
             <Polish>Zbroja Sierżanta Klanu Eldar</Polish>
             <Russian>Броня сержанта клана Элдар</Russian>
         </Key>
@@ -141,25 +141,25 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_executioner_helmet">
             <English>Mandalorian Executioner Helmet</English>
-            <French>Casque d'Exécuteur Mandalorien</French>
+            <French>Casque d'exécuteur Mandalorien</French>
             <Polish>Hełm Mandaloriańskiego Egzekutora</Polish>
             <Russian>Шлем мандолорского палача</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_heavy_backpack">
             <English>Mandalorian Heavy Backpack</English>
-            <French>Sac à Dos Lourd Mandalorien</French>
+            <French>Sac à dos lourd Mandalorien</French>
             <Polish>Ciężki Plecak Mandalorianina</Polish>
             <Russian>Мандолорский рюкзак тяж. вооружений</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_journeyman_jetpack">
             <English>Journeyman's Jetpack</English>
-            <French>Jetpack de Mercenaire Mandalorien</French>
+            <French>Jetpack de mercenaire Mandalorien</French>
             <Polish>Plecak Odrzutowy Czeladnika</Polish>
             <Russian>Джетпак путешественника</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_medic_daypack">
             <English>Mandalorian Medic Daypack</English>
-            <French>Sac à Dos Léger Médical Mandalorien</French>
+            <French>Sac à dos léger médical Mandalorien</French>
             <Polish>Lekki Plecak Mandaloriańskiego Medyka</Polish>
             <Russian>Мандолорский рюкзак медика</Russian>
         </Key>
@@ -171,25 +171,25 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_ordo_grunt_helmet">
             <English>Clan Ordo Grunt Helmet</English>
-            <French>Casque de Fantassin du Clan Ordo</French>
+            <French>Casque de fantassin du Clan Ordo</French>
             <Polish>Hełm Żołnierza Klanu Ordo</Polish>
             <Russian>Шлем солдата клана Ордо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_ordo_grunt_vest">
             <English>Clan Ordo Grunt Armor</English>
-            <French>Armure de Fantassin du Clan Ordo</French>
+            <French>Armure de fantassin du Clan Ordo</French>
             <Polish>Zbroja Żołnierza Klanu Ordo</Polish>
             <Russian>Броня солдата клана Ордо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_ordo_sergeant_helmet">
             <English>Clan Ordo Sergeant Helmet</English>
-            <French>Casque de Sergent du Clan Ordo</French>
+            <French>Casque de sergent du Clan Ordo</French>
             <Polish>Hełm Sierżanta Klanu Ordo</Polish>
             <Russian>Шлем сержанта клана Ордо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_ordo_sergeant_vest">
             <English>Clan Ordo Sergeant Armor</English>
-            <French>Armure de Sergent du Clan Ordo</French>
+            <French>Armure de sergent du Clan Ordo</French>
             <Polish>Zbroja Sierżanta Klanu Ordo</Polish>
             <Russian>Броня сержанта клана Ордо</Russian>
         </Key>
@@ -201,31 +201,31 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_pouches_masculine">
             <English>Mandalorian Pouches (Masculine)</English>
-            <French>Poches de Mandalorien (Masculin)</French>
+            <French>Poches de Mandalorien (masculin)</French>
             <Polish>Mandaloriańska Ładownica (Męska)</Polish>
             <Russian>Мандолорские подсумки (Мускул.)</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_protector_masculine_slim_vest">
             <English>Mandalorian Protector Armor (Masculine, Slim)</English>
-            <French>Armure de Protecteur Mandalorien (Masculin, Mince)</French>
+            <French>Armure de Protecteur Mandalorien (masculin, Mince)</French>
             <Polish>Pancerz Protektora Mandalorian (Męski, Szczupły)</Polish>
             <Russian>Броня мандолорского защитника (Мускул, Легкий)</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_protector_masculine_uniform">
             <English>Mandalorian Protector Armor (Masculine)</English>
-            <French>Armure de Protecteur Mandalorien (Masculin)</French>
+            <French>Armure de Protecteur Mandalorien (masculin)</French>
             <Polish>Pancerz Protektora Mandalorian (Męski)</Polish>
             <Russian>Броня мандолорского защитника(Мускул.)</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_protector_masculine_vest">
             <English>Mandalorian Protector Vest (Masculine)</English>
-            <French>Gilet Tactique de Protecteur Mandalorien (Masculin)</French>
+            <French>Gilet tactique de Protecteur Mandalorien (masculin)</French>
             <Polish>Kamizelka Protektora Mandalorian (Męska)</Polish>
             <Russian>Жилет мандолорского защитника (Мускул)</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_radio_daypack">
             <English>Mandalorian Radio Daypack</English>
-            <French>Sac à Dos Léger Radio Mandalorien</French>
+            <French>Sac à dos léger Radio Mandalorien</French>
             <Polish>Lekki Plecak Mandaloriańskiej Radiostacji</Polish>
             <Russian>Радио-рюкзак мандолорцев</Russian>
         </Key>
@@ -237,25 +237,25 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_saxon_grunt_helmet">
             <English>Clan Saxon Grunt Helmet</English>
-            <French>Casque de Fantassin du Clan Saxon</French>
+            <French>Casque de fantassin du Clan Saxon</French>
             <Polish>Hełm Żołnierza Klanu Saxon</Polish>
             <Russian>Шлем солдата клана Саксон</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_saxon_grunt_vest">
             <English>Clan Saxon Grunt Armor</English>
-            <French>Armure de Fantassin du Clan Saxon</French>
+            <French>Armure de fantassin du Clan Saxon</French>
             <Polish>Zbroja Żołnierza Klanu Saxon</Polish>
             <Russian>Броня солдата клана Саксон</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_saxon_sergeant_helmet">
             <English>Clan Saxon Sergeant Helmet</English>
-            <French>Casque de Sergent du Clan Saxon</French>
+            <French>Casque de sergent du Clan Saxon</French>
             <Polish>Hełm Sierżanta Klanu Saxon</Polish>
             <Russian>Шлем сержанта клана Саксон</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_saxon_sergeant_vest">
             <English>Clan Saxon Sergeant Armor</English>
-            <French>Armure de Sergent du Clan Saxon</French>
+            <French>Armure de sergent du Clan Saxon</French>
             <Polish>Zbroja Sierżanta Klanu Saxon</Polish>
             <Russian>Броня сержанта клана Саксон</Russian>
         </Key>
@@ -267,49 +267,49 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_superCommando_captain_helmet">
             <English>Super Commando Captain Helmet</English>
-            <French>Casque de Capitaine Super Commando</French>
+            <French>Casque de capitaine super commando</French>
             <Polish>Hełm Kapitana Mandaloriańskich Superkomandosów</Polish>
             <Russian>Шлем капитана Супер-Коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_superCommando_grunt_helmet">
             <English>Super Commando Grunt Helmet</English>
-            <French>Casque de Fantassin Super Commando</French>
+            <French>Casque de fantassin super commando</French>
             <Polish>Hełm Żołnierza Mandaloriańskich Superkomandosów</Polish>
             <Russian>Шлем солдата Супер-Коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_superCommando_grunt_uniform">
             <English>Super Commando Grunt Armor</English>
-            <French>Armure de Fantassin Super Commando</French>
+            <French>Armure de fantassin super commando</French>
             <Polish>Zbroja Żołnierza Mandaloriańskich Superkomandosów</Polish>
             <Russian>Броня солдата Супер-Коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_superCommando_grunt_vest">
             <English>Super Commando Grunt Vest</English>
-            <French>Gilet Tactique de Fantassin Super Commando</French>
+            <French>Gilet tactique de fantassin super commando</French>
             <Polish>Kamizelka Żołnierza Mandaloriańskich Superkomandosów</Polish>
             <Russian>Жилет солдата Супер-Коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_superCommando_sergeant_helmet">
             <English>Super Commando Sergeant Helmet</English>
-            <French>Casque de Sergent Super Commando</French>
+            <French>Casque de sergent super commando</French>
             <Polish>Hełm Sierżanta Mandaloriańskich Superkomandosów</Polish>
             <Russian>Шлем сержанта Супер-Коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_superCommando_sergeant_uniform">
             <English>Super Commando Sergeant Armor</English>
-            <French>Armure de Sergent Super Commando</French>
+            <French>Armure de sergent super commando</French>
             <Polish>Zbroja Sierżanta Mandaloriańskich Superkomandosów</Polish>
             <Russian>Броня сержанта Супер-Коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_superCommando_sergeant_vest">
             <English>Super Commando Sergeant Vest</English>
-            <French>Gilet Tactique de Sergent Super Commando</French>
+            <French>Gilet tactique de sergent super commando</French>
             <Polish>Kamizelka Sierżanta Mandaloriańskich Superkomandosów</Polish>
             <Russian>Жилет сержанта Супер-Коммандо</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_superCommandos">
             <English>Super Commandos</English>
-            <French>Super Commandos</French>
+            <French>Super commandos</French>
             <Polish>Mandaloriańscy Superkomandosi</Polish>
             <Russian>Супер-Коммандо</Russian>
         </Key>
@@ -321,7 +321,7 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_traditional_feminine_uniform">
             <English>Mandalorian Traditional Armor (Feminine)</English>
-            <French>Armure Traditionnelle Mandalorienne (Féminin)</French>
+            <French>Armure Traditionnelle mandalorienne (Féminin)</French>
             <Polish>Tradycyjna Mandaloriańska Zbroja (Kobieca)</Polish>
             <Russian>Традиционная мандолорская броня (Жен.)</Russian>
         </Key>
@@ -333,7 +333,7 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_undersuit_masculine">
             <English>Mandalorian Undersuit (Masculine)</English>
-            <French>Combinaison de Mandalorien (Masculin)</French>
+            <French>Combinaison de Mandalorien (masculin)</French>
             <Polish>Mandaloriański Kobinezon Pod Zbroję (Męski)</Polish>
             <Russian>Мандолорский костюм-перчатка(Мускул.)</Russian>
         </Key>
@@ -345,37 +345,37 @@
         </Key>
         <Key ID="STR_ls_characters_mandalorian_vizsla_captain_helmet">
             <English>Clan Vizsla Captain Helmet</English>
-            <French>Casque de Capitaine du Clan Vizsla</French>
+            <French>Casque de capitaine du Clan Vizsla</French>
             <Polish>Hełm Kapitana Klanu Vizsla</Polish>
             <Russian>Шлем капитана клана Визла</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_vizsla_captain_vest">
             <English>Clan Vizsla Captain Armor</English>
-            <French>Armure de Capitaine du Clan Vizsla</French>
+            <French>Armure de capitaine du Clan Vizsla</French>
             <Polish>Zbroja Kapitana Klanu Vizsla</Polish>
             <Russian>Броня капитана клана Визла</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_vizsla_grunt_helmet">
             <English>Clan Vizsla Grunt Helmet</English>
-            <French>Casque de Fantassin du Clan Vizsla</French>
+            <French>Casque de fantassin du Clan Vizsla</French>
             <Polish>Hełm Żołnierza Klanu Vizsla</Polish>
             <Russian>Шлем солдата клана Визла</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_vizsla_grunt_vest">
             <English>Clan Vizsla Grunt Armor</English>
-            <French>Armure de Fantassin du Clan Vizsla</French>
+            <French>Armure de fantassin du Clan Vizsla</French>
             <Polish>Zbroja Żołnierza Klanu Vizsla</Polish>
             <Russian>Броня солдата клана Визла</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_vizsla_sergeant_helmet">
             <English>Clan Vizsla Sergeant Helmet</English>
-            <French>Casque de Sergent du Clan Vizsla</French>
+            <French>Casque de sergent du Clan Vizsla</French>
             <Polish>Hełm Sierżanta Klanu Vizsla</Polish>
             <Russian>Шлем сержанта клана Визла</Russian>
         </Key>
         <Key ID="STR_ls_characters_mandalorian_vizsla_sergeant_vest">
             <English>Clan Vizsla Sergeant Armor</English>
-            <French>Armure de Sergent du Clan Vizsla</French>
+            <French>Armure de sergent du Clan Vizsla</French>
             <Polish>Zbroja Sierżanta Klanu Vizsla</Polish>
             <Russian>Броня сержанта клана Визла</Russian>
         </Key>
