@@ -6,12 +6,14 @@
             <French>Tourelle droïde</French>
             <Polish>Droid-Wieżyczka</Polish>
             <Russian>Дроид-турель</Russian>
+            <German>Droidengeschütz</German>
         </Key>
         <Key ID="STR_ls_vehicles_turretdroid_packed_description">
             <English>A deployable Turret-droid</English>
             <French>Une tourelle droïde déployable.</French>
             <Polish>Rozstawialny Droid-Wieżyczka</Polish>
             <Russian>Размещаемая дроид-турель</Russian>
+            <German>Ein aufstellbares Droidengeschütz</German>
         </Key>
     </Package>
 </Project>

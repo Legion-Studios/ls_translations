@@ -3,10 +3,12 @@
     <Package name="weapons_mpl">
         <Key ID="STR_ls_weapons_mpl_displayName">
             <English>MPl-57</English>
+            <German>MPl-57</German>
             <French>MPL-57</French>
         </Key>
         <Key ID="STR_ls_weapons_mpl_rebel_displayName">
             <English>MPl-57 (Rebel)</English>
+            <German>MPl-57 (Rebellen)</German>
             <French>MPL-57 (rebelle)</French>
         </Key>
     </Package>
