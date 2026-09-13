@@ -3,18 +3,18 @@
     <Package name="weapons_firepuncher">
         <Key ID="STR_ls_weapons_firepuncher_displayName">
             <English>Firepuncher</English>
-            <German>Firepuncher</German>
             <French>Firepuncher</French>
+            <German>Firepuncher</German>
         </Key>
         <Key ID="STR_ls_weapons_firepuncher_magazine_descriptionShort">
             <English>Caliber: .338 mw&lt;br/&gt;Rounds: 15&lt;br/&gt;Used in: Firepuncher</English>
-            <German>Kaliber: .338 mW&lt;br/&gt;Patronen: 15&lt;br/&gt;Verwendet in: Firepuncher</German>
             <French>Calibre : .338 mW&lt;br/&gt;Charges : 15&lt;br/&gt;Utilisé dans : Firepuncher</French>
+            <German>Kaliber: .338 mW&lt;br/&gt;Patronen: 15&lt;br/&gt;Verwendet in: Firepuncher</German>
         </Key>
         <Key ID="STR_ls_weapons_firepuncher_magazine_displayName">
             <English>Firepuncher Energy Cell</English>
-            <German>Firepuncher Energiezelle</German>
             <French>Cellule énergétique de Firepuncher</French>
+            <German>Firepuncher Energiezelle</German>
         </Key>
     </Package>
 </Project>
