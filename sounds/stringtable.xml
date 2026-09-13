@@ -3,8 +3,8 @@
     <Package name="sounds">
         <Key ID="STR_ls_sounds_acpa_pump">
             <English>Pump ACP-A</English>
-            <German>ACP-A repetieren</German>
             <French>Pomper ACP-A</French>
+            <German>ACP-A repetieren</German>
         </Key>
         <Key ID="STR_ls_sounds_activeCamo_activate">
             <English>Active Camo Activate</English>
