@@ -98,8 +98,8 @@
             <Russian>Солдат клон</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_cloneTroopers_phase1">
-            <English>Clone Troopers (Phase 1)</English>
-            <French>Soldats clones (Phase 1)</French>
+            <English>Clone Troopers (phase 1)</English>
+            <French>Soldats clones (phase 1)</French>
             <Polish>Żołnierz Klon (Faza 1)</Polish>
             <Russian>Солдат клоны (Фаза 1)</Russian>
         </Key>
@@ -123,13 +123,13 @@
         </Key>
         <Key ID="STR_ls_characters_clone_electrobinoculars_night">
             <English>Clone Commander Electrobinoculars (Night)</English>
-            <French>Jumelles électroniques de commandant clone (Nuit)</French>
+            <French>Jumelles électroniques de commandant clone (nuit)</French>
             <Polish>Elektrolornetka Klona Komandora (Noc)</Polish>
             <Russian>Электробинокль клона-коммандера(Ночной)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_gunner_vest">
             <English>Clone Gunner Vest</English>
-            <French>Gilet de clone tireur (Artilleur)</French>
+            <French>Gilet de clone tireur (artilleur)</French>
             <Polish>Kamizelka Klona Artylerzysty</Polish>
             <Russian>Жилет клон-артиллериста</Russian>
         </Key>
@@ -182,13 +182,13 @@
             <Russian>Жилет клон-офицера</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_p1_headlamp">
-            <English>Clone Phase 1 Headlamp</English>
+            <English>Clone phase 1 Headlamp</English>
             <French>Lampe frontale de clone phase 1</French>
             <Polish>Latarka Hełmowa Fazy 1</Polish>
             <Russian>Нашлемный фонарь клона(Фаза 1)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_p1_helmet_interior">
-            <English>Clone Phase 1 Helmet Interior</English>
+            <English>Clone phase 1 Helmet Interior</English>
             <French>Intérieur de casque de clone phase 1</French>
             <Polish>Wnętrze Hełmu Klona Fazy 1</Polish>
             <Russian>ХУД солдат-клона (Фаза 1)</Russian>
@@ -206,19 +206,19 @@
             <Russian>ХУД солдат-клона (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase1_helmet">
-            <English>Clone Phase 1 Helmet</English>
+            <English>Clone phase 1 Helmet</English>
             <French>Casque de clone phase 1</French>
             <Polish>Hełm Żołnierza Klona Fazy 1</Polish>
             <Russian>Шлем солдат-клона фазы 1</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase1_rangefinder">
-            <English>Clone Phase 1 Rangefinder</English>
+            <English>Clone phase 1 Rangefinder</English>
             <French>Télémètre de clone phase 1</French>
             <Polish>Dalmierz Żołnierza Klona Fazy 1</Polish>
             <Russian>Дальномер солдат-клона фазы 1</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase1_visor">
-            <English>Clone Phase 1 Visor</English>
+            <English>Clone phase 1 Visor</English>
             <French>Visière de clone phase 1</French>
             <Polish>Wizjer Żołnierza Klona Fazy 1</Polish>
             <Russian>Вищор солдат-клона фазы 1</Russian>
@@ -231,7 +231,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_commander_visor_white">
             <English>Clone Phase 2 Commander Visor (White)</English>
-            <French>Visière de commandant clone phase 2 (Blanc)</French>
+            <French>Visière de commandant clone phase 2 (blanc)</French>
             <Polish>Wizjer Żołnierza Komandora Klona Fazy 2 (Biały)</Polish>
             <Russian>Визор клона-коммандера фазы 2 (Белый)</Russian>
         </Key>
@@ -267,13 +267,13 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_helmet">
             <English>Clone Pilot Phase 3 Helmet</English>
-            <French>Casque de clone pilote phase 3</French>
+            <French>Casque de pilote clone phase 3</French>
             <Polish>Hełm Klona Pilota Fazy 3</Polish>
             <Russian>Шлем клона-летчика фазы 3</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_imperial">
             <English>Clone Phase 3 Pilot Visor (Tactical)</English>
-            <French>Visière de pilote clone phase 3 (Tactique)</French>
+            <French>Visière de pilote clone phase 3 (tactique)</French>
             <Polish>Wizjer Klona Pilota Fazy 3 (Taktyczny)</Polish>
             <Russian>Визор клона-летчика фазы 3(Тактический)</Russian>
         </Key>
@@ -285,7 +285,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_phase3_pilot_vwing">
             <English>Clone Phase 3 Pilot Visor (V-Wing)</English>
-            <French>Pilote républicain phase 3 (Vwing)</French>
+            <French>Visière de pilote clone phase 3 (V-Wing)</French>
             <Polish>Klon Pilot Republiki Fazy 3 (Vwing)</Polish>
             <Russian>Визор республиканского летчика (V-wing)</Russian>
         </Key>
