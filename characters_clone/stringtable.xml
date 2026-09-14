@@ -93,6 +93,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_cloneCommandos">
             <English>Clone Commandos</English>
+            <French>Commandos clone</French>
         </Key>
         <Key ID="STR_ls_characters_clone_cloneTrooper">
             <English>Clone Trooper</English>
@@ -162,7 +163,7 @@
         </Key>
         <Key ID="STR_ls_characters_clone_katarn_helmet_interior">
             <English>Clone Commando Katarn I Helmet Interior</English>
-            <French>Intérieur de casque clone commando Katarn I</French>
+            <French>Intérieur de casque commando clone Katarn I</French>
             <Polish>Wnętrze Hełmu Klona Komandosa Katarn 1</Polish>
             <Russian>ХУД Республиканского Коммандос 1-й фазы</Russian>
         </Key>
