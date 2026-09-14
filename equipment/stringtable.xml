@@ -85,5 +85,11 @@
             <Russian>Размещаемый сквад-шилд</Russian>
             <German>Ein aufstellbares Abteilungsschild</German>
         </Key>
+        <Key ID="STR_ls_equipment_wristBinders_descriptionShort">
+            <English>Wrist Binders for restraining captives.</English>
+        </Key>
+        <Key ID="STR_ls_equipment_wristBinders_displayName">
+            <English>Wrist Binders</English>
+        </Key>
     </Package>
 </Project>
