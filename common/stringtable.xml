@@ -369,6 +369,9 @@
             <Russian>Некорректное значение</Russian>
             <German>Ungültiger Wert</German>
         </Key>
+        <Key ID="STR_ls_common_jedi">
+            <English>Jedi</English>
+        </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_no">
             <English>No</English>

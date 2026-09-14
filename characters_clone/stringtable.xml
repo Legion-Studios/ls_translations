@@ -91,6 +91,9 @@
             <Polish>Torba Paskowa Klona</Polish>
             <Russian>Поясная сумка</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_cloneCommandos">
+            <English>Clone Commandos</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_cloneTrooper">
             <English>Clone Trooper</English>
             <French>Soldat clone</French>
@@ -98,8 +101,8 @@
             <Russian>Солдат клон</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_cloneTroopers_phase1">
-            <English>Clone Troopers (phase 1)</English>
-            <French>Soldats clones (phase 1)</French>
+            <English>Clone Troopers (Phase 1)</English>
+            <French>Soldats clones (Phase 1)</French>
             <Polish>Żołnierz Klon (Faza 1)</Polish>
             <Russian>Солдат клоны (Фаза 1)</Russian>
         </Key>
