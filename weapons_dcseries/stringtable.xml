@@ -7,11 +7,11 @@
             <Polish>DC-15A</Polish>
             <German>DC-15A</German>
         </Key>
-        <Key ID="STR_ls_weapons_dcseries_dc15a_wooden_displayName">
-            <English>DC-15A (Wooden Stock)</English>
-            <French>DC-15A (crosse en bois)</French>
-            <Polish>DC-15A (Drewniana Kolba)</Polish>
-            <German>DC-15A (Holzschaft)</German>
+        <Key ID="STR_ls_weapons_dcseries_dc15a_ugl_displayName">
+            <English>DC-15A UGL</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15le_displayName">
+            <English>DC-15LE</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc15s_displayName">
             <English>DC-15S</English>
