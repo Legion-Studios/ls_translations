@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="units_mandalorian">
+        <Key ID="STR_ls_units_mandalorian_warrior">
+            <English>Warrior</English>
+            <French>Guerrier</French>
+            <Polish>Wojownik</Polish>
+            <Russian>Воин</Russian>
+            <German>Krieger</German>
+        </Key>
+        <Key ID="STR_ls_units_mandalorian_warrior_at">
+            <English>Warrior (AT)</English>
+            <French>Guerrier (AC)</French>
+            <Polish>Wojownik (Przeciwpancerny)</Polish>
+            <Russian>Воин(АТ)</Russian>
+            <German>Krieger (PA)</German>
+        </Key>
+        <Key ID="STR_ls_units_mandalorian_warrior_heavy">
+            <English>Heavy Warrior</English>
+            <French>Guerrier lourd</French>
+            <Polish>Ciężki Wojownik</Polish>
+            <Russian>Воин-Джаггернаут</Russian>
+            <German>Schwerer Krieger</German>
+        </Key>
+    </Package>
+</Project>

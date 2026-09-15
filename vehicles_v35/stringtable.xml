@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="vehicles_v35">
+        <Key ID="STR_ls_vehicles_v35_courier_displayName">
+            <English>V-35 Courier</English>
+            <French>V-35 Courier</French>
+            <Polish>V-35 Courier</Polish>
+            <Russian>Лэндспидер В-35</Russian>
+            <German>V-35 Courrier</German>
+        </Key>
+    </Package>
+</Project>

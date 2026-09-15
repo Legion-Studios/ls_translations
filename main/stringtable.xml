@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="main">
+        <Key ID="STR_ls_main_url">
+            <English>https://github.com/Legion-Studios/LegionCore-Public</English>
+            <Czech>https://github.com/Legion-Studios/LegionCore-Public</Czech>
+            <French>https://github.com/Legion-Studios/LegionCore-Public</French>
+            <Spanish>https://github.com/Legion-Studios/LegionCore-Public</Spanish>
+            <Italian>https://github.com/Legion-Studios/LegionCore-Public</Italian>
+            <Polish>https://github.com/Legion-Studios/LegionCore-Public</Polish>
+            <Portuguese>https://github.com/Legion-Studios/LegionCore-Public</Portuguese>
+            <Russian>https://github.com/Legion-Studios/LegionCore-Public</Russian>
+            <German>https://github.com/Legion-Studios/LegionCore-Public</German>
+            <Korean>https://github.com/Legion-Studios/LegionCore-Public</Korean>
+            <Japanese>https://github.com/Legion-Studios/LegionCore-Public</Japanese>
+            <Chinese>https://github.com/Legion-Studios/LegionCore-Public</Chinese>
+            <Chinesesimp>https://github.com/Legion-Studios/LegionCore-Public</Chinesesimp>
+            <Turkish>https://github.com/Legion-Studios/LegionCore-Public</Turkish>
+            <Hungarian>https://github.com/Legion-Studios/LegionCore-Public</Hungarian>
+        </Key>
+    </Package>
+</Project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="dubbing">
+        <Key ID="STR_ls_dubbing_noVoice">
+            <English>No Voice</English>
+            <French>Pas de voix</French>
+            <Polish>Brak Głosu</Polish>
+            <Russian>Без голоса</Russian>
+            <German>Stimmenlos</German>
+        </Key>
+    </Package>
+</Project>
