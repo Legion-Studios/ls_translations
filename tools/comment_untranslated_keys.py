@@ -16,9 +16,6 @@ from contextlib import redirect_stdout
 
 def output_message(project_path: str, languages: list[str]):
     """Prints a table of the results to stdout"""
-    print("| Language | Missing Entries | Addons |")
-    print("|----------|----------------:|--------|")
-
     row = "| {} | {} | {} |"
     all_missing_keys: set[str] = set()
     total_missing_translations: dict[str, tuple[int, set[str]]] = {}
@@ -39,6 +36,13 @@ def output_message(project_path: str, languages: list[str]):
             addons.add(addon)
             total_missing_translations[language] = (
                 total_count + count, addons)
+
+    if not total_missing_translations:
+        print("No missing translations found!")
+        return
+
+    print("| Language | Missing Entries | Addons |")
+    print("|----------|----------------:|--------|")
 
     for language, value in total_missing_translations.items():
         total_keys, addons = value
@@ -78,8 +82,7 @@ def extract_added_languages(git_diff: str) -> list[str]:
     return added_languages
 
 
-def create_github_comment(message: str):
-    print(message)
+def create_github_comment(message: str) -> int:
     try:
         token = os.environ["GITHUB_TOKEN"]
         pr_number = int(os.environ["PR_NUMBER"])
@@ -103,7 +106,7 @@ def create_github_comment(message: str):
         return 1
     else:
         print("Successfully commented on pull request.")
-    return
+    return 0
 
 
 def main() -> int:
