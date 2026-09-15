@@ -3,9 +3,11 @@
     <Package name="characters_clone_legions">
         <Key ID="STR_ls_characters_clone_legions_clone_100th_phase1">
             <English>100th Company (Phase 1)</English>
+            <French>100e compagnie (phase 1)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_100th_phase2">
             <English>100th Company (Phase 2)</English>
+            <French>100e compagnie (phase 2)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_104th_phase2">
             <English>104th Wolfpack Battalion (Phase 2)</English>
