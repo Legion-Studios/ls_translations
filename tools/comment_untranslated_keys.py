@@ -124,7 +124,7 @@ def main() -> int:
         with redirect_stdout(output_capture):
             output_message(project_path, languages)
 
-        create_github_comment(output_capture.getvalue())
+        return create_github_comment(output_capture.getvalue())
 
     return 0
 
