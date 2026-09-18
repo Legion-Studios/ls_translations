@@ -3,9 +3,11 @@
     <Package name="characters_clone_legions">
         <Key ID="STR_ls_characters_clone_legions_clone_100th_phase1">
             <English>100th Company (Phase 1)</English>
+            <French>100e compagnie (phase 1)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_100th_phase2">
             <English>100th Company (Phase 2)</English>
+            <French>100e compagnie (phase 2)</French>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_104th_phase2">
             <English>104th Wolfpack Battalion (Phase 2)</English>
@@ -182,7 +184,7 @@
             <Russian>Клон коммандер</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_coruscantGuard_phase2">
-            <English>Coruscant Guard</English>
+            <English>Coruscant Guard (Phase 2)</English>
             <French>Garde de Coruscant (Phase 2)</French>
             <Polish>Gwardia Coruscant (Faza 2)</Polish>
             <Russian>Корусантская Гвардия (Фаза 2)</Russian>
