@@ -5,116 +5,139 @@
             <English>Westar-35C</English>
             <French>Westar-35C</French>
             <German>Westar-35C</German>
+            <Polish>Westar-35C</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35c_magazine_descriptionShort">
             <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 45&lt;br/&gt;Used in: Westar-35C</English>
             <French>Calibre : 5.56x45 mW&lt;br/&gt;Charges : 45&lt;br/&gt;Utilisé dans : Westar-35C</French>
             <German>Kaliber: 5.56x45 mW&lt;br/&gt;Patronen: 45&lt;br/&gt;Verwendet in: Westar-35C</German>
+            <Polish>Kaliber: 5.56x45 mw&lt;br/&gt;Strzały: 45&lt;br/&gt;Używane w: Westar-35C</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35c_magazine_displayName">
             <English>Westar-35C Energy Cell</English>
             <French>Cellule énergétique de Westar-35C</French>
             <German>Westar-35C Energiezelle</German>
+            <Polish>Ogniwo Elektryczne Westar-35C</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_displayName">
             <English>Westar-35S</English>
             <French>Westar-35S</French>
             <German>Westar-35S</German>
+            <Polish>Westar-35S</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 35&lt;br/&gt;Used in: Westar-35S</English>
             <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges : 35&lt;br/&gt;Utilisé dans : Westar-35S</French>
             <German>Kaliber: 6.5x39 mW&lt;br/&gt;Patronen: 35&lt;br/&gt;Verwendet in: Westar-35S</German>
+            <Polish>Kaliber: 6.5x39 mw&lt;br/&gt;Strzały: 35&lt;br/&gt;Używane w: Westar-35S</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_displayName">
             <English>Westar-35S Energy Cell</English>
             <French>Cellule énergétique de Westar-35S</French>
             <German>Westar-35S Energiezelle</German>
+            <Polish>Ogniwo Elektryczne Westar-35S</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_scatter_descriptionShort">
             <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Westar-35S Underbarrel Scattergun</English>
             <French>Calibre : 12&lt;br/&gt;Charges : 10&lt;br/&gt;Utilisé dans : Disperseur sous-canon de Westar-35S</French>
             <German>Kaliber: Kaliber 12&lt;br/&gt;Patronen: 10&lt;br/&gt;Verwendet in: Westar-35S Unterlaufschrotblaster</German>
+            <Polish>Kaliber: Kaliber 12&lt;br/&gt;Strzały: 10&lt;br/&gt;Używane w: Westar-35S Strzelba Podlufowa</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_magazine_scatter_displayName">
             <English>Westar-35S Scatter Energy Cell</English>
             <French>Cellule énergétique à dispersion de Westar-35S</French>
             <German>Westar-35S Schrotenergiezelle</German>
+            <Polish>Ogniwo Elektryczne WESTAR-35S (rozpraszające)</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_muzzle_suppressor_displayName">
             <English>Westar-35 Flash Suppressor</English>
             <French>Cache-flamme de Westar-35</French>
             <German>Westar-35 Mündungsfeuerdämpfer</German>
+            <Polish>Tłumik Płomienia Westar-35</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35s_optic_scope_displayName">
             <English>Westar-35 Holosight</English>
             <French>Viseur holographique Westar-35</French>
             <German>Westar-35 Holovisier</German>
+            <Polish>Celownik Holograficzny Westar-35</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_displayName">
             <English>Westar-35SA</English>
             <French>Westar-35SA</French>
             <German>Westar-35SA</German>
+            <Polish>Westar-35SA</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_magazine_descriptionShort">
             <English>Caliber: .45 mw&lt;br/&gt;Rounds: 17&lt;br/&gt;Used in: Westar-35SA</English>
             <French>Calibre : .45 mW&lt;br/&gt;Charges : 17&lt;br/&gt;Utilisé dans : Westar-35SA</French>
             <German>Kaliber: .45 mW&lt;br/&gt;Patronen: 17&lt;br/&gt;Verwendet in: Westar-35SA</German>
+            <Polish>Kaliber: .45 mw&lt;br/&gt;Strzały: 17&lt;br/&gt;Używane w: Westar-35SA</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_magazine_displayName">
             <English>Westar-35SA Energy Cell</English>
             <French>Cellule énergétique de Westar-35SA</French>
             <German>Westar-35SA Energiezelle</German>
+            <Polish>Ogniwo Elektryczne Westar-35SA</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_pointer_flashlight_displayName">
             <English>Westar-35SA Flashlight</English>
             <French>Lampe de Westar-35SA</French>
             <German>Westar-35SA Taschenlampe</German>
+            <Polish>Latarka Westar-35SA</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westar35sa_pointer_laser_displayName">
             <English>Westar-35SA Laser Pointer</English>
             <French>Pointeur laser de Westar-35SA</French>
             <German>Westar-35SA Laserpointer</German>
+            <Polish>Laser Westar-35SA</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_displayName">
             <English>Westar-M5</English>
             <French>Westar-M5</French>
             <German>Westar-M5</German>
+            <Polish>Westar-M5</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_magazine_descriptionShort">
             <English>Caliber: 7.62x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Westar-M5</English>
             <French>Calibre : 7.62x39 mW&lt;br/&gt;Charges : 30&lt;br/&gt;Utilisé dans : Westar-M5</French>
             <German>Kaliber: 7.62x39 mW&lt;br/&gt;Patronen: 30&lt;br/&gt;Verwendet in: Westar-M5</German>
+            <Polish>Kaliber: 7.62x39 mw&lt;br/&gt;Strzały: 30&lt;br/&gt;Używane w: Westar-M5</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_magazine_displayName">
             <English>Westar-M5 Energy Cell</English>
             <French>Cellule énergétique de Westar-M5</French>
             <German>Westar-M5 Energiezelle</German>
+            <Polish>Ogniwo Elektryczne Westar-M5</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_magazine_lowEnergy_descriptionShort">
             <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: Westar-M5</English>
             <French>Calibre : 5.56x45 mW&lt;br/&gt;Charges : 100&lt;br/&gt;Utilisé dans : Westar-M5</French>
             <German>Kaliber: 5.56x45 mW&lt;br/&gt;Patronen: 100&lt;br/&gt;Verwendet in: Westar-M5</German>
+            <Polish>Kaliber: 5.56x45 mw&lt;br/&gt;Strzały: 100&lt;br/&gt;Używane w: Westar-M5</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_magazine_lowEnergy_displayName">
             <English>Westar-M5 Low Energy Cell</English>
             <French>Cellule basse énergie de Westar-M5</French>
             <German>Westar-M5 Niederleistungsenergiezelle</German>
+            <Polish>Ogniwo Nisko-Elektryczne Westar-M5</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_optic_scope_descriptionShort">
             <English>Blaster scope&lt;br/&gt;Maginification: 2x-4x</English>
             <French>Lunette de blaster&lt;br/&gt;Grossissement : 2x-4x</French>
             <German>Blasterzielfernrohr&lt;br/&gt;Vergrößerung: 2x-4x</German>
+            <Polish>Luneta Optyczna&lt;br/&gt;Przybliżenie: 2x-4x</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_optic_scope_displayName">
             <English>Westar-M5 Scope</English>
             <French>Lunette de Westar-M5</French>
             <German>Westar-M5 Zielfernrohr</German>
+            <Polish>Luneta Westar-M5</Polish>
         </Key>
         <Key ID="STR_ls_weapons_westar_westarM5_ugl_displayName">
             <English>Westar-M5 UGL</English>
             <French>Lance-grenades de Westar-M5</French>
             <German>Westar-M5 Unterlaufgranatwerfer</German>
+            <Polish>Westar-M5 Granatnik Podlufowy</Polish>
         </Key>
     </Package>
 </Project>

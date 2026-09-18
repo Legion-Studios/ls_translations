@@ -5,16 +5,19 @@
             <English>RD-4 Radiation Cannon</English>
             <French>Canon à radiation RD-4</French>
             <German>RD-4 Strahlungskanone</German>
+            <Polish>Działo Radiacyjne RD-4</Polish>
         </Key>
         <Key ID="STR_ls_weapons_rd4_magazine_descriptionShort">
             <English>Caliber: 40 mm &lt;br/&gt;Rounds: 3&lt;br/&gt;Used in: RD-4</English>
             <French>Calibre : 40 mm&lt;br/&gt;Charges : 3&lt;br/&gt;Utilisé dans : RD-4</French>
             <German>Kaliber: 40 mm &lt;br/&gt;Patronen: 3&lt;br/&gt;Verwendet in: RD-4</German>
+            <Polish>Kaliber: 40 mm&lt;br/&gt;Strzały: 3&lt;br/&gt;Używane w: RD-4</Polish>
         </Key>
         <Key ID="STR_ls_weapons_rd4_magazine_displayName">
             <English>RD-4 Radiation Canister</English>
             <French>Cartouche de canon à radiation RD-4</French>
             <German>RD-4 Strahlungskanister</German>
+            <Polish>Kanister Radiacyjny RD-4</Polish>
         </Key>
     </Package>
 </Project>
