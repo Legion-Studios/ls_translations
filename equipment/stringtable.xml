@@ -80,10 +80,16 @@
         </Key>
         <Key ID="STR_ls_equipment_squadShield_packed_descriptionShort">
             <English>A deployable squad shield</English>
-            <French>Un bouclier d'escouade déployable.</French>
-            <Polish>Rozstawialna tarcza oddziałowa.</Polish>
+            <French>Un bouclier d'escouade déployable</French>
+            <Polish>Rozstawialna tarcza oddziałowa</Polish>
             <Russian>Размещаемый сквад-шилд</Russian>
             <German>Ein aufstellbares Abteilungsschild</German>
+        </Key>
+        <Key ID="STR_ls_equipment_wristBinders_descriptionShort">
+            <English>Wrist Binders for restraining captives</English>
+        </Key>
+        <Key ID="STR_ls_equipment_wristBinders_displayName">
+            <English>Wrist Binders</English>
         </Key>
     </Package>
 </Project>
