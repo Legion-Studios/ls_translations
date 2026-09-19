@@ -26,6 +26,7 @@
             <English>Unit is already riding an AT-RT</English>
             <French>L'unité est déjà sur un AT-RT</French>
             <German>Einheit ist bereits auf einem AT-RT</German>
+            <Polish>Jednostka już korzysta z AT-RT</Polish>
         </Key>
         <Key ID="STR_ls_modules_deletedGroups">
             <English>Deleted %1 local empty groups</English>
@@ -80,11 +81,13 @@
             <English>Execute code</English>
             <French>Exécuter le code</French>
             <German>Code ausführen</German>
+            <Polish>Wykonaj kod</Polish>
         </Key>
         <Key ID="STR_ls_modules_executeCode_waveSpawn_tooltip">
             <English>Code to run on the server after each wave spawn\nPassed variables are: [_module, _vehicles, _spawnTrigger, _spawnDelay]</English>
             <French>Code exécuté sur le serveur après l'apparition de chaque vague\nVariables transmises : [_module, _vehicles, _spawnTrigger, _spawnDelay]</French>
             <German>Code, der nach jeder Spawnwelle ausgeführt wird\nMitgegebene Variablen: [_module, _vehicles, _spawnTrigger, _spawnDelay]</German>
+            <Polish>Kod do wykonania na serwerze po każdej fali\nPrzekazane zmienne to: [_module, _vehicles, _spawnTrigger, _spawnDelay]</Polish>
         </Key>
         <Key ID="STR_ls_modules_lockState_label">
             <English>Door Lock State</English>
@@ -104,6 +107,7 @@
             <English>Adds the 'Notify Pilots' action from the Reinsert Terminal to the synchronized objects.</English>
             <French>Ajoute l'action « Prévenir les pilotes » du terminal de réinsertion aux objets synchronisés.</French>
             <German>Fügt die „Piloten Benachrigtigen“-Option von Wiedereinsatz-Terminals zu synchronisierten Objekten hinzu</German>
+            <Polish>Dodaj akcje "Powiadom Pilotów" do terminala ponownego rozmieszczenia</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleAddReinsertAction_displayName">
             <English>Add Reinsert Action</English>
@@ -116,16 +120,19 @@
             <English>When activated by a trigger, continuously spawns aircraft in waves near the module's position until all of the synchronized objects are destroyed.</English>
             <French>Lorsqu'il est activé par un déclencheur, fait apparaître en continu des vaisseaux par vagues près de la position du module, jusqu'à ce que tous les objets synchronisés soient détruits.</French>
             <German>Wenn durch einen Trigger aktiviert, spawnen kontinuierlich Luftfahrzeuge in Wellen nahe der Modulposition, bis alle synchronisierten Objekte zerstört sind</German>
+            <Polish>Po aktywacji wyzwalacem, twórz fale pojazdów lotniczych przy pozycji modułu do póki wszystkie zsynchronizowane obiekty nie zostaną zniszcone</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleAircraftSpawner_displayName">
             <English>Aircraft Spawner</English>
             <French>Générateur de vaisseaux</French>
             <German>Luftfahrzeugsspawner</German>
+            <Polish>Spawner Lotnictwa</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal_description">
             <English>Fully heal players that enter the module's area. Checked every 5 seconds.</English>
             <French>Soigne entièrement les joueurs qui entrent dans la zone du module. Vérification toutes les 5 secondes.</French>
             <German>Heilt Spieler, die den Modulradius betreten, vollständig. Überprüfung alle 5 Sekunden</German>
+            <Polish>W pełni wylecz graczy którzy wejdą w wyznaczoną strefę. Sprawdza co 5 sekund.</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleAreaHeal_displayName">
             <English>Area Heal</English>
@@ -152,16 +159,19 @@
             <English>Dismount AT-RT</English>
             <French>Quitter l'AT-RT</French>
             <German>Von AT-RT absitzen</German>
+            <Polish>Wysiądź z AT-RT</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleDroidDispenser_description">
             <English>When activated by a trigger, spawns a droid dispenser falling from the sky. Units will begin to spawn after the dispenser hits the ground and a small delay passes.&lt;br/&gt;The dispenser hitting the ground will cause damage.</English>
             <French>Lorsqu'il est activé par un déclencheur, fait apparaître un distributeur de droïdes qui tombe du ciel. Les unités commenceront à être déployées après que le distributeur aura touché le sol et qu'un court délai se sera écoulé.&lt;br/&gt;L'impact du distributeur au sol inflige des dégâts.</French>
             <German>Wenn durch einen Trigger aktiviert, fällt ein Droidendispenser aus der Luft. Einheiten fangen an zu spawnen, kurz nachdem der Dispenser gelandet ist.&lt;br/&gt;Der Aufschlag des Dispensers verursacht Schaden</German>
+            <Polish>Po aktywacji za pomocą wyzwalacza z nieba spada zasobnik z droidami. Jednostki zaczynają się pojawiać z krótkim opóźnieniem po jego uderzeniu o ziemię.&lt;br/&gt;Uderzenie zasobnika o ziemię zadaje obrażenia.</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleMountATRT_displayName">
             <English>Mount AT-RT</English>
             <French>Monter sur l'AT-RT</French>
             <German>Auf AT-RT aufsteigen</German>
+            <Polish>Wsiądź na AT-RT</Polish>
         </Key>
         <Key ID="STR_ls_modules_moduleSetSkills_displayName">
             <English>Set Skills</English>
@@ -213,11 +223,13 @@
             <English>Must be placed on an AT-RT</English>
             <French>Doit être placé sur un AT-RT</French>
             <German>Muss auf einem AT-RT platziert werden</German>
+            <Polish>Musi być użyte na AT-RT</Polish>
         </Key>
         <Key ID="STR_ls_modules_onlyATRTOrRider">
             <English>Must be placed on an AT-RT or its rider</English>
             <French>Doit être placé sur un AT-RT ou sur son pilote</French>
             <German>Muss auf einem AT-RT oder dessen Reiter platziert werden</German>
+            <Polish>Musi być użyte na AT-RT lub jego kierowcy</Polish>
         </Key>
         <!-- Credit: https://github.com/acemod/ACE3/blob/master/addons/zeus/stringtable.xml#L1573-L1589 -->
         <Key ID="STR_ls_modules_onlyAlive">
@@ -271,24 +283,29 @@
         <Key ID="STR_ls_modules_rallyPoint_label">
             <English>Rally Point</English>
             <French>Point de ralliement</French>
+            <Polish>Punkt Zbiórki</Polish>
         </Key>
         <Key ID="STR_ls_modules_rallyPoint_tooltip">
             <English>Select a rally point where units will move to.\nIf Zeus Enhanced is not loaded (or no rally points exist), units will loiter nearby.</English>
             <French>Sélectionner un point de ralliement vers lequel les unités se déplaceront.\nSi Zeus Enhanced n'est pas chargé (ou qu'aucun point de ralliement n'existe), les unités patrouilleront à proximité.</French>
+            <Polish>Wskazuje punkt zbiórki dla jednostek.\nJeśli Zeus Enhanced nie jest załadowany (lub nie ma punktów zbiórki) jednostki zostaną w okolicy.</Polish>
         </Key>
         <Key ID="STR_ls_modules_requires_zen">
             <English>Requires Zeus Enhanced</English>
             <French>Nécessite Zeus Enhanced</French>
+            <Polish>Wymaga Zeus Enhanced</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnDelay_label">
             <English>Spawn Delay</English>
             <French>Délai d'apparition</French>
             <German>Spawnverzögerung</German>
+            <Polish>Opóźnienie Spawn-u</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnDelay_tooltip">
             <English>Time between wave spawns</English>
             <French>Temps entre chaque vague</French>
             <German>Zeit zwischen Spawnwellen</German>
+            <Polish>Czas między falami</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnLimit_label">
             <English>Spawn Limit</English>
@@ -308,31 +325,37 @@
             <English>Continious</English>
             <French>Continu</French>
             <German>kontinuierlich</German>
+            <Polish>Bez końca</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_continious_tooltip">
             <English>Continiously spawn waves</English>
             <French>Faire apparaître des vagues en continu</French>
             <German>Spawnt kontinuierlich wellenweise</German>
+            <Polish>Twórz fale bez końca</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_label">
             <English>Spawn Trigger</English>
             <French>Déclencheur d'apparition</French>
             <German>Spawntrigger</German>
+            <Polish>Wyzwalacz spawn-u</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_tooltip">
             <English>Select when a new wave should be spawned</English>
             <French>Sélectionner quand une nouvelle vague doit apparaître</French>
             <German>Wähle aus, wann eine neue Welle spawnen soll</German>
+            <Polish>Wybierz kiedy ma zostać stworzona następna fala</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_label">
             <English>When all units have been destroyed</English>
             <French>Quand toutes les unités ont été détruites</French>
             <German>Wenn alle Einheiten zerstört wurden</German>
+            <Polish>Po zniszczeniu wszystkich jednostek</Polish>
         </Key>
         <Key ID="STR_ls_modules_spawnTrigger_waveDestroyed_tooltip">
             <English>Spawn the next wave after all units in the previous wave were destroyed</English>
             <French>Fait apparaître la vague suivante une fois que toutes les unités de la vague précédente ont été détruites</French>
             <German>Spawne die nächste Welle nachdem alle vorherigen Einheiten zerstört wurden</German>
+            <Polish>Tworzy następnąa falę po zniszczeniu wszystkich jednostek istniejacej falii</Polish>
         </Key>
         <Key ID="STR_ls_modules_updatedSkills">
             <English>Updated skills for %1</English>
@@ -345,21 +368,25 @@
             <English>Vehicle Types</English>
             <French>Types de véhicules</French>
             <German>Fahrzeugtyp</German>
+            <Polish>Typy Pojazdów</Polish>
         </Key>
         <Key ID="STR_ls_modules_vehicleTypes_tooltip">
             <English>Select what types of vehicles to spawn\nHold CTRL and left click to select multiple types</English>
             <French>Sélectionner les types de véhicules à faire apparaître\nMaintenez CTRL et cliquez avec le bouton gauche pour sélectionner plusieurs types</French>
             <German>Wähle aus, welche Fahrzeugtypen gespawnt werden\nStrg+Linksklick für Mehrfachauswahl</German>
+            <Polish>Wybierz jakie typy pojazdów mają być tworzone. Możesz wybrać kilka trzymając przycisk CTRL</Polish>
         </Key>
         <Key ID="STR_ls_modules_waveSize_label">
             <English>Wave Size</English>
             <French>Taille de la vague</French>
             <German>Wellengröße</German>
+            <Polish>Rozmiar Fali</Polish>
         </Key>
         <Key ID="STR_ls_modules_waveSize_tooltip">
             <English>Number of vehicles spawned in each wave</English>
             <French>Nombre de véhicules apparaissant à chaque vague</French>
             <German>Anzahl Fahrzeuge pro Welle</German>
+            <Polish>Liczba pojazdów w fali</Polish>
         </Key>
         <Key ID="STR_lsb_common_distribution_gaussian">
             <English>Gaussian</English>

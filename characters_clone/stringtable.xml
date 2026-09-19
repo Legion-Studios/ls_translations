@@ -94,6 +94,7 @@
         <Key ID="STR_ls_characters_clone_cloneCommandos">
             <English>Clone Commandos</English>
             <French>Commandos clones</French>
+            <Polish>Klony Komandosi</Polish>
         </Key>
         <Key ID="STR_ls_characters_clone_cloneTrooper">
             <English>Clone Trooper</English>
