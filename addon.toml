@@ -1,0 +1,7 @@
+[files]
+exclude = [
+    ".github/**/*", # Exclude all files in the .github folder
+    ".vscode/**/*",
+    "tools/**/*",
+    ".git"
+]
