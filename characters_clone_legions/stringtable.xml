@@ -1,119 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="characters_clone_legions">
-        <Key ID="STR_ls_characters_clone_legions_clone_104th">
-            <English>104th Wolfpack Battalion</English>
-            <French>104e bataillon "Wolfpack"</French>
-            <Polish>104-ty Batalion "Wolfpack"</Polish>
-            <Russian>104ый батальон "Волчья Стая"</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_100th_phase1">
+            <English>100th Company (Phase 1)</English>
+            <French>100e compagnie (phase 1)</French>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_13th">
-            <English>13th Iron Battalion</English>
-            <French>13e bataillon "Iron"</French>
-            <Polish>13-ty Batalion "Iron"</Polish>
-            <Russian>13ый "Железный" батальон</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_100th_phase2">
+            <English>100th Company (Phase 2)</English>
+            <French>100e compagnie (phase 2)</French>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_187th">
-            <English>187th Legion</English>
-            <French>187e Légion</French>
-            <Polish>187-my Legion</Polish>
-            <Russian>187ой Легион</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_104th_phase2">
+            <English>104th Wolfpack Battalion (Phase 2)</English>
+            <French>104e bataillon "Wolfpack" (Phase 2)</French>
+            <Polish>104-ty Batalion "Wolfpack" (Faza 2)</Polish>
+            <Russian>104ый батальон "Волчья Стая" (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_212th">
-            <English>212th Attack Batallion</English>
-            <French>212e bataillon d'assaut</French>
-            <Polish>212-ty Batalion Szturmowy</Polish>
-            <Russian>212ый ударный батальон</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_13th_phase2">
+            <English>13th Iron Battalion (Phase 2)</English>
+            <French>13e bataillon "Iron" (Phase 2)</French>
+            <Polish>13-ty Batalion "Iron" (Faza 2)</Polish>
+            <Russian>13ый "Железный" батальон (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_21st">
-            <English>21st Nova Corps</English>
-            <French>21e Nova Corps</French>
-            <Polish>21-szy Korpus</Polish>
-            <Russian>21ый Нова Корпус</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_187th_phase2">
+            <English>187th Legion (Phase 2)</English>
+            <French>187e Légion (Phase 2)</French>
+            <Polish>187-my Legion (Faza 2)</Polish>
+            <Russian>187ой Легион (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_327th">
-            <English>327th Sky Corps</English>
-            <French>327e Corps d'armée stellaire</French>
-            <Polish>327-my Korpus Gwiezdny</Polish>
-            <Russian>327ой Десантный Корпус</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_212th_phase2">
+            <English>212th Attack Batallion (Phase 2)</English>
+            <French>212e bataillon d'assaut (Phase 2)</French>
+            <Polish>212-ty Batalion Szturmowy (Faza 2)</Polish>
+            <Russian>212ый ударный батальон (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_332nd">
-            <English>332nd Legion</English>
-            <French>332e Légion</French>
-            <Polish>332-gi Legion</Polish>
-            <Russian>332ой Легион</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_21st_phase2">
+            <English>21st Nova Corps (Phase 2)</English>
+            <French>21e Nova Corps (Phase 2)</French>
+            <Polish>21-szy Korpus (Faza 2)</Polish>
+            <Russian>21ый Нова Корпус (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_34th">
-            <English>34th Clone Assassins</English>
-            <French>34e assassins</French>
-            <Polish>34-ci Zamachowcy</Polish>
-            <Russian>34ый Клонов-Ассасинов</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_327th_phase2">
+            <English>327th Sky Corps (Phase 2)</English>
+            <French>327e Corps d'armée stellaire (Phase 2)</French>
+            <Polish>327-my Korpus Gwiezdny (Faza 2)</Polish>
+            <Russian>327ой Десантный Корпус (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_38th">
-            <English>38th Armored Division</English>
-            <French>38e division blindée</French>
-            <Polish>38-ma Dywizja Pancerna</Polish>
-            <Russian>38ая Танковая Дивизия</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_332nd_phase2">
+            <English>332nd Legion (Phase 2)</English>
+            <French>332e Légion (Phase 2)</French>
+            <Polish>332-gi Legion (Faza 2)</Polish>
+            <Russian>332ой Легион (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_41st">
-            <English>41st Elite Corps</English>
-            <French>41e corps d'élite</French>
-            <Polish>41-szy Korpus Elitarny</Polish>
-            <Russian>41ый Элитный корпус</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_34th_phase2">
+            <English>34th Clone Assassins (Phase 2)</English>
+            <French>34e assassins (Phase 2)</French>
+            <Polish>34-ci Zamachowcy (Faza 2)</Polish>
+            <Russian>34ый Клонов-Ассасинов (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_41stRb">
-            <English>41st Ranger Battalion</English>
-            <French>41e bataillon de rangers</French>
-            <Polish>41-szy Batalion Desantowy</Polish>
-            <Russian>41ый батальон рейнджеров</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_38th_phase2">
+            <English>38th Armored Division (Phase 2)</English>
+            <French>38e division blindée (Phase 2)</French>
+            <Polish>38-ma Dywizja Pancerna (Faza 2)</Polish>
+            <Russian>38ая Танковая Дивизия (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_41stgc">
-            <English>41st Green Company</English>
-            <French>41e compagnie verte</French>
-            <Polish>41-sza Kompania "Zielona"</Polish>
-            <Russian>41ая "Зеленая" рота</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_41st_phase2">
+            <English>41st Elite Corps (Phase 2)</English>
+            <French>41e corps d'élite (Phase 2)</French>
+            <Polish>41-szy Korpus Elitarny (Faza 2)</Polish>
+            <Russian>41ый Элитный корпус (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_442nd">
-            <English>442nd Siege Battalion</English>
-            <French>442e bataillon de siège</French>
-            <Polish>442-gi Batalion Oblężniczy</Polish>
-            <Russian>442ой Осадный Батальон</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_41stgc_phase2">
+            <English>41st Green Company (Phase 2)</English>
+            <French>41e compagnie verte (Phase 2)</French>
+            <Polish>41-sza Kompania "Zielona" (Faza 2)</Polish>
+            <Russian>41ая "Зеленая" рота (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_501st">
-            <English>501st Legion</English>
-            <French>501e Légion</French>
-            <Polish>501-szy Legion</Polish>
-            <Russian>501ый Легион</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_41strb_phase2">
+            <English>41st Ranger Battalion (Phase 2)</English>
+            <French>41e bataillon de rangers (Phase 2)</French>
+            <Polish>41-szy Batalion Desantowy (Faza 2)</Polish>
+            <Russian>41ый батальон рейнджеров (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_5th">
-            <English>5th Security Fleet</English>
-            <French>5e flotte de sécurité</French>
-            <Polish>5-ta Grupa Ochrony Floty</Polish>
-            <Russian>5ый Оборонный Флот</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_442nd_phase2">
+            <English>442nd Siege Battalion (Phase 2)</English>
+            <French>442e bataillon de siège (Phase 2)</French>
+            <Polish>442-gi Batalion Oblężniczy (Faza 2)</Polish>
+            <Russian>442ой Осадный Батальон (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_612th">
-            <English>612th Attack Battalion</English>
-            <French>612e bataillon d'assaut</French>
-            <Polish>612-ty Batalion Szturmowy</Polish>
-            <Russian>612ый Ударный Батальон</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_501st_phase2">
+            <English>501st Legion (Phase 2)</English>
+            <French>501e Légion (Phase 2)</French>
+            <Polish>501-szy Legion (Faza 2)</Polish>
+            <Russian>501ый Легион (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_74th">
-            <English>74th Legion</English>
-            <French>74e Légion</French>
-            <Polish>74-ty Legion</Polish>
-            <Russian>74ый Легион</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_5th_phase2">
+            <English>5th Security Fleet (Phase 2)</English>
+            <French>5e flotte de sécurité (Phase 2)</French>
+            <Polish>5-ta Grupa Ochrony Floty (Faza 2)</Polish>
+            <Russian>5ый Оборонный Флот (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_91st">
-            <English>91st Recon Corps</English>
-            <French>91e corps de reconnaissance</French>
-            <Polish>91-szy Korpus Zwiadowczy</Polish>
-            <Russian>91ый Развед. Корпус</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_612th_phase2">
+            <English>612th Attack Battalion (Phase 2)</English>
+            <French>612e bataillon d'assaut (Phase 2)</French>
+            <Polish>612-ty Batalion Szturmowy (Faza 2)</Polish>
+            <Russian>612ый Ударный Батальон (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_9th">
-            <English>9th Assault Corps</English>
-            <French>9e corps d'assaut</French>
-            <Polish>9-ty Korpus Szturmowy</Polish>
-            <Russian>9ый Штурмовой Корпус</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_74th_phase2">
+            <English>74th Legion (Phase 2)</English>
+            <French>74e Légion (Phase 2)</French>
+            <Polish>74-ty Legion (Faza 2)</Polish>
+            <Russian>74ый Легион (Фаза 2)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_91st_phase1">
+            <English>91st Recon Corps (Phase 1)</English>
+            <French>91e corps de reconnaissance (Phase 1)</French>
+            <Polish>91-szy Korpus Zwiadowczy (Faza 1)</Polish>
+            <Russian>91ый Развед. Корпус (Фаза 1)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_91st_phase2">
+            <English>91st Recon Corps (Phase 2)</English>
+            <French>91e corps de reconnaissance (Phase 2)</French>
+            <Polish>91-szy Korpus Zwiadowczy (Faza 2)</Polish>
+            <Russian>91ый Развед. Корпус (Фаза 2)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_9th_phase2">
+            <English>9th Assault Corps (Phase 2)</English>
+            <French>9e corps d'assaut (Phase 2)</French>
+            <Polish>9-ty Korpus Szturmowy (Faza 2)</Polish>
+            <Russian>9ый Штурмовой Корпус (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_AT">
             <English>Clone Trooper (AT)</English>
@@ -169,11 +183,11 @@
             <Polish>Klon Komandor</Polish>
             <Russian>Клон коммандер</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_coruscantGuard">
-            <English>Coruscant Guard</English>
-            <French>Garde de Coruscant</French>
-            <Polish>Gwardia Coruscant</Polish>
-            <Russian>Корусантская Гвардия</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_coruscantGuard_phase2">
+            <English>Coruscant Guard (Phase 2)</English>
+            <French>Garde de Coruscant (Phase 2)</French>
+            <Polish>Gwardia Coruscant (Faza 2)</Polish>
+            <Russian>Корусантская Гвардия (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_deltaSquad">
             <English>Delta Squad</English>
@@ -187,11 +201,11 @@
             <Polish>Żołnierz Klon (Saper)</Polish>
             <Russian>Солдат клон (Взрывотехник)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_du">
-            <English>Doom's Unit</English>
-            <French>Unité "Doom"</French>
-            <Polish>Jednostka "Doom"</Polish>
-            <Russian>"Адское" подразделение</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_du_phase2">
+            <English>Doom's Unit (Phase 2)</English>
+            <French>Unité "Doom" (Phase 2)</French>
+            <Polish>Jednostka "Doom" (Faza 2)</Polish>
+            <Russian>"Адское" подразделение (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_heavyAA">
             <English>Clone Trooper (Missile AA)</English>
@@ -205,17 +219,17 @@
             <Polish>Żołnierz Klon (Ciężki Przeciwpancerny)</Polish>
             <Russian>Солдат-клон (ПТРК)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_hornCompany">
-            <English>Horn Company</English>
-            <French>Compagnie "Horn"</French>
-            <Polish>Kompania "Horn"</Polish>
-            <Russian>Рота "Хорн"</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_hornCompany_phase2">
+            <English>Horn Company (Phase 2)</English>
+            <French>Compagnie "Horn" (Phase 2)</French>
+            <Polish>Kompania "Horn" (Faza 2)</Polish>
+            <Russian>Рота "Хорн" (Фаза 2)</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_kCompany">
-            <English>327th K Company</English>
-            <French>327e Compagnie K</French>
-            <Polish>327-ma Kompania K</Polish>
-            <Russian>Рота "Кей" 327го</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_kCompany_phase2">
+            <English>327th K Company (Phase 2)</English>
+            <French>327e Compagnie K (Phase 2)</French>
+            <Polish>327-ma Kompania K (Faza 2)</Polish>
+            <Russian>Рота "Кей" 327го (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_lieutenant">
             <English>Clone Lieutenant</English>
@@ -253,11 +267,11 @@
             <Polish>Klon Pilot</Polish>
             <Russian>Клон Летчик</Russian>
         </Key>
-        <Key ID="STR_ls_characters_clone_legions_clone_rancor">
-            <English>RANCOR Battalion</English>
-            <French>Bataillon "RANCOR"</French>
-            <Polish>Batalion "RANCOR"</Polish>
-            <Russian>Батальон "Ранкор"</Russian>
+        <Key ID="STR_ls_characters_clone_legions_clone_rancor_phase2">
+            <English>RANCOR Battalion (Phase 2)</English>
+            <French>Bataillon "RANCOR" (Phase 2)</French>
+            <Polish>Batalion "RANCOR" (Faza 2)</Polish>
+            <Russian>Батальон "Ранкор" (Фаза 2)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_rto">
             <English>Clone Trooper (RTO)</English>
