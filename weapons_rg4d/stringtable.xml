@@ -5,16 +5,19 @@
             <English>RG-4D</English>
             <French>RG-4D</French>
             <German>RG-4D</German>
+            <Polish>RG-4D</Polish>
         </Key>
         <Key ID="STR_ls_weapons_rg4d_magazine_descriptionShort">
             <English>Caliber: 9 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: RG-4D</English>
             <French>Calibre : 9 mW&lt;br/&gt;Charges : 30&lt;br/&gt;Utilisé dans : RG-4D</French>
             <German>Kaliber: 9 mW&lt;br/&gt;Patronen: 30&lt;br/&gt;Verwendet in: RG-4D</German>
+            <Polish>Kaliber: 9 mw&lt;br/&gt;Strzały: 30&lt;br/&gt;Używane w: RG-4D</Polish>
         </Key>
         <Key ID="STR_ls_weapons_rg4d_magazine_displayName">
             <English>RG-4D Energy Cell</English>
             <French>Cellule énergétique RG-4D</French>
             <German>RG-4D Energiezelle</German>
+            <Polish>Ogniwo Elektryczne do RG-4D</Polish>
         </Key>
     </Package>
 </Project>

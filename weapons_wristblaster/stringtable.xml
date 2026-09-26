@@ -5,61 +5,73 @@
             <English>Arm mounted repeating blaster</English>
             <French>Blaster automatique monté sur le bras</French>
             <German>am Arm montierter Repetierblaster</German>
+            <Polish>Naręczny Blaster Automatyczny</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_displayName">
             <English>Twin Wrist Blaster</English>
             <French>Double blaster de poignet</French>
             <German>Doppelhandgelenksblaster</German>
+            <Polish>Podwójny Blaster Nadgarstkowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_junkyard_displayName">
             <English>Twin Wrist Blaster (Junkyard)</English>
             <French>Double blaster de poignet (décharge)</French>
             <German>Doppelhandgelenksblaster (Schrottplatz)</German>
+            <Polish>Podwójny Blaster Nadgarstkowy (Złomowisko)</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_descriptionShort">
             <English>Caliber: 7.62x39 mw&lt;br/&gt;Rounds: 60&lt;br/&gt;Used in: Twin Wrist Blaster</English>
             <French>Calibre : 7.62x39 mW&lt;br/&gt;Charges : 60&lt;br/&gt;Utilisé dans : Double blaster de poignet</French>
             <German>Kaliber: 7.62x39 mW&lt;br/&gt;Patronen: 60&lt;br/&gt;Verwendet in: Doppelhandgelenksblaster</German>
+            <Polish>Kaliber: 7.62x39 mw&lt;br/&gt;Strzały: 60&lt;br/&gt;Używane w: Podwójny Blaster Nadgarstkowy</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_displayName">
             <English>Twin Wrist Blaster Energy Cell</English>
             <French>Cellule énergétique de double blaster de poignet</French>
             <German>Doppelhandgelenksblasterenergiezelle</German>
+            <Polish>Ogniwo Elektryczne Podwójnego Blastera Nadgarstkowego</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_scatter_descriptionShort">
             <English>Caliber: 12 Gauge&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Twin Wrist Blaster Scattergun</English>
             <French>Calibre : 12&lt;br/&gt;Charges : 10&lt;br/&gt;Utilisé dans : Disperseur de double blaster de poignet</French>
             <German>Kaliber:Kaliber 12&lt;br/&gt;Patronen: 10&lt;br/&gt;Verwendet in Doppelhandgelenksschrotblaster</German>
+            <Polish>Kaliber: Kaliber 12&lt;br/&gt;Strzały: 10&lt;br/&gt;Używane w: Podwójna Strzelba Nadgarstkowa</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_magazine_scatter_displayName">
             <English>Twin Wrist Blaster Scatter Energy Cell</English>
             <French>Cellule énergétique à dispersion de double blaster de poignet</French>
             <German>Doppelhandgelenksschrotblasterenergiezelle</German>
+            <Polish>Ogniwo Elektryczne Podwójnej Strzelby Nadgarstkowej</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_b2_scatter_displayName">
             <English>Twin Wrist Blaster Scattergun</English>
             <French>Double blaster disperseur de poignet</French>
             <German>Doppelhandgelenksschrotblaster</German>
+            <Polish>Podwójna Strzelba Nadgarstkowa</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_descriptionShort">
             <English>Twin repeating blaster cannons</English>
             <French>Canons blaster jumelés automatiques</French>
             <German>Doppelrepetierblasterkanone</German>
+            <Polish>Podwójne Automatyczne Działka Laserowe</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_displayName">
             <English>Twin Blaster Cannons</English>
             <French>Canons blaster jumelés</French>
             <German>Doppelblasterkanone</German>
+            <Polish>Podwójne Działko Laserowe</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_magazine_descriptionShort">
             <English>Caliber: 7.62x51 mw&lt;br/&gt;Rounds: 120&lt;br/&gt;Used in: Twin Blaster Cannons</English>
             <French>Calibre : 7.62x51 mW&lt;br/&gt;Charges : 120&lt;br/&gt;Utilisé dans : Canons blaster jumelés</French>
             <German>Kaliber: 7.62x51 mW&lt;br/&gt;Patronen: 120&lt;br/&gt;Verwendet in: Doppelblasterkanone</German>
+            <Polish>Kaliber: 7.62x51 mw&lt;br/&gt;Strzały: 120&lt;br/&gt;Używane w: Podwójne Działko Laserowe</Polish>
         </Key>
         <Key ID="STR_ls_weapons_wristblaster_droideka_magazine_displayName">
             <English>Twin Blaster Cannons Energy Cell</English>
             <French>Cellule énergétique de canons blaster jumelés</French>
             <German>Doppelblasterkanonenenergiezelle</German>
+            <Polish>Ogniwo Elektryczne Podwójnego Działka Laserowego</Polish>
         </Key>
     </Package>
 </Project>

@@ -5,26 +5,31 @@
             <English>Electrostaff (Black)</English>
             <French>Bâton électrique (noir)</French>
             <German>Elektroschock-Schlagstock (Schwarz)</German>
+            <Polish>Pałka Elektromagnetyczna (Czarna)</Polish>
         </Key>
         <Key ID="STR_ls_weapons_melee_electrostaff_descriptionShort">
             <English>Two-handed Weapon&lt;br/&gt;Used to combat Jedi</English>
             <French>Arme à deux mains&lt;br/&gt;Utilisée pour combattre les Jedi</French>
             <German>zweihändige Waffe&lt;br/&gt;Verwendet im Kampf gegen Jedi</German>
+            <Polish>Dwuręczna Bron Biała&lt;br/&gt;Używana do walki z Jedi</Polish>
         </Key>
         <Key ID="STR_ls_weapons_melee_electrostaff_displayName">
             <English>Electrostaff</English>
             <French>Bâton électrique</French>
             <German>Elektroschock-Schlagstock</German>
+            <Polish>Pałka Elektromagnetyczna</Polish>
         </Key>
         <Key ID="STR_ls_weapons_melee_verpinePowerLance_descriptionShort">
             <English>Jousting Weapon&lt;br/&gt;Can be mounted to a 105-K Lancer Bike</English>
             <French>Arme de joute&lt;br/&gt;Peut être montée sur une moto Lancer 105-K</French>
             <German>Turnierlanze&lt;br/&gt;Kann am 105-K Lancer Speeder montiert werden</German>
+            <Polish>Broń Potyczkowa&lt;br/&gt;Może zostać zamontowana na Ścigaczu 105-K Lancer</Polish>
         </Key>
         <Key ID="STR_ls_weapons_melee_verpinePowerLance_displayName">
             <English>Verpine Power Lance</English>
             <French>Lance énergétique Verpine</French>
             <German>Verpine Energielanze</German>
+            <Polish>Verpińska Lanca Elektromagnetyczna</Polish>
         </Key>
     </Package>
 </Project>

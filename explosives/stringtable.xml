@@ -5,51 +5,61 @@
             <English>Used to breach locked doors and walls.&lt;br/&gt;Type: Low-yield breaching charge&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
             <French>Utilisé pour forcer les portes verrouillées et les murs.&lt;br/&gt;Type : Charge de brèche à faible puissance&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol, murs</French>
             <German>Verwendet, um abgeschlossene Türen und Wände aufzusprengen.&lt;br/&gt;Typ: Niederleistungssprengsatz&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden, Wänden</German>
+            <Polish>Służy do wyważania zamkniętych drzwi i wykonywania wyłomów w ścianach.&lt;br/&gt;Typ: ładunek wyważający o małej mocy&lt;br/&gt;Liczba ładunków: 1&lt;br/&gt;Miejsce użycia: podłoże, ściany</Polish>
         </Key>
         <Key ID="STR_ls_explosives_breachCharge_displayName">
             <English>Breaching Charge</English>
             <French>Charge de brèche</French>
             <German>Sprengsatz</German>
+            <Polish>Ładunek Wyważający</Polish>
         </Key>
         <Key ID="STR_ls_explosives_caltropDispenser_descriptionShort">
             <English>Type: Non-lethal caltrop dispenser&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground</English>
             <French>Type : Distributeur de chausse-trapes non létal&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol</French>
             <German>Typ: nichttödlicher Krähenfußdispenser&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden</German>
+            <Polish>Typ: nieśmiercionośny zasobnik rozsiewający kolce&lt;br/&gt;Liczba ładunków: 1&lt;br/&gt;Miejsce użycia: Podłoże</Polish>
         </Key>
         <Key ID="STR_ls_explosives_caltropDispenser_displayName">
             <English>Caltrop Dispenser</English>
             <French>Distributeur de chausse-trapes</French>
             <German>Krähenfußdispenser</German>
+            <Polish>Rozsiewacz Kolców</Polish>
         </Key>
         <Key ID="STR_ls_explosives_caltrop_descriptionShort">
             <English>Knocks over units when stepped on.&lt;br/&gt;Type: Non-lethal caltrop&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground</English>
             <French>Fait tomber les unités qui marchent dessus.&lt;br/&gt;Type : Chausse-trape non létale&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol</French>
             <German>Bringt darüberlaufende Einheiten zu Fall.&lt;br/&gt;Typ: nichttödlicher Krähenfuß&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden</German>
+            <Polish>Ogłusza jednostki które na niego nadepną&lt;br/&gt;Typ: Nieśmiercionośny&lt;br/&gt;Strzały: 1&lt;br/&gt;Używane w: Podłoże</Polish>
         </Key>
         <Key ID="STR_ls_explosives_caltrop_displayName">
             <English>Caltrop</English>
             <French>Chausse-trape</French>
             <German>Krähenfuß</German>
+            <Polish>Kolec</Polish>
         </Key>
         <Key ID="STR_ls_explosives_demoCharge_descriptionShort">
             <English>Used to destroy large structural walls.&lt;br/&gt;Type: High-yield explosive&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
             <French>Utilisé pour détruire les grands murs porteurs.&lt;br/&gt;Type : Explosif à forte puissance&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol, murs</French>
             <German>Verwendet, um große tragende Wände zu zerstören.&lt;br/&gt;Typ: Hochleistungssprengladung&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden</German>
+            <Polish>Służy do niszczenia dużych ścian nośnych.&lt;br/&gt;Typ: ładunek wyważający o wysokiej mocy&lt;br/&gt;Strzały: 1&lt;br/&gt;Liczba ładunków: 1&lt;br/&gt;Miejsce użycia: Podłoże, Ściany</Polish>
         </Key>
         <Key ID="STR_ls_explosives_demoCharge_displayName">
             <English>Demolition Charge</English>
             <French>Charge de démolition</French>
             <German>Sprengladung</German>
+            <Polish>Ładunek Burzący</Polish>
         </Key>
         <Key ID="STR_ls_explosives_detpack_descriptionShort">
             <English>Used to disable vehicles.&lt;br/&gt;Type: Medium-yield explosive&lt;br/&gt;Rounds: 1&lt;br/&gt;Used on: Ground, Walls</English>
             <French>Utilisé pour neutraliser les véhicules.&lt;br/&gt;Type : Explosif à moyenne puissance&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé sur : sol, murs</French>
             <German>Verwendet, um Fahrzeuge auszuschalten.&lt;br/&gt;Typ: Mittelleistungssprengstoffpaket&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet auf: Boden, Wänden</German>
+            <Polish>Służy do unieszkodliwiania pojazdów.&lt;br/&gt;Typ: ładunek wyważający o średniej mocy&lt;br/&gt;Liczba ładunków: 1&lt;br/&gt;Miejsce użycia: Podłoże, Ściany</Polish>
         </Key>
         <Key ID="STR_ls_explosives_detpack_displayName">
             <English>Detonation Pack</English>
             <French>Pack de détonation</French>
             <German>Sprengstoffpaket</German>
+            <Polish>Ładunek Wybuchowy</Polish>
         </Key>
     </Package>
 </Project>
