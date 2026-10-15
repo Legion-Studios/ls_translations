@@ -6,30 +6,35 @@
             <French>Fusil de précision de mercenaire</French>
             <German>Söldner-Scharfschützengewehr</German>
             <Polish>Karabin Snajperski Najemnika</Polish>
+            <Russian>Наемническая снайперская винтовка</Russian>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_magazine_descriptionShort">
             <English>Caliber: .408 mw&lt;br/&gt;Rounds: 10&lt;br/&gt;Used in: Mercenary Sniper Rifle</English>
             <French>Calibre : .408 mW&lt;br/&gt;Charges : 10&lt;br/&gt;Utilisé dans : Fusil de précision de mercenaire</French>
             <German>Kaliber: .408 mW&lt;br/&gt;Patronen: 10&lt;br/&gt;Verwendet in: Söldner-Scharfschützengewehr</German>
             <Polish>Kaliber: .408 mw&lt;br/&gt;Strzały: 10&lt;br/&gt;Używane w: Karabinie Snajperskim Najemnika</Polish>
+            <Russian>Мощность: .408 мВт&lt;br/&gt;Заряды: 10&lt;br/&gt;Используется: Наемническая снайперская винтовка</Russian>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_magazine_displayName">
             <English>Mercenary Sniper Rifle Energy Cell</English>
             <French>Cellule énergétique fusil de précision de mercenaire</French>
             <German>Söldner-Scharfschützengewehrenergiezelle</German>
             <Polish>Ogniwo Elektryczne Karabinu Snajperskiego Najemnika</Polish>
+            <Russian>Энергоячейка наемнической снайперской винтовки</Russian>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_optic_sniper_descriptionShort">
             <English>Sniper scope&lt;br/&gt;Maginification: 6x-25x</English>
             <French>Lunette de fusil de précision&lt;br/&gt;Grossissement : 6x-25x</French>
             <German>Scharfschützenzielfernrohr&lt;br/&gt;Vergrößerung: 6x-25x</German>
             <Polish>Celownik Snajperski&lt;br/&gt;Przybliżenie: 6x-25x</Polish>
+            <Russian>Снайперский прицел&lt;br/&gt;Увеличение: 6x-25x</Russian>
         </Key>
         <Key ID="STR_ls_weapons_mercenary_sniper_optic_sniper_displayName">
             <English>Mercenary Sniper Scope</English>
             <French>Lunette de fusil de précision de mercenaire</French>
             <German>Söldner-Scharfschützenzielfernrohr</German>
             <Polish>Celownik Optyczny Najemnika</Polish>
+            <Russian>Наемнический снайперский прицел</Russian>
         </Key>
     </Package>
 </Project>

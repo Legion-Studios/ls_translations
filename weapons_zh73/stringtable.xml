@@ -6,30 +6,35 @@
             <French>Calibre : 5.56x45 mW&lt;br/&gt;Charges : 100&lt;br/&gt;Utilisé dans : armes ZH-73</French>
             <German>Kaliber: 5.56x45 mW&lt;br/&gt;Patronen: 100&lt;br/&gt;Verwendet in: ZH-73 Waffen</German>
             <Polish>Kaliber: 5.56x45 mw&lt;br/&gt;Strzały: 100&lt;br/&gt;Używane w: Seria ZH-73</Polish>
+            <Russian>Мощность: 5.56x45 мВт&lt;br/&gt;Зарядов: 100&lt;br/&gt;Используется: Вооружение ZH-73</Russian>
         </Key>
         <Key ID="STR_ls_weapons_zh73_magazine_displayname">
             <English>ZH-73 Energy Cell</English>
             <French>Cellule énergétique de ZH-73</French>
             <German>ZH-73 Energiezelle</German>
             <Polish>Ogniwo Elektryczne ZH-73</Polish>
+            <Russian>Энергоячейка ZH-73</Russian>
         </Key>
         <Key ID="STR_ls_weapons_zh73_mk1_displayName">
             <English>ZH-73 Mk I</English>
             <French>ZH-73 Mark I</French>
             <German>ZH-73 Mk I</German>
             <Polish>ZH-73 Wz. I</Polish>
+            <Russian>ZH-73 Модель I</Russian>
         </Key>
         <Key ID="STR_ls_weapons_zh73_mk1_optic_scope_descriptionShort">
             <English>Blaster scope&lt;br/&gt;Maginification: 2x-4x</English>
             <French>Lunette de blaster&lt;br/&gt;Grossissement: 2x-4x</French>
             <German>Blasterzielfernrohr&lt;br/&gt;Vergrößerung: 2x-4x</German>
             <Polish>Optyka Blastera&lt;br/&gt;Przybliżenie: 2x-4x</Polish>
+            <Russian>Бластерный прицел&lt;br/&gt;Увеличение: 2x-4x</Russian>
         </Key>
         <Key ID="STR_ls_weapons_zh73_mk1_optic_scope_displayName">
             <English>ZH-73 Mk I Scope</English>
             <French>Lunette de ZH-73 Mark I</French>
             <German>ZH-73 Mk I Zielfernrohr</German>
             <Polish>Optyka ZH-73 Wz. I</Polish>
+            <Russian>Прицел ZH-73 Модели I</Russian>
         </Key>
     </Package>
 </Project>
