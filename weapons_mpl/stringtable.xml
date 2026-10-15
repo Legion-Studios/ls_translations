@@ -6,12 +6,14 @@
             <French>MPL-57</French>
             <German>MPl-57</German>
             <Polish>MPl-57</Polish>
+            <Russian>МПЛ-57</Russian>
         </Key>
         <Key ID="STR_ls_weapons_mpl_rebel_displayName">
             <English>MPl-57 (Rebel)</English>
             <French>MPL-57 (rebelle)</French>
             <German>MPl-57 (Rebellen)</German>
             <Polish>MPl-57 (Rebeliacki)</Polish>
+            <Russian>МПЛ-57 (Ребелостан)</Russian>
         </Key>
     </Package>
 </Project>
