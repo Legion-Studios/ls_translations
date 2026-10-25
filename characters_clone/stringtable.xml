@@ -264,6 +264,9 @@
             <Polish>Zbroja Klona Fazy 2</Polish>
             <Russian>Броня солдат-клона (Фаза 2)</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_phase2_mc_uniform">
+            <English>Clone Phase 2 Marshal Commander Armor</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_phase2_visor">
             <English>Clone Phase 2 Visor</English>
             <French>Visière de clone phase 2</French>
