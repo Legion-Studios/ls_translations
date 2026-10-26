@@ -360,8 +360,8 @@
         <Key ID="STR_ls_common_instant">
             <English>Instant</English>
             <French>Instantané</French>
-            <German>Sofort</German>
             <Polish>Natychmiastowe</Polish>
+            <German>Sofort</German>
         </Key>
         <Key ID="STR_ls_common_invalidValue">
             <English>Invalid value</English>

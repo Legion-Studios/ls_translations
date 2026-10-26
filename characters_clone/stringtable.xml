@@ -174,6 +174,9 @@
             <Polish>Kamizelka Żołnierza Klona (Porucznik)</Polish>
             <Russian>Жилет клон-лейтенанта</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_marshalCommander">
+            <English>Clone Marshal Commander</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_medic_backpack">
             <English>Clone Medic Backpack</English>
             <French>Sac à dos médical de clone</French>
@@ -245,6 +248,9 @@
             <French>Casque de clone phase 2</French>
             <Polish>Hełm Klona Fazy 2</Polish>
             <Russian>Шлем солдат-клона фазы 2</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_phase2_mc_uniform">
+            <English>Clone Phase 2 Marshal Commander Armor</English>
         </Key>
         <Key ID="STR_ls_characters_clone_phase2_pilot_helmet">
             <English>Clone Pilot Phase 2 Helmet</English>
