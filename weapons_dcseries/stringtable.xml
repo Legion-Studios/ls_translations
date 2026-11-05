@@ -7,11 +7,23 @@
             <Polish>DC-15A</Polish>
             <German>DC-15A</German>
         </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15a_ugl_displayName">
+            <English>DC-15A (UGL)</English>
+        </Key>
         <Key ID="STR_ls_weapons_dcseries_dc15a_wooden_displayName">
             <English>DC-15A (Wooden Stock)</English>
             <French>DC-15A (crosse en bois)</French>
             <Polish>DC-15A (Drewniana Kolba)</Polish>
             <German>DC-15A (Holzschaft)</German>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15leMuzzle_displayName">
+            <English>DC-15LE Accelerator</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15leScope_displayName">
+            <English>DC-15LE Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15le_displayName">
+            <English>DC-15LE</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc15s_displayName">
             <English>DC-15S</English>
@@ -54,6 +66,9 @@
             <French>Cellule énergétique de DC-15SA</French>
             <Polish>Ogniwo Elektryczne DC-15SA</Polish>
             <German>DC-15SA Energiezelle</German>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_dc15xScope_displayName">
+            <English>DC-15X Scope</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_dc15x_displayName">
             <English>DC-15X</English>
@@ -223,6 +238,9 @@
             <Polish>Ogniwo Elektryczne DC-17S</Polish>
             <German>DC-17S Energiezelle</German>
         </Key>
+        <Key ID="STR_ls_weapons_dcseries_dp20_displayName">
+            <English>DP-20</English>
+        </Key>
         <Key ID="STR_ls_weapons_dcseries_dp23_displayName">
             <English>DP-23</English>
             <French>DP-23</French>
@@ -252,6 +270,30 @@
             <French>Cellule énergétique de DP-23</French>
             <Polish>Ogniwo Elektryczne DP-23</Polish>
             <German>DP-23 Energiezelle</German>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_flashlight_displayName">
+            <English>DC-Series Flashlight</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_gyroscope_descriptionShort">
+            <English>Gyroscopic muzzle attachment that reduces recoil</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_gyroscope_displayName">
+            <English>DC-Series Gyroscope</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_laserFlash_descriptionShort">
+            <English>Combination flashlight and laser pointer</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_laserFlash_displayName">
+            <English>DC-Series Laser Flashlight</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_laserPointer_displayName">
+            <English>DC-Series Laser Pointer</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_redDot_displayName">
+            <English>DC-Series Red Dot Sight</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_reflex_displayName">
+            <English>DC-Series Reflex Sight</English>
         </Key>
         <Key ID="STR_ls_weapons_dcseries_universal_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most DC-Series Weapons</English>
