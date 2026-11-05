@@ -4,6 +4,7 @@
         <Key ID="STR_ls_sounds_acpa_pump">
             <English>Pump ACP-A</English>
             <French>Pomper ACP-A</French>
+            <Polish>Przeładuj ACP-A</Polish>
             <German>ACP-A repetieren</German>
         </Key>
         <Key ID="STR_ls_sounds_activeCamo_activate">
