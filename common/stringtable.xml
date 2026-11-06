@@ -415,6 +415,12 @@
             <Russian>Ставим %1...</Russian>
             <German>Platziere %1...</German>
         </Key>
+        <Key ID="STR_ls_common_quickDeployCategory">
+            <English>Legion Studios: Core - Quick Deploy</English>
+        </Key>
+        <Key ID="STR_ls_common_quickDeploy_tooltip">
+            <English>Immediately readies the given item for quick placement</English>
+        </Key>
         <Key ID="STR_ls_common_recievedTreatment">
             <English>You have been fully healed</English>
             <French>Vous avez été complètement soigné</French>
