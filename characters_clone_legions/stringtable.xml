@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="characters_clone_legions">
+        <Key ID="STR_ls_characters_clone_legions_appo">
+            <English>Appo</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_bly">
+            <English>Commander Bly</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_boil">
+            <English>Boil</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_100th_phase1">
             <English>100th Company (Phase 1)</English>
             <French>100e compagnie (phase 1)</French>
@@ -28,6 +37,12 @@
             <French>187e Légion (Phase 2)</French>
             <Polish>187-my Legion (Faza 2)</Polish>
             <Russian>187ой Легион (Фаза 2)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_212th_phase1">
+            <English>212th Attack Batallion (Phase 1)</English>
+            <French>212e bataillon d'assaut (Phase 1)</French>
+            <Polish>212-ty Batalion Szturmowy (Faza 1)</Polish>
+            <Russian>212ый ударный батальон (Фаза 1)</Russian>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_212th_phase2">
             <English>212th Attack Batallion (Phase 2)</English>
@@ -89,6 +104,12 @@
             <Polish>442-gi Batalion Oblężniczy (Faza 2)</Polish>
             <Russian>442ой Осадный Батальон (Фаза 2)</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_501st_phase1">
+            <English>501st Legion (Phase 1)</English>
+            <French>501e Légion (Phase 1)</French>
+            <Polish>501-szy Legion (Faza 1)</Polish>
+            <Russian>501ый Легион (Фаза 1)</Russian>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_501st_phase2">
             <English>501st Legion (Phase 2)</English>
             <French>501e Légion (Phase 2)</French>
@@ -142,6 +163,36 @@
             <French>Soldat clone (DC-15S)</French>
             <Polish>Żołnierz Klon (DC-15S)</Polish>
             <Russian>Солдат-клон (DC-15S)</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_AT">
+            <English>Clone Airborne Trooper (AT)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_DC15A">
+            <English>Clone Airborne Trooper</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_DC15S">
+            <English>Clone Airborne Trooper (DC-15S)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_breacher">
+            <English>Clone Airborne Trooper (Breacher)</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_captain">
+            <English>Clone Airborne Captain</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_commander">
+            <English>Clone Airborne Commander</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_demo">
+            <English>Clone Airborne Demolitions Expert</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_lieutenant">
+            <English>Clone Airborne Lieutenant</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_medic">
+            <English>Clone Airborne Medic</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_airborne_sergeant">
+            <English>Clone Airborne Sergeant</English>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_aiwhaSquad">
             <English>Aiwha Squad</English>
@@ -311,6 +362,9 @@
             <Polish>Oddział "Yayax"</Polish>
             <Russian>Отряд "Аякс"</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_legions_cody">
+            <English>Commander Cody</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_commando_aiwhaDikut">
             <English>Clone Commando (Aiwha [Di'kut])</English>
             <French>Commando clone (Aiwha [Di'kut])</French>
@@ -465,6 +519,48 @@
             <French>Commando clone (Yayax [Yover])</French>
             <Polish>Klon Komandos (Yayax [Yover])</Polish>
             <Russian>Клон коммандос (Аякс [Йовер])</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_denal">
+            <English>Denal</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_dogma">
+            <English>Dogma</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_doom">
+            <English>Commander Doom</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_echo">
+            <English>Echo</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_fives">
+            <English>Fives</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_gree">
+            <English>Commander Gree</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_hardcase">
+            <English>Hardcase</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_jesse">
+            <English>Jesse</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_kix">
+            <English>Kix</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_ponds">
+            <English>Commander Ponds</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_rex">
+            <English>Captain Rex</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_tup">
+            <English>Tup</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_waxer">
+            <English>Waxer</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_wolffe">
+            <English>Commander Wolffe</English>
         </Key>
     </Package>
 </Project>

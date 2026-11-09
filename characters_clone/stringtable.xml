@@ -37,6 +37,12 @@
             <Polish>Plecak Klona Nosiciela Amunicji</Polish>
             <Russian>Рюкзак клона подносчика боеприпасов</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_arcTrooper">
+            <English>Clone ARC Trooper</English>
+        </Key>
+        <Key ID="STR_ls_characters_clone_arcTroopers">
+            <English>Clone ARC Troopers</English>
+        </Key>
         <Key ID="STR_ls_characters_clone_arc_backpack">
             <English>Clone ARC Backpack</English>
             <French>Sac à dos clone ARC</French>
