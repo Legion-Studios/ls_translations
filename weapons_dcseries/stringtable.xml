@@ -295,6 +295,12 @@
         <Key ID="STR_ls_weapons_dcseries_reflex_displayName">
             <English>DC-Series Reflex Sight</English>
         </Key>
+        <Key ID="STR_ls_weapons_dcseries_universal_extended_magazine_descriptionShort">
+            <English>Caliber: 5.56x45 mw&lt;br/&gt;Rounds: 100&lt;br/&gt;Used in: Most DC-Series Weapons</English>
+        </Key>
+        <Key ID="STR_ls_weapons_dcseries_universal_extended_magazine_displayName">
+            <English>DC-Series Universal Extended Energy Cell</English>
+        </Key>
         <Key ID="STR_ls_weapons_dcseries_universal_magazine_descriptionShort">
             <English>Caliber: 6.5x39 mw&lt;br/&gt;Rounds: 30&lt;br/&gt;Used in: Most DC-Series Weapons</English>
             <French>Calibre : 6.5x39 mW&lt;br/&gt;Charges : 30&lt;br/&gt;Utilisé dans : la majorité des armes de la série DC</French>
