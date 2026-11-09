@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_verpine">
+        <Key ID="STR_ls_weapon_verpine_displayName">
+            <English>Verpine Shatter Rifle</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_descriptionShort">
+            <English>Verpine Shatter rifle was a type of shatter gun created by the insectoid Verpine species.</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_scope">
+            <English>Verpine Scope</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_scope_descriptionShort">
+            <English>Augmented Verpine Optics.</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_magazine_0rnd">
+            <English>Verpine 0rnd Base Magazine</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_magazine_20rnd">
+            <English>Verpine 20rnd Standard Flechette</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_magazine_1rnd">
+            <English>Verpine 1rnd APDS</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_magazine_5rnd">
+            <English>Verpine 5rnd APDS</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_magazine_20rnd_ion">
+            <English>Verpine 20rnd Ion Flechette</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_magazine_standard">
+            <English>Standard</English>
+            <French>Standard</French>
+            <Polish>Standardowy</Polish>
+            <Russian>Стандартный</Russian>
+            <German>Standard</German>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_magazine_apds">
+            <English>APDS</English>
+        </Key>
+        <Key ID="STR_ls_weapon_verpine_magazine_ion">
+            <English>Ion</English>
+        </Key>
+    </Package>
+</Project>
