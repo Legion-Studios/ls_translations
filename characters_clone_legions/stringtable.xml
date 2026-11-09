@@ -38,6 +38,12 @@
             <Polish>187-my Legion (Faza 2)</Polish>
             <Russian>187ой Легион (Фаза 2)</Russian>
         </Key>
+        <Key ID="STR_ls_characters_clone_legions_clone_212th_phase1">
+            <English>212th Attack Batallion (Phase 1)</English>
+            <French>212e bataillon d'assaut (Phase 1)</French>
+            <Polish>212-ty Batalion Szturmowy (Faza 1)</Polish>
+            <Russian>212ый ударный батальон (Фаза 1)</Russian>
+        </Key>
         <Key ID="STR_ls_characters_clone_legions_clone_212th_phase2">
             <English>212th Attack Batallion (Phase 2)</English>
             <French>212e bataillon d'assaut (Phase 2)</French>
@@ -513,6 +519,9 @@
             <French>Commando clone (Yayax [Yover])</French>
             <Polish>Klon Komandos (Yayax [Yover])</Polish>
             <Russian>Клон коммандос (Аякс [Йовер])</Russian>
+        </Key>
+        <Key ID="STR_ls_characters_clone_legions_denal">
+            <English>Denal</English>
         </Key>
         <Key ID="STR_ls_characters_clone_legions_dogma">
             <English>Dogma</English>
