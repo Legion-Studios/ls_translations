@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="jumppacks">
+        <Key ID="STR_ls_jumppacks_chargePack_descriptionShort">
+            <English>Single use charge pack to recharge a jumppack.</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_chargePack_displayName">
+            <English>Jumppack Charge Pack</English>
+        </Key>
+        <!-- %1 = Energy cost of selected jump -->
+        <Key ID="STR_ls_jumppacks_costFormatted">
+            <English>Cost: %1</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_cycleJumpMode_name">
+            <English>Cycle Jump Mode</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_cycleJumpMode_tooltip">
+            <English>Selects the next available jump mode</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_droppackIgnite1_sound">
+            <English>Droppack Ignite 1</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_droppackIgnite1_sound">
+            <English>Jumppack Land 1</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_energy">
+            <English>Energy</English>
+        </Key>
+        <!-- %1 = Current available energy -->
+        <Key ID="STR_ls_jumppacks_energyFormatted">
+            <English>Energy: %1</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_ignite1_sound">
+            <English>Jumppack Ignite 1</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_inWater">
+            <English>Cannot activate jumppack in water</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_info_displayName">
+            <English>Jumppack Info</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_info_tooltip">
+            <English>Information panel for jumppacks</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_jumpModes">
+            <English>Jump Modes</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_jump_name">
+            <English>Jump</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_jump_tooltip">
+            <English>Performs the selected jump</English>
+        </Key>
+        <!-- %1 = Max energy -->
+        <Key ID="STR_ls_jumppacks_maxEnergyFormatted">
+            <English>Max Energy: %1</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_notEnoughEnergy">
+            <English>Not enough energy</English>
+        </Key>
+        <Key ID="STR_ls_jumppacks_recharge">
+            <English>Recharge</English>
+        </Key>
+        <!-- %1 = Time it takes to recharge to full -->
+        <Key ID="STR_ls_jumppacks_rechargeTimeFormatted">
+            <English>Recharge Time: %1 seconds</English>
+        </Key>
+    </Package>
+</Project>
