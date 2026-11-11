@@ -181,6 +181,9 @@
             <Polish>Granat Burzący z Detonacją w Powietrzu IM973B 40mm</Polish>
             <German>40 mm IM973B HEAB-Granate</German>
         </Key>
+        <Key ID="STR_ls_weapons_accelerator_descriptionShort">
+            <English>Accelerator muzzle attachment that increases projectile velocity</English>
+        </Key>
         <Key ID="STR_ls_weapons_ap_SACLOS">
             <English>AP (SACLOS)</English>
             <French>AP (SACLOS)</French>
@@ -317,6 +320,9 @@
             <French>Lance-roquettes utilisé</French>
             <Polish>Zużyta Wyrzutnia Rakiet</Polish>
             <German>benutzter Raketenwerfer</German>
+        </Key>
+        <Key ID="STR_ls_weapons_visibleLaser">
+            <English>Visible Laser</English>
         </Key>
     </Package>
 </Project>
