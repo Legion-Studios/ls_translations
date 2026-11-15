@@ -46,11 +46,13 @@
         <Key ID="STR_ls_weapons_eseries_e11_scopedThermal_displayName">
             <English>E-11 (Scoped, Thermal)</English>
             <French>E-11 (lunette, thermique)</French>
+            <Polish>E-11 (Optyka, Termiczna)</Polish>
             <German>E-11 (Zielfernrohr, Wärmebild)</German>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e11_scoped_displayName">
             <English>E-11 (Scoped)</English>
             <French>E-11 (lunette)</French>
+            <Polish>E-11 (Optyka)</Polish>
             <German>E-11 (Zielfernrohr)</German>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e5_displayName">
@@ -92,11 +94,13 @@
         <Key ID="STR_ls_weapons_eseries_e60r_ap_SACLOS_magazine_descriptionShort">
             <English>SACLOS Guided Missile&lt;br/&gt;Type: Anti-Personnel&lt;br/&gt;Rounds: 1&lt;br/&gt;Used in: E-60R</English>
             <French>Missile guidé SACLOS&lt;br/&gt;Type : antipersonnel&lt;br/&gt;Charges : 1&lt;br/&gt;Utilisé dans : E-60R</French>
+            <Polish>Pocisk Kierowany SACLOS&lt;br/&gt;Typ: Przeciwpiechotny&lt;br/&gt;Strzały: 1&lt;br/&gt;Używane w: E-60R</Polish>
             <German>SACLOS Lenkrakete&lt;br/&gt;Typ: Antiperson&lt;br/&gt;Patronen: 1&lt;br/&gt;Verwendet in: E-60R</German>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_SACLOS_magazine_displayName">
             <English>E-60R AP Missile (SACLOS)</English>
             <French>Missile AP E-60R (SACLOS)</French>
+            <Polish>Pocisk Przeciwpiechotny E-60R (SACLOS)</Polish>
             <German>E-60R AP Rakete (SACLOS)</German>
         </Key>
         <Key ID="STR_ls_weapons_eseries_e60r_ap_magazine_descriptionShort">
@@ -126,6 +130,7 @@
         <Key ID="STR_ls_weapons_eseries_e60r_displayName">
             <English>E-60R</English>
             <French>E-60R</French>
+            <Polish>E-60R</Polish>
             <German>E-60R</German>
         </Key>
         <Key ID="STR_ls_weapons_eseries_universal_magazine_descriptionShort">

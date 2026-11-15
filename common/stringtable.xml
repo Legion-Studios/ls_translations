@@ -360,6 +360,7 @@
         <Key ID="STR_ls_common_instant">
             <English>Instant</English>
             <French>Instantané</French>
+            <Polish>Natychmiastowe</Polish>
             <German>Sofort</German>
         </Key>
         <Key ID="STR_ls_common_invalidValue">
@@ -372,6 +373,7 @@
         <Key ID="STR_ls_common_jedi">
             <English>Jedi</English>
             <French>Jedi</French>
+            <Polish>Jedi</Polish>
         </Key>
         <!-- https://github.com/acemod/ACE3/blob/master/addons/common/stringtable.xml#L1096-L1113 -->
         <Key ID="STR_ls_common_no">
