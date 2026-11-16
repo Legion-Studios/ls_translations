@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Legion Studios">
+    <Package name="weapons_elg3a">
+        <Key ID="STR_ls_weapons_elg3a_displayName">
+            <English>ELG-3A</English>
+        </Key>
+        <Key ID="STR_ls_weapons_elg3a_magazine_descriptionShort">
+            <English>Caliber: 9x21 mw &lt;br/&gt;Rounds: 10 &lt;br/&gt;Used in: ELG-3A</English>
+        </Key>
+        <Key ID="STR_ls_weapons_elg3a_magazine_displayName">
+            <English>ELG-3A Energy Cell</English>
+        </Key>
+    </Package>
+</Project>
