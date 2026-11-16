@@ -187,6 +187,9 @@
             <Russian>Переключить активный камуфляж</Russian>
             <German>Aktivcamo umschalten</German>
         </Key>
+        <Key ID="STR_ls_modules_noATRTFound">
+            <English>No AT-RT found nearby</English>
+        </Key>
         <Key ID="STR_ls_modules_noClosedDoorFound">
             <English>No closed door found!</English>
             <French>Aucune porte fermée trouvée !</French>
