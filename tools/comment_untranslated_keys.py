@@ -51,7 +51,7 @@ def output_message(project_path: str, languages: list[str]):
     count_missing_keys = len(all_missing_keys)
     print()
     print(
-        f"There are {count_missing_keys} keys missing translations for: {', '.join(languages)}")
+        f"There are {count_missing_keys} keys missing translations for: {', '.join(set(languages))}")
     if (count_missing_keys <= 10):
         sorted_keys = list(all_missing_keys)
         sorted_keys.sort()
@@ -116,10 +116,10 @@ def main() -> int:
     git_diff = sys.stdin.read()
     languages = extract_added_languages(git_diff)
 
-    # Capture all output to stdout and save it
     if "--print-local" in sys.argv:
         output_message(project_path, languages)
     else:
+        # Capture all output to stdout and save it
         output_capture = io.StringIO()
         with redirect_stdout(output_capture):
             output_message(project_path, languages)
