@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Legion Studios">
     <Package name="weapons_verpine">
-        <Key ID="STR_ls_weapons_verpine_displayName">
+        <Key ID="STR_ls_weapons_verpine_rifle_displayName">
             <English>Verpine Shatter Rifle</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_descriptionShort">
-            <English>Verpine Shatter rifle was a type of shatter gun created by the insectoid Verpine species.</English>
+        <Key ID="STR_ls_weapons_verpine_rifle_descriptionShort">
+            <English>Shatter Rifle</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_scope">
+        <Key ID="STR_ls_weapons_verpine_rifle_optic_sniper_displayName">
             <English>Verpine Scope</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_scope_descriptionShort">
-            <English>Augmented Verpine Optics.</English>
+        <Key ID="STR_ls_weapons_verpine_rifle_optic_sniper_descriptionShort">
+            <English>Augmented Verpine Optics&lt;br/&gt;Maginification: 0x-x</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_magazine_0rnd">
-            <English>Verpine 0rnd Base Magazine</English>
+        <Key ID="STR_ls_weapons_verpine_rifle_magazine_displayName">
+            <English>Verpine Standard Flechette</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_magazine_20rnd">
-            <English>Verpine 20rnd Standard Flechette</English>
+        <Key ID="STR_ls_weapons_verpine_rifle_magazine_APDS_displayName">
+            <English>Verpine APDS</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_magazine_1rnd">
-            <English>Verpine 1rnd APDS</English>
+        <Key ID="STR_ls_weapons_verpine_rifle_magazine_APDS_1rnd_displayName">
+            <English>Verpine APDS</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_magazine_5rnd">
-            <English>Verpine 5rnd APDS</English>
+        <Key ID="STR_ls_weapons_verpine_rifle_magazine_ion_displayName">
+            <English>Verpine Ion Flechette</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_magazine_20rnd_ion">
-            <English>Verpine 20rnd Ion Flechette</English>
-        </Key>
-        <Key ID="STR_ls_weapons_verpine_magazine_standard">
+        <Key ID="STR_ls_weapons_verpine_rifle_magazine_standard_displayNameShort">
             <English>Standard</English>
             <French>Standard</French>
             <Polish>Standardowy</Polish>
             <Russian>Стандартный</Russian>
             <German>Standard</German>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_magazine_apds">
+        <Key ID="STR_ls_weapons_verpine_rifle_magazine_apds_displayNameShort">
             <English>APDS</English>
         </Key>
-        <Key ID="STR_ls_weapons_verpine_magazine_ion">
+        <Key ID="STR_ls_weapons_verpine_rifle_magazine_ion_displayNameShort">
             <English>Ion</English>
         </Key>
     </Package>
